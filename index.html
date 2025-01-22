@@ -190,9 +190,9 @@
         
         <div class="input-section">
             <label for="input-text">输入字符：</label>
-            <input type="text" id="input-text" placeholder="请输入西夏文字符...">
+            <input type="text" id="input-text" placeholder="𘉰𘟀𘅇𘉪">
             <div class="button-group">
-                <button onclick="generate()">生成</button>
+                <button onclick="handleGenerate()">生成</button>
                 <button onclick="clearAll()">清除</button>
             </div>
         </div>
@@ -201,7 +201,7 @@
             <label>释义语言：</label>
             <label>
                 <input type="radio" name="lang" value="CN">
-                中文
+                中文（不支持）
             </label>
             <label>
                 <input type="radio" name="lang" value="EN" checked>
@@ -221,5 +221,14 @@
 
     <script src="dictionary.js"></script>
     <script src="app.js"></script>
+    <script>
+        function handleGenerate() {
+            const input = document.getElementById('input-text');
+            if (!input.value.trim() && input.placeholder) {
+                input.value = input.placeholder;
+            }
+            generate(); // 调用原有的 generate 函数
+        }
+    </script>
 </body>
 </html>
