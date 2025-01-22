@@ -1,5 +1,3 @@
-let dictionary = {};
-
 // 加载字典数据
 async function loadDictionary() {
     try {
