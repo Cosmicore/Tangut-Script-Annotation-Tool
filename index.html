@@ -6,8 +6,25 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Noto+Serif+SC:wght@200..900&family=Noto+Serif+Tangut&display=swap" rel="stylesheet">
-    <title>西夏文Typst自动标注工具</title>
+    <title>西夏文Typst自动标注工具 α</title>
     <style>
+            .input-section textarea {
+        width: 95%;
+        height: 100px;  /* 或者根据需要调整高度 */
+        padding: 12px 15px;
+        border: 2px solid #e1e4e8;
+        border-radius: var(--border-radius);
+        font-size: 16px;
+        transition: border-color 0.3s ease;
+        resize: vertical;
+        font-family: inherit;
+    }
+
+    .input-section textarea:focus {
+        outline: none;
+        border-color: var(--primary-color);
+        box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.1);
+    }
         :root {
             --primary-color: #4a90e2;
             --secondary-color: #f5f7fa;
@@ -17,7 +34,7 @@
 
         body {
             font-family: 'Fira Sans', 'Noto Serif SC', 'Noto Serif Tangut', sans-serif;
-            max-width: 800px;
+            max-width: 1000px;
             margin: 40px auto;
             padding: 0 20px;
             background-color: #f9fafb;
@@ -70,35 +87,48 @@
             box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.1);
         }
 
-        .language-section {
+        .controls {
             display: flex;
+            flex-wrap: wrap;
+            width: 95%;
             gap: 20px;
-            align-items: center;
             padding: 15px;
             background-color: var(--secondary-color);
             border-radius: var(--border-radius);
         }
 
-        .language-section label {
+        .radio-group {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .radio-group > label:first-child {
+            font-weight: 500;
+            white-space: nowrap;
+        }
+
+        .radio-group label {
             display: flex;
             align-items: center;
             gap: 5px;
             cursor: pointer;
         }
 
-        .language-section input[type="radio"] {
+        .radio-group input[type="radio"] {
             margin: 0;
             cursor: pointer;
         }
 
         .output-section {
             display: flex;
-            flex-direction: column;
+                flex-direction: column;
             gap: 15px;
-        }
+            }
 
         textarea {
-            width: 100%;
+            width: 95%;
             height: 200px;
             padding: 15px;
             border: 2px solid #e1e4e8;
@@ -107,13 +137,13 @@
             resize: vertical;
             font-family: inherit;
             line-height: 1.5;
-        }
+            }
 
         textarea:focus {
             outline: none;
             border-color: var(--primary-color);
             box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.1);
-        }
+            }
 
         button {
             padding: 10px 20px;
@@ -151,7 +181,8 @@
         }
 
         #copy-btn {
-            align-self: flex-end;
+            width: 90%;
+            align-self: center;
             background-color: #28a745;
         }
 
@@ -159,7 +190,7 @@
             background-color: #218838;
         }
 
-        @media (max-width: 600px) {
+        @media (max-width: 95%) {
             body {
                 margin: 20px auto;
             }
@@ -171,6 +202,15 @@
             .input-section {
                 flex-direction: column;
                 align-items: stretch;
+            }
+
+            .controls {
+                flex-direction: column;
+                gap: 15px;
+            }
+
+            .radio-group {
+                justify-content: flex-start;
             }
 
             .button-group {
@@ -190,30 +230,56 @@
         
         <div class="input-section">
             <label for="input-text">输入字符：</label>
-            <input type="text" id="input-text" placeholder="𘉰𘟀𘅇𘉪">
+            <textarea id="input-text" placeholder="请输入西夏文字符..." rows="3"></textarea>
             <div class="button-group">
-                <button onclick="handleGenerate()">生成</button>
+                <button onclick="generate()">生成</button>
                 <button onclick="clearAll()">清除</button>
             </div>
         </div>
 
-        <div class="language-section">
-            <label>释义语言：</label>
-            <label>
-                <input type="radio" name="lang" value="CN">
-                中文（不支持）
-            </label>
-            <label>
-                <input type="radio" name="lang" value="EN" checked>
-                English
-            </label>
+        <div class="controls">
+            <div class="radio-group">
+                <label>语言选择：</label>
+                <label>
+                <input type="radio" name="lang" value="CN" id="lang-cn" checked>
+                    中文
+                </label>
+                <label>
+                    <input type="radio" name="lang" value="EN" id="lang-en">
+                    English
+                </label>
+            </div>
+
+            <div class="radio-group">
+                <label>读音系统：</label>
+                <label>
+                    <input type="radio" name="reading" value="GX" id="reading-gx" checked>
+                    龚勋
+                </label>
+                <label>
+                    <input type="radio" name="reading" value="GHC" id="reading-ghc">
+                    龚煌城
+                </label>
         </div>
+
+            <div class="radio-group">
+                <label>输出格式：</label>
+                <label>
+                    <input type="radio" name="format" value="typst" id="format-typst" checked>
+                    Typst
+                </label>
+                <label>
+                    <input type="radio" name="format" value="obsidian" id="format-obsidian">
+                    Obsidian
+                </label>
+        </div>
+    </div>
 
         <div class="output-section">
             <label for="output-text">格式输出：</label>
             <textarea id="output-text" readonly></textarea>
             <button onclick="copyOutput()" id="copy-btn">复制到剪贴板</button>
-        </div>
+    </div>
     </div>
     <div class="footer" style="text-align: center; margin: 20px auto;">
         © 𗼇𘝞𗫸𗯿𘍞
@@ -221,14 +287,5 @@
 
     <script src="dictionary.js"></script>
     <script src="app.js"></script>
-    <script>
-        function handleGenerate() {
-            const input = document.getElementById('input-text');
-            if (!input.value.trim() && input.placeholder) {
-                input.value = input.placeholder;
-            }
-            generate(); // 调用原有的 generate 函数
-        }
-    </script>
 </body>
 </html>

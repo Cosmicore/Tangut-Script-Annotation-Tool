@@ -20,20 +20,34 @@ function generate() {
     }
 
     const lang = document.querySelector('input[name="lang"]:checked').value;
+    const readingSystem = document.querySelector('input[name="reading"]:checked').value;
+    const outputFormat = document.querySelector('input[name="format"]:checked').value;
     const lines = inputText.split('\n');
     const outputs = lines
         .map(line => line.trim())
         .filter(line => line)
-        .map(line => generateFormattedOutput(line, lang));
+        .map(line => generateFormattedOutput(line, lang, readingSystem, outputFormat));
 
     document.getElementById('output-text').value = outputs.join('\n\n');
 }
 
-function generateFormattedOutput(chars, lang) {
+function generateFormattedOutput(chars, lang, readingSystem, outputFormat) {
+    if (outputFormat === 'typst') {
+        return generateTypstOutput(chars, lang, readingSystem);
+    } else {
+        return generateObsidianOutput(chars, lang, readingSystem);
+    }
+}
+
+function generateTypstOutput(chars, lang, readingSystem) {
     const charList = [...chars].map(char => `[${char}]`);
-    const readings = [...chars].map(char => 
-        dictionary[char] ? `[${dictionary[char].reading}]` : '[]'
-    );
+    const readings = [...chars].map(char => {
+        if (dictionary[char]) {
+            const reading = readingSystem === 'GX' ? dictionary[char].GX : dictionary[char].GHC;
+            return `[${reading || '???'}]`;
+        }
+        return '[]';
+    });
     const morphemes = [...chars].map(char => {
         if (dictionary[char]) {
             const explanation = dictionary[char][`explanation${lang}`] || '';
@@ -48,6 +62,32 @@ function generateFormattedOutput(chars, lang) {
            `transliteration: (${readings.join(', ')}),\n` +
            `morphemes: (${morphemes.join(', ')}),\n` +
            `translation: ""\n)`;
+}
+
+function generateObsidianOutput(chars, lang, readingSystem) {
+    const readings = [...chars].map(char => {
+        if (dictionary[char]) {
+            const reading = readingSystem === 'GX' ? dictionary[char].GX : dictionary[char].GHC;
+            return reading || '???';
+        }
+        return '';
+    }).join(' ');
+
+    const morphemes = [...chars].map(char => {
+        if (dictionary[char]) {
+            const explanation = dictionary[char][`explanation${lang}`] || '';
+            return explanation;
+        }
+        return '';
+    }).join(' ');
+
+    return '```gloss\n' +
+           '\\set exstyle big\n' +
+           `\\ex ${chars}\n` +
+           `\\gla ${readings}\n` +
+           `\\glb ${morphemes}\n` +
+           '\\ft \n' +
+           '```';
 }
 
 function clearAll() {
