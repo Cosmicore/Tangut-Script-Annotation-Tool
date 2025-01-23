@@ -39,7 +39,7 @@ const DICTIONARY_DATA = [
     "character": "𗴼",
     "GX": "khiw²",
     "GHC": "khjiw²",
-    "explanationEN": "a transliteration",
+    "explanationEN": "丘咎僑寇求龜毬臼裘舅旧乔邱轿咎蔻桥",
     "explanationCN": "丘咎僑寇求龜毬臼裘舅旧乔邱轿咎蔻桥"
   },
   {
@@ -115,7 +115,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𗀏",
     "GX": "rpa̱r²",
-    "GHC": "²",
+    "GHC": "par²",
     "explanationEN": "a horse with white trotters",
     "explanationCN": "蹄"
   },
@@ -158,14 +158,14 @@ const DICTIONARY_DATA = [
     "character": "𗵲",
     "GX": "ror¹",
     "GHC": "rjor¹",
-    "explanationEN": "to get; to obtain",
-    "explanationCN": "得.ʙ"
+    "explanationEN": "to obtain.ʙ",
+    "explanationCN": "得₁.ʙ"
   },
   {
     "character": "𘈋",
     "GX": "phe²",
     "GHC": "phjij²",
-    "explanationEN": "to sell; to peddle",
+    "explanationEN": "to sell₂",
     "explanationCN": "卖₂"
   },
   {
@@ -221,7 +221,7 @@ const DICTIONARY_DATA = [
     "character": "𗃿",
     "GX": "źi²",
     "GHC": "źji²",
-    "explanationEN": "a place name",
+    "explanationEN": "二尔",
     "explanationCN": "二尔"
   },
   {
@@ -249,19 +249,19 @@ const DICTIONARY_DATA = [
     "character": "𘓬",
     "GX": "ŋġu̱²",
     "GHC": "gu̱²",
-    "explanationEN": "a transliteration",
+    "explanationEN": "五乌蜈伍武",
     "explanationCN": "五乌蜈伍武"
   },
   {
     "character": "𗴰",
     "GX": "gwaṃ¹",
     "GHC": "gjwã¹",
-    "explanationEN": "a transliteration",
+    "explanationEN": "刮; 丘",
     "explanationCN": "刮; 丘"
   },
   {
     "character": "𗀃",
-    "GX": "ẓao̱²",
+    "GX": "ṣao̱²",
     "GHC": "śio²",
     "explanationEN": "to mate; to copulate",
     "explanationCN": "配"
@@ -340,7 +340,7 @@ const DICTIONARY_DATA = [
     "character": "𗄉",
     "GX": "zi²",
     "GHC": "źji²",
-    "explanationEN": "a transliteration",
+    "explanationEN": "𠼪",
     "explanationCN": "𠼪"
   },
   {
@@ -355,63 +355,63 @@ const DICTIONARY_DATA = [
     "GX": "ntha̱r¹",
     "GHC": "tha̱r¹",
     "explanationEN": "obvious",
-    "explanationCN": "明显"
+    "explanationCN": "显现"
   },
   {
     "character": "𗄋",
     "GX": "źi¹",
     "GHC": "źji¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "儿耳二",
+    "explanationCN": "儿耳二"
   },
   {
     "character": "𗵳",
     "GX": "noh²",
     "GHC": "njọ²",
     "explanationEN": "milk",
-    "explanationCN": "牛奶"
+    "explanationCN": "乳"
   },
   {
     "character": "𗴸",
     "GX": "tswa̱¹",
     "GHC": "tswa¹",
     "explanationEN": "hair worn in a bun or coil",
-    "explanationCN": "头发扎成发髻或盘绕"
+    "explanationCN": "髻"
   },
   {
     "character": "𗵣",
     "GX": "tśiw²",
     "GHC": "tśjiw²",
     "explanationEN": "top",
-    "explanationCN": "返回页首"
+    "explanationCN": "顶"
   },
   {
     "character": "𗀎",
     "GX": "rer²",
     "GHC": "rjijr²",
     "explanationEN": "nearby; side",
-    "explanationCN": "附近;边"
+    "explanationCN": "临"
   },
   {
     "character": "𗀣",
     "GX": "rha̱r¹",
-    "GHC": "¹",
+    "GHC": "xar¹",
     "explanationEN": "to open (one’s mouth)",
-    "explanationCN": "张开 （一个人的嘴）"
+    "explanationCN": "张嘴"
   },
   {
     "character": "𗵱",
     "GX": "rkir¹",
     "GHC": "kjir¹",
     "explanationEN": "to observe; to see",
-    "explanationCN": "去观察;看"
+    "explanationCN": "察"
   },
   {
     "character": "𗴳",
     "GX": "re̱r²",
     "GHC": "lhejr²",
     "explanationEN": "a word means respect",
-    "explanationCN": "一个词意味着尊重"
+    "explanationCN": "恭维"
   },
   {
     "character": "𗵉",
@@ -425,35 +425,35 @@ const DICTIONARY_DATA = [
     "GX": "???",
     "GHC": "?",
     "explanationEN": "boots",
-    "explanationCN": "靴子"
+    "explanationCN": "靴"
   },
   {
     "character": "𗴱",
     "GX": "ror²",
     "GHC": "rjor²",
     "explanationEN": "to cover",
-    "explanationCN": "覆盖"
+    "explanationCN": "遮掩"
   },
   {
     "character": "𘟅",
     "GX": "tśhe¹",
     "GHC": "tśhjij¹",
     "explanationEN": "to raise; to elect",
-    "explanationCN": "提高;选举"
+    "explanationCN": "举"
   },
   {
     "character": "𗄄",
     "GX": "dih²",
-    "GHC": "²",
+    "GHC": "djị²",
     "explanationEN": "to build",
-    "explanationCN": "构建"
+    "explanationCN": "治"
   },
   {
     "character": "𗀆",
     "GX": "rgwər²",
     "GHC": "gjwɨr²",
     "explanationEN": "back of the body",
-    "explanationCN": "身体背面"
+    "explanationCN": "背"
   },
   {
     "character": "𗀉",
@@ -467,49 +467,49 @@ const DICTIONARY_DATA = [
     "GX": "le²",
     "GHC": "ljij²",
     "explanationEN": "to shelter",
-    "explanationCN": "到庇护所"
+    "explanationCN": "遮蔽₂"
   },
   {
     "character": "𗀒",
-    "GX": "ẓao̱ṃ²",
+    "GX": "ṣao̱ṃ²",
     "GHC": "śjow²",
-    "explanationEN": "Buddhist monk",
-    "explanationCN": "僧"
+    "explanationEN": "Shang",
+    "explanationCN": "尚"
   },
   {
     "character": "𗀖",
     "GX": "lo̱ṃh²",
     "GHC": "lọ²",
     "explanationEN": "to rely on; to depend on",
-    "explanationCN": "依赖;依赖"
+    "explanationCN": "依₁"
   },
   {
     "character": "𗀘",
     "GX": "thwə¹",
     "GHC": "thjwɨ¹",
     "explanationEN": "to meet; to be infected",
-    "explanationCN": "见面;被感染"
+    "explanationCN": "遇 染"
   },
   {
     "character": "𗴲",
     "GX": "dźwe²",
     "GHC": "dźjwij²",
     "explanationEN": "summer",
-    "explanationCN": "夏天"
+    "explanationCN": "夏"
   },
   {
     "character": "𗵀",
     "GX": "vwo̱ṃ¹",
     "GHC": "wow¹",
     "explanationEN": "to wish",
-    "explanationCN": "许愿"
+    "explanationCN": "望"
   },
   {
     "character": "𗵯",
     "GX": "tśəh¹",
     "GHC": "tśjɨ̣¹",
     "explanationEN": "branch",
-    "explanationCN": "分支"
+    "explanationCN": "岔"
   },
   {
     "character": "𗸕",
@@ -520,52 +520,52 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗙬",
-    "GX": "ẓuo¹",
+    "GX": "ṣuo¹",
     "GHC": "śio̱w¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "束",
+    "explanationCN": "束"
   },
   {
     "character": "𗄁",
     "GX": "thwo̱¹",
-    "GHC": "¹",
-    "explanationEN": "illusion; dream",
-    "explanationCN": "幻想;梦"
+    "GHC": "thwo¹",
+    "explanationEN": "illusion",
+    "explanationCN": "幻"
   },
   {
     "character": "𗀩",
     "GX": "nde²",
     "GHC": "dji̱j²",
-    "explanationEN": "to ache; to be grieved and heartbroken",
-    "explanationCN": "疼痛;感到悲伤和心碎"
+    "explanationEN": "to be grieved",
+    "explanationCN": "痛"
   },
   {
     "character": "𗵰",
     "GX": "tih¹",
     "GHC": "tjị¹",
     "explanationEN": "to offer a sacrifice; to pray",
-    "explanationCN": "献祭;祈祷"
+    "explanationCN": "祭"
   },
   {
     "character": "𗄜",
     "GX": "ve¹",
-    "GHC": "¹",
+    "GHC": "wjij¹",
     "explanationEN": "to go",
-    "explanationCN": "要走"
+    "explanationCN": "往"
   },
   {
     "character": "𗀋",
     "GX": "phao̱²",
     "GHC": "phio²",
     "explanationEN": "snake",
-    "explanationCN": "蛇"
+    "explanationCN": "蛇 巳"
   },
   {
     "character": "𗄐",
     "GX": "tśi²",
     "GHC": "tśji²",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "制胝支智",
+    "explanationCN": "制胝支智"
   },
   {
     "character": "𗀙",
@@ -586,7 +586,7 @@ const DICTIONARY_DATA = [
     "GX": "mphə̱¹",
     "GHC": "phə̱¹",
     "explanationEN": "to integrate; to unite",
-    "explanationCN": "整合;团结起来"
+    "explanationCN": "交"
   },
   {
     "character": "𗀪",
@@ -600,28 +600,28 @@ const DICTIONARY_DATA = [
     "GX": "śwoṃ¹",
     "GHC": "śjwow¹",
     "explanationEN": "to patrol",
-    "explanationCN": "巡逻"
+    "explanationCN": "巡"
   },
   {
     "character": "𗀈",
     "GX": "tso̱ṃ¹",
     "GHC": "tsow¹",
     "explanationEN": "incomplete",
-    "explanationCN": "不完全的"
+    "explanationCN": "残缺"
   },
   {
     "character": "𗀥",
     "GX": "ti̱w¹",
     "GHC": "tew¹",
     "explanationEN": "egg",
-    "explanationCN": "蛋"
+    "explanationCN": "卵"
   },
   {
     "character": "𗀔",
     "GX": "tśhaw¹",
     "GHC": "tśhja̱¹",
-    "explanationEN": "SUPE: superessive case",
-    "explanationCN": "SUPE：超凡脱俗"
+    "explanationEN": "SUPE",
+    "explanationCN": "SUPE"
   },
   {
     "character": "𗀝",
@@ -635,14 +635,14 @@ const DICTIONARY_DATA = [
     "GX": "thi̱w²",
     "GHC": "thew²",
     "explanationEN": "to meet; to be infected with a disease",
-    "explanationCN": "见面;感染某种疾病"
+    "explanationCN": "遇 染"
   },
   {
     "character": "𗴺",
     "GX": "ma¹",
     "GHC": "mja¹",
     "explanationEN": "mother",
-    "explanationCN": "妈妈"
+    "explanationCN": "母"
   },
   {
     "character": "𗵦",
@@ -656,42 +656,42 @@ const DICTIONARY_DATA = [
     "GX": "śwow¹",
     "GHC": "śjwo¹",
     "explanationEN": "broom",
-    "explanationCN": "扫帚"
+    "explanationCN": "扫"
   },
   {
     "character": "𗀡",
     "GX": "tśhaw¹",
     "GHC": "tśhja̱¹",
     "explanationEN": "to be licentious",
-    "explanationCN": "放荡"
+    "explanationCN": "淫"
   },
   {
     "character": "𘒡",
     "GX": "me²",
     "GHC": "mjij²",
     "explanationEN": "to braise",
-    "explanationCN": "炖"
+    "explanationCN": "焖"
   },
   {
     "character": "𗀧",
     "GX": "nde²",
     "GHC": "dji̱j²",
     "explanationEN": "to accuse falsely",
-    "explanationCN": "诬告"
+    "explanationCN": "誣陷"
   },
   {
     "character": "𗵗",
     "GX": "ror²",
     "GHC": "rjor²",
     "explanationEN": "to get.ʙ; to obtain.ʙ",
-    "explanationCN": "获取。获取。"
+    "explanationCN": "得₂.ʙ"
   },
   {
     "character": "𗀯",
     "GX": "thwə¹",
     "GHC": "thjwɨ¹",
     "explanationEN": "to finish",
-    "explanationCN": "完成"
+    "explanationCN": "完"
   },
   {
     "character": "𘈩",
@@ -705,14 +705,14 @@ const DICTIONARY_DATA = [
     "GX": "tśhaw¹",
     "GHC": "tśhja̱¹",
     "explanationEN": "strong",
-    "explanationCN": "强"
+    "explanationCN": "刚"
   },
   {
     "character": "𘈚",
     "GX": "gə²",
     "GHC": "gjɨ²",
     "explanationEN": "night",
-    "explanationCN": "晚上"
+    "explanationCN": "夜"
   },
   {
     "character": "𗵄",
@@ -726,25 +726,25 @@ const DICTIONARY_DATA = [
     "GX": "tśhaw¹",
     "GHC": "tśhja̱¹",
     "explanationEN": "to gather; to collect",
-    "explanationCN": "聚集;收集"
+    "explanationCN": "撮"
   },
   {
     "character": "𗴿",
     "GX": "kuh¹",
     "GHC": "kjụ¹",
     "explanationEN": "to pray",
-    "explanationCN": "祈祷"
+    "explanationCN": "祈求"
   },
   {
     "character": "𗵞",
-    "GX": "ẓuo¹",
+    "GX": "ṣuo¹",
     "GHC": "śio̱w¹",
     "explanationEN": "cereal; grain",
-    "explanationCN": "谷类;粮食"
+    "explanationCN": "粮食"
   },
   {
     "character": "𗵨",
-    "GX": "ẓaə̱¹",
+    "GX": "ṣaə̱¹",
     "GHC": "śiə¹",
     "explanationEN": "dawn",
     "explanationCN": "黎明"
@@ -754,49 +754,49 @@ const DICTIONARY_DATA = [
     "GX": "gəh²",
     "GHC": "gjɨ̣²",
     "explanationEN": "stars",
-    "explanationCN": "星星"
+    "explanationCN": "星"
   },
   {
     "character": "𗵫",
     "GX": "geh¹",
     "GHC": "gjịj¹",
     "explanationEN": "constellation",
-    "explanationCN": "星座"
+    "explanationCN": "星宿"
   },
   {
     "character": "𗴻",
     "GX": "me̱¹",
     "GHC": "mej¹",
     "explanationEN": "warm",
-    "explanationCN": "温暖"
+    "explanationCN": "暖"
   },
   {
     "character": "𗵂",
     "GX": "llə¹",
     "GHC": "ljɨ¹",
     "explanationEN": "to crawl",
-    "explanationCN": "爬行"
+    "explanationCN": "匍匐"
   },
   {
     "character": "𗍧",
     "GX": "li̱h²",
     "GHC": "lẹ²",
     "explanationEN": "tub",
-    "explanationCN": "桶"
+    "explanationCN": "盆"
   },
   {
     "character": "𗵆",
     "GX": "śeṃ¹",
     "GHC": "śjɨj¹",
     "explanationEN": "to accomplish",
-    "explanationCN": "完成"
+    "explanationCN": "成"
   },
   {
     "character": "𗵪",
     "GX": "dźwe²",
     "GHC": "dźjwij²",
     "explanationEN": "spring",
-    "explanationCN": "春天"
+    "explanationCN": "春"
   },
   {
     "character": "𗵝",
@@ -810,35 +810,35 @@ const DICTIONARY_DATA = [
     "GX": "tśha¹",
     "GHC": "tśhja¹",
     "explanationEN": "vehicle",
-    "explanationCN": "车辆"
+    "explanationCN": "车"
   },
   {
     "character": "𗀬",
     "GX": "thi̱w²",
     "GHC": "thew²",
     "explanationEN": "completely; finally",
-    "explanationCN": "完全;最后"
+    "explanationCN": "完毕"
   },
   {
     "character": "𘟃",
     "GX": "no̱²",
     "GHC": "no²",
     "explanationEN": "brain; head",
-    "explanationCN": "脑;头"
+    "explanationCN": "脑"
   },
   {
     "character": "𗵍",
     "GX": "luh²",
     "GHC": "ljụ²",
     "explanationEN": "mixed; blended",
-    "explanationCN": "混合;混合"
+    "explanationCN": "混杂"
   },
   {
     "character": "𗵩",
     "GX": "llo̱ṃ²",
     "GHC": "low²",
     "explanationEN": "a lined Chinese-style coat or jacket",
-    "explanationCN": "一件带衬里的中式外套或夹克"
+    "explanationCN": "袄"
   },
   {
     "character": "𗵮",
@@ -852,21 +852,21 @@ const DICTIONARY_DATA = [
     "GX": "nvo¹",
     "GHC": "wjo̱¹",
     "explanationEN": "commerce; trade",
-    "explanationCN": "商业;贸易"
+    "explanationCN": "商贸"
   },
   {
     "character": "𗄖",
-    "GX": "dźi?",
-    "GHC": "dźji?",
+    "GX": "dźi¹",
+    "GHC": "dźji¹",
     "explanationEN": "to walk; to go",
-    "explanationCN": "走路;要走"
+    "explanationCN": "行"
   },
   {
     "character": "𗴵",
     "GX": "luh²",
     "GHC": "ljụ²",
     "explanationEN": "brain; head",
-    "explanationCN": "脑;头"
+    "explanationCN": "脑"
   },
   {
     "character": "𗵊",
@@ -879,15 +879,15 @@ const DICTIONARY_DATA = [
     "character": "𗵬",
     "GX": "vwe̱²",
     "GHC": "wej²",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "维",
+    "explanationCN": "维"
   },
   {
     "character": "𗴹",
     "GX": "no̱²",
     "GHC": "no²",
-    "explanationEN": "brain",
-    "explanationCN": "脑"
+    "explanationEN": "脑瑙",
+    "explanationCN": "脑瑙"
   },
   {
     "character": "𗵎",
@@ -908,147 +908,147 @@ const DICTIONARY_DATA = [
     "GX": "thu̱²",
     "GHC": "thu²",
     "explanationEN": "source; resources",
-    "explanationCN": "源;资源"
+    "explanationCN": "资源"
   },
   {
     "character": "𗵖",
     "GX": "tswiṃ¹",
     "GHC": "tsjwĩ¹",
-    "explanationEN": "a surname",
-    "explanationCN": "姓氏"
+    "explanationEN": "遵浚",
+    "explanationCN": "遵浚"
   },
   {
     "character": "𗄕",
     "GX": "śe¹",
     "GHC": "śjij¹",
-    "explanationEN": "to take out; to extract",
-    "explanationCN": "取出;提取"
+    "explanationEN": "to extract",
+    "explanationCN": "抽"
   },
   {
     "character": "𗵜",
     "GX": "rlwə̱r²",
     "GHC": "lwər²",
-    "explanationEN": "source; resources",
-    "explanationCN": "源;资源"
+    "explanationEN": "resources",
+    "explanationCN": "资源"
   },
   {
     "character": "𗵢",
     "GX": "yu²",
     "GHC": "ˑju²",
     "explanationEN": "to look; to see; to observe",
-    "explanationCN": "去看;看;观察"
+    "explanationCN": "视"
   },
   {
     "character": "𗵭",
     "GX": "koh¹",
     "GHC": "kjọ¹",
     "explanationEN": "to earnestly hope; to pray for",
-    "explanationCN": "热切地希望;为他祈祷"
+    "explanationCN": "祈求"
   },
   {
     "character": "𗵧",
     "GX": "nde²",
     "GHC": "dji̱j²",
     "explanationEN": "(silver or gold) ingot",
-    "explanationCN": "（银或金）铸锭"
+    "explanationCN": "锭"
   },
   {
     "character": "𗵛",
     "GX": "luh²",
     "GHC": "ljụ²",
     "explanationEN": "a surname",
-    "explanationCN": "姓氏"
+    "explanationCN": "根源"
   },
   {
     "character": "𗵠",
     "GX": "tśho²",
     "GHC": "tśhjo²",
     "explanationEN": "matter",
-    "explanationCN": "事"
+    "explanationCN": "物"
   },
   {
     "character": "𗵐",
     "GX": "ne̱²",
     "GHC": "nej²",
     "explanationEN": "safety",
-    "explanationCN": "安全"
+    "explanationCN": "好"
   },
   {
     "character": "𗴴",
     "GX": "re̱r²",
     "GHC": "lhejr²",
     "explanationEN": "peace and happiness",
-    "explanationCN": "和平与幸福"
+    "explanationCN": "乐"
   },
   {
     "character": "𘈊",
     "GX": "nvi¹",
     "GHC": "wji̱¹",
     "explanationEN": "commerce; trade",
-    "explanationCN": "商业;贸易"
+    "explanationCN": "商贸"
   },
   {
     "character": "𗄎",
     "GX": "llih²",
     "GHC": "ljị²",
     "explanationEN": "brave",
-    "explanationCN": "勇敢"
+    "explanationCN": "勇"
   },
   {
     "character": "𗀐",
     "GX": "dźe¹",
     "GHC": "dźjij¹",
     "explanationEN": "cold",
-    "explanationCN": "冷"
+    "explanationCN": "寒"
   },
   {
     "character": "𗵟",
     "GX": "tshwaṃ¹",
     "GHC": "tshjwã¹",
-    "explanationEN": "whole; complete",
-    "explanationCN": "整个;完成"
+    "explanationEN": "全泉筌",
+    "explanationCN": "全泉筌"
   },
   {
     "character": "𗀗",
     "GX": "ntsi̱w²",
     "GHC": "tse̱w²",
     "explanationEN": "to melt",
-    "explanationCN": "融化"
+    "explanationCN": "融"
   },
   {
     "character": "𗵡",
     "GX": "tṣae̱²",
     "GHC": "tśiej²",
     "explanationEN": "to wear",
-    "explanationCN": "穿"
+    "explanationCN": "戴"
   },
   {
     "character": "𗀓",
     "GX": "śe²",
     "GHC": "śjij²",
     "explanationEN": "to request; to beg",
-    "explanationCN": "请求;乞求"
+    "explanationCN": "索求"
   },
   {
     "character": "𗀞",
     "GX": "to̱ṃh¹",
     "GHC": "tọ¹",
     "explanationEN": "to coagulate",
-    "explanationCN": "凝固"
+    "explanationCN": "凝"
   },
   {
     "character": "𗵌",
     "GX": "rγwe̱r²",
     "GHC": "ˑwejr²",
     "explanationEN": "to protect",
-    "explanationCN": "保护"
+    "explanationCN": "护"
   },
   {
     "character": "𘔧",
     "GX": "guh¹",
     "GHC": "gjụ¹",
     "explanationEN": "seat; place; stick; post",
-    "explanationCN": "座位;地方;棍;发布"
+    "explanationCN": "柱"
   },
   {
     "character": "𘞐",
@@ -1069,14 +1069,14 @@ const DICTIONARY_DATA = [
     "GX": "qhu̱¹",
     "GHC": "khu¹",
     "explanationEN": "bluish green",
-    "explanationCN": "蓝绿色"
+    "explanationCN": "孔雀色；孔枯库空苦楛栝"
   },
   {
     "character": "𗵑",
     "GX": "γo̱¹",
     "GHC": "ˑo¹",
     "explanationEN": "old man",
-    "explanationCN": "老人"
+    "explanationCN": "翁"
   },
   {
     "character": "𗶮",
@@ -1090,7 +1090,7 @@ const DICTIONARY_DATA = [
     "GX": "rvir²",
     "GHC": "wjir²",
     "explanationEN": "to hug",
-    "explanationCN": "拥抱"
+    "explanationCN": "抱"
   },
   {
     "character": "𗷠",
@@ -1103,22 +1103,22 @@ const DICTIONARY_DATA = [
     "character": "𗘠",
     "GX": "rer²",
     "GHC": "rjijr²",
-    "explanationEN": "leg",
-    "explanationCN": "腿"
+    "explanationEN": "shin",
+    "explanationCN": "胫"
   },
   {
     "character": "𘄜",
     "GX": "no̱²",
     "GHC": "no²",
     "explanationEN": "property; treasure",
-    "explanationCN": "财产;珍惜"
+    "explanationCN": "财宝"
   },
   {
     "character": "𘈙",
     "GX": "de¹",
     "GHC": "djij¹",
     "explanationEN": "peak",
-    "explanationCN": "峰"
+    "explanationCN": "山陵"
   },
   {
     "character": "𗙥",
@@ -1131,15 +1131,15 @@ const DICTIONARY_DATA = [
     "character": "𗘹",
     "GX": "khaṃ¹",
     "GHC": "khjã¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "谦犍乾",
+    "explanationCN": "谦犍乾"
   },
   {
     "character": "𘃺",
     "GX": "mmə²",
     "GHC": "mjɨ̱²",
     "explanationEN": "to call",
-    "explanationCN": "调用"
+    "explanationCN": "呼告"
   },
   {
     "character": "𗙗",
@@ -1153,49 +1153,49 @@ const DICTIONARY_DATA = [
     "GX": "ha̱¹",
     "GHC": "xa¹",
     "explanationEN": "to shout",
-    "explanationCN": "大喊大叫"
+    "explanationCN": "喊"
   },
   {
     "character": "𘄇",
     "GX": "mih¹",
     "GHC": "mjị¹",
     "explanationEN": "to inform",
-    "explanationCN": "通知"
+    "explanationCN": "告知"
   },
   {
     "character": "𗟵",
     "GX": "a̱²",
     "GHC": "ˑja²",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "阿",
+    "explanationCN": "阿"
   },
   {
     "character": "𗟷",
     "GX": "pə¹",
     "GHC": "pjɨ¹",
     "explanationEN": "former; past",
-    "explanationCN": "前;过去"
+    "explanationCN": "往昔"
   },
   {
     "character": "𘘄",
     "GX": "świ¹",
     "GHC": "śjwi¹",
     "explanationEN": "tooth; blade",
-    "explanationCN": "牙;叶片"
+    "explanationCN": "齿；刃"
   },
   {
     "character": "𘜓",
     "GX": "tśhi²",
     "GHC": "tśhji²",
     "explanationEN": "to count",
-    "explanationCN": "计数"
+    "explanationCN": "计数；赤郄"
   },
   {
     "character": "𘘛",
     "GX": "qi̱w¹",
     "GHC": "kew¹",
     "explanationEN": "the Big Dipper; the Plough",
-    "explanationCN": "北斗七星;犁"
+    "explanationCN": "北斗"
   },
   {
     "character": "𘚄",
@@ -1209,35 +1209,35 @@ const DICTIONARY_DATA = [
     "GX": "nlhaa̱¹",
     "GHC": "lhia̱¹",
     "explanationEN": "dazzle",
-    "explanationCN": "耀"
+    "explanationCN": "闪耀"
   },
   {
     "character": "𗰙",
     "GX": "kwih²",
     "GHC": "khjwị²",
     "explanationEN": "circle",
-    "explanationCN": "圈"
+    "explanationCN": "围"
   },
   {
     "character": "𗰟",
     "GX": "γwi²",
     "GHC": "ˑwi²",
     "explanationEN": "ground",
-    "explanationCN": "地"
+    "explanationCN": "场"
   },
   {
     "character": "𗰞",
     "GX": "naw¹",
     "GHC": "nja̱¹",
     "explanationEN": "dark",
-    "explanationCN": "黑暗"
+    "explanationCN": "黑"
   },
   {
     "character": "𗙴",
     "GX": "ra̱r¹",
     "GHC": "rar¹",
     "explanationEN": "patriarchal clan; surname",
-    "explanationCN": "宗族;姓"
+    "explanationCN": "姓；增"
   },
   {
     "character": "𗙘",
@@ -1251,63 +1251,63 @@ const DICTIONARY_DATA = [
     "GX": "goṃ²",
     "GHC": "gjow²",
     "explanationEN": "bent; curved",
-    "explanationCN": "弯曲;弯曲"
+    "explanationCN": "弯曲"
   },
   {
     "character": "𗟼",
     "GX": "di¹",
     "GHC": "dji¹",
     "explanationEN": "to reply; to repay",
-    "explanationCN": "回复;偿还"
+    "explanationCN": "报"
   },
   {
     "character": "𗃒",
     "GX": "lə̱¹",
     "GHC": "lə¹",
     "explanationEN": "hollow; ditch",
-    "explanationCN": "空心;渠"
+    "explanationCN": "窖；沟"
   },
   {
     "character": "𗙈",
     "GX": "vah¹",
     "GHC": "wjạ¹",
     "explanationEN": "to allow; to say",
-    "explanationCN": "允许;说"
+    "explanationCN": "许；说"
   },
   {
     "character": "𘄆",
     "GX": "pho¹",
     "GHC": "phjo¹",
     "explanationEN": "land",
-    "explanationCN": "土地"
+    "explanationCN": "地"
   },
   {
     "character": "𗸢",
     "GX": "twa̱¹",
     "GHC": "twa¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "怛",
+    "explanationCN": "怛"
   },
   {
     "character": "𗸴",
     "GX": "nwə²",
     "GHC": "njwɨ²",
     "explanationEN": "spring",
-    "explanationCN": "春天"
+    "explanationCN": "春"
   },
   {
     "character": "𘇗",
     "GX": "lu̱²",
     "GHC": "lu²",
     "explanationEN": "rope; string",
-    "explanationCN": "绳;字符串"
+    "explanationCN": "绳"
   },
   {
     "character": "𘒺",
     "GX": "rna̱r²",
     "GHC": "nar²",
-    "explanationEN": "the old; the aged",
-    "explanationCN": "旧的;老年人"
+    "explanationEN": "to be old",
+    "explanationCN": "老"
   },
   {
     "character": "𘒾",
@@ -1328,7 +1328,7 @@ const DICTIONARY_DATA = [
     "GX": "bə¹",
     "GHC": "bji¹",
     "explanationEN": "to overflow",
-    "explanationCN": "溢出"
+    "explanationCN": "溢"
   },
   {
     "character": "𘆰",
@@ -1342,56 +1342,56 @@ const DICTIONARY_DATA = [
     "GX": "lih²",
     "GHC": "ljị²",
     "explanationEN": "to tie",
-    "explanationCN": "打平"
+    "explanationCN": "拴"
   },
   {
     "character": "𘈢",
     "GX": "leṃh¹",
     "GHC": "ljɨ̣j¹",
     "explanationEN": "front of a garment",
-    "explanationCN": "服装正面"
+    "explanationCN": "襟"
   },
   {
     "character": "𘆮",
     "GX": "tśih²",
     "GHC": "tśjị²",
     "explanationEN": "impediment; burden",
-    "explanationCN": "障碍;负担"
+    "explanationCN": "辎重；载"
   },
   {
     "character": "𗶛",
     "GX": "swə²",
     "GHC": "sjwɨ²",
     "explanationEN": "brother-in-law",
-    "explanationCN": "大伯子"
+    "explanationCN": "郎舅"
   },
   {
     "character": "𘒧",
     "GX": "dwu¹",
     "GHC": "djwu¹",
     "explanationEN": "to answer; to reply",
-    "explanationCN": "回答;回复"
+    "explanationCN": "答"
   },
   {
     "character": "𘔦",
     "GX": "ri̱r²",
     "GHC": "rer²",
     "explanationEN": "to win",
-    "explanationCN": "为了赢"
+    "explanationCN": "强胜"
   },
   {
     "character": "𗸼",
     "GX": "lhih²",
     "GHC": "lhjị²",
     "explanationEN": "to make",
-    "explanationCN": "使"
+    "explanationCN": "制"
   },
   {
     "character": "𗹄",
     "GX": "sə²",
     "GHC": "sjɨ²",
     "explanationEN": "to join; to connect",
-    "explanationCN": "加入;连接"
+    "explanationCN": "连接"
   },
   {
     "character": "𘚕",
@@ -1405,14 +1405,14 @@ const DICTIONARY_DATA = [
     "GX": "me¹",
     "GHC": "mjij¹",
     "explanationEN": "quiet",
-    "explanationCN": "安静"
+    "explanationCN": "寂静"
   },
   {
     "character": "𗘸",
     "GX": "khaṃ¹",
-    "GHC": "¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "GHC": "khjã¹",
+    "explanationEN": "犍乾謙",
+    "explanationCN": "犍乾謙"
   },
   {
     "character": "𗙞",
@@ -1433,7 +1433,7 @@ const DICTIONARY_DATA = [
     "GX": "dẓaa̱ṃ¹",
     "GHC": "dźiã¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationCN": "哪铙硇"
   },
   {
     "character": "𗠁",
@@ -1460,8 +1460,8 @@ const DICTIONARY_DATA = [
     "character": "𗙓",
     "GX": "lwiṃ¹",
     "GHC": "ljwĩ¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "轮棱麟林琳临伦",
+    "explanationCN": "轮棱麟林琳临伦"
   },
   {
     "character": "𘟁",
@@ -1479,7 +1479,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘆤",
-    "GX": "ẓuo¹",
+    "GX": "ṣuo¹",
     "GHC": "śio̱w¹",
     "explanationEN": "to raise domestic animals",
     "explanationCN": "饲养家畜"
@@ -1501,7 +1501,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𘈣",
     "GX": "khi¹",
-    "GHC": "¹",
+    "GHC": "khji¹",
     "explanationEN": "to open; to shine upon",
     "explanationCN": "打开;闪耀"
   },
@@ -1633,7 +1633,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘆿",
-    "GX": "ẓae̱h¹",
+    "GX": "ṣae̱h¹",
     "GHC": "śiẹj¹",
     "explanationEN": "to tie; to fasten",
     "explanationCN": "打平;紧固"
@@ -1661,7 +1661,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘇁",
-    "GX": "ẓae̱h¹",
+    "GX": "ṣae̱h¹",
     "GHC": "śiẹj¹",
     "explanationEN": "fierce wind",
     "explanationCN": "猛风"
@@ -1788,7 +1788,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𗸠",
     "GX": "hwaa̱¹",
-    "GHC": "¹",
+    "GHC": "xiwa¹",
     "explanationEN": "nothing",
     "explanationCN": "无"
   },
@@ -1824,7 +1824,7 @@ const DICTIONARY_DATA = [
     "character": "𘘮",
     "GX": "mo²",
     "GHC": "mjo²",
-    "explanationEN": "pron.HUM I; me",
+    "explanationEN": "I.hum",
     "explanationCN": "我哼"
   },
   {
@@ -2167,8 +2167,8 @@ const DICTIONARY_DATA = [
     "character": "𘓩",
     "GX": "mau̱²",
     "GHC": "mu²",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "墓母摸謨摩無蒙牟",
+    "explanationCN": "墓母摸謨摩無蒙牟"
   },
   {
     "character": "𗗴",
@@ -2271,16 +2271,16 @@ const DICTIONARY_DATA = [
   {
     "character": "𗍔",
     "GX": "rkir²",
-    "GHC": "²",
+    "GHC": "kjɨr²",
     "explanationEN": "to hasten",
-    "explanationCN": "以加快速度"
+    "explanationCN": "趋"
   },
   {
     "character": "𗍐",
     "GX": "khiṃ¹",
     "GHC": "khjĩ¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "钦琴",
+    "explanationCN": "钦琴"
   },
   {
     "character": "𗉶",
@@ -2411,7 +2411,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𘅵",
     "GX": "lwa¹",
-    "GHC": "¹",
+    "GHC": "ljwa¹",
     "explanationEN": "to make a detailed inquiry",
     "explanationCN": "进行详细询价"
   },
@@ -3028,7 +3028,7 @@ const DICTIONARY_DATA = [
     "character": "𗖵",
     "GX": "bu¹",
     "GHC": "bju¹",
-    "explanationEN": "REF: referential case",
+    "explanationEN": "REF: referential",
     "explanationCN": "REF： 引用"
   },
   {
@@ -3160,16 +3160,16 @@ const DICTIONARY_DATA = [
   {
     "character": "𗖿",
     "GX": "thə̱h¹",
-    "GHC": "¹",
+    "GHC": "thə̣¹",
     "explanationEN": "to force",
-    "explanationCN": "强制"
+    "explanationCN": "逼迫"
   },
   {
     "character": "𗉈",
     "GX": "tsa¹",
-    "GHC": "¹",
+    "GHC": "tsja¹",
     "explanationEN": "rapid",
-    "explanationCN": "快速"
+    "explanationCN": "急速"
   },
   {
     "character": "𗖎",
@@ -3204,7 +3204,7 @@ const DICTIONARY_DATA = [
     "GX": "rqo̱r¹",
     "GHC": "kor¹",
     "explanationEN": "larynx; throat",
-    "explanationCN": "喉;喉"
+    "explanationCN": "喉"
   },
   {
     "character": "𘙳",
@@ -3348,7 +3348,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘘜",
-    "GX": "nẓae̱¹",
+    "GX": "nṣae̱¹",
     "GHC": "śie̱j¹",
     "explanationEN": "to collect",
     "explanationCN": "收集"
@@ -3657,7 +3657,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𘚡",
     "GX": "lə̱²",
-    "GHC": "²",
+    "GHC": "lə²",
     "explanationEN": "flea",
     "explanationCN": "跳蚤"
   },
@@ -3727,14 +3727,14 @@ const DICTIONARY_DATA = [
   {
     "character": "𗸟",
     "GX": "ŋġa̱¹",
-    "GHC": "¹",
+    "GHC": "ga̱¹",
     "explanationEN": "a surname",
     "explanationCN": "姓氏"
   },
   {
     "character": "𗡟",
     "GX": "rmer²",
-    "GHC": "²",
+    "GHC": "mjijr²",
     "explanationEN": "to seek; to find",
     "explanationCN": "寻找;找到"
   },
@@ -3803,7 +3803,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘇹",
-    "GX": "ẓaə̱¹",
+    "GX": "ṣaə̱¹",
     "GHC": "śiə¹",
     "explanationEN": "string; thread",
     "explanationCN": "字符串;线"
@@ -4077,7 +4077,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𘟓",
     "GX": "tseṃh¹",
-    "GHC": "¹",
+    "GHC": "tsjɨ̣j¹",
     "explanationEN": "modest; humble",
     "explanationCN": "谦虚;卑微"
   },
@@ -4237,7 +4237,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗸂",
-    "GX": "ẓwae̱¹",
+    "GX": "ṣwae̱¹",
     "GHC": "śiwej¹",
     "explanationEN": "timid",
     "explanationCN": "胆小"
@@ -4279,17 +4279,17 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗳳",
-    "GX": "ẓaə̱¹",
+    "GX": "ṣaə̱¹",
     "GHC": "śiə¹",
     "explanationEN": "to guide",
     "explanationCN": "前往指导"
   },
   {
     "character": "𗷰",
-    "GX": "t?²",
-    "GHC": "t-²",
+    "GX": "te²",
+    "GHC": "tjij²",
     "explanationEN": "to refuse; to remove",
-    "explanationCN": "拒绝;删除"
+    "explanationCN": "拒"
   },
   {
     "character": "𘈓",
@@ -4387,7 +4387,7 @@ const DICTIONARY_DATA = [
     "GX": "???",
     "GHC": "?",
     "explanationEN": "another",
-    "explanationCN": "另一个"
+    "explanationCN": "另一"
   },
   {
     "character": "𗖒",
@@ -4525,9 +4525,9 @@ const DICTIONARY_DATA = [
   {
     "character": "𘒼",
     "GX": "rna̱r²",
-    "GHC": "²",
+    "GHC": "nar²",
     "explanationEN": "the old; the aged",
-    "explanationCN": "旧的;老年人"
+    "explanationCN": "老"
   },
   {
     "character": "𘆨",
@@ -4545,7 +4545,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘇋",
-    "GX": "ẓae̱h²",
+    "GX": "ṣae̱h²",
     "GHC": "śiẹj²",
     "explanationEN": "evil; harm; calamity",
     "explanationCN": "邪;伤害;灾难"
@@ -4932,7 +4932,7 @@ const DICTIONARY_DATA = [
     "character": "𘅍",
     "GX": "zeh¹",
     "GHC": "zjịj¹",
-    "explanationEN": "TIME.ᴀ: perfective time",
+    "explanationEN": "TIME.ᴀ",
     "explanationCN": "时间。"
   },
   {
@@ -5009,7 +5009,7 @@ const DICTIONARY_DATA = [
     "character": "𘙣",
     "GX": "nśi¹",
     "GHC": "śji̱¹",
-    "explanationEN": "to kill.ᴀ",
+    "explanationEN": "to slaughter.ᴀ",
     "explanationCN": "屠宰。"
   },
   {
@@ -5065,7 +5065,7 @@ const DICTIONARY_DATA = [
     "character": "𘆄",
     "GX": "nə²",
     "GHC": "njɨ²",
-    "explanationEN": "PL: plural suffix",
+    "explanationEN": "PL",
     "explanationCN": "PL 系列"
   },
   {
@@ -5135,7 +5135,7 @@ const DICTIONARY_DATA = [
     "character": "𗗂",
     "GX": "mo̱²",
     "GHC": "mo²",
-    "explanationEN": "a modal auxiliary",
+    "explanationEN": "HYP",
     "explanationCN": "高得汁"
   },
   {
@@ -5252,7 +5252,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗙄",
-    "GX": "rẓaə̱r¹",
+    "GX": "rṣaə̱r¹",
     "GHC": "śiər¹",
     "explanationEN": "sound; noise",
     "explanationCN": "声音;噪声"
@@ -5374,7 +5374,7 @@ const DICTIONARY_DATA = [
     "GX": "???",
     "GHC": "?",
     "explanationEN": "as",
-    "explanationCN": "如"
+    "explanationCN": "及；如"
   },
   {
     "character": "𘒻",
@@ -5434,14 +5434,14 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗙜",
-    "GX": "ẓwae̱¹",
+    "GX": "ṣwae̱¹",
     "GHC": "śiwej¹",
     "explanationEN": "very fast; rapid",
     "explanationCN": "非常快;快速"
   },
   {
     "character": "𗡫",
-    "GX": "ẓao̱²",
+    "GX": "ṣao̱²",
     "GHC": "śio²",
     "explanationEN": "daughter-in-law",
     "explanationCN": "媳妇"
@@ -5924,7 +5924,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘆬",
-    "GX": "ẓae̱h¹",
+    "GX": "ṣae̱h¹",
     "GHC": "śiẹj¹",
     "explanationEN": "lameness",
     "explanationCN": "跛 行"
@@ -6261,9 +6261,9 @@ const DICTIONARY_DATA = [
   {
     "character": "𘔌",
     "GX": "dźeh²",
-    "GHC": "²",
+    "GHC": "dźjịj²",
     "explanationEN": "to fight; to struggle",
-    "explanationCN": "去战斗;挣扎"
+    "explanationCN": "争斗"
   },
   {
     "character": "𗉥",
@@ -6905,9 +6905,9 @@ const DICTIONARY_DATA = [
   {
     "character": "𘆑",
     "GX": "gih²",
-    "GHC": "²",
+    "GHC": "gjị²",
     "explanationEN": "to depend on; to rely on",
-    "explanationCN": "依赖;依赖"
+    "explanationCN": "依"
   },
   {
     "character": "𗱎",
@@ -6956,7 +6956,7 @@ const DICTIONARY_DATA = [
     "GX": "???",
     "GHC": "?",
     "explanationEN": "bland; tasteless",
-    "explanationCN": "乏味;淡"
+    "explanationCN": "淡"
   },
   {
     "character": "𗱘",
@@ -7072,7 +7072,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗰠",
-    "GX": "nẓai̱¹",
+    "GX": "nṣai̱¹",
     "GHC": "śie̱¹",
     "explanationEN": "to collect; to gather",
     "explanationCN": "收集;聚集"
@@ -7110,7 +7110,7 @@ const DICTIONARY_DATA = [
     "GX": "???",
     "GHC": "?",
     "explanationEN": "rain and dew",
-    "explanationCN": "雨与露"
+    "explanationCN": "雨露"
   },
   {
     "character": "𘓋",
@@ -7522,7 +7522,7 @@ const DICTIONARY_DATA = [
     "character": "𗲉",
     "GX": "dźo²",
     "GHC": "dźjo²",
-    "explanationEN": "to exist.ʙ(animate);  to have.ʙ",
+    "explanationEN": "to exist.ʙ(animate); to have.ʙ",
     "explanationCN": "to exist.ʙ（有生命的）; 拥有。"
   },
   {
@@ -7704,7 +7704,7 @@ const DICTIONARY_DATA = [
     "character": "𗗟",
     "GX": "ye¹",
     "GHC": "ˑjij¹",
-    "explanationEN": "FUT: future",
+    "explanationEN": "FUT",
     "explanationCN": "FUT"
   },
   {
@@ -7949,7 +7949,7 @@ const DICTIONARY_DATA = [
     "character": "𘇂",
     "GX": "ġu̱²",
     "GHC": "gu²",
-    "explanationEN": "MED: medioesive case; middle",
+    "explanationEN": "MED: medioesive ; middle",
     "explanationCN": "MED： 中等 ;中间"
   },
   {
@@ -8053,9 +8053,9 @@ const DICTIONARY_DATA = [
   {
     "character": "𘅾",
     "GX": "γo̱²",
-    "GHC": "²",
+    "GHC": "ˑo²",
     "explanationEN": "leisure; free time",
-    "explanationCN": "暇;闲暇"
+    "explanationCN": "暇"
   },
   {
     "character": "𘒁",
@@ -8111,7 +8111,7 @@ const DICTIONARY_DATA = [
     "GX": "???",
     "GHC": "?",
     "explanationEN": "inclined to one side; slanting",
-    "explanationCN": "偏向一侧;斜"
+    "explanationCN": "斜"
   },
   {
     "character": "𗈜",
@@ -8307,14 +8307,14 @@ const DICTIONARY_DATA = [
     "GX": "???",
     "GHC": "?",
     "explanationEN": "disease; sickness; illness",
-    "explanationCN": "疾病;病;疾病"
+    "explanationCN": "疾病"
   },
   {
     "character": "𗇱",
     "GX": "ŋa̱²",
     "GHC": "ŋa²",
     "explanationEN": "ovum; egg",
-    "explanationCN": "卵子;蛋"
+    "explanationCN": "卵"
   },
   {
     "character": "𗇼",
@@ -8515,9 +8515,9 @@ const DICTIONARY_DATA = [
   {
     "character": "𘅉",
     "GX": "te¹",
-    "GHC": "¹",
+    "GHC": "tjij¹",
     "explanationEN": "chapter; grade; rank",
-    "explanationCN": "章;年级;排"
+    "explanationCN": "品"
   },
   {
     "character": "𘜇",
@@ -8712,7 +8712,7 @@ const DICTIONARY_DATA = [
     "character": "𘝵",
     "GX": "ye¹",
     "GHC": "ˑjij¹",
-    "explanationEN": "pron. self; oneself",
+    "explanationEN": "self",
     "explanationCN": "自我"
   },
   {
@@ -9286,7 +9286,7 @@ const DICTIONARY_DATA = [
     "character": "𘙌",
     "GX": "kə¹",
     "GHC": "kjɨ¹",
-    "explanationEN": "PFV: IN; IMP: IN; 1DU: 1st dual indexation",
+    "explanationEN": "PFV: IN; IMP: IN; 1DU",
     "explanationCN": "PFV： IN;IMP： 在;1DU"
   },
   {
@@ -9343,7 +9343,7 @@ const DICTIONARY_DATA = [
     "GX": "???",
     "GHC": "?",
     "explanationEN": "luck; fortune",
-    "explanationCN": "运气;财富"
+    "explanationCN": "运气"
   },
   {
     "character": "𗇟",
@@ -9622,7 +9622,7 @@ const DICTIONARY_DATA = [
     "character": "𗉘",
     "GX": "tśhə¹",
     "GHC": "tśhjɨ¹",
-    "explanationEN": "demonstrative pronoun; POT: potential",
+    "explanationEN": "DEM; EXP",
     "explanationCN": "民主党;经验"
   },
   {
@@ -9691,7 +9691,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𗵷",
     "GX": "śe¹",
-    "GHC": "¹",
+    "GHC": "śjij¹",
     "explanationEN": "to give up; to abandon",
     "explanationCN": "放弃;放弃"
   },
@@ -9844,10 +9844,10 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘜿",
-    "GX": "???",
-    "GHC": "?",
+    "GX": "lh??",
+    "GHC": "lh",
     "explanationEN": "jerked meat",
-    "explanationCN": "肉干"
+    "explanationCN": "凝"
   },
   {
     "character": "𗎠",
@@ -9993,7 +9993,7 @@ const DICTIONARY_DATA = [
     "character": "𘜉",
     "GX": "phi²",
     "GHC": "phji²",
-    "explanationEN": "to lose; to give up",
+    "explanationEN": "to lose₂",
     "explanationCN": "输掉₂"
   },
   {
@@ -10315,7 +10315,7 @@ const DICTIONARY_DATA = [
     "character": "𗸒",
     "GX": "su̱¹",
     "GHC": "su¹",
-    "explanationEN": "COMP: comparative case",
+    "explanationEN": "COMP: comparative",
     "explanationCN": "COMP： 比较"
   },
   {
@@ -10538,7 +10538,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𗴩",
     "GX": "səh¹",
-    "GHC": "¹",
+    "GHC": "sjɨ̣¹",
     "explanationEN": "bright; intelligent",
     "explanationCN": "明亮;智能"
   },
@@ -10890,7 +10890,7 @@ const DICTIONARY_DATA = [
     "GX": "???",
     "GHC": "?",
     "explanationEN": "to scold; to rebuke; to dress down",
-    "explanationCN": "责骂;斥责;穿得休闲"
+    "explanationCN": "责骂"
   },
   {
     "character": "𗴆",
@@ -10925,7 +10925,7 @@ const DICTIONARY_DATA = [
     "GX": "qa̱²",
     "GHC": "ka²",
     "explanationEN": "great-great-grandson",
-    "explanationCN": "曾曾孙"
+    "explanationCN": "玄孙"
   },
   {
     "character": "𘈵",
@@ -10939,7 +10939,7 @@ const DICTIONARY_DATA = [
     "GX": "???",
     "GHC": "?",
     "explanationEN": "politics; affairs",
-    "explanationCN": "政治;事务"
+    "explanationCN": "政"
   },
   {
     "character": "𗳍",
@@ -10988,14 +10988,14 @@ const DICTIONARY_DATA = [
     "GX": "twu̱h¹",
     "GHC": "twụ¹",
     "explanationEN": "loyal; devoted",
-    "explanationCN": "忠诚;忠"
+    "explanationCN": "忠"
   },
   {
     "character": "𗹖",
     "GX": "lu̱²",
     "GHC": "lu²",
     "explanationEN": "skilful; clever",
-    "explanationCN": "巧;聪明"
+    "explanationCN": "巧"
   },
   {
     "character": "𗴄",
@@ -11008,8 +11008,8 @@ const DICTIONARY_DATA = [
     "character": "𗴂",
     "GX": "phao̱ṃ¹",
     "GHC": "phiow¹",
-    "explanationEN": "white",
-    "explanationCN": "成为白人"
+    "explanationEN": "to be white",
+    "explanationCN": "白"
   },
   {
     "character": "𘇯",
@@ -11658,7 +11658,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𗷨",
     "GX": "eṃ²",
-    "GHC": "²",
+    "GHC": "ˑjɨj²",
     "explanationEN": "prison; jail",
     "explanationCN": "监狱;监狱"
   },
@@ -11806,7 +11806,7 @@ const DICTIONARY_DATA = [
     "character": "𗉵",
     "GX": "vi²",
     "GHC": "wji²",
-    "explanationEN": "to know; to understand",
+    "explanationEN": "to do:LV, compare 𘃡",
     "explanationCN": "要做：LV，比较"
   },
   {
@@ -11944,7 +11944,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗍇",
-    "GX": "ẓuo¹",
+    "GX": "ṣuo¹",
     "GHC": "śio̱w¹",
     "explanationEN": "deep black",
     "explanationCN": "深黑色"
@@ -11960,7 +11960,7 @@ const DICTIONARY_DATA = [
     "character": "𘄸",
     "GX": "rner²",
     "GHC": "njijr²",
-    "explanationEN": "to do",
+    "explanationEN": "to be angry",
     "explanationCN": "生气"
   },
   {
@@ -11993,7 +11993,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘈁",
-    "GX": "ẓaə̱¹",
+    "GX": "ṣaə̱¹",
     "GHC": "śiə¹",
     "explanationEN": "wren",
     "explanationCN": "鹪鹩"
@@ -12143,7 +12143,7 @@ const DICTIONARY_DATA = [
     "GX": "ti¹",
     "GHC": "tji¹",
     "explanationEN": "PROHIB",
-    "explanationCN": "禁止"
+    "explanationCN": "PROHIB"
   },
   {
     "character": "𘴆",
@@ -12156,7 +12156,7 @@ const DICTIONARY_DATA = [
     "character": "𘅫",
     "GX": "tśu¹",
     "GHC": "tśju¹",
-    "explanationEN": "to do; to work; to manage",
+    "explanationEN": "work; position",
     "explanationCN": "工作;位置"
   },
   {
@@ -12330,16 +12330,16 @@ const DICTIONARY_DATA = [
   {
     "character": "𘘼",
     "GX": "lhwi̱²",
-    "GHC": "²",
+    "GHC": "lwẹ²",
     "explanationEN": "slow; lazy",
-    "explanationCN": "慢;懒惰"
+    "explanationCN": "迟缓"
   },
   {
     "character": "𘙊",
     "GX": "lwi̱h²",
     "GHC": "lwẹ²",
     "explanationEN": "slow; lazy",
-    "explanationCN": "慢;懒惰"
+    "explanationCN": "迟缓"
   },
   {
     "character": "𘒹",
@@ -12450,7 +12450,7 @@ const DICTIONARY_DATA = [
     "character": "𗙼",
     "GX": "yu²",
     "GHC": "ˑju²",
-    "explanationEN": "ANTE: antessive case",
+    "explanationEN": "ANTE: antessive",
     "explanationCN": "ANTE：前动"
   },
   {
@@ -12511,7 +12511,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘇨",
-    "GX": "ẓwai̱¹",
+    "GX": "ṣwai̱¹",
     "GHC": "śiwe¹",
     "explanationEN": "shining white",
     "explanationCN": "闪亮的白色"
@@ -13436,7 +13436,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𗁈",
     "GX": "twa̱¹",
-    "GHC": "¹",
+    "GHC": "twa¹",
     "explanationEN": "a transliteration",
     "explanationCN": "音译"
   },
@@ -13526,7 +13526,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗹤",
-    "GX": "ẓae̱¹",
+    "GX": "ṣae̱¹",
     "GHC": "śiej¹",
     "explanationEN": "to win",
     "explanationCN": "为了赢"
@@ -13632,7 +13632,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𗄹",
     "GX": "pe¹",
-    "GHC": "¹",
+    "GHC": "pjij¹",
     "explanationEN": "deep green",
     "explanationCN": "深绿色"
   },
@@ -13702,7 +13702,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𗹝",
     "GX": "ne¹",
-    "GHC": "¹",
+    "GHC": "njij¹",
     "explanationEN": "relative",
     "explanationCN": "相对"
   },
@@ -13828,7 +13828,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𗁔",
     "GX": "ta̱h¹",
-    "GHC": "¹",
+    "GHC": "tạ¹",
     "explanationEN": "to marry a wife; to take",
     "explanationCN": "娶一个妻子;取"
   },
@@ -13870,7 +13870,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𗅡",
     "GX": "qhwaə̱¹",
-    "GHC": "¹",
+    "GHC": "khiwə¹",
     "explanationEN": "horn",
     "explanationCN": "角"
   },
@@ -13891,7 +13891,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𗁇",
     "GX": "lə̱²",
-    "GHC": "²",
+    "GHC": "lə²",
     "explanationEN": "foolish; stupid",
     "explanationCN": "愚蠢;笨"
   },
@@ -13911,14 +13911,14 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗉺",
-    "GX": "ẓaa̱¹",
+    "GX": "ṣaa̱¹",
     "GHC": "śia¹",
     "explanationEN": "sand",
     "explanationCN": "沙"
   },
   {
     "character": "𗉾",
-    "GX": "rẓaa̱r¹",
+    "GX": "rṣaa̱r¹",
     "GHC": "śiar¹",
     "explanationEN": "to mix; to stir",
     "explanationCN": "混合;搅拌"
@@ -14087,7 +14087,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𗌃",
     "GX": "tu̱ṃ¹",
-    "GHC": "tũ.¹",
+    "GHC": "tũ¹",
     "explanationEN": "winter",
     "explanationCN": "冬"
   },
@@ -14121,7 +14121,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗇆",
-    "GX": "rẓaa̱r¹",
+    "GX": "rṣaa̱r¹",
     "GHC": "śiar¹",
     "explanationEN": "impressive and dignified manners",
     "explanationCN": "令人印象深刻且端庄的举止"
@@ -14142,7 +14142,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗊿",
-    "GX": "ẓai̱ṃ¹",
+    "GX": "ṣai̱ṃ¹",
     "GHC": "śiẽ¹",
     "explanationEN": "to ooze; to seep",
     "explanationCN": "渗出;渗出"
@@ -14192,14 +14192,14 @@ const DICTIONARY_DATA = [
   {
     "character": "𗺑",
     "GX": "mba¹",
-    "GHC": "¹",
+    "GHC": "bja̱¹",
     "explanationEN": "limit; end",
     "explanationCN": "限制;结束"
   },
   {
     "character": "𗎼",
     "GX": "swi̱w¹",
-    "GHC": "¹",
+    "GHC": "swew¹",
     "explanationEN": "bright; brilliant; light",
     "explanationCN": "明亮;明;光"
   },
@@ -14226,7 +14226,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗊕",
-    "GX": "ẓaə̱¹",
+    "GX": "ṣaə̱¹",
     "GHC": "śiə¹",
     "explanationEN": "one of",
     "explanationCN": "其中之一"
@@ -14563,7 +14563,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𗎻",
     "GX": "qo̱ṃ¹",
-    "GHC": "¹",
+    "GHC": "kow¹",
     "explanationEN": "to collapse",
     "explanationCN": "折叠"
   },
@@ -14634,7 +14634,7 @@ const DICTIONARY_DATA = [
     "character": "𗦇",
     "GX": "lli̱w²",
     "GHC": "lew²",
-    "explanationEN": "thing, matter; NMLZ: nomilizer means \"thing, matter\"",
+    "explanationEN": "thing; NMLZ",
     "explanationCN": "东西;NMLZ"
   },
   {
@@ -14690,7 +14690,7 @@ const DICTIONARY_DATA = [
     "character": "𗧓",
     "GX": "ŋa̱²",
     "GHC": "ŋa²",
-    "explanationEN": "pron. I; 1 SG indexation",
+    "explanationEN": "I; 1SG",
     "explanationCN": "我;1 名"
   },
   {
@@ -14732,7 +14732,7 @@ const DICTIONARY_DATA = [
     "character": "𗪘",
     "GX": "śi¹",
     "GHC": "śji¹",
-    "explanationEN": "before; former times",
+    "explanationEN": "before",
     "explanationCN": "以前"
   },
   {
@@ -14807,7 +14807,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗿲",
-    "GX": "ẓao̱²",
+    "GX": "ṣao̱²",
     "GHC": "śio²",
     "explanationEN": "a kind of bird",
     "explanationCN": "一种鸟"
@@ -14828,7 +14828,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗥁",
-    "GX": "ẓao̱ṃ²",
+    "GX": "ṣao̱ṃ²",
     "GHC": "śjow²",
     "explanationEN": "above; higher place",
     "explanationCN": "以上;更高的地方"
@@ -14842,7 +14842,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗦰",
-    "GX": "rẓaa̱r¹",
+    "GX": "rṣaa̱r¹",
     "GHC": "śiar¹",
     "explanationEN": "a surname",
     "explanationCN": "姓氏"
@@ -14871,7 +14871,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𗪁",
     "GX": "gi²",
-    "GHC": "²",
+    "GHC": "gji²",
     "explanationEN": "wife; concubine",
     "explanationCN": "老婆;妾"
   },
@@ -15025,9 +15025,9 @@ const DICTIONARY_DATA = [
   {
     "character": "𗾻",
     "GX": "tshwu̱²",
-    "GHC": "²",
+    "GHC": "",
     "explanationEN": "for a particular person, occasion, purpose, etc.",
-    "explanationCN": "针对特定的人、场合、目的等。"
+    "explanationCN": "迷"
   },
   {
     "character": "𗺪",
@@ -15108,7 +15108,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗺩",
-    "GX": "ẓaa̱²",
+    "GX": "ṣaa̱²",
     "GHC": "śia²",
     "explanationEN": "a transliteration",
     "explanationCN": "音译"
@@ -15192,7 +15192,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗻕",
-    "GX": "nẓaa̱²",
+    "GX": "nṣaa̱²",
     "GHC": "śia̱²",
     "explanationEN": "a kind of grass",
     "explanationCN": "一种草"
@@ -15230,7 +15230,7 @@ const DICTIONARY_DATA = [
     "GX": "tshwu̱²",
     "GHC": "tshwu²",
     "explanationEN": "for a particular person, occasion, purpose, etc.",
-    "explanationCN": "针对特定的人、场合、目的等。"
+    "explanationCN": "迷"
   },
   {
     "character": "𗤵",
@@ -15283,7 +15283,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗣖",
-    "GX": "ẓuo¹",
+    "GX": "ṣuo¹",
     "GHC": "śio̱w¹",
     "explanationEN": "familiar",
     "explanationCN": "熟悉"
@@ -15586,13 +15586,13 @@ const DICTIONARY_DATA = [
     "character": "𗨻",
     "GX": "vwi̱²",
     "GHC": "we²",
-    "explanationEN": "to do",
+    "explanationEN": "to do, to make",
     "explanationCN": "做，使"
   },
   {
     "character": "𗪄",
     "GX": "thu̱¹",
-    "GHC": "¹",
+    "GHC": "thu¹",
     "explanationEN": "to draw (a bow)",
     "explanationCN": "拉弓"
   },
@@ -15794,7 +15794,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗻼",
-    "GX": "ẓae̱ṃ¹",
+    "GX": "ṣae̱ṃ¹",
     "GHC": "śiəj¹",
     "explanationEN": "man",
     "explanationCN": "男人"
@@ -16096,7 +16096,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𘜦",
     "GX": "rywər²",
-    "GHC": "²",
+    "GHC": "ˑjwɨr²",
     "explanationEN": "fast; rapid",
     "explanationCN": "快;快速"
   },
@@ -16109,7 +16109,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘚳",
-    "GX": "ẓaa̱ṃ¹",
+    "GX": "ṣaa̱ṃ¹",
     "GHC": "śjã¹",
     "explanationEN": "straw mat",
     "explanationCN": "草席"
@@ -16615,7 +16615,7 @@ const DICTIONARY_DATA = [
     "character": "𗆐",
     "GX": "lleh²",
     "GHC": "ljịj²",
-    "explanationEN": "PFV: to come",
+    "explanationEN": "to come₂",
     "explanationCN": "来₂"
   },
   {
@@ -16719,9 +16719,9 @@ const DICTIONARY_DATA = [
   {
     "character": "𗹜",
     "GX": "dźwə²",
-    "GHC": "²",
+    "GHC": "dźjwɨ²",
     "explanationEN": "very close relative",
-    "explanationCN": "非常近的亲戚"
+    "explanationCN": "近亲"
   },
   {
     "character": "𗁠",
@@ -16733,9 +16733,9 @@ const DICTIONARY_DATA = [
   {
     "character": "𘈺",
     "GX": "lə̱¹",
-    "GHC": "¹",
+    "GHC": "lə¹",
     "explanationEN": "to hinder; to block",
-    "explanationCN": "阻碍;阻止"
+    "explanationCN": "屏障"
   },
   {
     "character": "𗹞",
@@ -16914,7 +16914,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗋮",
-    "GX": "ẓwai̱¹",
+    "GX": "ṣwai̱¹",
     "GHC": "śiwe¹",
     "explanationEN": "honey",
     "explanationCN": "蜂蜜"
@@ -17392,7 +17392,7 @@ const DICTIONARY_DATA = [
     "character": "𘔼",
     "GX": "nuo¹",
     "GHC": "nio̱w¹",
-    "explanationEN": "CAUS: causal case",
+    "explanationEN": "CAUS: causative",
     "explanationCN": "CAUS： 致病性"
   },
   {
@@ -17502,14 +17502,14 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗺱",
-    "GX": "ẓwaə̱¹",
+    "GX": "ṣwaə̱¹",
     "GHC": "śiwə¹",
     "explanationEN": "mouse; rat",
     "explanationCN": "鼠;鼠"
   },
   {
     "character": "𗻤",
-    "GX": "ẓwaə̱¹",
+    "GX": "ṣwaə̱¹",
     "GHC": "śiwə¹",
     "explanationEN": "coral",
     "explanationCN": "珊瑚"
@@ -17818,9 +17818,9 @@ const DICTIONARY_DATA = [
   {
     "character": "𗼖",
     "GX": "lo¹",
-    "GHC": "¹",
+    "GHC": "ljo¹",
     "explanationEN": "good fortune",
-    "explanationCN": "好运"
+    "explanationCN": "福"
   },
   {
     "character": "𗼈",
@@ -17873,10 +17873,10 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗁓",
-    "GX": "twa̱¹",
-    "GHC": "¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "GX": "tə̱¹",
+    "GHC": "tə¹",
+    "explanationEN": "得",
+    "explanationCN": "得"
   },
   {
     "character": "𗂇",
@@ -18007,9 +18007,9 @@ const DICTIONARY_DATA = [
   {
     "character": "𗂔",
     "GX": "sa̱¹",
-    "GHC": "¹",
+    "GHC": "sa¹",
     "explanationEN": "to swell; to choke",
-    "explanationCN": "膨胀;窒息"
+    "explanationCN": "胀"
   },
   {
     "character": "𗶣",
@@ -18065,7 +18065,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋah²",
     "GHC": "ŋjạ²",
     "explanationEN": "scar; defect; drawback",
-    "explanationCN": "疤;缺陷;缺点"
+    "explanationCN": "错"
   },
   {
     "character": "𗊩",
@@ -18363,7 +18363,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗨆",
-    "GX": "ẓae̱ṃ²",
+    "GX": "ṣae̱ṃ²",
     "GHC": "śiəj²",
     "explanationEN": "servant",
     "explanationCN": "仆人"
@@ -20899,7 +20899,7 @@ const DICTIONARY_DATA = [
     "character": "𗅁",
     "GX": "γu̱²",
     "GHC": "ˑu²",
-    "explanationEN": "INE: inessive case; inner, inside",
+    "explanationEN": "INE: inessive ; inner, inside",
     "explanationCN": "INE： 伊力尔 ;内部， 内部"
   },
   {
@@ -21235,8 +21235,8 @@ const DICTIONARY_DATA = [
     "character": "𘉪",
     "GX": "nwo²",
     "GHC": "njwo²",
-    "explanationEN": "moisture",
-    "explanationCN": "来嘲笑"
+    "explanationEN": "to ridicule",
+    "explanationCN": "嘲笑"
   },
   {
     "character": "𗊋",
@@ -21424,7 +21424,7 @@ const DICTIONARY_DATA = [
     "character": "𗋾",
     "GX": "źu²",
     "GHC": "źju²",
-    "explanationEN": "water",
+    "explanationEN": "fish",
     "explanationCN": "鱼"
   },
   {
@@ -21529,7 +21529,7 @@ const DICTIONARY_DATA = [
     "character": "𗢏",
     "GX": "si²",
     "GHC": "sji²",
-    "explanationEN": "PFV: to die ",
+    "explanationEN": "to die₂",
     "explanationCN": "去死₂"
   },
   {
@@ -21669,7 +21669,7 @@ const DICTIONARY_DATA = [
     "character": "𗫶",
     "GX": "de²",
     "GHC": "djij²",
-    "explanationEN": "TESTM: testimonial DUR: durative",
+    "explanationEN": "TESTM; DUR",
     "explanationCN": "TESTM;杜尔"
   },
   {
@@ -23475,7 +23475,7 @@ const DICTIONARY_DATA = [
     "character": "𗏣",
     "GX": "rer²",
     "GHC": "rjijr²",
-    "explanationEN": "DIRE: directive case; direction",
+    "explanationEN": "DIRE: directive ; direction",
     "explanationCN": "Dire： 指令 ;方向"
   },
   {
@@ -24721,7 +24721,7 @@ const DICTIONARY_DATA = [
     "character": "𗋸",
     "GX": "ma¹",
     "GHC": "mja¹",
-    "explanationEN": "PROB: probable",
+    "explanationEN": "PROB",
     "explanationCN": "概率"
   },
   {
@@ -24798,7 +24798,7 @@ const DICTIONARY_DATA = [
     "character": "𗇇",
     "GX": "hwa̱¹",
     "GHC": "xwa¹",
-    "explanationEN": "monk",
+    "explanationEN": "He",
     "explanationCN": "和尚"
   },
   {
@@ -25113,7 +25113,7 @@ const DICTIONARY_DATA = [
     "character": "𗫂",
     "GX": "ta¹",
     "GHC": "tja¹",
-    "explanationEN": "an affix",
+    "explanationEN": "TOP",
     "explanationCN": "返回页首"
   },
   {
@@ -25176,7 +25176,7 @@ const DICTIONARY_DATA = [
     "character": "𗧅",
     "GX": "rγər¹",
     "GHC": "ɣjɨr¹",
-    "explanationEN": "pron.royal I",
+    "explanationEN": "I.royal",
     "explanationCN": "I.皇家"
   },
   {
@@ -25762,7 +25762,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗤦",
-    "GX": "ẓaə̱²",
+    "GX": "ṣaə̱²",
     "GHC": "śiə²",
     "explanationEN": "a surname",
     "explanationCN": "姓氏"
@@ -25813,12 +25813,12 @@ const DICTIONARY_DATA = [
     "character": "𗾥",
     "GX": "sa²",
     "GHC": "sja²",
-    "explanationEN": "the day after tomorrow",
+    "explanationEN": "𗾥𗬥: the day after tomorrow; a transliteration; HYP: hypothetic",
     "explanationCN": "：后天;音译;HYP：假设"
   },
   {
     "character": "𘴄",
-    "GX": "ẓai̱²",
+    "GX": "ṣai̱²",
     "GHC": "śie²",
     "explanationEN": "a kind of bird",
     "explanationCN": "一种鸟"
@@ -26371,7 +26371,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗄽",
-    "GX": "ẓaa̱ṃ¹",
+    "GX": "ṣaa̱ṃ¹",
     "GHC": "śiã¹",
     "explanationEN": "hill; mountain",
     "explanationCN": "山;山"
@@ -26758,7 +26758,7 @@ const DICTIONARY_DATA = [
     "character": "𗇋",
     "GX": "rmer²",
     "GHC": "mjijr²",
-    "explanationEN": "an auxiliary word",
+    "explanationEN": "NMLZ: A",
     "explanationCN": "NMLZ：一个"
   },
   {
@@ -27281,7 +27281,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗐨",
-    "GX": "ẓai̱¹",
+    "GX": "ṣai̱¹",
     "GHC": "śie¹",
     "explanationEN": "rare; sparse",
     "explanationCN": "罕见;稀疏"
@@ -27444,7 +27444,7 @@ const DICTIONARY_DATA = [
     "character": "𗭪",
     "GX": "si²",
     "GHC": "sji²",
-    "explanationEN": "IFR: inferential",
+    "explanationEN": "IFR; NMLZ",
     "explanationCN": "国际金融准则;NMLZ"
   },
   {
@@ -27514,7 +27514,7 @@ const DICTIONARY_DATA = [
     "character": "𘀍",
     "GX": "na²",
     "GHC": "nja²",
-    "explanationEN": "pron. you",
+    "explanationEN": "you",
     "explanationCN": "你"
   },
   {
@@ -27596,7 +27596,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗐩",
-    "GX": "ẓai̱¹",
+    "GX": "ṣai̱¹",
     "GHC": "śie¹",
     "explanationEN": "a surname",
     "explanationCN": "姓氏"
@@ -28228,7 +28228,7 @@ const DICTIONARY_DATA = [
     "character": "𗍳",
     "GX": "ni²",
     "GHC": "nji²",
-    "explanationEN": "pron.honorific you",
+    "explanationEN": "you.hon",
     "explanationCN": "您"
   },
   {
@@ -28702,7 +28702,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗚏",
-    "GX": "ẓaa̱¹",
+    "GX": "ṣaa̱¹",
     "GHC": "śia¹",
     "explanationEN": "Chinese fir",
     "explanationCN": "杉木"
@@ -29087,7 +29087,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗜱",
-    "GX": "ẓao̱²",
+    "GX": "ṣao̱²",
     "GHC": "śio²",
     "explanationEN": "pointed; sharp",
     "explanationCN": "尖;锋利"
@@ -29290,7 +29290,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗚹",
-    "GX": "ẓwaa̱ṃ¹",
+    "GX": "ṣwaa̱ṃ¹",
     "GHC": "śiwã¹",
     "explanationEN": "bolt",
     "explanationCN": "螺栓"
@@ -31140,7 +31140,7 @@ const DICTIONARY_DATA = [
     "character": "𘓁",
     "GX": "lləh¹",
     "GHC": "ljɨ̣¹",
-    "explanationEN": "CONC: conjunction means “and”",
+    "explanationEN": "CONC;",
     "explanationCN": "CONC;"
   },
   {
@@ -31315,12 +31315,12 @@ const DICTIONARY_DATA = [
     "character": "𗶹",
     "GX": "śi²",
     "GHC": "śji²",
-    "explanationEN": "PFV: to go",
+    "explanationEN": "to go₂",
     "explanationCN": "去₂"
   },
   {
     "character": "𗷂",
-    "GX": "ẓai̱²",
+    "GX": "ṣai̱²",
     "GHC": "śie²",
     "explanationEN": "to pursue",
     "explanationCN": "追求"
@@ -31334,7 +31334,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗶵",
-    "GX": "ẓai̱²",
+    "GX": "ṣai̱²",
     "GHC": "śie²",
     "explanationEN": "to mate",
     "explanationCN": "交配"
@@ -31579,7 +31579,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗀚",
-    "GX": "ẓao̱¹",
+    "GX": "ṣao̱¹",
     "GHC": "śio¹",
     "explanationEN": "to guide; to lead",
     "explanationCN": "引导;领导"
@@ -31642,7 +31642,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗀢",
-    "GX": "ẓao̱²",
+    "GX": "ṣao̱²",
     "GHC": "śio²",
     "explanationEN": "to drive; to expel",
     "explanationCN": "开车;驱逐"
@@ -32029,7 +32029,7 @@ const DICTIONARY_DATA = [
     "character": "𗠟",
     "GX": "nśo¹",
     "GHC": "śjo̱¹",
-    "explanationEN": "to kill.ʙ",
+    "explanationEN": "to slaughter.ʙ",
     "explanationCN": "屠宰。"
   },
   {
@@ -32050,15 +32050,15 @@ const DICTIONARY_DATA = [
     "character": "𘉑",
     "GX": "mə¹",
     "GHC": "mjɨ¹",
-    "explanationEN": " indeterminative other",
+    "explanationEN": "indeterminative other",
     "explanationCN": "不确定的 其他"
   },
   {
     "character": "𘉒",
     "GX": "mo̱²",
     "GHC": "mo²",
-    "explanationEN": "shyness; shame",
-    "explanationCN": "HYP： 假设的;音译;羞耻"
+    "explanationEN": "HYP: hypothetic; a transliteration; shame",
+    "explanationCN": "HYP；耻"
   },
   {
     "character": "𗡏",
@@ -32239,7 +32239,7 @@ const DICTIONARY_DATA = [
     "character": "𘉞",
     "GX": "na²",
     "GHC": "nja²",
-    "explanationEN": "2SG: 2nd singular indexation",
+    "explanationEN": "2SG",
     "explanationCN": "2SG"
   },
   {
@@ -32272,7 +32272,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗠳",
-    "GX": "ẓai̱²",
+    "GX": "ṣai̱²",
     "GHC": "śie²",
     "explanationEN": "whistle",
     "explanationCN": "哨子"
@@ -32938,7 +32938,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𗔟",
     "GX": "rṇar¹",
-    "GHC": "n-¹",
+    "GHC": "njar¹",
     "explanationEN": "a surname",
     "explanationCN": "姓氏"
   },
@@ -32986,7 +32986,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗒢",
-    "GX": "ẓae̱¹",
+    "GX": "ṣae̱¹",
     "GHC": "śiej¹",
     "explanationEN": "to guide; to lead",
     "explanationCN": "引导;领导"
@@ -33371,7 +33371,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗒋",
-    "GX": "ẓao̱ṃ¹",
+    "GX": "ṣao̱ṃ¹",
     "GHC": "śiow¹",
     "explanationEN": "to gather; to collect",
     "explanationCN": "聚集;收集"
@@ -33812,7 +33812,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗓍",
-    "GX": "nẓaa̱²",
+    "GX": "nṣaa̱²",
     "GHC": "śia̱²",
     "explanationEN": "turbulent (current)",
     "explanationCN": "Turbulent （current） 湍流 （current）"
@@ -34059,7 +34059,7 @@ const DICTIONARY_DATA = [
     "character": "𘝨",
     "GX": "zoh²",
     "GHC": "zjọ²",
-    "explanationEN": "TIME.ʙ:  imperfective time",
+    "explanationEN": "TIME.ʙ",
     "explanationCN": "时间。"
   },
   {
@@ -34220,7 +34220,7 @@ const DICTIONARY_DATA = [
     "character": "𗐱",
     "GX": "ni²",
     "GHC": "nji²",
-    "explanationEN": "12PL: 1st/2nd plural indexation",
+    "explanationEN": "12PL",
     "explanationCN": "12PL"
   },
   {
@@ -34255,7 +34255,7 @@ const DICTIONARY_DATA = [
     "character": "𘎆",
     "GX": "dźwə¹",
     "GHC": "dźjwɨ¹",
-    "explanationEN": "pron. each other",
+    "explanationEN": "each other",
     "explanationCN": "彼此"
   },
   {
@@ -34589,7 +34589,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𗓥",
-    "GX": "ẓao̱ṃ²",
+    "GX": "ṣao̱ṃ²",
     "GHC": "śjow²",
     "explanationEN": "dawn; (early) morning",
     "explanationCN": "黎明;（清晨）"
@@ -36038,7 +36038,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘋾",
-    "GX": "ẓuo¹",
+    "GX": "ṣuo¹",
     "GHC": "śio̱w¹",
     "explanationEN": "god; patron saint",
     "explanationCN": "神;守护 神"
@@ -36612,7 +36612,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘂁",
-    "GX": "ẓai̱w²",
+    "GX": "ṣai̱w²",
     "GHC": "śiew²",
     "explanationEN": "color",
     "explanationCN": "颜色"
@@ -36647,7 +36647,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘖔",
-    "GX": "ẓwaa̱²",
+    "GX": "ṣwaa̱²",
     "GHC": "śiwa²",
     "explanationEN": "to shrink; to contract",
     "explanationCN": "缩小;签订合同"
@@ -37034,7 +37034,7 @@ const DICTIONARY_DATA = [
     "character": "𘃞",
     "GX": "lə¹",
     "GHC": "ljɨ¹",
-    "explanationEN": "one",
+    "explanationEN": "EXLAM",
     "explanationCN": "EXLAM 系列"
   },
   {
@@ -37116,7 +37116,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘋺",
-    "GX": "ẓuo¹",
+    "GX": "ṣuo¹",
     "GHC": "śio̱w¹",
     "explanationEN": "a surname",
     "explanationCN": "姓氏"
@@ -37410,14 +37410,14 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘐝",
-    "GX": "ẓae̱ṃ¹",
+    "GX": "ṣae̱ṃ¹",
     "GHC": "śiəj¹",
     "explanationEN": "to give birth; to bear",
     "explanationCN": "生孩子;承担"
   },
   {
     "character": "𘎛",
-    "GX": "nẓai̱¹",
+    "GX": "nṣai̱¹",
     "GHC": "śie̱¹",
     "explanationEN": "target; meaning",
     "explanationCN": "目标;意义"
@@ -37832,7 +37832,7 @@ const DICTIONARY_DATA = [
     "character": "𗯴",
     "GX": "khu¹",
     "GHC": "khju¹",
-    "explanationEN": "SUBE: subessive case",
+    "explanationEN": "SUBE: subessive",
     "explanationCN": "SUBE：潜移默化"
   },
   {
@@ -37978,9 +37978,9 @@ const DICTIONARY_DATA = [
   {
     "character": "𘍿",
     "GX": "rṇar¹",
-    "GHC": "¹",
+    "GHC": "njar¹",
     "explanationEN": "hawk; eagle",
-    "explanationCN": "鹰;鹰"
+    "explanationCN": "鹰"
   },
   {
     "character": "𗮂",
@@ -38131,7 +38131,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘏸",
-    "GX": "ẓaə̱¹",
+    "GX": "ṣaə̱¹",
     "GHC": "śiə¹",
     "explanationEN": "to send; to let somebody do",
     "explanationCN": "发送;让某人这样做"
@@ -38168,7 +38168,7 @@ const DICTIONARY_DATA = [
     "character": "𘋩",
     "GX": "do̱²",
     "GHC": "do²",
-    "explanationEN": "TERM: terminative case",
+    "explanationEN": "TERM: terminative",
     "explanationCN": "术语：terminative"
   },
   {
@@ -38510,7 +38510,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𗮗",
     "GX": "bə¹",
-    "GHC": "¹",
+    "GHC": "bjɨ¹",
     "explanationEN": "cheek",
     "explanationCN": "脸颊"
   },
@@ -38726,7 +38726,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘎀",
-    "GX": "ẓaə̱²",
+    "GX": "ṣaə̱²",
     "GHC": "śiə²",
     "explanationEN": "a kind of bird",
     "explanationCN": "一种鸟"
@@ -38831,7 +38831,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘛕",
-    "GX": "ẓwaə̱²",
+    "GX": "ṣwaə̱²",
     "GHC": "śiwə²",
     "explanationEN": "gorgeous; splendid",
     "explanationCN": "华丽;灿烂"
@@ -39405,8 +39405,8 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘁋",
-    "GX": "ṇ??",
-    "GHC": "?",
+    "GX": "rṇar¹",
+    "GHC": "njar¹",
     "explanationEN": "tooth",
     "explanationCN": "牙"
   },
@@ -39554,7 +39554,7 @@ const DICTIONARY_DATA = [
     "character": "𘏚",
     "GX": "tih²",
     "GHC": "tjị²",
-    "explanationEN": "the place where something happen",
+    "explanationEN": "NMLZ: LOC",
     "explanationCN": "NMLZ：LOC"
   },
   {
@@ -39897,7 +39897,7 @@ const DICTIONARY_DATA = [
     "character": "𘃦",
     "GX": "nllə¹",
     "GHC": "ljɨ̱¹",
-    "explanationEN": "to do; to act; can",
+    "explanationEN": "to do; to be able",
     "explanationCN": "去做; 能够"
   },
   {
@@ -40141,7 +40141,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𘐦",
     "GX": "vwuh¹",
-    "GHC": "¹",
+    "GHC": "wjụ¹",
     "explanationEN": "bottle; jar",
     "explanationCN": "瓶;罐"
   },
@@ -40220,7 +40220,7 @@ const DICTIONARY_DATA = [
     "GX": "???",
     "GHC": "?",
     "explanationEN": "to lose conscience",
-    "explanationCN": "失去良心"
+    "explanationCN": "昏迷"
   },
   {
     "character": "𘍩",
@@ -40234,14 +40234,14 @@ const DICTIONARY_DATA = [
     "GX": "rtser¹",
     "GHC": "tsji̱r¹",
     "explanationEN": "to select; to choose",
-    "explanationCN": "进行选择;以选择"
+    "explanationCN": "选择"
   },
   {
     "character": "𘞮",
     "GX": "gi¹",
     "GHC": "gji¹",
-    "explanationEN": "sharp weapon; efficient instrument",
-    "explanationCN": "利器;高效仪表"
+    "explanationEN": "sharp",
+    "explanationCN": "利"
   },
   {
     "character": "𘐣",
@@ -40266,7 +40266,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘂰",
-    "GX": "nẓao̱²",
+    "GX": "nṣao̱²",
     "GHC": "śio̱²",
     "explanationEN": "twin; a pair of",
     "explanationCN": "双;一对"
@@ -40399,7 +40399,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘎟",
-    "GX": "nẓaa̱²",
+    "GX": "nṣaa̱²",
     "GHC": "śia̱²",
     "explanationEN": "at will; causally",
     "explanationCN": "信;因果"
@@ -40477,7 +40477,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𘕩",
     "GX": "nsi¹",
-    "GHC": "¹",
+    "GHC": "sji̱¹",
     "explanationEN": "to cry bitterly; to wail; to condole",
     "explanationCN": "痛哭;哀号;哀悼"
   },
@@ -40596,9 +40596,9 @@ const DICTIONARY_DATA = [
   {
     "character": "𘟧",
     "GX": "rnoṃr²",
-    "GHC": "²",
+    "GHC": "njowr²",
     "explanationEN": "to roll up; to contract; to crease",
-    "explanationCN": "卷起;签订合同;折痕"
+    "explanationCN": "卷"
   },
   {
     "character": "𘝳",
@@ -40744,12 +40744,12 @@ const DICTIONARY_DATA = [
     "character": "𘂆",
     "GX": "tsə¹",
     "GHC": "tsjɨ¹",
-    "explanationEN": "also; too; small; 2DU: 2nd dual indexation",
+    "explanationEN": "also; too; small; 2DU",
     "explanationCN": "也;太;小;2DU"
   },
   {
     "character": "𗕉",
-    "GX": "ẓao̱ṃ²",
+    "GX": "ṣao̱ṃ²",
     "GHC": "śjow²",
     "explanationEN": "otter",
     "explanationCN": "水獭"
@@ -40820,7 +40820,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𘌡",
     "GX": "lwi¹",
-    "GHC": "¹",
+    "GHC": "ljwi¹",
     "explanationEN": "seed",
     "explanationCN": "种子"
   },
@@ -40890,14 +40890,14 @@ const DICTIONARY_DATA = [
   {
     "character": "𗗤",
     "GX": "lwə̱²",
-    "GHC": "²",
+    "GHC": "lwə²",
     "explanationEN": "trade",
-    "explanationCN": "贸易"
+    "explanationCN": "买"
   },
   {
     "character": "𗈯",
     "GX": "rγai̱r¹",
-    "GHC": "¹",
+    "GHC": "ɣier¹",
     "explanationEN": "to die",
     "explanationCN": "去死"
   },
@@ -41079,9 +41079,9 @@ const DICTIONARY_DATA = [
   {
     "character": "𘌟",
     "GX": "pae̱²",
-    "GHC": "²",
+    "GHC": "piej²",
     "explanationEN": "to combine; to unite",
-    "explanationCN": "组合在一起;团结起来"
+    "explanationCN": "卷"
   },
   {
     "character": "𘌅",
@@ -41225,7 +41225,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘂒",
-    "GX": "ẓai̱²",
+    "GX": "ṣai̱²",
     "GHC": "śie²",
     "explanationEN": "a kind of grass",
     "explanationCN": "一种草"
@@ -41316,7 +41316,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘕵",
-    "GX": "ẓai̱w¹",
+    "GX": "ṣai̱w¹",
     "GHC": "śiew¹",
     "explanationEN": "branch; twig",
     "explanationCN": "分支;树枝"
@@ -41331,9 +41331,9 @@ const DICTIONARY_DATA = [
   {
     "character": "𘂐",
     "GX": "bae̱h²",
-    "GHC": "²",
+    "GHC": "biẹj²",
     "explanationEN": "a unit of measurement",
-    "explanationCN": "测量单位"
+    "explanationCN": "条"
   },
   {
     "character": "𘂉",
@@ -41422,9 +41422,9 @@ const DICTIONARY_DATA = [
   {
     "character": "𗯛",
     "GX": "kwə¹",
-    "GHC": "¹",
-    "explanationEN": "to cut; to break",
-    "explanationCN": "切割;打破"
+    "GHC": "kjwɨ¹",
+    "explanationEN": "to cut",
+    "explanationCN": "砍伐"
   },
   {
     "character": "𗈱",
@@ -41478,7 +41478,7 @@ const DICTIONARY_DATA = [
   {
     "character": "𘕙",
     "GX": "tsə̱¹",
-    "GHC": "¹",
+    "GHC": "tsə¹",
     "explanationEN": "a transliteration",
     "explanationCN": "音译"
   },
@@ -41514,8 +41514,8 @@ const DICTIONARY_DATA = [
     "character": "𘕘",
     "GX": "tsə̱¹",
     "GHC": "tsə¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "资紫子茨芝孜梓",
+    "explanationCN": "资紫子茨芝孜梓"
   },
   {
     "character": "𘌋",
@@ -41667,9 +41667,9 @@ const DICTIONARY_DATA = [
   {
     "character": "𘝡",
     "GX": "nlo̱r¹",
-    "GHC": "¹",
+    "GHC": "ljo̱r¹",
     "explanationEN": "flame",
-    "explanationCN": "火焰"
+    "explanationCN": "焰"
   },
   {
     "character": "𗈫",
@@ -41772,9 +41772,9 @@ const DICTIONARY_DATA = [
   {
     "character": "𗯐",
     "GX": "rγo̱r²",
-    "GHC": "²",
+    "GHC": "ɣor²",
     "explanationEN": "to contend; to vie; to strive",
-    "explanationCN": "去争辩;争夺;努力"
+    "explanationCN": "争(讹字)"
   },
   {
     "character": "𘂙",
@@ -41813,7 +41813,7 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘂥",
-    "GX": "ẓao̱ṃ²",
+    "GX": "ṣao̱ṃ²",
     "GHC": "śjow²",
     "explanationEN": "grey; ashy color",
     "explanationCN": "灰色;灰白色"
@@ -41869,8 +41869,8 @@ const DICTIONARY_DATA = [
   },
   {
     "character": "𘒬",
-    "GX": "nne¹",
-    "GHC": "¹",
+    "GX": "???",
+    "GHC": "?",
     "explanationEN": "to bear; to endure",
     "explanationCN": "承担;忍耐"
   },
@@ -41976,36 +41976,36 @@ const DICTIONARY_DATA = [
     "character": "𘟱",
     "GX": "nao̱h²",
     "GHC": "ku²",
-    "explanationEN": "mortar",
-    "explanationCN": "臼"
+    "explanationEN": "a transliteration",
+    "explanationCN": "音译"
   },
   {
     "character": "𘒱",
     "GX": "ta̱¹",
     "GHC": "ta¹",
-    "explanationEN": "presently; in a moment",
-    "explanationCN": "目前;片刻"
+    "explanationEN": "mortar",
+    "explanationCN": "臼"
   },
   {
     "character": "𗈴",
     "GX": "ror²",
     "GHC": "rjor²",
-    "explanationEN": "centre; among; middle",
-    "explanationCN": "中心;中;中间"
+    "explanationEN": "presently; in a moment",
+    "explanationCN": "目前;片刻"
   },
   {
     "character": "𘂤",
     "GX": "qha̱¹",
     "GHC": "kha¹",
-    "explanationEN": "INTESS: interessive case",
-    "explanationCN": "INTESS： interessive"
+    "explanationEN": "INTESS",
+    "explanationCN": "INTESS"
   },
   {
     "character": "𗳓",
     "GX": "rśar¹",
     "GHC": "śjar¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "awn",
+    "explanationCN": "芒"
   },
   {
     "character": "𗄌",
@@ -42109,36 +42109,36 @@ const DICTIONARY_DATA = [
     "character": "𗉆",
     "GX": "mpai̱¹",
     "GHC": "pie̱¹",
-    "explanationEN": "to bow; to salute",
-    "explanationCN": "鞠躬;致敬"
+    "explanationEN": "a transliteration",
+    "explanationCN": "音译"
   },
   {
     "character": "𘅛",
     "GX": "kuh¹",
-    "GHC": "¹",
-    "explanationEN": "collapse",
-    "explanationCN": "崩溃"
+    "GHC": "kjụ¹",
+    "explanationEN": "to bow; to salute",
+    "explanationCN": "礼拜"
   },
   {
     "character": "𗳙",
     "GX": "qa̱¹",
-    "GHC": "¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "GHC": "ka¹",
+    "explanationEN": "collapse",
+    "explanationCN": "圮"
   },
   {
     "character": "𗶑",
     "GX": "tṣwao̱²",
     "GHC": "tśiwo²",
-    "explanationEN": "a surname",
-    "explanationCN": "姓氏"
+    "explanationEN": "a transliteration",
+    "explanationCN": "音译"
   },
   {
     "character": "𗘇",
     "GX": "tśu²",
     "GHC": "tśju²",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "a surname",
+    "explanationCN": "姓氏"
   },
   {
     "character": "𗹆",
@@ -42179,15 +42179,15 @@ const DICTIONARY_DATA = [
     "character": "𘄶",
     "GX": "bweh¹",
     "GHC": "biwịj¹",
-    "explanationEN": "many",
-    "explanationCN": "多"
+    "explanationEN": "a transliteration",
+    "explanationCN": "音译"
   },
   {
     "character": "𗰕",
     "GX": "???",
     "GHC": "?",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "many",
+    "explanationCN": "多"
   },
   {
     "character": "𗶖",
@@ -42235,57 +42235,57 @@ const DICTIONARY_DATA = [
     "character": "𗪶",
     "GX": "rpi̱r²",
     "GHC": "pe̱r²",
+    "explanationEN": "a transliteration",
+    "explanationCN": "音译"
+  },
+  {
+    "character": "𘜢",
+    "GX": "rkwar¹",
+    "GHC": "kjwar¹",
     "explanationEN": "immediately; at once; promptly",
     "explanationCN": "马上;立即;及时"
   },
   {
-    "character": "𘜢",
+    "character": "𘜥",
     "GX": "rkwar¹",
     "GHC": "kjwar¹",
     "explanationEN": "to spread; very fast; rapid",
     "explanationCN": "传播;非常快;快速"
   },
   {
-    "character": "𘜥",
-    "GX": "rkwar¹",
-    "GHC": "kjwar¹",
-    "explanationEN": "to run; to speed",
-    "explanationCN": "跑;速度"
-  },
-  {
     "character": "𘚼",
     "GX": "lwəh¹",
-    "GHC": "¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "GHC": "ljwɨ̣¹",
+    "explanationEN": "to run; to speed",
+    "explanationCN": "奔"
   },
   {
     "character": "𗊤",
     "GX": "tśa¹",
     "GHC": "tśja¹",
-    "explanationEN": "to run away; to flee",
-    "explanationCN": "逃跑;逃跑"
+    "explanationEN": "a transliteration",
+    "explanationCN": "音译"
   },
   {
     "character": "𗾼",
     "GX": "bo̱ṃh²",
-    "GHC": "²",
-    "explanationEN": "vegetable; greens; firewood",
-    "explanationCN": "蔬菜;绿色;柴"
+    "GHC": "bọ²",
+    "explanationEN": "to run away; to flee",
+    "explanationCN": "逃跑;逃跑"
   },
   {
     "character": "𗻥",
-    "GX": "???",
-    "GHC": "?",
-    "explanationEN": "rapid speed",
-    "explanationCN": "快速"
+    "GX": "si̱¹",
+    "GHC": "se¹",
+    "explanationEN": "mustard",
+    "explanationCN": "芥菜"
   },
   {
     "character": "𘜣",
     "GX": "rdzər¹",
-    "GHC": "¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "GHC": "dzjɨr¹",
+    "explanationEN": "rapid speed",
+    "explanationCN": "疾"
   },
   {
     "character": "𗾁",
@@ -42298,15 +42298,15 @@ const DICTIONARY_DATA = [
     "character": "𗊳",
     "GX": "tśweṃh¹",
     "GHC": "tśwɨ̣j¹",
-    "explanationEN": "to instruct",
-    "explanationCN": "指示"
+    "explanationEN": "a transliteration",
+    "explanationCN": "音译"
   },
   {
     "character": "𗼧",
     "GX": "qai̱w¹",
     "GHC": "kiew¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "to instruct",
+    "explanationCN": "敕"
   },
   {
     "character": "𗌫",
@@ -42319,29 +42319,29 @@ const DICTIONARY_DATA = [
     "character": "𗌐",
     "GX": "tswa¹",
     "GHC": "tsjwa¹",
-    "explanationEN": "a kind of tree",
-    "explanationCN": "一种树"
+    "explanationEN": "a transliteration",
+    "explanationCN": "音译"
   },
   {
     "character": "𗻹",
     "GX": "mbu̱¹",
     "GHC": "bu̱¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "a kind of grass",
+    "explanationCN": "一种草"
   },
   {
     "character": "𗫰",
     "GX": "rpaa̱r¹",
     "GHC": "piar¹",
-    "explanationEN": "to descend; to land",
-    "explanationCN": "下降;降落"
+    "explanationEN": "a transliteration",
+    "explanationCN": "音译"
   },
   {
     "character": "𘜠",
     "GX": "rśa̱r²",
     "GHC": "śar²",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "to descend; to land",
+    "explanationCN": "降落"
   },
   {
     "character": "𗌟",
@@ -42389,12 +42389,12 @@ const DICTIONARY_DATA = [
     "character": "𗝴",
     "GX": "rtu̱r¹",
     "GHC": "tur¹",
-    "explanationEN": "a surname",
-    "explanationCN": "姓氏"
+    "explanationEN": "a transliteration",
+    "explanationCN": "音译"
   },
   {
     "character": "𗞗",
-    "GX": "ẓai̱w¹",
+    "GX": "ṣai̱w¹",
     "GHC": "śiew¹",
     "explanationEN": "a surname",
     "explanationCN": "姓氏"
@@ -42403,8 +42403,8 @@ const DICTIONARY_DATA = [
     "character": "𘞕",
     "GX": "vwa̱ṃ²",
     "GHC": "wã²",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "a surname",
+    "explanationCN": "姓氏"
   },
   {
     "character": "𗷗",
@@ -42424,120 +42424,120 @@ const DICTIONARY_DATA = [
     "character": "𗷊",
     "GX": "ta̱¹",
     "GHC": "ta¹",
-    "explanationEN": "a surname",
-    "explanationCN": "姓氏"
+    "explanationEN": "a transliteration",
+    "explanationCN": "音译"
   },
   {
     "character": "𗒏",
     "GX": "ġao̱¹",
     "GHC": "gio¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "a surname",
+    "explanationCN": "姓氏"
   },
   {
     "character": "𘍜",
     "GX": "mpə̱¹",
     "GHC": "pə̱¹",
-    "explanationEN": "to call; to shout; to yell",
-    "explanationCN": "打电话;大喊大叫;大喊大叫"
+    "explanationEN": "a transliteration",
+    "explanationCN": "音译"
   },
   {
     "character": "𘗑",
     "GX": "vw?¹",
     "GHC": "w-¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "to call; to shout; to yell",
+    "explanationCN": "喊"
   },
   {
     "character": "𘍕",
     "GX": "tśuh¹",
     "GHC": "tśjụ¹",
-    "explanationEN": "to pull out; to move or adjust; to pinch",
-    "explanationCN": "拉出;移动或调整;捏合"
+    "explanationEN": "a transliteration",
+    "explanationCN": "音译"
   },
   {
     "character": "𘃘",
     "GX": "ke¹",
     "GHC": "kjij¹",
-    "explanationEN": "to gallop; to speed",
-    "explanationCN": "驰骋;速度"
+    "explanationEN": "to pull out; to move or adjust; to pinch",
+    "explanationCN": "搓"
   },
   {
     "character": "𘍅",
     "GX": "rgwar¹",
-    "GHC": "¹",
-    "explanationEN": "calf",
-    "explanationCN": "小腿"
+    "GHC": "gjwar¹",
+    "explanationEN": "to gallop; to speed",
+    "explanationCN": "驰"
   },
   {
     "character": "𘁌",
     "GX": "lwəh¹",
-    "GHC": "¹",
-    "explanationEN": "surprised; astonished",
-    "explanationCN": "惊讶;惊讶"
+    "GHC": "ljwɨ̣¹",
+    "explanationEN": "calf",
+    "explanationCN": "犊"
   },
   {
     "character": "𘍱",
     "GX": "tṣhaa̱¹",
-    "GHC": "¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "GHC": "tśhia¹",
+    "explanationEN": "诧",
+    "explanationCN": "诧"
   },
   {
     "character": "𘐜",
     "GX": "rpi̱r²",
     "GHC": "pe̱r²",
-    "explanationEN": "one’s name",
-    "explanationCN": "一个人的名字"
+    "explanationEN": "a transliteration",
+    "explanationCN": "音译"
   },
   {
     "character": "𘝴",
     "GX": "gaw¹",
     "GHC": "gja̱¹",
-    "explanationEN": "a surname",
-    "explanationCN": "姓氏"
+    "explanationEN": "one’s name",
+    "explanationCN": "人名；嗲"
   },
   {
     "character": "𘐮",
     "GX": "rġa̱r¹",
     "GHC": "gar¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "a surname",
+    "explanationCN": "姓氏"
   },
   {
     "character": "𘍛",
     "GX": "tśuh¹",
     "GHC": "tśjụ¹",
-    "explanationEN": "to speak bluntly",
-    "explanationCN": "直言不讳"
+    "explanationEN": "a transliteration",
+    "explanationCN": "音译"
   },
   {
     "character": "𘕍",
     "GX": "tśhiw¹",
     "GHC": "tśhjiw¹",
-    "explanationEN": "honest; upright; fairminded",
-    "explanationCN": "诚实;直立;公正"
+    "explanationEN": "to speak bluntly",
+    "explanationCN": "说真话"
   },
   {
     "character": "𘛑",
     "GX": "tśhiw¹",
     "GHC": "tśhjiw¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "honest; upright; fairminded",
+    "explanationCN": "正直"
   },
   {
     "character": "𘑎",
     "GX": "te¹",
     "GHC": "tjij¹",
-    "explanationEN": "to do forced labor",
-    "explanationCN": "从事强迫劳动"
+    "explanationEN": "a transliteration",
+    "explanationCN": "音译"
   },
   {
     "character": "𗯣",
     "GX": "ŋġu̱²",
-    "GHC": "²",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "GHC": "gu̱²",
+    "explanationEN": "to do forced labor",
+    "explanationCN": "役"
   },
   {
     "character": "𘑋",
@@ -42550,36 +42550,36 @@ const DICTIONARY_DATA = [
     "character": "𘌝",
     "GX": "pu²",
     "GHC": "pju²",
-    "explanationEN": "to cut; to break; to snap",
-    "explanationCN": "切割;打破;捕捉"
+    "explanationEN": "a transliteration",
+    "explanationCN": "音译"
   },
   {
     "character": "𗯙",
     "GX": "gwə¹",
-    "GHC": "¹",
-    "explanationEN": "centre; among; middle",
-    "explanationCN": "中心;中;中间"
+    "GHC": "gjwɨ¹",
+    "explanationEN": "to cut",
+    "explanationCN": "割 伐"
   },
   {
     "character": "𘂧",
     "GX": "qha̱¹",
-    "GHC": "¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "GHC": "kha¹",
+    "explanationEN": "INTESS",
+    "explanationCN": "INTESS"
   },
   {
     "character": "𘟭",
     "GX": "??",
     "GHC": "ya",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "雅",
+    "explanationCN": "雅"
   },
   {
     "character": "𘟮",
     "GX": "??",
     "GHC": "źja",
-    "explanationEN": "a transliteration",
-    "explanationCN": "音译"
+    "explanationEN": "社",
+    "explanationCN": "社"
   },
   {
     "character": "𘟯",
