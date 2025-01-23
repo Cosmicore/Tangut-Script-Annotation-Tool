@@ -13,7 +13,7 @@ async function loadDictionary() {
 }
 
 function generate() {
-    const inputText = document.getElementById('input-text').value.trim();
+    const inputText = document.getElementById('output').value.trim();
     if (!inputText) {
         alert('请输入要查询的字符！');
         return;
@@ -91,7 +91,7 @@ function generateObsidianOutput(chars, lang, readingSystem) {
 }
 
 function clearAll() {
-    document.getElementById('input-text').value = '';
+    document.getElementById('output').value = '';
     document.getElementById('output-text').value = '';
 }
 

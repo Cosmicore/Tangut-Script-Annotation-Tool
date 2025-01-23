@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Noto+Serif+SC:wght@200..900&family=Noto+Serif+Tangut&display=swap" rel="stylesheet">
     <title>西夏文自动标注工具 α</title>
     <style>
-            .input-section textarea {
+        .input-section textarea {
         width: 95%;
         height: 100px;  /* 或者根据需要调整高度 */
         padding: 12px 15px;
@@ -20,7 +20,7 @@
         font-family: inherit;
     }
 
-    .input-section textarea:focus {
+        .input-section textarea:focus {
         outline: none;
         border-color: var(--primary-color);
         box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.1);
@@ -222,6 +222,138 @@
                 flex: 1;
             }
         }
+
+    .results-viewport {
+        width: 95%;
+        overflow-x: auto;
+        white-space: nowrap;
+        padding: 10px;
+        background: var(--secondary-color);
+        border-radius: var(--border-radius);
+        margin: 0 auto;
+    }
+
+    .results-wrapper {
+        display: inline-flex;
+        gap: 10px;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+    }
+
+    /* 美化 stroke-tab 样式 */
+    #stroke-tab {
+        width: 90%;
+        margin: 0 auto;
+        background: var(--secondary-color);
+        padding: 20px;
+        border-radius: var(--border-radius);
+    }
+
+    #stroke-pane {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+        align-items: center;
+    }
+
+    .stroke-entry-container {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 15px;
+        width: 90%;
+    }
+
+    #stroke-entry-field {
+        flex: 1;
+        padding: 8px 12px;
+        border: 2px solid #e1e4e8;
+        border-radius: var(--border-radius);
+        font-size: 16px;
+    }
+
+    .stroke-button {
+        padding: 8px 12px;
+        background: white;
+        border: 2px solid #e1e4e8;
+        border-radius: var(--border-radius);
+        cursor: pointer;
+        position: relative;
+        transition: all 0.3s ease;
+    }
+
+    .stroke-button:hover {
+        background: var(--primary-color);
+        color: white;
+        border-color: var(--primary-color);
+    }
+
+    .stroke-button .tooltip {
+        position: absolute;
+        bottom: 100%;
+        left: 50%;
+        transform: translateX(-50%);
+        padding: 5px 10px;
+        background: rgba(0, 0, 0, 0.8);
+        color: white;
+        border-radius: 4px;
+        font-size: 14px;
+        white-space: nowrap;
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.3s ease;
+    }
+
+    .stroke-button:hover .tooltip {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .checkbox-wrapper {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
+
+    .clear-strokes {
+        padding: 8px;
+        background: #ff4444;
+        color: white;
+        border: none;
+        border-radius: var(--border-radius);
+        cursor: pointer;
+    }
+
+    .clear-strokes:hover {
+        background: #cc0000;
+    }
+
+    .results-wrapper li {
+        cursor: pointer;
+        padding: 5px 10px;
+        background: white;
+        border-radius: var(--border-radius);
+        transition: all 0.3s ease;
+    }
+
+    .results-wrapper li:hover {
+        background: var(--primary-color);
+        color: white;
+    }
+
+    /* 修改 stroke-button 的颜色 */
+    .stroke-button {
+        color: #333; /* 设置为黑色 */
+        /* 保持其他样式不变 */
+        padding: 8px 12px;
+        background: white;
+        border: 2px solid #e1e4e8;
+        border-radius: var(--border-radius);
+        cursor: pointer;
+        position: relative;
+        transition: all 0.3s ease;
+    }
     </style>
 </head>
 <body>
@@ -229,14 +361,46 @@
         <h1>西夏文<br>自动标注工具 α</h1>
         
         <div class="input-section">
-            <label for="input-text">输入字符：</label>
-            <textarea id="input-text" placeholder="𘉰𘟀𘅇𘉪" rows="3"></textarea>
+            <label for="output">输入字符：</label>
+            <textarea id="output" placeholder="𘉰𘟀𘅇𘉪" rows="3"></textarea>
             <div class="button-group">
                 <button onclick="handleGenerate()">生成</button>
                 <button onclick="clearAll()">清除</button>
             </div>
         </div>
 
+        <div class="row" id="search-results">
+            <div class="col-sm-12">
+              <div class="results-viewport">
+                <ul id="result-list" class="results-wrapper">
+                  <!-- 通过JavaScript动态填充搜索结果 -->
+                </ul>
+              </div>
+            </div>
+        </div>
+
+        <!-- 修改 stroke-tab 部分的 HTML 结构 -->
+        <div class="tab-pane" id="stroke-tab">
+            <div class="stroke-entry-container">
+                <div class="checkbox-wrapper" title="starts with">
+                    <label onclick="toggleCheckbox('stroke-begins-with')">^</label>
+                    <input type="checkbox" id="stroke-begins-with"/>
+                </div>
+                <input type="text" id="stroke-entry-field" />
+                <div class="checkbox-wrapper" title="ends with">
+                    <input type="checkbox" id="stroke-ends-with"/>
+                    <label onclick="toggleCheckbox('stroke-ends-with')">$</label>
+                </div>
+
+            </div>
+            
+            <div id="stroke-buttons">
+                <!-- 使用 JavaScript 动态生成笔画按钮 -->  
+            </div>
+        </div>
+        <button class="clear-strokes" onclick="clearStrokeEntryField();">
+            清除
+        </button>
         <div class="controls">
             <div class="radio-group">
                 <label>语言选择：</label>
@@ -285,16 +449,125 @@
         © 𗼇𘝞𗫸𗯿𘍞
     </div>
 
-    <script src="dictionary.js"></script>
-    <script src="app.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="./txglook-data.js"></script>
+    <script type="text/javascript" src="./txglook.js"></script>
+    <script type="text/javascript" src="dictionary.js"></script>
+    <script type="text/javascript" src="app.js"></script>
     <script>
         function handleGenerate() {
-            const input = document.getElementById('input-text');
+            const input = document.getElementById('output');
             if (!input.value.trim() && input.placeholder) {
                 input.value = input.placeholder;
             }
             generate(); // 调用原有的 generate 函数
         }
+        const strokeData = [
+            { code: 'A', alt: '𘠀' },
+            { code: 'B', alt: '𘠁' },
+            { code: 'C', alt: '𘠂' },
+            { code: 'D', alt: '丶' },
+            { code: 'E', alt: '𠃍' },
+            { code: 'F', alt: '㇈' },
+            { code: 'G', alt: '㇇' },
+            { code: 'H', alt: '𘠄' },
+            { code: 'I', alt: '𘠅' },
+            { code: 'J', alt: '𠄎' },
+            { code: 'K', alt: '㇍' },
+            { code: 'L', alt: '𠄌' },
+            { code: 'M', alt: '𘠆' },
+            { code: 'N', alt: '㇊' },
+            { code: 'O', alt: '𘠈' },
+            { code: 'P', alt: '𡿨' },
+            { code: 'Q', alt: '㇏' },
+            { code: '.', alt: '1' },
+            { code: '*', alt: '0' }
+        ];
+
+        function createStrokeButtons() {
+            const container = document.getElementById('stroke-buttons');
+            strokeData.forEach(stroke => {
+                const button = document.createElement('button');
+                button.className = 'stroke-button';
+                button.onclick = () => insertStroke(stroke.code);
+                button.textContent = stroke.alt;
+                
+                const tooltip = document.createElement('span');
+                tooltip.className = 'tooltip';
+                tooltip.textContent = stroke.code;
+                button.appendChild(tooltip);
+                container.appendChild(button);
+            });
+        }
+
+        // 监听笔画输入框的变化
+        document.getElementById('stroke-entry-field').addEventListener('input', (e) => {
+            updateSearchResults(e.target.value);
+        });
+
+        // 切换复选框状态的函数
+        function toggleCheckbox(id) {
+            const checkbox = document.getElementById(id);
+            checkbox.checked = !checkbox.checked;
+            updateSearchResults(document.getElementById('stroke-entry-field').value);
+        }
+
+        // 清除笔画输入
+        function clearStrokeEntryField() {
+            document.getElementById('stroke-entry-field').value = '';
+            document.getElementById('result-list').innerHTML = '';
+        }
+
+        // 添加清除所有功能
+        function clearAll() {
+            document.getElementById('output').value = '';
+            document.getElementById('output-text').value = '';
+            document.getElementById('stroke-entry-field').value = '';
+            document.getElementById('result-list').innerHTML = '';
+            // 重置复选框
+            document.getElementById('stroke-begins-with').checked = false;
+            document.getElementById('stroke-ends-with').checked = false;
+        }
+
+        // 添加 updateSearchResults 函数定义
+        function updateSearchResults(value) {
+            const resultList = document.getElementById('result-list');
+            resultList.innerHTML = ''; // 清空现有结果
+            
+            if (!value) return; // 如果没有输入值，直接返回
+            
+            // 更新笔画输入（这会触发 txglook.js 中的 updateStrokeEntry 函数）
+            updateStrokeEntry();
+            
+            // 获取结果列表（resultList 应该是由 txglook.js 中的 updateResultsList 函数设置的全局变量）
+            if (window.resultList && window.resultList.length > 0) {
+                window.resultList.forEach(char => {
+                    const li = document.createElement('li');
+                    li.className = 'results-item';
+                    li.textContent = char;
+                                    
+                    // 添加点击事件
+                    li.setAttribute('onclick', `insertAtCursor('output', '${char}')`);
+                    
+                    resultList.appendChild(li);
+                });
+            }
+        }
+
+        // 修改页面加载初始化代码
+        document.addEventListener('DOMContentLoaded', () => {
+            createStrokeButtons();
+            
+            // 初始化笔画输入字段的事件监听器
+            const strokeEntryField = document.getElementById('stroke-entry-field');
+            if (strokeEntryField) {
+                strokeEntryField.addEventListener('input', (e) => {
+                    updateSearchResults(e.target.value);
+                });
+            }
+        });
     </script>
+    
 </body>
 </html>
