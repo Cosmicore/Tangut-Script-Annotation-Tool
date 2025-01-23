@@ -281,6 +281,8 @@
         cursor: pointer;
         position: relative;
         transition: all 0.3s ease;
+        font-family: Noto serif Tangut;
+        font-size: 16px;
     }
 
     .stroke-button:hover {
@@ -446,7 +448,7 @@
     </div>
     </div>
     <div class="footer" style="text-align: center; margin: 20px auto;">
-        © 𗼇𘝞𗫸𗯿𘍞
+        © 𗼇𘝞𗫸𗯿𘍞 <br> <a href="https://github.com/adlpr/TXGlook">🙏 TXGlook</a>
     </div>
 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -464,9 +466,9 @@
             generate(); // 调用原有的 generate 函数
         }
         const strokeData = [
-            { code: 'A', alt: '𘠀' },
-            { code: 'B', alt: '𘠁' },
-            { code: 'C', alt: '𘠂' },
+            { code: 'A', alt: '一' },
+            { code: 'B', alt: '丨' },
+            { code: 'C', alt: '丿' },
             { code: 'D', alt: '丶' },
             { code: 'E', alt: '𠃍' },
             { code: 'F', alt: '㇈' },
@@ -476,13 +478,13 @@
             { code: 'J', alt: '𠄎' },
             { code: 'K', alt: '㇍' },
             { code: 'L', alt: '𠄌' },
-            { code: 'M', alt: '𘠆' },
+            { code: 'M', alt: '乚' },
             { code: 'N', alt: '㇊' },
             { code: 'O', alt: '𘠈' },
             { code: 'P', alt: '𡿨' },
             { code: 'Q', alt: '㇏' },
-            { code: '.', alt: '1' },
-            { code: '*', alt: '0' }
+            { code: '.', alt: '.' },
+            { code: '*', alt: '*' }
         ];
 
         function createStrokeButtons() {
@@ -568,6 +570,5 @@
             }
         });
     </script>
-    
 </body>
 </html>
