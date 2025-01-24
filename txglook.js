@@ -18,6 +18,12 @@ function switchWritingMode(mode) {
 }
 
 
+// update rollover info text
+function rolloverResult(tangraph) {
+  document.getElementById("rollover-info").innerHTML = tangraph + ' ' + tangraphInfo[tangraph][3];
+}
+
+
 // update list of result tangraphs on page; max 80
 function updatePageResults(maxChars=80) {
   var resultUl = document.getElementById("result-list");
@@ -26,7 +32,7 @@ function updatePageResults(maxChars=80) {
     if (i >= maxChars) break;
     var tangraph = resultList[i];
     resultUl.innerHTML +=
-      '<li class="results-item"(\'' + tangraph +
+      '<li class="results-item" onmouseover="rolloverResult(\'' + tangraph +
       '\');" onclick="insertAtCursor(\'output\', \'' + tangraph +
       '\');">' + tangraph + '</li>';
   }
@@ -53,10 +59,6 @@ function insertAtCursor(elementId, char) {
     output.value += char;
   }
 }
-
-
-
-
 
 var lastRegex = "";
 
@@ -94,7 +96,6 @@ function updateResultsList() {
     }
     resultList = startsWithSeq.concat(containsSeq);
   } else {
-    
     // push in descending score order
     var allTangraphs = Object.keys(tangraphInfo);
     allTangraphs.sort(function(a,b){return tangraphScores[b]-tangraphScores[a];});

@@ -8,35 +8,22 @@
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Noto+Serif+SC:wght@200..900&family=Noto+Serif+Tangut&display=swap" rel="stylesheet">
     <title>西夏文自动标注工具 α</title>
     <style>
-        .input-section textarea {
-        width: 95%;
-        height: 100px;  /* 或者根据需要调整高度 */
-        padding: 12px 15px;
-        border: 2px solid #e1e4e8;
-        border-radius: var(--border-radius);
-        font-size: 16px;
-        transition: border-color 0.3s ease;
-        resize: vertical;
-        font-family: inherit;
-    }
-
-        .input-section textarea:focus {
-        outline: none;
-        border-color: var(--primary-color);
-        box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.1);
-    }
         :root {
             --primary-color: #4a90e2;
             --secondary-color: #f5f7fa;
             --text-color: #333;
             --border-radius: 8px;
+            --min-container-width: 420px;
+            --max-container-width: 1050px;
+            --standard-padding: 20px;
         }
 
         body {
             font-family: 'Fira Sans', 'Noto Serif SC', 'Noto Serif Tangut', sans-serif;
-            max-width: 1000px;
-            margin: 40px auto;
-            padding: 0 20px;
+            max-width: var(--max-container-width);
+            min-width: var(--min-container-width);
+            margin: clamp(20px, 4vw, 40px) auto;
+            padding: 0 var(--standard-padding);
             background-color: #f9fafb;
             color: var(--text-color);
             line-height: 1.6;
@@ -44,26 +31,29 @@
 
         .container {
             background-color: white;
-            padding: 30px;
+            padding: clamp(20px, 3vw, 30px);
             border-radius: var(--border-radius);
             box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
             display: flex;
             flex-direction: column;
-            gap: 25px;
+            gap: 10px;
+            min-width: calc(var(--min-container-width) - 2 * var(--standard-padding));
+            width: 100%;
+            box-sizing: border-box;
         }
 
         h1 {
             color: var(--primary-color);
             text-align: center;
-            margin: 0 0 20px 0;
+            margin: 0 0 clamp(15px, 2vw, 20px) 0;
             font-weight: 600;
-            font-size: 2em;
+            font-size: clamp(1.5em, 4vw, 2em);
         }
 
         .input-section {
             display: flex;
+            flex-direction: column;
             gap: 15px;
-            align-items: center;
             flex-wrap: wrap;
         }
 
@@ -72,89 +62,76 @@
             min-width: 90px;
         }
 
-        .input-section input[type="text"] {
-            flex-grow: 1;
+        .input-section textarea {
+            width: 100%;
+            min-height: 100px;
+            height: clamp(100px, 15vh, 150px);
             padding: 12px 15px;
             border: 2px solid #e1e4e8;
             border-radius: var(--border-radius);
-            font-size: 16px;
+            font-size: clamp(14px, 1.6vw, 16px);
             transition: border-color 0.3s ease;
+            resize: vertical;
+            font-family: inherit;
+            box-sizing: border-box;
         }
 
-        .input-section input[type="text"]:focus {
+        .input-section textarea:focus,
+        #stroke-entry-field:focus {
             outline: none;
             border-color: var(--primary-color);
             box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.1);
+        }
+
+        /* 修改 explanation 相关样式 */
+        .explanation {
+            padding: 0;
+            margin: 0;
+            height: 1.2em; /* 减小高度 */
+            line-height: 1.2em; /* 确保文字垂直居中 */
+            font-size: 0.9em; /* 稍微减小字体大小 */
+            color: #666; /* 使用较浅的颜色 */
+        }
+
+        #rollover-info {
+            height: 1.2em; /* 与 .explanation 保持一致 */
+            margin: 0; /* 移除上边距 */
+            padding: 0 5px; /* 仅保留水平方向的内边距 */
+            overflow: hidden; /* 改为 hidden 而不是 auto，除非真的需要滚动 */
+            white-space: nowrap;
+            overflow: auto;
         }
 
         .controls {
             display: flex;
             flex-wrap: wrap;
-            width: 95%;
-            gap: 20px;
+            width: 100%;
+            gap: clamp(10px, 2vw, 20px);
             padding: 15px;
             background-color: var(--secondary-color);
             border-radius: var(--border-radius);
+            box-sizing: border-box;
         }
 
         .radio-group {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            flex-wrap: wrap;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        flex-wrap: wrap;
+        min-width: 200px;
         }
-
-        .radio-group > label:first-child {
-            font-weight: 500;
-            white-space: nowrap;
-        }
-
-        .radio-group label {
-            display: flex;
-            align-items: center;
-            gap: 5px;
-            cursor: pointer;
-        }
-
-        .radio-group input[type="radio"] {
-            margin: 0;
-            cursor: pointer;
-        }
-
-        .output-section {
-            display: flex;
-                flex-direction: column;
-            gap: 15px;
-            }
-
-        textarea {
-            width: 95%;
-            height: 200px;
-            padding: 15px;
-            border: 2px solid #e1e4e8;
-            border-radius: var(--border-radius);
-            font-size: 16px;
-            resize: vertical;
-            font-family: inherit;
-            line-height: 1.5;
-            }
-
-        textarea:focus {
-            outline: none;
-            border-color: var(--primary-color);
-            box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.1);
-            }
 
         button {
-            padding: 10px 20px;
-            border: none;
-            border-radius: var(--border-radius);
-            background-color: var(--primary-color);
+            padding: clamp(8px, 1.5vw, 10px) clamp(15px, 2vw, 20px);
+        border: none;
+        border-radius: var(--border-radius);
+        background-color: var(--primary-color);
             color: white;
             font-weight: 500;
             cursor: pointer;
             transition: all 0.3s ease;
-            font-size: 16px;
+            font-size: clamp(14px, 1.6vw, 16px);
+            min-width: 80px;
         }
 
         button:hover {
@@ -171,191 +148,185 @@
             gap: 10px;
         }
 
-        .button-group button:last-child {
-            background-color: #e1e4e8;
-            color: var(--text-color);
-        }
-
-        .button-group button:last-child:hover {
-            background-color: #d1d5da;
-        }
+        .button-group button {
+                flex: 1;
+            }
 
         #copy-btn {
-            width: 90%;
-            align-self: center;
-            background-color: #28a745;
+        width: 100%;
+        max-width: 400px;
+        margin: 10px auto;
+        display: block;
         }
 
         #copy-btn:hover {
             background-color: #218838;
         }
 
-        @media (max-width: 95%) {
-            body {
-                margin: 20px auto;
-            }
+        .results-viewport {
+            width: 100%;
+            overflow-x: auto;
+            padding: clamp(8px, 1.5vw, 10px);
+            background: var(--secondary-color);
+            border-radius: var(--border-radius);
+            margin: 0 auto;
+        }
 
+        .results-wrapper {
+            display: inline-flex;
+            gap: 10px;
+            padding: 0;
+            margin: 0;
+            list-style: none;
+        }
+
+        .output-section {
+            width: 100%;
+        }
+
+        .output-section textarea {
+            width: 100%;
+            min-height: 200px;
+            height: clamp(200px, 25vh, 300px);
+        }
+
+        /* 美化 stroke-tab 样式 */
+        #stroke-tab {
+            width: 100%;
+            min-width: calc(var(--min-container-width) - 40px);
+            background: var(--secondary-color);
+            padding: clamp(15px, 2vw, 20px);
+            border-radius: var(--border-radius);
+            box-sizing: border-box;
+        }
+
+        .stroke-entry-container {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 15px;
+            width: 100%;
+            flex-wrap: nowrap;
+        }
+
+        #stroke-entry-field {
+            flex: 1;
+            min-width: 200px;
+            padding: 8px 12px;
+            border: 2px solid #e1e4e8;
+            border-radius: var(--border-radius);
+            font-size: clamp(14px, 1.6vw, 16px);
+        }
+
+        #stroke-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            justify-content: center;
+        }
+
+
+        .stroke-button {
+            min-width: 40px;
+            min-height: 40px;
+            padding: 8px;
+            font-size: clamp(14px, 1.6vw, 16px);
+        }
+
+        .stroke-button:hover {
+            background: var(--primary-color);
+            color: white;
+            border-color: var(--primary-color);
+        }
+
+        .stroke-button .tooltip {
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            padding: 5px 10px;
+            background: rgba(0, 0, 0, 0.8);
+            color: white;
+            border-radius: 4px;
+            font-size: 14px;
+            white-space: nowrap;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.3s ease;
+        }
+
+        .stroke-button:hover .tooltip {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        .checkbox-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            flex: 0 0 auto;
+            min-width: 30px;
+            justify-content: center;
+        }
+
+        /* 调整复选框和标签的样式 */
+        .checkbox-wrapper input[type="checkbox"] {
+            margin: 0;
+            cursor: pointer;
+        }
+
+        .checkbox-wrapper label {
+            cursor: pointer;
+            user-select: none;
+            white-space: nowrap;
+        }
+
+        .clear-strokes {
+            padding: 8px;
+            background: #ff4444;
+            color: white;
+            border: none;
+            border-radius: var(--border-radius);
+            cursor: pointer;
+        }
+
+        .clear-strokes:hover {
+            background: #cc0000;
+        }
+
+        .results-wrapper li {
+            cursor: pointer;
+            padding: 5px 10px;
+            background: white;
+            border-radius: var(--border-radius);
+            transition: all 0.3s ease;
+        }
+
+        .results-wrapper li:hover {
+            background: var(--primary-color);
+            color: white;
+        }
+
+        @media (max-width: 767px) {
             .container {
-                padding: 20px;
-            }
-
-            .input-section {
-                flex-direction: column;
-                align-items: stretch;
+                padding: 15px;
             }
 
             .controls {
                 flex-direction: column;
-                gap: 15px;
+                align-items: flex-start;
             }
 
             .radio-group {
-                justify-content: flex-start;
+                width: 100%;
             }
+        } 
 
-            .button-group {
-                flex-direction: row;
-                justify-content: stretch;
-            }
-
-            .button-group button {
-                flex: 1;
+        @media (max-width: 450px) {
+            :root {
+                --standard-padding: 10px;
             }
         }
-
-    .results-viewport {
-        width: 95%;
-        overflow-x: auto;
-        white-space: nowrap;
-        padding: 10px;
-        background: var(--secondary-color);
-        border-radius: var(--border-radius);
-        margin: 0 auto;
-    }
-
-    .results-wrapper {
-        display: inline-flex;
-        gap: 10px;
-        padding: 0;
-        margin: 0;
-        list-style: none;
-    }
-
-    /* 美化 stroke-tab 样式 */
-    #stroke-tab {
-        width: 90%;
-        margin: 0 auto;
-        background: var(--secondary-color);
-        padding: 20px;
-        border-radius: var(--border-radius);
-    }
-
-    #stroke-pane {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 15px;
-        align-items: center;
-    }
-
-    .stroke-entry-container {
-        display: flex;
-        align-items: center;
-        gap: 10px;
-        margin-bottom: 15px;
-        width: 90%;
-    }
-
-    #stroke-entry-field {
-        flex: 1;
-        padding: 8px 12px;
-        border: 2px solid #e1e4e8;
-        border-radius: var(--border-radius);
-        font-size: 16px;
-    }
-
-    .stroke-button {
-        padding: 8px 12px;
-        background: white;
-        border: 2px solid #e1e4e8;
-        border-radius: var(--border-radius);
-        cursor: pointer;
-        position: relative;
-        transition: all 0.3s ease;
-        font-family: Noto serif Tangut;
-        font-size: 16px;
-    }
-
-    .stroke-button:hover {
-        background: var(--primary-color);
-        color: white;
-        border-color: var(--primary-color);
-    }
-
-    .stroke-button .tooltip {
-        position: absolute;
-        bottom: 100%;
-        left: 50%;
-        transform: translateX(-50%);
-        padding: 5px 10px;
-        background: rgba(0, 0, 0, 0.8);
-        color: white;
-        border-radius: 4px;
-        font-size: 14px;
-        white-space: nowrap;
-        opacity: 0;
-        visibility: hidden;
-        transition: all 0.3s ease;
-    }
-
-    .stroke-button:hover .tooltip {
-        opacity: 1;
-        visibility: visible;
-    }
-
-    .checkbox-wrapper {
-        display: flex;
-        align-items: center;
-        gap: 5px;
-    }
-
-    .clear-strokes {
-        padding: 8px;
-        background: #ff4444;
-        color: white;
-        border: none;
-        border-radius: var(--border-radius);
-        cursor: pointer;
-    }
-
-    .clear-strokes:hover {
-        background: #cc0000;
-    }
-
-    .results-wrapper li {
-        cursor: pointer;
-        padding: 5px 10px;
-        background: white;
-        border-radius: var(--border-radius);
-        transition: all 0.3s ease;
-    }
-
-    .results-wrapper li:hover {
-        background: var(--primary-color);
-        color: white;
-    }
-
-    /* 修改 stroke-button 的颜色 */
-    .stroke-button {
-        color: #333; /* 设置为黑色 */
-        /* 保持其他样式不变 */
-        padding: 8px 12px;
-        background: white;
-        border: 2px solid #e1e4e8;
-        border-radius: var(--border-radius);
-        cursor: pointer;
-        position: relative;
-        transition: all 0.3s ease;
-    }
     </style>
 </head>
 <body>
@@ -371,15 +342,19 @@
             </div>
         </div>
 
-        <div class="row" id="search-results">
-            <div class="col-sm-12">
+        <ul class="explanation" id="rollover-info">
+            <!-- rollover info goes here -->
+        </ul>
+  
+          <div id="search-results">
               <div class="results-viewport">
-                <ul id="result-list" class="results-wrapper">
-                  <!-- 通过JavaScript动态填充搜索结果 -->
-                </ul>
+                  <ul id="result-list" class="results-wrapper">
+                      <!-- 通过JavaScript动态填充搜索结果 -->
+                  </ul>
               </div>
-            </div>
         </div>
+
+        
 
         <!-- 修改 stroke-tab 部分的 HTML 结构 -->
         <div class="tab-pane" id="stroke-tab">
@@ -452,7 +427,6 @@
     </div>
 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <script type="text/javascript" src="./txglook-data.js"></script>
     <script type="text/javascript" src="./txglook.js"></script>
     <script type="text/javascript" src="dictionary.js"></script>
