@@ -1440,7 +1440,7 @@ const DICTIONARY_DATA = [
     "GX": "mbu̱²",
     "GHC": "bu̱²",
     "explanationEN": "victory",
-    "explanationCN": "1.胜2.增3.殊4.音【卜】"
+    "explanationCN": "胜【卜】"
   },
   {
     "character": "𗗕",
@@ -1454,7 +1454,7 @@ const DICTIONARY_DATA = [
     "GX": "rbə̱r¹",
     "GHC": "bər¹",
     "explanationEN": "weak",
-    "explanationCN": "1.衰弱2.悴"
+    "explanationCN": "悴"
   },
   {
     "character": "𗙓",
@@ -1468,7 +1468,7 @@ const DICTIONARY_DATA = [
     "GX": "bi̱h¹",
     "GHC": "bẹ¹",
     "explanationEN": "bright",
-    "explanationCN": "1.明2.彻3.亮"
+    "explanationCN": "明亮"
   },
   {
     "character": "𗹊",
@@ -1489,21 +1489,21 @@ const DICTIONARY_DATA = [
     "GX": "ne¹",
     "GHC": "njij¹",
     "explanationEN": "relative",
-    "explanationCN": "1.亲2.近3.轻4.直5.邇"
+    "explanationCN": "亲近"
   },
   {
     "character": "𘔫",
     "GX": "lu̱h²",
     "GHC": "lụ²",
     "explanationEN": "impoverished",
-    "explanationCN": "1.贫2.穷3.乏4.绝5.糟糠"
+    "explanationCN": "贫"
   },
   {
     "character": "𘈣",
     "GX": "khi¹",
     "GHC": "khji¹",
     "explanationEN": "to open; to shine upon",
-    "explanationCN": "敞开、暴晒"
+    "explanationCN": "敞开暴晒"
   },
   {
     "character": "𘆞",
@@ -1545,7 +1545,7 @@ const DICTIONARY_DATA = [
     "GX": "lhi²",
     "GHC": "lhji²",
     "explanationEN": "child; infant",
-    "explanationCN": "幼儿"
+    "explanationCN": "婴"
   },
   {
     "character": "𗘷",
@@ -1580,7 +1580,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋwu̱¹",
     "GHC": "ŋwu¹",
     "explanationEN": "speech; word",
-    "explanationCN": "言、词"
+    "explanationCN": "言词"
   },
   {
     "character": "𗟽",
@@ -1594,14 +1594,14 @@ const DICTIONARY_DATA = [
     "GX": "ŋqae̱¹",
     "GHC": "kie̱j¹",
     "explanationEN": "to bite",
-    "explanationCN": "咬、嚙"
+    "explanationCN": "咬"
   },
   {
     "character": "𗗓",
     "GX": "ŋao̱ṃ²",
     "GHC": "ŋjow²",
     "explanationEN": "bottle; vase; jar; flask",
-    "explanationCN": "瓶（器皿）"
+    "explanationCN": "瓶"
   },
   {
     "character": "𘓰",
@@ -1636,7 +1636,7 @@ const DICTIONARY_DATA = [
     "GX": "ṣae̱h¹",
     "GHC": "śiẹj¹",
     "explanationEN": "to tie; to fasten",
-    "explanationCN": "拴、缚"
+    "explanationCN": "拴"
   },
   {
     "character": "𘜖",
@@ -1699,14 +1699,14 @@ const DICTIONARY_DATA = [
     "GX": "si²",
     "GHC": "sji²",
     "explanationEN": "daughter-in-law",
-    "explanationCN": "媳、女、妇、贞汉语借词"
+    "explanationCN": "妇女"
   },
   {
     "character": "𗳛",
     "GX": "qa̱¹",
     "GHC": "ka¹",
     "explanationEN": "a surname",
-    "explanationCN": "【阁】族姓"
+    "explanationCN": "阁"
   },
   {
     "character": "𗳡",
@@ -1720,7 +1720,7 @@ const DICTIONARY_DATA = [
     "GX": "me²",
     "GHC": "mjij²",
     "explanationEN": "calf",
-    "explanationCN": "牛犊（名）"
+    "explanationCN": "牛犊"
   },
   {
     "character": "𘑳",
@@ -1783,7 +1783,7 @@ const DICTIONARY_DATA = [
     "GX": "la̱h¹",
     "GHC": "lạ¹",
     "explanationEN": "pretense; flattery",
-    "explanationCN": "虚、諛、諂、妄、佞、诈、谎"
+    "explanationCN": "谄谀"
   },
   {
     "character": "𗸠",
@@ -1811,7 +1811,7 @@ const DICTIONARY_DATA = [
     "GX": "lwa¹",
     "GHC": "ljwa¹",
     "explanationEN": "to make a detailed inquiry",
-    "explanationCN": "追问、急"
+    "explanationCN": "追问"
   },
   {
     "character": "𘔐",
@@ -1825,7 +1825,7 @@ const DICTIONARY_DATA = [
     "GX": "mo²",
     "GHC": "mjo²",
     "explanationEN": "I.hum",
-    "explanationCN": "我、予、吾"
+    "explanationCN": "吾"
   },
   {
     "character": "𘞉",
@@ -1839,7 +1839,7 @@ const DICTIONARY_DATA = [
     "GX": "tuh²",
     "GHC": "tjụ²",
     "explanationEN": "ancestor",
-    "explanationCN": "祖、宗"
+    "explanationCN": "祖宗"
   },
   {
     "character": "𘜾",
@@ -1881,14 +1881,14 @@ const DICTIONARY_DATA = [
     "GX": "ŋkhə¹",
     "GHC": "khjɨ̱¹",
     "explanationEN": "to gather",
-    "explanationCN": "1.集结2.堪3.隠、固"
+    "explanationCN": "集结"
   },
   {
     "character": "𗍅",
     "GX": "rkər¹",
     "GHC": "kjɨ̱r¹",
     "explanationEN": "craftsman; craftsmanship",
-    "explanationCN": "1.工2.匠"
+    "explanationCN": "工匠"
   },
   {
     "character": "𗡠",
@@ -1902,42 +1902,42 @@ const DICTIONARY_DATA = [
     "GX": "le̱²",
     "GHC": "lej²",
     "explanationEN": "beautiful; cheerful",
-    "explanationCN": "美丽、欢快"
+    "explanationCN": "美"
   },
   {
     "character": "𘅊",
     "GX": "le̱¹",
     "GHC": "lej¹",
     "explanationEN": "a surname",
-    "explanationCN": "【来】、【赖】族姓"
+    "explanationCN": "【来】【赖】"
   },
   {
     "character": "𘅩",
     "GX": "tśeh¹",
     "GHC": "tsjịj¹",
     "explanationEN": "rope",
-    "explanationCN": "索（械）"
+    "explanationCN": "绳索"
   },
   {
     "character": "𗳣",
     "GX": "mbi²",
     "GHC": "bji̱²",
     "explanationEN": "to cover",
-    "explanationCN": "1.覆盖2.音【迷】、【糜】、【密】、【蜜】、【眉】、【弥】、【汩】、【美】、【宓】"
+    "explanationCN": "覆盖【迷】【糜】【密】【蜜】【眉】【弥】【汩】【美】【宓】"
   },
   {
     "character": "𗸱",
     "GX": "no̱²",
     "GHC": "no²",
     "explanationEN": "son or daughter",
-    "explanationCN": "1.子2.士、先生3.又音【朗】"
+    "explanationCN": "子先生【朗】"
   },
   {
     "character": "𘑽",
     "GX": "zi²",
     "GHC": "źji²",
     "explanationEN": "to move (revolve)",
-    "explanationCN": "移动（旋转）"
+    "explanationCN": "移动"
   },
   {
     "character": "𘘺",
@@ -1951,7 +1951,7 @@ const DICTIONARY_DATA = [
     "GX": "tśaw¹",
     "GHC": "tśja̱¹",
     "explanationEN": "to indicate",
-    "explanationCN": "1.指示、唆使3.又音【昭】、【照】、【朝】"
+    "explanationCN": "指使【昭】【照】【朝】"
   },
   {
     "character": "𗍌",
@@ -1965,21 +1965,21 @@ const DICTIONARY_DATA = [
     "GX": "rtsi̱r¹",
     "GHC": "tser¹",
     "explanationEN": "hare",
-    "explanationCN": "兔、卯"
+    "explanationCN": "兔卯"
   },
   {
     "character": "𗉲",
     "GX": "tśhiw¹",
     "GHC": "tśhjiw¹",
     "explanationEN": "other; another",
-    "explanationCN": "彼、尔"
+    "explanationCN": "彼"
   },
   {
     "character": "𗙾",
     "GX": "qwae̱ṃ²",
     "GHC": "kiwəj²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【金】族姓2.金色"
+    "explanationCN": "【金】金色"
   },
   {
     "character": "𘈝",
@@ -2021,7 +2021,7 @@ const DICTIONARY_DATA = [
     "GX": "vwi̱²",
     "GHC": "we²",
     "explanationEN": "wall; city; castle",
-    "explanationCN": "1.城2.州、墙、宇、捨、埤、焰"
+    "explanationCN": "城"
   },
   {
     "character": "𗍊",
@@ -2035,28 +2035,28 @@ const DICTIONARY_DATA = [
     "GX": "rkər¹",
     "GHC": "kjɨ̱r¹",
     "explanationEN": "muscle",
-    "explanationCN": "筋腱"
+    "explanationCN": "肌肉"
   },
   {
     "character": "𗘕",
     "GX": "rŋwə̱r¹",
     "GHC": "ŋwər¹",
     "explanationEN": "family dependants; wife",
-    "explanationCN": "眷属、妻子"
+    "explanationCN": "妻眷"
   },
   {
     "character": "𗡣",
     "GX": "dzi̱²",
     "GHC": "dze²",
     "explanationEN": "to weight; to judge",
-    "explanationCN": "1.称、量2.忖、据"
+    "explanationCN": "掂量"
   },
   {
     "character": "𗗾",
     "GX": "vwa̱¹",
     "GHC": "wa¹",
     "explanationEN": "pig; hog",
-    "explanationCN": "猪、彘"
+    "explanationCN": "猪彘"
   },
   {
     "character": "𘅏",
@@ -2077,14 +2077,14 @@ const DICTIONARY_DATA = [
     "GX": "se²",
     "GHC": "sjij²",
     "explanationEN": "tortoise",
-    "explanationCN": "1.龟、黿鼉2.甲3.犀4.又音【谢】"
+    "explanationCN": "甲角【谢】"
   },
   {
     "character": "𘔜",
     "GX": "tśhiṃ¹",
     "GHC": "tśhjĩ¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【陈】族姓2.又音【陈】、【沉】、【尘】、【嗔】"
+    "explanationCN": "【陈】【沉】【尘】【嗔】"
   },
   {
     "character": "𘑺",
@@ -2105,7 +2105,7 @@ const DICTIONARY_DATA = [
     "GX": "la̱h¹",
     "GHC": "lạ¹",
     "explanationEN": "vulture",
-    "explanationCN": "雕、鷲"
+    "explanationCN": "雕鷲"
   },
   {
     "character": "𗡯",
@@ -2119,14 +2119,14 @@ const DICTIONARY_DATA = [
     "GX": "dźe?",
     "GHC": "dźjij?",
     "explanationEN": "to agree; to permit",
-    "explanationCN": "肯、许、可"
+    "explanationCN": "肯"
   },
   {
     "character": "𘘯",
     "GX": "γa̱¹",
     "GHC": "ɣa¹",
     "explanationEN": "thin; weak",
-    "explanationCN": "1.羸、瘦2.又砾"
+    "explanationCN": "瘦弱"
   },
   {
     "character": "𘅝",
@@ -2140,14 +2140,14 @@ const DICTIONARY_DATA = [
     "GX": "rnir²",
     "GHC": "njir²",
     "explanationEN": "to borrow; to loan",
-    "explanationCN": "1.借、贷、租2.权3.代4.宗"
+    "explanationCN": "借贷"
   },
   {
     "character": "𘗿",
     "GX": "lhe²",
     "GHC": "lhjij²",
     "explanationEN": "a surname",
-    "explanationCN": "【冷】族姓"
+    "explanationCN": "【冷】"
   },
   {
     "character": "𘚟",
@@ -2161,7 +2161,7 @@ const DICTIONARY_DATA = [
     "GX": "su²",
     "GHC": "sju²",
     "explanationEN": "brother-in-law; cousnship",
-    "explanationCN": "表亲、郎舅"
+    "explanationCN": "表亲郎舅"
   },
   {
     "character": "𘓩",
@@ -2189,42 +2189,42 @@ const DICTIONARY_DATA = [
     "GX": "ri̱wr²",
     "GHC": "rewr²",
     "explanationEN": "to repent",
-    "explanationCN": "懺悔"
+    "explanationCN": "忏悔"
   },
   {
     "character": "𘘰",
     "GX": "qae̱²",
     "GHC": "kiej²",
     "explanationEN": "to do",
-    "explanationCN": "做、作、為"
+    "explanationCN": "做"
   },
   {
     "character": "𘑹",
     "GX": "zi²",
     "GHC": "źji²",
     "explanationEN": "to do",
-    "explanationCN": "做、作、為"
+    "explanationCN": "做"
   },
   {
     "character": "𗸘",
     "GX": "hwaa̱¹",
     "GHC": "xiwa¹",
     "explanationEN": "nothing",
-    "explanationCN": "无、亡、杀"
+    "explanationCN": "无"
   },
   {
     "character": "𗸞",
     "GX": "nae̱h²",
     "GHC": "dẹj²",
     "explanationEN": "wither; fade; dizzy",
-    "explanationCN": "晕、萎"
+    "explanationCN": "晕萎"
   },
   {
     "character": "𗘊",
     "GX": "tshwu²",
     "GHC": "tshjwu²",
     "explanationEN": "magpie",
-    "explanationCN": "1.鹊、雀2.又音【雀】"
+    "explanationCN": "鹊【雀】"
   },
   {
     "character": "𗘗",
@@ -2238,7 +2238,7 @@ const DICTIONARY_DATA = [
     "GX": "nvwə̱¹",
     "GHC": "wə̱¹",
     "explanationEN": "soft; tender",
-    "explanationCN": "1.柔软、弱2.雅、懿、妙3.愷焍"
+    "explanationCN": "柔软"
   },
   {
     "character": "𗵼",
@@ -2252,21 +2252,21 @@ const DICTIONARY_DATA = [
     "GX": "tśhwow¹",
     "GHC": "tśhjwo¹",
     "explanationEN": "a modal auxiliary",
-    "explanationCN": "方、故、然"
+    "explanationCN": "故"
   },
   {
     "character": "𘘱",
     "GX": "rśar¹",
     "GHC": "śjar¹",
     "explanationEN": "to pare; to peel; to shell",
-    "explanationCN": "剥、削"
+    "explanationCN": "剥削"
   },
   {
     "character": "𘚇",
     "GX": "voh¹",
     "GHC": "wjọ¹",
     "explanationEN": "widowed; solitary",
-    "explanationCN": "寡、孤"
+    "explanationCN": "寡孤"
   },
   {
     "character": "𗍔",
@@ -2280,7 +2280,7 @@ const DICTIONARY_DATA = [
     "GX": "khiṃ¹",
     "GHC": "khjĩ¹",
     "explanationEN": "钦琴",
-    "explanationCN": "钦琴"
+    "explanationCN": "【钦】【琴】"
   },
   {
     "character": "𗉶",
@@ -2294,7 +2294,7 @@ const DICTIONARY_DATA = [
     "GX": "qau̱²",
     "GHC": "ku²",
     "explanationEN": "being blind",
-    "explanationCN": "瞽、盲"
+    "explanationCN": "盲"
   },
   {
     "character": "𗙸",
@@ -2336,14 +2336,14 @@ const DICTIONARY_DATA = [
     "GX": "khe¹",
     "GHC": "khjij¹",
     "explanationEN": "to raise; to breed",
-    "explanationCN": "畜养、养育"
+    "explanationCN": "养育"
   },
   {
     "character": "𗎙",
     "GX": "pha¹",
     "GHC": "phja¹",
     "explanationEN": "border; side",
-    "explanationCN": "边、近、岸、侧"
+    "explanationCN": "边"
   },
   {
     "character": "𗰵",
@@ -2357,14 +2357,14 @@ const DICTIONARY_DATA = [
     "GX": "də²",
     "GHC": "djɨ²",
     "explanationEN": "property",
-    "explanationCN": "财產"
+    "explanationCN": "财产"
   },
   {
     "character": "𗌼",
     "GX": "llə¹",
     "GHC": "ljɨ¹",
     "explanationEN": "to lock up",
-    "explanationCN": "关、锁、簧"
+    "explanationCN": "锁"
   },
   {
     "character": "𘘔",
@@ -2378,14 +2378,14 @@ const DICTIONARY_DATA = [
     "GX": "leṃ¹",
     "GHC": "ljɨj¹",
     "explanationEN": "posture; appearance",
-    "explanationCN": "姿态，俊秀形容词"
+    "explanationCN": "姿态"
   },
   {
     "character": "𘙚",
     "GX": "zwi̱w¹",
     "GHC": "zwew¹",
     "explanationEN": "to tan; to rub",
-    "explanationCN": "鞣汉语借词"
+    "explanationCN": "【鞣】"
   },
   {
     "character": "𘅯",
@@ -2399,21 +2399,21 @@ const DICTIONARY_DATA = [
     "GX": "γaa̱ṃ¹",
     "GHC": "ɣiã¹",
     "explanationEN": "leisure",
-    "explanationCN": "閒汉语借词"
+    "explanationCN": "【闲】"
   },
   {
     "character": "𘄣",
     "GX": "qhu̱¹",
     "GHC": "khu¹",
     "explanationEN": "wisdom",
-    "explanationCN": "智、解"
+    "explanationCN": "智"
   },
   {
     "character": "𘅵",
     "GX": "lwa¹",
     "GHC": "ljwa¹",
-    "explanationEN": "to make a detailed inquiry",
-    "explanationCN": "进行详细询价"
+    "explanationEN": "quick",
+    "explanationCN": "疾"
   },
   {
     "character": "𗵻",
@@ -2434,14 +2434,14 @@ const DICTIONARY_DATA = [
     "GX": "mbi̱²",
     "GHC": "be̱²",
     "explanationEN": "a kind of bird",
-    "explanationCN": "【墨】鸟名"
+    "explanationCN": "【墨】"
   },
   {
     "character": "𘄲",
     "GX": "nlə²",
     "GHC": "ljɨ̱²",
     "explanationEN": "to stop; to halt",
-    "explanationCN": "停、稍待"
+    "explanationCN": "停"
   },
   {
     "character": "𘅐",
@@ -2462,7 +2462,7 @@ const DICTIONARY_DATA = [
     "GX": "dẓao̱²",
     "GHC": "dźio²",
     "explanationEN": "emperor’s son-in-law",
-    "explanationCN": "駙马"
+    "explanationCN": "驸马"
   },
   {
     "character": "𘘬",
@@ -2476,14 +2476,14 @@ const DICTIONARY_DATA = [
     "GX": "lhi²",
     "GHC": "lhji²",
     "explanationEN": "to give birth",
-    "explanationCN": "1.生2.悔"
+    "explanationCN": "生"
   },
   {
     "character": "𘇻",
     "GX": "mu¹",
     "GHC": "mju¹",
     "explanationEN": "mother’s brother; uncle",
-    "explanationCN": "舅、兄弟（女称）"
+    "explanationCN": "舅兄弟（女称）"
   },
   {
     "character": "𘘐",
@@ -2497,28 +2497,28 @@ const DICTIONARY_DATA = [
     "GX": "nlla¹",
     "GHC": "lia̱¹",
     "explanationEN": "a surname",
-    "explanationCN": "【拉】、【刺】、【腊】族姓"
+    "explanationCN": "【拉】【刺】【腊】"
   },
   {
     "character": "𗍆",
     "GX": "rkər¹",
     "GHC": "kjɨ̱r¹",
     "explanationEN": "to give up; to abandon",
-    "explanationCN": "捨弃"
+    "explanationCN": "弃"
   },
   {
     "character": "𗡞",
     "GX": "tu̱h¹",
     "GHC": "tụ¹",
     "explanationEN": "thousand",
-    "explanationCN": "1.千2.又音【都】"
+    "explanationCN": "千【都】"
   },
   {
     "character": "𘅌",
     "GX": "bu¹",
     "GHC": "bju¹",
     "explanationEN": "to crawl",
-    "explanationCN": "葡汉语借词"
+    "explanationCN": "【葡】"
   },
   {
     "character": "𘄼",
@@ -2532,7 +2532,7 @@ const DICTIONARY_DATA = [
     "GX": "tuh²",
     "GHC": "tjụ²",
     "explanationEN": "lip",
-    "explanationCN": "嘴唇"
+    "explanationCN": "唇"
   },
   {
     "character": "𘔔",
@@ -2546,14 +2546,14 @@ const DICTIONARY_DATA = [
     "GX": "tseṃ¹",
     "GHC": "tsjɨj¹",
     "explanationEN": "beautiful; pretty",
-    "explanationCN": "姿态、容顏、俊秀"
+    "explanationCN": "【精】"
   },
   {
     "character": "𗉏",
     "GX": "qwo̱ṃ¹",
     "GHC": "kwow¹",
     "explanationEN": "to face upward or downward",
-    "explanationCN": "俯、仰、覆"
+    "explanationCN": "俯"
   },
   {
     "character": "𗉷",
@@ -2581,7 +2581,7 @@ const DICTIONARY_DATA = [
     "GX": "nthu¹",
     "GHC": "thju̱¹",
     "explanationEN": "to look into; to examine",
-    "explanationCN": "1.察审2.縁"
+    "explanationCN": "察"
   },
   {
     "character": "𘑤",
@@ -2602,7 +2602,7 @@ const DICTIONARY_DATA = [
     "GX": "śwa¹",
     "GHC": "śjwa¹",
     "explanationEN": "to hold",
-    "explanationCN": "执、拏"
+    "explanationCN": "执拏"
   },
   {
     "character": "𘟢",
@@ -2616,7 +2616,7 @@ const DICTIONARY_DATA = [
     "GX": "nlhi¹",
     "GHC": "lhji̱¹",
     "explanationEN": "to regret; to repent",
-    "explanationCN": "悔改、退（名词)(动词）"
+    "explanationCN": "退悔改"
   },
   {
     "character": "𘘧",
@@ -2630,14 +2630,14 @@ const DICTIONARY_DATA = [
     "GX": "va¹",
     "GHC": "wja¹",
     "explanationEN": "speech; word; to say",
-    "explanationCN": "1.曰2.又音【娃】"
+    "explanationCN": "曰【娃】"
   },
   {
     "character": "𗍂",
     "GX": "nwe¹",
     "GHC": "njwij¹",
     "explanationEN": "larynx; throat",
-    "explanationCN": "1.喉2.哺"
+    "explanationCN": "喉"
   },
   {
     "character": "𗳮",
@@ -2658,28 +2658,28 @@ const DICTIONARY_DATA = [
     "GX": "vwi̱¹",
     "GHC": "we¹",
     "explanationEN": "to lay in; to store up",
-    "explanationCN": "1.堵塞2.贮3.满"
+    "explanationCN": "塞"
   },
   {
     "character": "𘔎",
     "GX": "da̱ṃ¹",
     "GHC": "dã¹",
     "explanationEN": "to eat; to feed",
-    "explanationCN": "啖汉语借词"
+    "explanationCN": "【啖】"
   },
   {
     "character": "𘜃",
     "GX": "dzi¹",
     "GHC": "dzji¹",
     "explanationEN": "equal; even",
-    "explanationCN": "齐、等、同"
+    "explanationCN": "等同"
   },
   {
     "character": "𘜅",
     "GX": "lli̱²",
     "GHC": "le²",
     "explanationEN": "wrestling",
-    "explanationCN": "1.相扑、摔跤2.较力、角力"
+    "explanationCN": "角力"
   },
   {
     "character": "𗸩",
@@ -2693,28 +2693,28 @@ const DICTIONARY_DATA = [
     "GX": "vih²",
     "GHC": "wjị²",
     "explanationEN": "to know.ᴀ; to be capable.ᴀ",
-    "explanationCN": "能、晓、会"
+    "explanationCN": "晓.ᴀ"
   },
   {
     "character": "𘘹",
     "GX": "kə¹",
     "GHC": "kjɨ¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【季】族姓2.【呵】"
+    "explanationCN": "【季】【呵】"
   },
   {
     "character": "𘑡",
     "GX": "rvwo̱r²",
     "GHC": "wor²",
     "explanationEN": "a surname",
-    "explanationCN": "【温】族姓"
+    "explanationCN": "【温】"
   },
   {
     "character": "𗳱",
     "GX": "tha²",
     "GHC": "thja²",
     "explanationEN": "that; it; he",
-    "explanationCN": "它、其、彼"
+    "explanationCN": "彼"
   },
   {
     "character": "𘃴",
@@ -2728,28 +2728,28 @@ const DICTIONARY_DATA = [
     "GX": "khwə¹",
     "GHC": "khjwɨ¹",
     "explanationEN": "to cut; to break",
-    "explanationCN": "截、割、折、剜、蚀、劓、伐、却、斩、刖"
+    "explanationCN": "砍、伐、割"
   },
   {
     "character": "𘆂",
     "GX": "le²",
     "GHC": "ljij²",
     "explanationEN": "noon",
-    "explanationCN": "1.午2.昼"
+    "explanationCN": "午"
   },
   {
     "character": "𗳲",
     "GX": "lheṃ¹",
     "GHC": "lhjɨj¹",
     "explanationEN": "mountain; ridge",
-    "explanationCN": "岭（高岭）汉语借词"
+    "explanationCN": "【岭】"
   },
   {
     "character": "𗰾",
     "GX": "nih²",
     "GHC": "njị²",
     "explanationEN": "wizard; sorcerer",
-    "explanationCN": "巫师"
+    "explanationCN": "巫"
   },
   {
     "character": "𗱅",
@@ -2770,7 +2770,7 @@ const DICTIONARY_DATA = [
     "GX": "tha²",
     "GHC": "thja²",
     "explanationEN": "that; it",
-    "explanationCN": "彼、其、它"
+    "explanationCN": "彼"
   },
   {
     "character": "𗳼",
@@ -2791,7 +2791,7 @@ const DICTIONARY_DATA = [
     "GX": "nu¹",
     "GHC": "nju¹",
     "explanationEN": "a surname",
-    "explanationCN": "【纽】族姓"
+    "explanationCN": "【纽】"
   },
   {
     "character": "𘇧",
@@ -2805,35 +2805,35 @@ const DICTIONARY_DATA = [
     "GX": "bao̱²",
     "GHC": "bio²",
     "explanationEN": "a surname",
-    "explanationCN": "【婆】、【播】族姓"
+    "explanationCN": "【婆】【播】"
   },
   {
     "character": "𗳻",
     "GX": "tśa¹",
     "GHC": "tśja¹",
     "explanationEN": "upright; fairminded",
-    "explanationCN": "1.正汉语借词2.又音【旃】、【栴】、【詹】、【瞻】"
+    "explanationCN": "【正】【旃】【栴】【詹】【瞻】"
   },
   {
     "character": "𗷮",
     "GX": "vwo̱ṃ¹",
     "GHC": "wow¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【王】、【汪】、【旺】族姓2.又音【阿】（音 195）"
+    "explanationCN": "【王】【汪】【旺】【阿】"
   },
   {
     "character": "𘑫",
     "GX": "ka̱ṃ¹",
     "GHC": "kã¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【甘】族姓、地名2.又音【甘】、【肝】、【乾】、【敢】、【干】"
+    "explanationCN": "【甘】【肝】【乾】【敢】【干】"
   },
   {
     "character": "𗰽",
     "GX": "dzwəh¹",
     "GHC": "dzjwɨ̣¹",
     "explanationEN": "wall",
-    "explanationCN": "1.墙壁2.邑、郭"
+    "explanationCN": "墙"
   },
   {
     "character": "𗸈",
@@ -2875,28 +2875,28 @@ const DICTIONARY_DATA = [
     "GX": "tṣhaə̱¹",
     "GHC": "tśhiə¹",
     "explanationEN": "a surname",
-    "explanationCN": "【郄】、【泽】、【翟】族姓"
+    "explanationCN": "【郄】【泽】【翟】"
   },
   {
     "character": "𗷵",
     "GX": "təh²",
     "GHC": "tjɨ̣²",
     "explanationEN": "tired; weary",
-    "explanationCN": "劳、疲倦、懈怠"
+    "explanationCN": "劳疲倦懈怠"
   },
   {
     "character": "𘈐",
     "GX": "ryar²",
     "GHC": "ˑjar²",
     "explanationEN": "tired; weary",
-    "explanationCN": "疲倦、困乏"
+    "explanationCN": "疲倦困乏"
   },
   {
     "character": "𘑱",
     "GX": "śwe²",
     "GHC": "śjwij²",
     "explanationEN": "bolt for a door",
-    "explanationCN": "店、门閂"
+    "explanationCN": "店门閂"
   },
   {
     "character": "𗸍",
@@ -2910,21 +2910,21 @@ const DICTIONARY_DATA = [
     "GX": "tsa¹",
     "GHC": "tsja¹",
     "explanationEN": "elder sister",
-    "explanationCN": "姐、姊"
+    "explanationCN": "姐姊"
   },
   {
     "character": "𘑪",
     "GX": "qhwə̱¹",
     "GHC": "khwə¹",
     "explanationEN": "among; between",
-    "explanationCN": "1.中间2.玄"
+    "explanationCN": "中间"
   },
   {
     "character": "𘒶",
     "GX": "fwə¹",
     "GHC": "xwjɨ¹",
     "explanationEN": "Buddha",
-    "explanationCN": "佛汉语借词"
+    "explanationCN": "佛】"
   },
   {
     "character": "𗱍",
@@ -2938,7 +2938,7 @@ const DICTIONARY_DATA = [
     "GX": "phaṃ²",
     "GHC": "phjã²",
     "explanationEN": "a surname",
-    "explanationCN": "【潘】族姓"
+    "explanationCN": "【潘】"
   },
   {
     "character": "𘜌",
@@ -2959,42 +2959,42 @@ const DICTIONARY_DATA = [
     "GX": "rdwə̱r²",
     "GHC": "dwər²",
     "explanationEN": "to inspect",
-    "explanationCN": "1.考察2.荡3.会4.敌"
+    "explanationCN": "考察"
   },
   {
     "character": "𗷻",
     "GX": "te²",
     "GHC": "tjij²",
     "explanationEN": "equality",
-    "explanationCN": "1.等汉语借词2.衡量"
+    "explanationCN": "【等】"
   },
   {
     "character": "𗸓",
     "GX": "rdwə̱r¹",
     "GHC": "dwə¹",
     "explanationEN": "enemy; foe",
-    "explanationCN": "1.敌2.击3.争4.交5.角6.逆"
+    "explanationCN": "敌"
   },
   {
     "character": "𗈻",
     "GX": "tṣai̱w¹",
     "GHC": "tśiew¹",
     "explanationEN": "hot",
-    "explanationCN": "炙汉语借词"
+    "explanationCN": "炙】"
   },
   {
     "character": "𗖽",
     "GX": "ye¹",
     "GHC": "ˑjij¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【噎】、【医】、【翳】"
+    "explanationCN": "【噎】【医】【翳】"
   },
   {
     "character": "𗖁",
     "GX": "dzuh¹",
     "GHC": "dzjụ¹",
     "explanationEN": "tall; high",
-    "explanationCN": "1.高峭2.古、故3.昔4.宿5.曾"
+    "explanationCN": "高"
   },
   {
     "character": "𗖏",
@@ -3008,21 +3008,21 @@ const DICTIONARY_DATA = [
     "GX": "thə̱h¹",
     "GHC": "thə̣¹",
     "explanationEN": "to force",
-    "explanationCN": "逼、追"
+    "explanationCN": "逼追"
   },
   {
     "character": "𗉇",
     "GX": "tsa¹",
     "GHC": "tsja¹",
     "explanationEN": "rapid",
-    "explanationCN": "急速、火速"
+    "explanationCN": "急速火速"
   },
   {
     "character": "𗖋",
     "GX": "swə²",
     "GHC": "sjwɨ²",
     "explanationEN": "who; which; someone",
-    "explanationCN": "谁、某(汉语借词）"
+    "explanationCN": "谁某(】）"
   },
   {
     "character": "𗖵",
@@ -3036,21 +3036,21 @@ const DICTIONARY_DATA = [
     "GX": "yi¹",
     "GHC": "ˑji¹",
     "explanationEN": "alas; alack",
-    "explanationCN": "呜呼、噎、哀"
+    "explanationCN": "呜呼噎哀"
   },
   {
     "character": "𗖟",
     "GX": "kah¹",
     "GHC": "kjạ¹",
     "explanationEN": "musical instrument; instrument",
-    "explanationCN": "歌、乐器"
+    "explanationCN": "歌乐器"
   },
   {
     "character": "𗖴",
     "GX": "rkiwr²",
     "GHC": "kjiwr²",
     "explanationEN": "weaving; weft",
-    "explanationCN": "织、纬"
+    "explanationCN": "织纬"
   },
   {
     "character": "𗖰",
@@ -3071,7 +3071,7 @@ const DICTIONARY_DATA = [
     "GX": "γai̱h¹",
     "GHC": "ɣiẹ¹",
     "explanationEN": "to cook",
-    "explanationCN": "1.煮熬2.烹"
+    "explanationCN": "烹"
   },
   {
     "character": "𗉂",
@@ -3085,28 +3085,28 @@ const DICTIONARY_DATA = [
     "GX": "swə¹",
     "GHC": "sjwɨ¹",
     "explanationEN": "who; which; what",
-    "explanationCN": "谁、孰、何"
+    "explanationCN": "谁孰何"
   },
   {
     "character": "𘗼",
     "GX": "qhae̱ṃ¹",
     "GHC": "khiəj¹",
     "explanationEN": "hole; hollow",
-    "explanationCN": "坑汉语借词"
+    "explanationCN": "坑】"
   },
   {
     "character": "𘙲",
     "GX": "dźo¹",
     "GHC": "dźjo¹",
     "explanationEN": "long",
-    "explanationCN": "长汉语借词"
+    "explanationCN": "长】"
   },
   {
     "character": "𗕸",
     "GX": "tśhoṃ¹",
     "GHC": "tśhjow¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【昌】、【虫】、【重】、【中】、【长】、【仲】、【充】、【冲】、【畅】、【长】"
+    "explanationCN": "【昌】【虫】【重】【中】【长】【仲】【充】【冲】【畅】【长】"
   },
   {
     "character": "𗕺",
@@ -3162,7 +3162,7 @@ const DICTIONARY_DATA = [
     "GX": "thə̱h¹",
     "GHC": "thə̣¹",
     "explanationEN": "to force",
-    "explanationCN": "逼、追"
+    "explanationCN": "逼追"
   },
   {
     "character": "𗉈",
@@ -3190,21 +3190,21 @@ const DICTIONARY_DATA = [
     "GX": "tah¹",
     "GHC": "tjạ¹",
     "explanationEN": "to answer",
-    "explanationCN": "答汉语借词"
+    "explanationCN": "答】"
   },
   {
     "character": "𗖊",
     "GX": "śə¹",
     "GHC": "śjɨ¹",
     "explanationEN": "to send (an envoy)",
-    "explanationCN": "使汉语借词"
+    "explanationCN": "使】"
   },
   {
     "character": "𘙴",
     "GX": "rqo̱r¹",
     "GHC": "kor¹",
     "explanationEN": "larynx; throat",
-    "explanationCN": "1.喉2.隘"
+    "explanationCN": "喉"
   },
   {
     "character": "𘙳",
@@ -3218,7 +3218,7 @@ const DICTIONARY_DATA = [
     "GX": "dzu̱²",
     "GHC": "dzu²",
     "explanationEN": "a long narrow piece",
-    "explanationCN": "1.长2.边幅"
+    "explanationCN": "带"
   },
   {
     "character": "𗖐",
@@ -3239,49 +3239,49 @@ const DICTIONARY_DATA = [
     "GX": "vwi̱²",
     "GHC": "we²",
     "explanationEN": "danger",
-    "explanationCN": "1.危险2.狱"
+    "explanationCN": "危"
   },
   {
     "character": "𗴀",
     "GX": "so̱²",
     "GHC": "so²",
     "explanationEN": "tall; high",
-    "explanationCN": "1.高2.宏伟3.又音【序】、【绪】"
+    "explanationCN": "高【序】【绪】"
   },
   {
     "character": "𗹓",
     "GX": "tśeṃ¹",
     "GHC": "tśjɨj¹",
     "explanationEN": "to send; to dispatch",
-    "explanationCN": "1.遣2.又投"
+    "explanationCN": "遣"
   },
   {
     "character": "𗳇",
     "GX": "dzuh¹",
     "GHC": "dzjụ¹",
     "explanationEN": "mound; mausoleum",
-    "explanationCN": "丘、陵"
+    "explanationCN": "丘陵"
   },
   {
     "character": "𗹙",
     "GX": "rtser¹",
     "GHC": "tsji̱r¹",
     "explanationEN": "method; art; skill",
-    "explanationCN": "法、要、术、教"
+    "explanationCN": "法要术教"
   },
   {
     "character": "𗴃",
     "GX": "phao̱ṃ¹",
     "GHC": "phiow¹",
     "explanationEN": "two; pair",
-    "explanationCN": "双、两、二"
+    "explanationCN": "双两二"
   },
   {
     "character": "𘈳",
     "GX": "moh²",
     "GHC": "mjọ²",
     "explanationEN": "orphan; widower",
-    "explanationCN": "孤、鰥"
+    "explanationCN": "孤鰥"
   },
   {
     "character": "𘝷",
@@ -3295,7 +3295,7 @@ const DICTIONARY_DATA = [
     "GX": "ge¹",
     "GHC": "gjij¹",
     "explanationEN": "to open; to spread",
-    "explanationCN": "1.张2.狱"
+    "explanationCN": "张"
   },
   {
     "character": "𘈶",
@@ -3309,28 +3309,28 @@ const DICTIONARY_DATA = [
     "GX": "do̱ṃ¹",
     "GHC": "dow¹",
     "explanationEN": "evil; crafty",
-    "explanationCN": "1.邪、奸2.蟹"
+    "explanationCN": "邪【那】【拏】"
   },
   {
     "character": "𗹗",
     "GX": "ġo̱²",
     "GHC": "go²",
     "explanationEN": "to get rid of",
-    "explanationCN": "除、蠲、退、遣"
+    "explanationCN": "除蠲退遣"
   },
   {
     "character": "𗶤",
     "GX": "lu¹",
     "GHC": "lju¹",
     "explanationEN": "felt; mat",
-    "explanationCN": "1.毡、席、苫2.托"
+    "explanationCN": "垫"
   },
   {
     "character": "𘞿",
     "GX": "ve¹",
     "GHC": "wjij¹",
     "explanationEN": "to have",
-    "explanationCN": "有、在"
+    "explanationCN": "有在"
   },
   {
     "character": "𘞽",
@@ -3344,7 +3344,7 @@ const DICTIONARY_DATA = [
     "GX": "nṣao¹",
     "GHC": "śio̱¹",
     "explanationEN": "to gather; to collect",
-    "explanationCN": "集、辑、综、合、纂"
+    "explanationCN": "集辑综合纂"
   },
   {
     "character": "𘘜",
@@ -3358,7 +3358,7 @@ const DICTIONARY_DATA = [
     "GX": "lha¹",
     "GHC": "lha¹",
     "explanationEN": "sage",
-    "explanationCN": "1.圣灵2.整严"
+    "explanationCN": "圣"
   },
   {
     "character": "𗟶",
@@ -3372,7 +3372,7 @@ const DICTIONARY_DATA = [
     "GX": "dzeṃ²",
     "GHC": "dzjɨj²",
     "explanationEN": "to make love; to rape",
-    "explanationCN": "性交、姦淫"
+    "explanationCN": "性交姦淫"
   },
   {
     "character": "𘒥",
@@ -3407,7 +3407,7 @@ const DICTIONARY_DATA = [
     "GX": "swuh²",
     "GHC": "sjwụ²",
     "explanationEN": "life",
-    "explanationCN": "生、活"
+    "explanationCN": "生活"
   },
   {
     "character": "𘇖",
@@ -3421,14 +3421,14 @@ const DICTIONARY_DATA = [
     "GX": "di²",
     "GHC": "dji²",
     "explanationEN": "to deal with",
-    "explanationCN": "经、当"
+    "explanationCN": "经当"
   },
   {
     "character": "𘘢",
     "GX": "gih²",
     "GHC": "gjị²",
     "explanationEN": "to depend on; to rely on",
-    "explanationCN": "依、避"
+    "explanationCN": "依避"
   },
   {
     "character": "𗰓",
@@ -3449,14 +3449,14 @@ const DICTIONARY_DATA = [
     "GX": "sə²",
     "GHC": "sjɨ²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【鲜】、【赛】、【辛】、【惺】、【兴】、【隰】、【窒】、【数】、【昔】、【寻】族姓2.又音【锡】、【新】、【鲜】、【信】"
+    "explanationCN": "【鲜】【赛】【辛】【惺】【兴】【隰】【窒】【数】【昔】【寻】【锡】【新】【鲜】【信】"
   },
   {
     "character": "𘃻",
     "GX": "yiṃ¹",
     "GHC": "ˑjĩ¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【因】、【寅】、【殷】族姓2.【奇】、【因】、【饮】、【蝇】、【澠】、【尹】、【隠】"
+    "explanationCN": "【因】【寅】【殷】【奇】【因】【饮】【蝇】【澠】【尹】【隠】"
   },
   {
     "character": "𘄁",
@@ -3470,35 +3470,35 @@ const DICTIONARY_DATA = [
     "GX": "leh¹",
     "GHC": "ljịj¹",
     "explanationEN": "prosperous",
-    "explanationCN": "盛、增"
+    "explanationCN": "盛增"
   },
   {
     "character": "𘜔",
     "GX": "rŋi̱wr²",
     "GHC": "ŋewr²",
     "explanationEN": "number; numeral",
-    "explanationCN": "1.数2.表示复数的后缀之一"
+    "explanationCN": "数"
   },
   {
     "character": "𗙒",
     "GX": "laa̱¹",
     "GHC": "lia¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【刺】、【拉】"
+    "explanationCN": "【刺】【拉】"
   },
   {
     "character": "𗰝",
     "GX": "pai̱h¹",
     "GHC": "piẹ¹",
     "explanationEN": "frog",
-    "explanationCN": "1.蛙2.龟3.鱉4.鼠"
+    "explanationCN": "蛙"
   },
   {
     "character": "𘄩",
     "GX": "tsuh¹",
     "GHC": "tsjụ¹",
     "explanationEN": "to beat",
-    "explanationCN": "1.击、触、侵、攻、犯、撞、筑2.动3.篡4.激"
+    "explanationCN": "击"
   },
   {
     "character": "𘘇",
@@ -3512,14 +3512,14 @@ const DICTIONARY_DATA = [
     "GX": "rzər¹",
     "GHC": "zjɨ̱r¹",
     "explanationEN": "few; little; tiny",
-    "explanationCN": "少、小、稀、微、略、嬈"
+    "explanationCN": "少小稀微略嬈"
   },
   {
     "character": "𗎀",
     "GX": "tśa¹",
     "GHC": "tśja¹",
     "explanationEN": "a surname",
-    "explanationCN": "【折】、【遮】、【蔗】、【耆】族姓"
+    "explanationCN": "【折】【遮】【蔗】【耆】"
   },
   {
     "character": "𗗖",
@@ -3554,7 +3554,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋwu̱²",
     "GHC": "ŋwu²",
     "explanationEN": "to be",
-    "explanationCN": "是（系）“是”為西夏语常见的系词，其用法有以下几种：1.表示主语和宾语的统一性或属性2.作為语助，具有“也”之义3.表示是非关系4.具有“於、然”等意"
+    "explanationCN": "是"
   },
   {
     "character": "𗗜",
@@ -3568,7 +3568,7 @@ const DICTIONARY_DATA = [
     "GX": "rŋwə̱r¹",
     "GHC": "ŋwər¹",
     "explanationEN": "emperor; high heaven",
-    "explanationCN": "皇、天"
+    "explanationCN": "皇天"
   },
   {
     "character": "𘝽",
@@ -3596,21 +3596,21 @@ const DICTIONARY_DATA = [
     "GX": "dźwə²",
     "GHC": "dźjwɨ²",
     "explanationEN": "very close relative",
-    "explanationCN": "至亲、戚"
+    "explanationCN": "至亲戚"
   },
   {
     "character": "𘈟",
     "GX": "lə̱¹",
     "GHC": "lə¹",
     "explanationEN": "to hinder; to block",
-    "explanationCN": "障碍、遮蔽"
+    "explanationCN": "障碍遮蔽"
   },
   {
     "character": "𘆡",
     "GX": "tsheh²",
     "GHC": "tshjịj²",
     "explanationEN": "gorgeous",
-    "explanationCN": "1.绚丽2.严3.画4.麒麟"
+    "explanationCN": "绚丽"
   },
   {
     "character": "𘇝",
@@ -3638,7 +3638,7 @@ const DICTIONARY_DATA = [
     "GX": "ndze̱¹",
     "GHC": "dze̱j¹",
     "explanationEN": "horse for riding",
-    "explanationCN": "1.骑、载、乘2.阵"
+    "explanationCN": "骑"
   },
   {
     "character": "𘙯",
@@ -3666,7 +3666,7 @@ const DICTIONARY_DATA = [
     "GX": "dzu¹",
     "GHC": "dzju¹",
     "explanationEN": "to admonish; to instruct",
-    "explanationCN": "旨、詔、训、指"
+    "explanationCN": "旨詔训指"
   },
   {
     "character": "𘇀",
@@ -3708,7 +3708,7 @@ const DICTIONARY_DATA = [
     "GX": "tśhə¹",
     "GHC": "tśhjɨ¹",
     "explanationEN": "to carry on the back",
-    "explanationCN": "驮、骑"
+    "explanationCN": "驮骑"
   },
   {
     "character": "𘑞",
@@ -3729,7 +3729,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋġa̱¹",
     "GHC": "ga̱¹",
     "explanationEN": "a surname",
-    "explanationCN": "【閼】、【嚣】、【奡】、【敖】族姓"
+    "explanationCN": "【閼】【嚣】【奡】【敖】"
   },
   {
     "character": "𗡟",
@@ -3743,14 +3743,14 @@ const DICTIONARY_DATA = [
     "GX": "śe¹",
     "GHC": "śjij¹",
     "explanationEN": "a suffix",
-    "explanationCN": "1.為结构助词，构词词缀；可以加在名词、动词、副词之后，起助词作用。2.又音【奢】"
+    "explanationCN": "法则【奢】"
   },
   {
     "character": "𘜻",
     "GX": "phaa̱¹",
     "GHC": "phia¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【芭】、【包】族姓2.又音【帕】（珠 255）、【罢】（珠 266）、【琶】（珠 324）"
+    "explanationCN": "【芭】【包】【帕】【罢】【琶】"
   },
   {
     "character": "𗍎",
@@ -3778,21 +3778,21 @@ const DICTIONARY_DATA = [
     "GX": "rvwi̱r¹",
     "GHC": "wer¹",
     "explanationEN": "abundant",
-    "explanationCN": "1.丰2.皆"
+    "explanationCN": "丰"
   },
   {
     "character": "𗡮",
     "GX": "lo²",
     "GHC": "śjwo²",
     "explanationEN": "dignified",
-    "explanationCN": "庄严、端正、美好"
+    "explanationCN": "庄严端正美好"
   },
   {
     "character": "𗵽",
     "GX": "nllu²",
     "GHC": "lju̱²",
     "explanationEN": "beautiful",
-    "explanationCN": "美丽、彩饰、丹、玫、撩"
+    "explanationCN": "美丽彩饰丹玫撩"
   },
   {
     "character": "𘄳",
@@ -3820,14 +3820,14 @@ const DICTIONARY_DATA = [
     "GX": "γu̱²",
     "GHC": "ˑu²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【武】、【乌】、【巫】、【毋】族姓2.又音【戊】、【芜】、【务】、【雾】"
+    "explanationCN": "【武】【乌】【巫】【毋】【戊】【芜】【务】【雾】"
   },
   {
     "character": "𘔒",
     "GX": "ne²",
     "GHC": "njij²",
     "explanationEN": "a surname",
-    "explanationCN": "【妮】、【年】、【念】、【宁】族姓"
+    "explanationCN": "【妮】【年】【念】【宁】"
   },
   {
     "character": "𘔙",
@@ -3841,7 +3841,7 @@ const DICTIONARY_DATA = [
     "GX": "dao̱h¹",
     "GHC": "niọ¹",
     "explanationEN": "sisters",
-    "explanationCN": "1.姐妹2.姑"
+    "explanationCN": "姐妹"
   },
   {
     "character": "𘗵",
@@ -3862,7 +3862,7 @@ const DICTIONARY_DATA = [
     "GX": "lhi²",
     "GHC": "lhji²",
     "explanationEN": "a surname",
-    "explanationCN": "【肋】族姓"
+    "explanationCN": "【肋】"
   },
   {
     "character": "𘝃",
@@ -3883,28 +3883,28 @@ const DICTIONARY_DATA = [
     "GX": "ŋġa̱¹",
     "GHC": "ga̱¹",
     "explanationEN": "a surname",
-    "explanationCN": "【閼】、【嚣】、【奡】、【敖】族姓"
+    "explanationCN": "【閼】【嚣】【奡】【敖】"
   },
   {
     "character": "𘓦",
     "GX": "lleh¹",
     "GHC": "ljịj¹",
     "explanationEN": "be awake",
-    "explanationCN": "悟、意"
+    "explanationCN": "悟意"
   },
   {
     "character": "𘗬",
     "GX": "dźu¹",
     "GHC": "dźju¹",
     "explanationEN": "to cheat; to deceive",
-    "explanationCN": "欺、骗、诈"
+    "explanationCN": "欺骗诈"
   },
   {
     "character": "𗌹",
     "GX": "rner¹",
     "GHC": "njijr¹",
     "explanationEN": "wild animal",
-    "explanationCN": "1.野兽2.野3.猎4.敌5.麝6.猴"
+    "explanationCN": "野兽"
   },
   {
     "character": "𗘌",
@@ -3925,7 +3925,7 @@ const DICTIONARY_DATA = [
     "GX": "dẓao̱²",
     "GHC": "dźio²",
     "explanationEN": "to help",
-    "explanationCN": "助汉语借词"
+    "explanationCN": "助】"
   },
   {
     "character": "𗳨",
@@ -3946,7 +3946,7 @@ const DICTIONARY_DATA = [
     "GX": "rdwar¹",
     "GHC": "djwar¹",
     "explanationEN": "skin",
-    "explanationCN": "皮、膜"
+    "explanationCN": "皮膜"
   },
   {
     "character": "𘞊",
@@ -3981,35 +3981,35 @@ const DICTIONARY_DATA = [
     "GX": "sə̱²",
     "GHC": "sə²",
     "explanationEN": "selfishness",
-    "explanationCN": "私汉语借词"
+    "explanationCN": "私】"
   },
   {
     "character": "𘜈",
     "GX": "dẓao̱¹",
     "GHC": "dźio¹",
     "explanationEN": "a surname",
-    "explanationCN": "【场】、【畅】族姓"
+    "explanationCN": "【场】【畅】"
   },
   {
     "character": "𗉑",
     "GX": "dzwəh¹",
     "GHC": "dzjwɨ̣¹",
     "explanationEN": "post; stick",
-    "explanationCN": "柱、杖、倚"
+    "explanationCN": "柱杖倚"
   },
   {
     "character": "𗉭",
     "GX": "tśeṃ¹",
     "GHC": "tśjɨj¹",
     "explanationEN": "scheme; stratagem",
-    "explanationCN": "1.计谋2.役"
+    "explanationCN": "计谋"
   },
   {
     "character": "𗗻",
     "GX": "na̱¹",
     "GHC": "na¹",
     "explanationEN": "dog",
-    "explanationCN": "狗、犬、戌"
+    "explanationCN": "狗犬戌"
   },
   {
     "character": "𗶎",
@@ -4023,14 +4023,14 @@ const DICTIONARY_DATA = [
     "GX": "rar²",
     "GHC": "rjar²",
     "explanationEN": "mark; trace",
-    "explanationCN": "1.跡2.纹"
+    "explanationCN": "痕迹"
   },
   {
     "character": "𘅧",
     "GX": "kwi¹",
     "GHC": "kjwi¹",
     "explanationEN": "honorable",
-    "explanationCN": "1.贵汉语借词2.又音【季】、【龟】、【归】、【桂】、【癸】、【彦】、【圭】、【劌】、【鬼】、【轨】、【匭】、【规】"
+    "explanationCN": "【贵】【季】【龟】【归】【桂】【癸】【彦】【圭】【劌】【鬼】【轨】【匭】【规】"
   },
   {
     "character": "𘔤",
@@ -4072,7 +4072,7 @@ const DICTIONARY_DATA = [
     "GX": "the²",
     "GHC": "thjij²",
     "explanationEN": "why; how",
-    "explanationCN": "何、焉、故"
+    "explanationCN": "何焉故"
   },
   {
     "character": "𘟓",
@@ -4086,21 +4086,21 @@ const DICTIONARY_DATA = [
     "GX": "na̱¹",
     "GHC": "na¹",
     "explanationEN": "wizard",
-    "explanationCN": "巫、驱鬼者"
+    "explanationCN": "巫驱鬼者"
   },
   {
     "character": "𗉝",
     "GX": "śih²",
     "GHC": "śjị²",
     "explanationEN": "grass; cogongrass",
-    "explanationCN": "草、茅"
+    "explanationCN": "草茅"
   },
   {
     "character": "𗍏",
     "GX": "su²",
     "GHC": "sju²",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【宿】、【须】、【苏】、【婿】、【肃】、【嵩】2.又音【松】、【俗】、【徐】、【续】"
+    "explanationCN": "【宿】【须】【苏】【婿】【肃】【嵩】【松】【俗】【徐】【续】"
   },
   {
     "character": "𗘙",
@@ -4121,14 +4121,14 @@ const DICTIONARY_DATA = [
     "GX": "bə̱²",
     "GHC": "bə²",
     "explanationEN": "scabies",
-    "explanationCN": "疥、疮"
+    "explanationCN": "疥疮"
   },
   {
     "character": "𘗽",
     "GX": "zoh²",
     "GHC": "zjọ²",
     "explanationEN": "longevity; life",
-    "explanationCN": "1.寿2.世3.曼"
+    "explanationCN": "寿、世"
   },
   {
     "character": "𗗰",
@@ -4156,7 +4156,7 @@ const DICTIONARY_DATA = [
     "GX": "lhi²",
     "GHC": "lhji²",
     "explanationEN": "slow; gentle; quiet",
-    "explanationCN": "徐徐、安静"
+    "explanationCN": "徐徐安静"
   },
   {
     "character": "𘞴",
@@ -4184,42 +4184,42 @@ const DICTIONARY_DATA = [
     "GX": "ma̱ṃ¹",
     "GHC": "mã¹",
     "explanationEN": "luck; fortune",
-    "explanationCN": "1.运气、福气2.音【满】、【蛮】、【麻】"
+    "explanationCN": "运气【满】【蛮】【麻】"
   },
   {
     "character": "𗍉",
     "GX": "hə̱²",
     "GHC": "xə²",
     "explanationEN": "to choke; to swell",
-    "explanationCN": "障、噎"
+    "explanationCN": "障噎"
   },
   {
     "character": "𘅺",
     "GX": "de̱ṃ¹",
     "GHC": "dəj¹",
     "explanationEN": "a kind of grass",
-    "explanationCN": "【代】、【萏】草名"
+    "explanationCN": "【代】【萏】草名"
   },
   {
     "character": "𘙒",
     "GX": "pai̱h¹",
     "GHC": "piẹ¹",
     "explanationEN": "to fill in; to stuff",
-    "explanationCN": "1.塞2.漂浮"
+    "explanationCN": "塞、漂浮"
   },
   {
     "character": "𗗽",
     "GX": "dẓaə̱¹",
     "GHC": "dźiə¹",
     "explanationEN": "a surname",
-    "explanationCN": "【貰】族姓"
+    "explanationCN": "【貰】"
   },
   {
     "character": "𘅪",
     "GX": "ta̱¹",
     "GHC": "ta¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【答】、【妲】、【怛】"
+    "explanationCN": "【答】【妲】【怛】"
   },
   {
     "character": "𗟘",
@@ -4247,21 +4247,21 @@ const DICTIONARY_DATA = [
     "GX": "rmər¹",
     "GHC": "mjɨr¹",
     "explanationEN": "people; tribe; scholar",
-    "explanationCN": "人、族、士"
+    "explanationCN": "人族士"
   },
   {
     "character": "𗱊",
     "GX": "thəh²",
     "GHC": "thjɨ̣²",
     "explanationEN": "to roll up; volume (of books)",
-    "explanationCN": "1.卷2.卷名词"
+    "explanationCN": "卷"
   },
   {
     "character": "𘑭",
     "GX": "zi¹",
     "GHC": "zji¹",
     "explanationEN": "other; that; it",
-    "explanationCN": "他、它、彼"
+    "explanationCN": "他它彼"
   },
   {
     "character": "𗸎",
@@ -4282,14 +4282,14 @@ const DICTIONARY_DATA = [
     "GX": "ṣaə̱¹",
     "GHC": "śiə¹",
     "explanationEN": "to guide",
-    "explanationCN": "1.引导2.伴随3.结队4.排列5.僧侣"
+    "explanationCN": "引导"
   },
   {
     "character": "𗷰",
     "GX": "te²",
     "GHC": "tjij²",
     "explanationEN": "to refuse; to remove",
-    "explanationCN": "1.拒、止、去2.遮3.制4.逆5.论6.护7.免8.御"
+    "explanationCN": "拒"
   },
   {
     "character": "𘈓",
@@ -4303,14 +4303,14 @@ const DICTIONARY_DATA = [
     "GX": "rdwi̱wr²",
     "GHC": "dwewr²",
     "explanationEN": "consciousness",
-    "explanationCN": "1.知觉2.闻齅"
+    "explanationCN": "知觉"
   },
   {
     "character": "𗷼",
     "GX": "ni?",
     "GHC": "nji?",
     "explanationEN": "to defeat",
-    "explanationCN": "负、败、凌"
+    "explanationCN": "负败凌"
   },
   {
     "character": "𗸑",
@@ -4324,7 +4324,7 @@ const DICTIONARY_DATA = [
     "GX": "tsaṃ¹",
     "GHC": "tsja¹",
     "explanationEN": "hot",
-    "explanationCN": "1.热2.暑3.音【砸】、【砍】、【旃】、【佐】、【占】、【勺】、【吒】"
+    "explanationCN": "热【砸】【砍】【旃】【佐】【占】【勺】【吒】"
   },
   {
     "character": "𗖄",
@@ -4352,7 +4352,7 @@ const DICTIONARY_DATA = [
     "GX": "yu¹",
     "GHC": "ˑjwu¹",
     "explanationEN": "to haunt; to make mischief",
-    "explanationCN": "作崇、為怪"
+    "explanationCN": "作崇為怪"
   },
   {
     "character": "𗹛",
@@ -4366,14 +4366,14 @@ const DICTIONARY_DATA = [
     "GX": "ri̱r²",
     "GHC": "rer²",
     "explanationEN": "long narrow strips; pieces (of writing)",
-    "explanationCN": "1.条、篇2.佐、吏、将"
+    "explanationCN": "条、队、溜"
   },
   {
     "character": "𗈼",
     "GX": "pu²",
     "GHC": "pju²",
     "explanationEN": "a surname",
-    "explanationCN": "【布】、【泊】、【卜】族姓"
+    "explanationCN": "【布】【泊】【卜】"
   },
   {
     "character": "𗖕",
@@ -4394,14 +4394,14 @@ const DICTIONARY_DATA = [
     "GX": "da̱h²",
     "GHC": "dạ²",
     "explanationEN": "fault; error",
-    "explanationCN": "失误、差"
+    "explanationCN": "失误差"
   },
   {
     "character": "𗖷",
     "GX": "dau̱¹",
     "GHC": "du¹",
     "explanationEN": "anger; rage",
-    "explanationCN": "1.怒2.颤"
+    "explanationCN": "怒"
   },
   {
     "character": "𗖳",
@@ -4443,35 +4443,35 @@ const DICTIONARY_DATA = [
     "GX": "nə¹",
     "GHC": "njɨ¹",
     "explanationEN": "blood relations",
-    "explanationCN": "嫡亲、胞亲"
+    "explanationCN": "嫡亲胞亲"
   },
   {
     "character": "𗳽",
     "GX": "lo̱ṃ²",
     "GHC": "low²",
     "explanationEN": "slope; hillock",
-    "explanationCN": "1.坡、丘2.隆"
+    "explanationCN": "坡"
   },
   {
     "character": "𗹎",
     "GX": "twa̱ṃ¹",
     "GHC": "twã¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【短】、【段】族姓、地名"
+    "explanationCN": "【短】【段】地名"
   },
   {
     "character": "𘔨",
     "GX": "ne²",
     "GHC": "njij²",
     "explanationEN": "to compel",
-    "explanationCN": "1.逼迫2.驱赶"
+    "explanationCN": "逼迫"
   },
   {
     "character": "𗳈",
     "GX": "rar¹",
     "GHC": "rjar¹",
     "explanationEN": "target; shield",
-    "explanationCN": "靶、盾"
+    "explanationCN": "靶盾"
   },
   {
     "character": "𘞎",
@@ -4492,7 +4492,7 @@ const DICTIONARY_DATA = [
     "GX": "lo̱ṃ²",
     "GHC": "low²",
     "explanationEN": "origin; source",
-    "explanationCN": "本源、初"
+    "explanationCN": "本源初"
   },
   {
     "character": "𘄈",
@@ -4506,14 +4506,14 @@ const DICTIONARY_DATA = [
     "GX": "tə̱¹",
     "GHC": "tə¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【德】、【得】"
+    "explanationCN": "【德】【得】"
   },
   {
     "character": "𘑨",
     "GX": "γwu̱h²",
     "GHC": "ˑwụ²",
     "explanationEN": "to help; to aid",
-    "explanationCN": "1.右、助2.加"
+    "explanationCN": "助"
   },
   {
     "character": "𘒤",
@@ -4534,14 +4534,14 @@ const DICTIONARY_DATA = [
     "GX": "ti²",
     "GHC": "tji²",
     "explanationEN": "to remain",
-    "explanationCN": "1.停留2.托嘱3.音【帝】、【睇】、【知】、【致】、【底】"
+    "explanationCN": "留【帝】【睇】【知】【致】【底】"
   },
   {
     "character": "𘇄",
     "GX": "lwu¹",
     "GHC": "ljwu¹",
     "explanationEN": "to lose; to disobey",
-    "explanationCN": "失、遗、违、背"
+    "explanationCN": "失遗违背"
   },
   {
     "character": "𘇋",
@@ -4562,21 +4562,21 @@ const DICTIONARY_DATA = [
     "GX": "ŋkhə²",
     "GHC": "khjɨ̱²",
     "explanationEN": "oral cavity",
-    "explanationCN": "腔汉语借词"
+    "explanationCN": "腔】"
   },
   {
     "character": "𗙢",
     "GX": "vwa̱ṃ²",
     "GHC": "wã²",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【旺】、【哀】、【艾】2.音【碗】（珠 156）、【腕】（珠 253）、【嚣】（音 194）"
+    "explanationCN": "【旺】【哀】【艾】【碗】【腕】【嚣】"
   },
   {
     "character": "𘓲",
     "GX": "rŋwə̱r²",
     "GHC": "ŋwər²",
     "explanationEN": "blue and green",
-    "explanationCN": "1.青2.玄"
+    "explanationCN": "青"
   },
   {
     "character": "𘆧",
@@ -4611,7 +4611,7 @@ const DICTIONARY_DATA = [
     "GX": "pha̱ṃ¹",
     "GHC": "phã¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【槃】汉语借词"
+    "explanationCN": "【槃】】"
   },
   {
     "character": "𘃿",
@@ -4653,14 +4653,14 @@ const DICTIONARY_DATA = [
     "GX": "mi̱h²",
     "GHC": "mẹ²",
     "explanationEN": "wing",
-    "explanationCN": "1.羽翼2.粉末3.习气"
+    "explanationCN": "翼"
   },
   {
     "character": "𘆵",
     "GX": "ṇi¹",
     "GHC": "nji¹",
     "explanationEN": "to clear away",
-    "explanationCN": "1.除去2.掷"
+    "explanationCN": "除"
   },
   {
     "character": "𘆱",
@@ -4695,7 +4695,7 @@ const DICTIONARY_DATA = [
     "GX": "sa̱¹",
     "GHC": "sa¹",
     "explanationEN": "to swell; to choke",
-    "explanationCN": "胀、噎"
+    "explanationCN": "胀噎"
   },
   {
     "character": "𘇌",
@@ -4723,7 +4723,7 @@ const DICTIONARY_DATA = [
     "GX": "ri̱r²",
     "GHC": "rer²",
     "explanationEN": "to ask for help; to walk",
-    "explanationCN": "绿、行"
+    "explanationCN": "绿行"
   },
   {
     "character": "𘞓",
@@ -4737,14 +4737,14 @@ const DICTIONARY_DATA = [
     "GX": "śwu¹",
     "GHC": "śjwu¹",
     "explanationEN": "to flatter",
-    "explanationCN": "迎合、奉承"
+    "explanationCN": "迎合奉承"
   },
   {
     "character": "𗰱",
     "GX": "ġu̱¹",
     "GHC": "gu¹",
     "explanationEN": "to happen; to build",
-    "explanationCN": "发、生、建、立、兴、起"
+    "explanationCN": "发生建立兴起"
   },
   {
     "character": "𘘳",
@@ -4765,7 +4765,7 @@ const DICTIONARY_DATA = [
     "GX": "ryer¹",
     "GHC": "ˑjijr¹",
     "explanationEN": "to fall; to sink",
-    "explanationCN": "堕、没"
+    "explanationCN": "堕没"
   },
   {
     "character": "𘑢",
@@ -4779,35 +4779,35 @@ const DICTIONARY_DATA = [
     "GX": "haa̱¹",
     "GHC": "xia¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【下】、【夏】、【孝】2.又音【瑊】、【匣】、【槛】、【馅】、【孝】、【限】、【效】"
+    "explanationCN": "【下】【夏】【孝】【瑊】【匣】【槛】【馅】【孝】【限】【效】"
   },
   {
     "character": "𗉎",
     "GX": "bae̱h¹",
     "GHC": "bẹj¹",
     "explanationEN": "eulogy; wittcism",
-    "explanationCN": "颂、妙语"
+    "explanationCN": "颂妙语"
   },
   {
     "character": "𘄽",
     "GX": "ŋa̱h²",
     "GHC": "ŋạ²",
     "explanationEN": "good; kind",
-    "explanationCN": "1.善、好、良、美、妙、稔、名2.骏3.二字重迭表示程度加深：如深深、大、颇、极、至等意"
+    "explanationCN": "好"
   },
   {
     "character": "𘗺",
     "GX": "vwi̱²",
     "GHC": "we²",
     "explanationEN": "soil; land",
-    "explanationCN": "土、地"
+    "explanationCN": "土地"
   },
   {
     "character": "𗌿",
     "GX": "peṃh²",
     "GHC": "pjɨ̣j²",
     "explanationEN": "shovel",
-    "explanationCN": "掀、鍤"
+    "explanationCN": "掀鍤"
   },
   {
     "character": "𘃲",
@@ -4828,7 +4828,7 @@ const DICTIONARY_DATA = [
     "GX": "rvwu̱r¹",
     "GHC": "wur¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【屋】、【斡】"
+    "explanationCN": "【屋】【斡】"
   },
   {
     "character": "𗵾",
@@ -4884,7 +4884,7 @@ const DICTIONARY_DATA = [
     "GX": "gwoṃ¹",
     "GHC": "gjwow¹",
     "explanationEN": "to throw; to cast",
-    "explanationCN": "掷、投掷"
+    "explanationCN": "掷投掷"
   },
   {
     "character": "𘜜",
@@ -4912,14 +4912,14 @@ const DICTIONARY_DATA = [
     "GX": "nto¹",
     "GHC": "tjo̱¹",
     "explanationEN": "to look for; to seek",
-    "explanationCN": "寻、找、觅、蒐、检"
+    "explanationCN": "寻找觅蒐检"
   },
   {
     "character": "𗡧",
     "GX": "ndzi²",
     "GHC": "dzji̱²",
     "explanationEN": "to conceal",
-    "explanationCN": "隠蔽、依避"
+    "explanationCN": "隠蔽依避"
   },
   {
     "character": "𗶄",
@@ -4940,14 +4940,14 @@ const DICTIONARY_DATA = [
     "GX": "vwi̱²",
     "GHC": "we²",
     "explanationEN": "to correspond",
-    "explanationCN": "1.切2.处3.韵4.往"
+    "explanationCN": "合、处"
   },
   {
     "character": "𗉔",
     "GX": "tśiw¹",
     "GHC": "tśjiw¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【州】、【周】、【昼】、【昭】汉语借词"
+    "explanationCN": "【州】【周】【昼】【昭】】"
   },
   {
     "character": "𗎚",
@@ -4961,7 +4961,7 @@ const DICTIONARY_DATA = [
     "GX": "yu²",
     "GHC": "ˑju²",
     "explanationEN": "shed; curtain",
-    "explanationCN": "棚、幕"
+    "explanationCN": "棚幕"
   },
   {
     "character": "𘄖",
@@ -5038,14 +5038,14 @@ const DICTIONARY_DATA = [
     "GX": "mmi²",
     "GHC": "mji̱²",
     "explanationEN": "to administer; to manage",
-    "explanationCN": "1.治2.饶3.壅、拥"
+    "explanationCN": "治"
   },
   {
     "character": "𗷷",
     "GX": "lhih²",
     "GHC": "lhjị²",
     "explanationEN": "to break; to crack",
-    "explanationCN": "折、裂"
+    "explanationCN": "折裂"
   },
   {
     "character": "𗰺",
@@ -5101,14 +5101,14 @@ const DICTIONARY_DATA = [
     "GX": "nllo̱²",
     "GHC": "lho̱²",
     "explanationEN": "to report",
-    "explanationCN": "举报、告"
+    "explanationCN": "举报告"
   },
   {
     "character": "𘙼",
     "GX": "mau̱¹",
     "GHC": "mu¹",
     "explanationEN": "a mouth sticks out",
-    "explanationCN": "1.嘴2.杵"
+    "explanationCN": "嘴、杵"
   },
   {
     "character": "𗕼",
@@ -5129,7 +5129,7 @@ const DICTIONARY_DATA = [
     "GX": "nəh¹",
     "GHC": "njɨ̣¹",
     "explanationEN": "to tell; to inform",
-    "explanationCN": "1.告2.投、著"
+    "explanationCN": "告"
   },
   {
     "character": "𗗂",
@@ -5164,7 +5164,7 @@ const DICTIONARY_DATA = [
     "GX": "da̱²",
     "GHC": "da²",
     "explanationEN": "big; large",
-    "explanationCN": "大汉语借词"
+    "explanationCN": "大】"
   },
   {
     "character": "𘞍",
@@ -5213,7 +5213,7 @@ const DICTIONARY_DATA = [
     "GX": "ve²",
     "GHC": "wjij²",
     "explanationEN": "a surname",
-    "explanationCN": "【温】、【永】、【颖】、【鄄】、【荣】"
+    "explanationCN": "【温】【永】【颖】【鄄】【荣】"
   },
   {
     "character": "𗹂",
@@ -5248,7 +5248,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋgi¹",
     "GHC": "gji̱¹",
     "explanationEN": "to chew; to bite",
-    "explanationCN": "1.嚙汉语借词2.衔3.咬"
+    "explanationCN": "咬"
   },
   {
     "character": "𗙄",
@@ -5304,7 +5304,7 @@ const DICTIONARY_DATA = [
     "GX": "za̱¹",
     "GHC": "za¹",
     "explanationEN": "the name of Tangut’s ancestors",
-    "explanationCN": "人房、赤面（西夏祖先名）"
+    "explanationCN": "人房赤面（西夏祖先名）"
   },
   {
     "character": "𗴊",
@@ -5318,7 +5318,7 @@ const DICTIONARY_DATA = [
     "GX": "dzeṃ²",
     "GHC": "dzjɨj²",
     "explanationEN": "to judge; to decide",
-    "explanationCN": "1.判、断2.制、止、治"
+    "explanationCN": "判"
   },
   {
     "character": "𗰢",
@@ -5332,7 +5332,7 @@ const DICTIONARY_DATA = [
     "GX": "dẓae̱²",
     "GHC": "dźiej²",
     "explanationEN": "wheel",
-    "explanationCN": "轮、转、軥"
+    "explanationCN": "轮转軥"
   },
   {
     "character": "𘟕",
@@ -5353,14 +5353,14 @@ const DICTIONARY_DATA = [
     "GX": "ŋkhə²",
     "GHC": "khjɨ̱²",
     "explanationEN": "steep",
-    "explanationCN": "1.陡2.煌"
+    "explanationCN": "陡"
   },
   {
     "character": "𘗳",
     "GX": "tṣwae̱ṃ¹",
     "GHC": "tśiwəj¹",
     "explanationEN": "hunchback; tumor",
-    "explanationCN": "肿瘤、驼背"
+    "explanationCN": "肿瘤驼背"
   },
   {
     "character": "𗷤",
@@ -5374,28 +5374,28 @@ const DICTIONARY_DATA = [
     "GX": "???",
     "GHC": "?",
     "explanationEN": "as",
-    "explanationCN": "如、及"
+    "explanationCN": "如及"
   },
   {
     "character": "𘒻",
     "GX": "lwe¹",
     "GHC": "ljwij¹",
     "explanationEN": "old; aged",
-    "explanationCN": "1.老2.死、亡3.崩"
+    "explanationCN": "死"
   },
   {
     "character": "𘆼",
     "GX": "qwae̱²",
     "GHC": "kiwej²",
     "explanationEN": "fine horse; steed; (Chinese) unicorn",
-    "explanationCN": "骏驥、麒麟"
+    "explanationCN": "骏驥麒麟"
   },
   {
     "character": "𘒨",
     "GX": "phe¹",
     "GHC": "phjij¹",
     "explanationEN": "to express by words",
-    "explanationCN": "1.辞意2.设置"
+    "explanationCN": "设置"
   },
   {
     "character": "𗰪",
@@ -5416,49 +5416,49 @@ const DICTIONARY_DATA = [
     "GX": "γa̱¹",
     "GHC": "ˑa¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【俺】、【庵】"
+    "explanationCN": "【俺】【庵】"
   },
   {
     "character": "𗘼",
     "GX": "ŋgu¹",
     "GHC": "giu̱¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【于】、【雨】、【鱼】、【御】、【愚】、【禹】、【虞】、【羽】、【语】、【鱼】、【玉】"
+    "explanationCN": "【于】【雨】【鱼】【御】【愚】【禹】【虞】【羽】【语】【鱼】【玉】"
   },
   {
     "character": "𘄒",
     "GX": "pa̱²",
     "GHC": "pa²",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【般】2.【鉢】"
+    "explanationCN": "【般】【鉢】"
   },
   {
     "character": "𗙜",
     "GX": "ṣwae̱¹",
     "GHC": "śiwej¹",
     "explanationEN": "very fast; rapid",
-    "explanationCN": "急、疾"
+    "explanationCN": "急疾"
   },
   {
     "character": "𗡫",
     "GX": "ṣao̱²",
     "GHC": "śio²",
     "explanationEN": "daughter-in-law",
-    "explanationCN": "1.媳妇2.音【爽】、【朔】"
+    "explanationCN": "媳【爽】【朔】"
   },
   {
     "character": "𘄯",
     "GX": "lhwe¹",
     "GHC": "lhjwij¹",
     "explanationEN": "oblique; slanting",
-    "explanationCN": "斜、偏、歪、欹"
+    "explanationCN": "斜偏歪欹"
   },
   {
     "character": "𘑜",
     "GX": "se¹",
     "GHC": "sjij¹",
     "explanationEN": "oblique; slanting",
-    "explanationCN": "斜汉语借词"
+    "explanationCN": "斜】"
   },
   {
     "character": "𗰐",
@@ -5479,7 +5479,7 @@ const DICTIONARY_DATA = [
     "GX": "qhwə̱¹",
     "GHC": "khwə¹",
     "explanationEN": "coma; stupor",
-    "explanationCN": "昏迷、闷"
+    "explanationCN": "昏迷闷"
   },
   {
     "character": "𗌶",
@@ -5493,7 +5493,7 @@ const DICTIONARY_DATA = [
     "GX": "bu²",
     "GHC": "bju²",
     "explanationEN": "border; side",
-    "explanationCN": "边、际、境、侧"
+    "explanationCN": "边际境侧"
   },
   {
     "character": "𘈛",
@@ -5507,7 +5507,7 @@ const DICTIONARY_DATA = [
     "GX": "ka̱ṃ¹",
     "GHC": "kã¹",
     "explanationEN": "to drive away; to expel",
-    "explanationCN": "赶汉语借词"
+    "explanationCN": "赶】"
   },
   {
     "character": "𗰏",
@@ -5521,14 +5521,14 @@ const DICTIONARY_DATA = [
     "GX": "γu̱²",
     "GHC": "ɣu²",
     "explanationEN": "a surname",
-    "explanationCN": "【胡】族姓"
+    "explanationCN": "【胡】"
   },
   {
     "character": "𘅃",
     "GX": "ŋa̱h²",
     "GHC": "ŋạ²",
     "explanationEN": "many; much",
-    "explanationCN": "多、善"
+    "explanationCN": "多善"
   },
   {
     "character": "𘅒",
@@ -5549,14 +5549,14 @@ const DICTIONARY_DATA = [
     "GX": "rzi̱r²",
     "GHC": "zer²",
     "explanationEN": "to ask for aid",
-    "explanationCN": "1.行缘2.灌"
+    "explanationCN": "行缘"
   },
   {
     "character": "𘑼",
     "GX": "ro̱r²",
     "GHC": "ror²",
     "explanationEN": "a surname",
-    "explanationCN": "【萝】族姓"
+    "explanationCN": "【萝】"
   },
   {
     "character": "𘙇",
@@ -5570,7 +5570,7 @@ const DICTIONARY_DATA = [
     "GX": "nlhə̱¹",
     "GHC": "lhə̱¹",
     "explanationEN": "bag; sack",
-    "explanationCN": "皮囊、浑脱"
+    "explanationCN": "皮囊浑脱"
   },
   {
     "character": "𗉣",
@@ -5591,7 +5591,7 @@ const DICTIONARY_DATA = [
     "GX": "nə¹",
     "GHC": "njɨ¹",
     "explanationEN": "feelings; sensibilities",
-    "explanationCN": "1.情面2.羞愧"
+    "explanationCN": "情面"
   },
   {
     "character": "𗉜",
@@ -5605,7 +5605,7 @@ const DICTIONARY_DATA = [
     "GX": "tsoh¹",
     "GHC": "tsjọ¹",
     "explanationEN": "fat; grease",
-    "explanationCN": "脂肪、油脂"
+    "explanationCN": "脂肪油脂"
   },
   {
     "character": "𘙞",
@@ -5647,7 +5647,7 @@ const DICTIONARY_DATA = [
     "GX": "śwa¹",
     "GHC": "śjwa¹",
     "explanationEN": "river",
-    "explanationCN": "江、河、湖"
+    "explanationCN": "江河湖"
   },
   {
     "character": "𘘿",
@@ -5668,7 +5668,7 @@ const DICTIONARY_DATA = [
     "GX": "pai̱h¹",
     "GHC": "piẹ¹",
     "explanationEN": "to cut open",
-    "explanationCN": "剖、割"
+    "explanationCN": "剖割"
   },
   {
     "character": "𘜍",
@@ -5682,7 +5682,7 @@ const DICTIONARY_DATA = [
     "GX": "dźu²",
     "GHC": "dźju²",
     "explanationEN": "crane",
-    "explanationCN": "1.鹤、箜2.鵠3.箜篌"
+    "explanationCN": "鹤"
   },
   {
     "character": "𗳠",
@@ -5710,21 +5710,21 @@ const DICTIONARY_DATA = [
     "GX": "lweh²",
     "GHC": "ljwịj²",
     "explanationEN": "to hold or carry in both hands",
-    "explanationCN": "1.捧2.消"
+    "explanationCN": "拿"
   },
   {
     "character": "𗵸",
     "GX": "he¹",
     "GHC": "xjij¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【轩】、【弦】、【邢】、【宪】、【獫】族姓及2.又音【脛】、【蝎】、【献】、【頡】、【忻】"
+    "explanationCN": "【轩】【弦】【邢】【宪】【獫】【脛】【蝎】【献】【頡】【忻】"
   },
   {
     "character": "𘅓",
     "GX": "rzo̱ṃr¹",
     "GHC": "zowr¹",
     "explanationEN": "pulse; muscle",
-    "explanationCN": "筋、脉"
+    "explanationCN": "筋脉"
   },
   {
     "character": "𘈃",
@@ -5738,7 +5738,7 @@ const DICTIONARY_DATA = [
     "GX": "dźəh²",
     "GHC": "dźjɨ̣²",
     "explanationEN": "red",
-    "explanationCN": "红、赤"
+    "explanationCN": "红赤"
   },
   {
     "character": "𘄰",
@@ -5780,42 +5780,42 @@ const DICTIONARY_DATA = [
     "GX": "thə¹",
     "GHC": "thjɨ¹",
     "explanationEN": "to call; to say",
-    "explanationCN": "召、唤、言、说"
+    "explanationCN": "召唤言说"
   },
   {
     "character": "𗱃",
     "GX": "thə¹",
     "GHC": "thjɨ¹",
     "explanationEN": "east; end",
-    "explanationCN": "东、末、尾"
+    "explanationCN": "东末尾"
   },
   {
     "character": "𗱄",
     "GX": "thəh²",
     "GHC": "thjɨ̣²",
     "explanationEN": "case; outer coffin",
-    "explanationCN": "函、椁"
+    "explanationCN": "函椁"
   },
   {
     "character": "𘆅",
     "GX": "qa̱²",
     "GHC": "ka²",
     "explanationEN": "lion",
-    "explanationCN": "狮、狻"
+    "explanationCN": "狮狻"
   },
   {
     "character": "𗷭",
     "GX": "kiṃ¹",
     "GHC": "kjĩ¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【金】、【今】、【斤】、【锦】、【筋】、【紧】、【襟】"
+    "explanationCN": "【金】【今】【斤】【锦】【筋】【紧】【襟】"
   },
   {
     "character": "𘈍",
     "GX": "no̱?",
     "GHC": "no?",
     "explanationEN": "a nation",
-    "explanationCN": "弥药（按：王静如认為“其音（米拿），伊凤阁曾谓為蒙古、西藏称西夏之词。余按：藏文作mi-nyag及me-nyag”（国 83）。此字其它词书未见，疑有笔误。《同音》及《文海》上“弥药”為mi 2.28 nĭa 2.18，而非。谨录于此，供读者参考。）"
+    "explanationCN": ""
   },
   {
     "character": "𗸌",
@@ -5843,7 +5843,7 @@ const DICTIONARY_DATA = [
     "GX": "sa̱²",
     "GHC": "sa²",
     "explanationEN": "to report; to plan",
-    "explanationCN": "1.陈、计2.接"
+    "explanationCN": "1.陈计2.接"
   },
   {
     "character": "𗖬",
@@ -5857,7 +5857,7 @@ const DICTIONARY_DATA = [
     "GX": "nla¹",
     "GHC": "lja̱¹",
     "explanationEN": "praise; eulogy",
-    "explanationCN": "颂、偈"
+    "explanationCN": "颂偈"
   },
   {
     "character": "𗖫",
@@ -5920,7 +5920,7 @@ const DICTIONARY_DATA = [
     "GX": "hiw¹",
     "GHC": "xjiw¹",
     "explanationEN": "stop; rest",
-    "explanationCN": "休汉语借词"
+    "explanationCN": "休】"
   },
   {
     "character": "𘆬",
@@ -5934,7 +5934,7 @@ const DICTIONARY_DATA = [
     "GX": "ntaa̱²",
     "GHC": "tia̱²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【怛】、【靼】"
+    "explanationCN": "【怛】【靼】"
   },
   {
     "character": "𘄬",
@@ -5948,14 +5948,14 @@ const DICTIONARY_DATA = [
     "GX": "phi¹",
     "GHC": "phji¹",
     "explanationEN": "servant",
-    "explanationCN": "奴婢、佣人"
+    "explanationCN": "奴婢佣人"
   },
   {
     "character": "𘜚",
     "GX": "qao̱h¹",
     "GHC": "kiọ¹",
     "explanationEN": "to dare; to be capable",
-    "explanationCN": "敢、能"
+    "explanationCN": "敢能"
   },
   {
     "character": "𘇊",
@@ -5990,7 +5990,7 @@ const DICTIONARY_DATA = [
     "GX": "rmə̱r²",
     "GHC": "mər²",
     "explanationEN": "origin; root",
-    "explanationCN": "1.根本、根源2.宗、祖3.?意“本母”，但在佛经里译為“论”。"
+    "explanationCN": "1.根本根源2.宗祖3.?意“本母”，但在佛经里译為“论”。"
   },
   {
     "character": "𘗨",
@@ -6025,7 +6025,7 @@ const DICTIONARY_DATA = [
     "GX": "rtshər¹",
     "GHC": "tshjɨr¹",
     "explanationEN": "to cut; to slice",
-    "explanationCN": "切汉语借词"
+    "explanationCN": "切】"
   },
   {
     "character": "𗉐",
@@ -6060,21 +6060,21 @@ const DICTIONARY_DATA = [
     "GX": "γu̱¹",
     "GHC": "ɣu¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【吴】族姓也。2.貊3.【乌】、【吾】"
+    "explanationCN": "【吴】【乌】【吾】"
   },
   {
     "character": "𘅥",
     "GX": "rtsu̱r¹",
     "GHC": "tsur¹",
     "explanationEN": "to suffer from an illness; to fall ill; to be ill",
-    "explanationCN": "患病、病卒"
+    "explanationCN": "患病病卒"
   },
   {
     "character": "𘅮",
     "GX": "rtso̱ṃr¹",
     "GHC": "tsowr¹",
     "explanationEN": "pounding; to pestle",
-    "explanationCN": "堆、春动词"
+    "explanationCN": "堆春动词"
   },
   {
     "character": "𘈮",
@@ -6095,14 +6095,14 @@ const DICTIONARY_DATA = [
     "GX": "γaa̱²",
     "GHC": "ˑia̱²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【牙】、【呀】、【鸦】"
+    "explanationCN": "【牙】【呀】【鸦】"
   },
   {
     "character": "𘘂",
     "GX": "tśo?",
     "GHC": "tśjo?",
     "explanationEN": "permanent; forever",
-    "explanationCN": "永、久、长、常、终"
+    "explanationCN": "永久长常终"
   },
   {
     "character": "𘅷",
@@ -6116,7 +6116,7 @@ const DICTIONARY_DATA = [
     "GX": "de̱ṃ¹",
     "GHC": "dəj¹",
     "explanationEN": "a surname",
-    "explanationCN": "【乃】、【代】族姓"
+    "explanationCN": "【乃】【代】"
   },
   {
     "character": "𘈆",
@@ -6144,28 +6144,28 @@ const DICTIONARY_DATA = [
     "GX": "lhuh¹",
     "GHC": "lhjụ¹",
     "explanationEN": "belt; a rope with a hook",
-    "explanationCN": "带、钩绳"
+    "explanationCN": "带钩绳"
   },
   {
     "character": "𗉰",
     "GX": "tśhə¹",
     "GHC": "tśhjɨ¹",
     "explanationEN": "to seek",
-    "explanationCN": "追求、自励"
+    "explanationCN": "追求自励"
   },
   {
     "character": "𘅳",
     "GX": "tshi¹",
     "GHC": "tshji¹",
     "explanationEN": "a surname",
-    "explanationCN": "【齐】族姓"
+    "explanationCN": "【齐】"
   },
   {
     "character": "𘑣",
     "GX": "se²",
     "GHC": "sjij²",
     "explanationEN": "a surname",
-    "explanationCN": "【塞】族姓"
+    "explanationCN": "【塞】"
   },
   {
     "character": "𘙈",
@@ -6179,7 +6179,7 @@ const DICTIONARY_DATA = [
     "GX": "lhweh¹",
     "GHC": "lhjwịj¹",
     "explanationEN": "Tangut",
-    "explanationCN": "番、夏"
+    "explanationCN": "番夏"
   },
   {
     "character": "𘞏",
@@ -6200,14 +6200,14 @@ const DICTIONARY_DATA = [
     "GX": "lli̱²",
     "GHC": "le²",
     "explanationEN": "end; east",
-    "explanationCN": "末、日"
+    "explanationCN": "末日"
   },
   {
     "character": "𗸔",
     "GX": "ryər²",
     "GHC": "ˑjɨr²",
     "explanationEN": "stop; rest",
-    "explanationCN": "1.歇、休2.音【休】、【紇】、【蚶】"
+    "explanationCN": "1.歇休2.音【休】【紇】【蚶】"
   },
   {
     "character": "𗖮",
@@ -6235,14 +6235,14 @@ const DICTIONARY_DATA = [
     "GX": "geh²",
     "GHC": "gjịj²",
     "explanationEN": "body; physique",
-    "explanationCN": "体格、躯"
+    "explanationCN": "体格躯"
   },
   {
     "character": "𗳐",
     "GX": "rar¹",
     "GHC": "rjar¹",
     "explanationEN": "end; east",
-    "explanationCN": "尾、末、东"
+    "explanationCN": "尾末东"
   },
   {
     "character": "𘘁",
@@ -6312,7 +6312,7 @@ const DICTIONARY_DATA = [
     "GX": "rźər¹",
     "GHC": "źjɨr¹",
     "explanationEN": "solid; true",
-    "explanationCN": "1.实汉语借词2.重3.史"
+    "explanationCN": "1.实】2.重3.史"
   },
   {
     "character": "𗕯",
@@ -6333,21 +6333,21 @@ const DICTIONARY_DATA = [
     "GX": "dźə¹",
     "GHC": "dźjɨ̣¹",
     "explanationEN": "a surname",
-    "explanationCN": "【貰】、【射】、【蛇】"
+    "explanationCN": "【貰】【射】【蛇】"
   },
   {
     "character": "𗶟",
     "GX": "mbu̱¹",
     "GHC": "bu̱¹",
     "explanationEN": "etiquette; ceremony and propriety",
-    "explanationCN": "1.礼仪2.如3.音【母】、【莫】、【木】、【墓】、【步】、【牟】、【谋】"
+    "explanationCN": "1.礼仪2.如3.音【母】【莫】【木】【墓】【步】【牟】【谋】"
   },
   {
     "character": "𗶥",
     "GX": "qai̱w¹",
     "GHC": "kiew¹",
     "explanationEN": "to collapse; to crumble",
-    "explanationCN": "崩塌、推毁、陷"
+    "explanationCN": "崩塌推毁陷"
   },
   {
     "character": "𗶢",
@@ -6361,7 +6361,7 @@ const DICTIONARY_DATA = [
     "GX": "qa̱h²",
     "GHC": "kạ²",
     "explanationEN": "to divide; to share",
-    "explanationCN": "分、称"
+    "explanationCN": "分称"
   },
   {
     "character": "𘞲",
@@ -6375,7 +6375,7 @@ const DICTIONARY_DATA = [
     "GX": "qa̱²",
     "GHC": "ka²",
     "explanationEN": "arduous; difficult; hard; tough",
-    "explanationCN": "苦、艰苦"
+    "explanationCN": "苦艰苦"
   },
   {
     "character": "𗕍",
@@ -6396,7 +6396,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋġae̱¹",
     "GHC": "gie̱j¹",
     "explanationEN": "a place name",
-    "explanationCN": "1.【垠】、【崖】地名2.【矮】、【樱】、【靿】"
+    "explanationCN": "【垠】【崖】【矮】【樱】【靿】"
   },
   {
     "character": "𘔣",
@@ -6424,7 +6424,7 @@ const DICTIONARY_DATA = [
     "GX": "γa̱ṃ²",
     "GHC": "ɣã²",
     "explanationEN": "drought; dry spell",
-    "explanationCN": "旱汉语借词"
+    "explanationCN": "旱】"
   },
   {
     "character": "𗈍",
@@ -6438,14 +6438,14 @@ const DICTIONARY_DATA = [
     "GX": "dwu̱²",
     "GHC": "dwu²",
     "explanationEN": "like; alike",
-    "explanationCN": "像、似"
+    "explanationCN": "像似"
   },
   {
     "character": "𗕰",
     "GX": "nlhi¹",
     "GHC": "lhji̱¹",
     "explanationEN": "to pull out; to pull up",
-    "explanationCN": "抽、拔"
+    "explanationCN": "抽拔"
   },
   {
     "character": "𗱜",
@@ -6466,21 +6466,21 @@ const DICTIONARY_DATA = [
     "GX": "nah²",
     "GHC": "njạ²",
     "explanationEN": "anger; rage",
-    "explanationCN": "恼汉语借词"
+    "explanationCN": "恼"
   },
   {
     "character": "𗲩",
     "GX": "ŋqhwa̱¹",
     "GHC": "khwa̱¹",
     "explanationEN": "to curse",
-    "explanationCN": "咒、蛊"
+    "explanationCN": "咒蛊"
   },
   {
     "character": "𗹇",
     "GX": "swə²",
     "GHC": "sjwɨ²",
     "explanationEN": "ghost; an evil spirit",
-    "explanationCN": "祟汉语借词"
+    "explanationCN": "祟"
   },
   {
     "character": "𗱵",
@@ -6494,21 +6494,21 @@ const DICTIONARY_DATA = [
     "GX": "lwa̱ṃ²",
     "GHC": "lwã²",
     "explanationEN": "in disorder; confused",
-    "explanationCN": "1.乱汉语借词2.私"
+    "explanationCN": "1.乱】2.私"
   },
   {
     "character": "𗱠",
     "GX": "dźe¹",
     "GHC": "dźjij¹",
     "explanationEN": "pure; refined",
-    "explanationCN": "纯、精"
+    "explanationCN": "纯精"
   },
   {
     "character": "𘟣",
     "GX": "du¹",
     "GHC": "dju¹",
     "explanationEN": "to exist(normal)",
-    "explanationCN": "to exist（一般）"
+    "explanationCN": "存在"
   },
   {
     "character": "𗱨",
@@ -6522,7 +6522,7 @@ const DICTIONARY_DATA = [
     "GX": "yi¹",
     "GHC": "ˑji¹",
     "explanationEN": "many; more; much",
-    "explanationCN": "1.多2.音【夷】、【伊】、【逸】"
+    "explanationCN": "1.多2.音【夷】【伊】【逸】"
   },
   {
     "character": "𗲈",
@@ -6536,7 +6536,7 @@ const DICTIONARY_DATA = [
     "GX": "twi̱¹",
     "GHC": "twe¹",
     "explanationEN": "to pile up; to heap up",
-    "explanationCN": "堆积汉语借词"
+    "explanationCN": "堆积】"
   },
   {
     "character": "𘆔",
@@ -6550,7 +6550,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋgə¹",
     "GHC": "gjɨ̱¹",
     "explanationEN": "a sudden peal of thunder",
-    "explanationCN": "1.迅雷2.音【揭】、【近】、【芨】"
+    "explanationCN": "1.迅雷2.音【揭】【近】【芨】"
   },
   {
     "character": "𗙧",
@@ -6564,7 +6564,7 @@ const DICTIONARY_DATA = [
     "GX": "li¹",
     "GHC": "lji¹",
     "explanationEN": "prosperous; flourishing",
-    "explanationCN": "1.兴盛、繁荣2.音【利】、【黎】、【雒】、【驪】、【离】、【璃】、【犁】"
+    "explanationCN": "1.兴盛繁荣2.音【利】【黎】【雒】【驪】【离】【璃】【犁】"
   },
   {
     "character": "𘄌",
@@ -6599,7 +6599,7 @@ const DICTIONARY_DATA = [
     "GX": "dzi¹",
     "GHC": "dzji¹",
     "explanationEN": "wrong; mistaken",
-    "explanationCN": "错、过、谬、误"
+    "explanationCN": "错过谬误"
   },
   {
     "character": "𗈐",
@@ -6613,28 +6613,28 @@ const DICTIONARY_DATA = [
     "GX": "tshah¹",
     "GHC": "tshjạ¹",
     "explanationEN": "angry",
-    "explanationCN": "嗔、怒"
+    "explanationCN": "嗔怒"
   },
   {
     "character": "𗕭",
     "GX": "rtśhwər¹",
     "GHC": "tśhjwɨr¹",
     "explanationEN": "silly; idiotic; vulgar",
-    "explanationCN": "痴、俗"
+    "explanationCN": "痴俗"
   },
   {
     "character": "𗰮",
     "GX": "rvwə̱r¹",
     "GHC": "wər¹",
     "explanationEN": "to die young",
-    "explanationCN": "夭折、逝"
+    "explanationCN": "夭折逝"
   },
   {
     "character": "𗱻",
     "GX": "na̱¹",
     "GHC": "na¹",
     "explanationEN": "to steal; to rob",
-    "explanationCN": "盗、窃"
+    "explanationCN": "盗窃"
   },
   {
     "character": "𗲲",
@@ -6648,7 +6648,7 @@ const DICTIONARY_DATA = [
     "GX": "qə̱¹",
     "GHC": "kə¹",
     "explanationEN": "concave; crooked",
-    "explanationCN": "窳、凹、曲、弯"
+    "explanationCN": "窳凹曲弯"
   },
   {
     "character": "𗲝",
@@ -6662,7 +6662,7 @@ const DICTIONARY_DATA = [
     "GX": "təh²",
     "GHC": "tjɨ̣²",
     "explanationEN": "to make; to do",
-    "explanationCN": "做、办、得汉语借词"
+    "explanationCN": "做办得】"
   },
   {
     "character": "𘒋",
@@ -6690,7 +6690,7 @@ const DICTIONARY_DATA = [
     "GX": "nlhaa̱¹",
     "GHC": "lhia̱¹",
     "explanationEN": "to lick; to wipe away",
-    "explanationCN": "舔、拭"
+    "explanationCN": "舔拭"
   },
   {
     "character": "𘃹",
@@ -6711,7 +6711,7 @@ const DICTIONARY_DATA = [
     "GX": "the̱¹",
     "GHC": "thej¹",
     "explanationEN": "platform; objects shaped like a platform",
-    "explanationCN": "1.臺2.太、大3.音【袋】、【大】、【太】、【胎】、【泰】"
+    "explanationCN": "1.臺2.太大3.音【袋】【大】【太】【胎】【泰】"
   },
   {
     "character": "𗕪",
@@ -6732,7 +6732,7 @@ const DICTIONARY_DATA = [
     "GX": "phiṃ¹",
     "GHC": "phjĩ¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【频】、【凭】、【聘】"
+    "explanationCN": "【频】【凭】【聘】"
   },
   {
     "character": "𗰡",
@@ -6753,28 +6753,28 @@ const DICTIONARY_DATA = [
     "GX": "qhaa̱ṃ¹",
     "GHC": "kiã¹",
     "explanationEN": "salted; salty",
-    "explanationCN": "1.硷汉语借词2.音【简】"
+    "explanationCN": "1.硷】2.音【简】"
   },
   {
     "character": "𗕑",
     "GX": "khə²",
     "GHC": "khjɨ²",
     "explanationEN": "ten thousand",
-    "explanationCN": "1.万2.音【乞】、【泣】"
+    "explanationCN": "1.万2.音【乞】【泣】"
   },
   {
     "character": "𗕠",
     "GX": "qho̱¹",
     "GHC": "kho¹",
     "explanationEN": "a classifier",
-    "explanationCN": "首、段"
+    "explanationCN": "首段"
   },
   {
     "character": "𗱕",
     "GX": "rur¹",
     "GHC": "rjur¹",
     "explanationEN": "all; everyone",
-    "explanationCN": "1.诸2.众3.若4.二字重迭為“处处”、“一切”"
+    "explanationCN": "1.诸2.众3.若4.二字重迭為“处处”“一切”"
   },
   {
     "character": "𗘧",
@@ -6788,7 +6788,7 @@ const DICTIONARY_DATA = [
     "GX": "ndẓae̱ṃ²",
     "GHC": "dźie̱j²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【謚】、【神】族姓2.放牧"
+    "explanationCN": "1.【謚】【神】放牧"
   },
   {
     "character": "𗲤",
@@ -6802,7 +6802,7 @@ const DICTIONARY_DATA = [
     "GX": "γwəh¹",
     "GHC": "ɣjwɨ̣¹",
     "explanationEN": "to wrestle",
-    "explanationCN": "搏鬭、相扑、摔交"
+    "explanationCN": "搏鬭相扑摔交"
   },
   {
     "character": "𗲎",
@@ -6844,28 +6844,28 @@ const DICTIONARY_DATA = [
     "GX": "da̱²",
     "GHC": "da²",
     "explanationEN": "slow; obtuse; dazed",
-    "explanationCN": "迟钝、昏沉"
+    "explanationCN": "迟钝昏沉"
   },
   {
     "character": "𗱶",
     "GX": "dau̱¹",
     "GHC": "du¹",
     "explanationEN": "slow; obtuse; dazed",
-    "explanationCN": "迟钝、沉"
+    "explanationCN": "迟钝沉"
   },
   {
     "character": "𗲍",
     "GX": "nllo̱r¹",
     "GHC": "ljo̱r¹",
     "explanationEN": "full; excessive",
-    "explanationCN": "满、溢、超"
+    "explanationCN": "满溢超"
   },
   {
     "character": "𘔮",
     "GX": "rvwa̱r²",
     "GHC": "ˑwar²",
     "explanationEN": "wealth; property",
-    "explanationCN": "财、物、货汉语借词"
+    "explanationCN": "财物货】"
   },
   {
     "character": "𘔩",
@@ -6900,28 +6900,28 @@ const DICTIONARY_DATA = [
     "GX": "thə²",
     "GHC": "thjɨ²",
     "explanationEN": "buttocks",
-    "explanationCN": "臀部、屁股"
+    "explanationCN": "臀部屁股"
   },
   {
     "character": "𘆑",
     "GX": "gih²",
     "GHC": "gjị²",
     "explanationEN": "to depend on; to rely on",
-    "explanationCN": "依靠、依避"
+    "explanationCN": "依靠依避"
   },
   {
     "character": "𗱎",
     "GX": "tṣaa̱¹",
     "GHC": "tśia¹",
     "explanationEN": "branch",
-    "explanationCN": "叉、杈"
+    "explanationCN": "叉杈"
   },
   {
     "character": "𘄔",
     "GX": "pae̱ṃ²",
     "GHC": "piəj²",
     "explanationEN": "to flee; to escape",
-    "explanationCN": "逃、遁"
+    "explanationCN": "逃遁"
   },
   {
     "character": "𗈡",
@@ -6949,7 +6949,7 @@ const DICTIONARY_DATA = [
     "GX": "lhi̱w¹",
     "GHC": "lhew¹",
     "explanationEN": "to herd; to graze",
-    "explanationCN": "1.族牧2.【嘍】族姓"
+    "explanationCN": "放牧【嘍】"
   },
   {
     "character": "𘆐",
@@ -6977,35 +6977,35 @@ const DICTIONARY_DATA = [
     "GX": "yiw²",
     "GHC": "ˑjiw²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【游】、【由】族姓2.【酉】、【要】、【右】、【有】、【腰】、【右】、【幽】"
+    "explanationCN": "【游】【由】【酉】【要】【右】【有】【腰】【右】【幽】"
   },
   {
     "character": "𘘚",
     "GX": "ndze²",
     "GHC": "dzji̱j²",
     "explanationEN": "teacher; tutor",
-    "explanationCN": "师、先生"
+    "explanationCN": "师先生"
   },
   {
     "character": "𘜑",
     "GX": "pa̱¹",
     "GHC": "pa¹",
     "explanationEN": "waves",
-    "explanationCN": "波汉语借词"
+    "explanationCN": "波】"
   },
   {
     "character": "𗇦",
     "GX": "lah¹",
     "GHC": "ljạ¹",
     "explanationEN": "calamity; disaster",
-    "explanationCN": "灾、祸"
+    "explanationCN": "灾祸"
   },
   {
     "character": "𗈗",
     "GX": "ndi̱²",
     "GHC": "de̱²",
     "explanationEN": "dirt; filth",
-    "explanationCN": "垢、秽"
+    "explanationCN": "垢秽"
   },
   {
     "character": "𗱝",
@@ -7019,35 +7019,35 @@ const DICTIONARY_DATA = [
     "GX": "lli̱w¹",
     "GHC": "lew¹",
     "explanationEN": "full; filled; satisfied",
-    "explanationCN": "满、足"
+    "explanationCN": "满足"
   },
   {
     "character": "𗘢",
     "GX": "tśheṃ¹",
     "GHC": "tśhjɨj¹",
     "explanationEN": "thin; rare",
-    "explanationCN": "稀薄、微薄"
+    "explanationCN": "稀薄微薄"
   },
   {
     "character": "𗙛",
     "GX": "lə²",
     "GHC": "ljɨ²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【律】、【类】"
+    "explanationCN": "【律】【类】"
   },
   {
     "character": "𗙙",
     "GX": "qi̱ṃ¹",
     "GHC": "kẽ¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【根】、【梗】、【根】"
+    "explanationCN": "【根】【梗】【根】"
   },
   {
     "character": "𗙐",
     "GX": "si̱²",
     "GHC": "se²",
     "explanationEN": "to whistle; whistle (of human)",
-    "explanationCN": "啸、哨（吹口哨）名词"
+    "explanationCN": "啸哨（吹口哨）名词"
   },
   {
     "character": "𗙇",
@@ -7061,7 +7061,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋġe̱²",
     "GHC": "ge̱j²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【爱】、【艾】、【哀】"
+    "explanationCN": "【爱】【艾】【哀】"
   },
   {
     "character": "𗙑",
@@ -7082,21 +7082,21 @@ const DICTIONARY_DATA = [
     "GX": "zeh¹",
     "GHC": "zjịj¹",
     "explanationEN": "how many; how much",
-    "explanationCN": "若干、几何、许、略、群、众"
+    "explanationCN": "若干几何许略群众"
   },
   {
     "character": "𘄀",
     "GX": "tśu¹",
     "GHC": "tśju¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【朱】、【竺】、【诸】族姓2.又音【蛛】、【猪】、【诸】、【帚】、【主】、【竹】、【粥】、【祝】"
+    "explanationCN": "【朱】【竺】【诸】【蛛】【猪】【诸】【帚】【主】【竹】【粥】【祝】"
   },
   {
     "character": "𗟲",
     "GX": "ŋŋwu̱¹",
     "GHC": "ŋwu̱¹",
     "explanationEN": "speech; word",
-    "explanationCN": "言、语、词"
+    "explanationCN": "言语词"
   },
   {
     "character": "𘄨",
@@ -7117,7 +7117,7 @@ const DICTIONARY_DATA = [
     "GX": "loṃ²",
     "GHC": "ljow²",
     "explanationEN": "a little; a few",
-    "explanationCN": "少许、稍微、稀略"
+    "explanationCN": "少许稍微稀略"
   },
   {
     "character": "𘚖",
@@ -7138,7 +7138,7 @@ const DICTIONARY_DATA = [
     "GX": "bi̱h²",
     "GHC": "bẹ²",
     "explanationEN": "to pierce through; to drill",
-    "explanationCN": "穿、钻"
+    "explanationCN": "穿钻"
   },
   {
     "character": "𗘥",
@@ -7152,7 +7152,7 @@ const DICTIONARY_DATA = [
     "GX": "rer¹",
     "GHC": "rjijr¹",
     "explanationEN": "super; particular",
-    "explanationCN": "超、特、殊"
+    "explanationCN": "超特殊"
   },
   {
     "character": "𗲪",
@@ -7166,7 +7166,7 @@ const DICTIONARY_DATA = [
     "GX": "qə̱¹",
     "GHC": "kə¹",
     "explanationEN": "dregs; residue",
-    "explanationCN": "渣滓、糟粕"
+    "explanationCN": "渣滓糟粕"
   },
   {
     "character": "𘒅",
@@ -7180,14 +7180,14 @@ const DICTIONARY_DATA = [
     "GX": "tṣwaa̱¹",
     "GHC": "tśiwa¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【札】2.运气、福气"
+    "explanationCN": "【札】运气福气"
   },
   {
     "character": "𗙂",
     "GX": "rdi̱wr¹",
     "GHC": "dewr¹",
     "explanationEN": "drum",
-    "explanationCN": "鼕、咚汉语借词"
+    "explanationCN": "鼕咚】"
   },
   {
     "character": "𗙋",
@@ -7201,14 +7201,14 @@ const DICTIONARY_DATA = [
     "GX": "rqwa̱r¹",
     "GHC": "kwar¹",
     "explanationEN": "to cry; to weep; to sob",
-    "explanationCN": "哭、泣"
+    "explanationCN": "哭泣"
   },
   {
     "character": "𘑲",
     "GX": "tśoṃ¹",
     "GHC": "tśjow¹",
     "explanationEN": "a surname",
-    "explanationCN": "【章】、【张】、【璋】、【账】、【獐】族姓（按：此字《同音》属七品正齿音，《掌中珠》注音也属正齿音。唯《文海》反切上字，属齿头音，误。）英文释义a surname详细解释请参考《简明夏汉字典》第123页。龚煌城释义族姓“张”《同义》释义【张】mojikyo字体剰景永时字体祼"
+    "explanationCN": "【章】【张】【璋】【账】【獐】"
   },
   {
     "character": "𘟖",
@@ -7236,7 +7236,7 @@ const DICTIONARY_DATA = [
     "GX": "qwo̱¹",
     "GHC": "kwo¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【郭】族姓2.又音【固】、【孤】、【寇】、【广】、【国】、【谷】、【古】"
+    "explanationCN": "【郭】【固】【孤】【寇】【广】【国】【谷】【古】"
   },
   {
     "character": "𘟔",
@@ -7250,7 +7250,7 @@ const DICTIONARY_DATA = [
     "GX": "lhi²",
     "GHC": "lhji²",
     "explanationEN": "moisture",
-    "explanationCN": "潮湿、淋"
+    "explanationCN": "潮湿淋"
   },
   {
     "character": "𘑦",
@@ -7278,7 +7278,7 @@ const DICTIONARY_DATA = [
     "GX": "śa¹",
     "GHC": "śja¹",
     "explanationEN": "ten",
-    "explanationCN": "拾、十"
+    "explanationCN": "拾十"
   },
   {
     "character": "𘟘",
@@ -7313,7 +7313,7 @@ const DICTIONARY_DATA = [
     "GX": "da̱h²",
     "GHC": "dạ²",
     "explanationEN": "speech; word",
-    "explanationCN": "言、话、语"
+    "explanationCN": "言话语"
   },
   {
     "character": "𘆠",
@@ -7334,7 +7334,7 @@ const DICTIONARY_DATA = [
     "GX": "dzih¹",
     "GHC": "dzjị¹",
     "explanationEN": "horse’s teeth; age",
-    "explanationCN": "（按：马齿，即“口齿”，亦指马、骡等牲畜的年龄。）英文释义horse’s teeth; age详细解释请参考《简明夏汉字典》第126页。龚煌城释义马齿集《同义》释义老mojikyo字体嘱景永时字体耽"
+    "explanationCN": "（按：马齿，即“口齿”，亦指马骡等牲畜的年龄。）英文释义horse’s teeth; age详细解释请参考《简明夏汉字典》第126页。龚煌城释义马齿集《同义》释义老mojikyo字体嘱景永时字体耽"
   },
   {
     "character": "𗵹",
@@ -7355,7 +7355,7 @@ const DICTIONARY_DATA = [
     "GX": "ndu̱²",
     "GHC": "du̱²",
     "explanationEN": "to crawl",
-    "explanationCN": "1.爬行、蠕动2.音【耨】"
+    "explanationCN": "1.爬行蠕动2.音【耨】"
   },
   {
     "character": "𘆢",
@@ -7376,7 +7376,7 @@ const DICTIONARY_DATA = [
     "GX": "thu¹",
     "GHC": "thju¹",
     "explanationEN": "truth; reality",
-    "explanationCN": "諦、真实"
+    "explanationCN": "諦真实"
   },
   {
     "character": "𘗩",
@@ -7425,7 +7425,7 @@ const DICTIONARY_DATA = [
     "GX": "twe̱¹",
     "GHC": "twej¹",
     "explanationEN": "to pile up; to accumulate",
-    "explanationCN": "累、积"
+    "explanationCN": "累积"
   },
   {
     "character": "𗕢",
@@ -7467,21 +7467,21 @@ const DICTIONARY_DATA = [
     "GX": "rə̱r²",
     "GHC": "rar²",
     "explanationEN": "shadow; reflection",
-    "explanationCN": "1.影2.庙、祠"
+    "explanationCN": "1.影2.庙祠"
   },
   {
     "character": "𗈀",
     "GX": "lə¹",
     "GHC": "ljɨ¹",
     "explanationEN": "to fall; to sink",
-    "explanationCN": "堕、落、失"
+    "explanationCN": "堕落失"
   },
   {
     "character": "𗇾",
     "GX": "do̱ṃ²",
     "GHC": "dow²",
     "explanationEN": "to move; to stir",
-    "explanationCN": "动汉语借词"
+    "explanationCN": "动】"
   },
   {
     "character": "𗘤",
@@ -7495,21 +7495,21 @@ const DICTIONARY_DATA = [
     "GX": "ndzu²",
     "GHC": "dzju̱²",
     "explanationEN": "to hide",
-    "explanationCN": "隐藏、匿"
+    "explanationCN": "隐藏匿"
   },
   {
     "character": "𗱲",
     "GX": "duh¹",
     "GHC": "djụ¹",
     "explanationEN": "a surname",
-    "explanationCN": "【】族姓（族姓）"
+    "explanationCN": "【】（）"
   },
   {
     "character": "𗱦",
     "GX": "qə̱¹",
     "GHC": "kə¹",
     "explanationEN": "aerolite",
-    "explanationCN": "陨石、神石"
+    "explanationCN": "陨石神石"
   },
   {
     "character": "𗱸",
@@ -7544,7 +7544,7 @@ const DICTIONARY_DATA = [
     "GX": "nlu¹",
     "GHC": "lhju̱¹",
     "explanationEN": "stingy; miserly; grudge",
-    "explanationCN": "慳吝、吝嗇、吝惜"
+    "explanationCN": "慳吝吝嗇吝惜"
   },
   {
     "character": "𗗘",
@@ -7558,7 +7558,7 @@ const DICTIONARY_DATA = [
     "GX": "lu̱²",
     "GHC": "lu²",
     "explanationEN": "holy; virtuous and able",
-    "explanationCN": "圣、贤"
+    "explanationCN": "圣贤"
   },
   {
     "character": "𗙆",
@@ -7572,7 +7572,7 @@ const DICTIONARY_DATA = [
     "GX": "rir²",
     "GHC": "rjir²",
     "explanationEN": "a surname",
-    "explanationCN": "【日】、【利】族姓"
+    "explanationCN": "【日】【利】"
   },
   {
     "character": "𗙮",
@@ -7593,14 +7593,14 @@ const DICTIONARY_DATA = [
     "GX": "zi¹",
     "GHC": "zji¹",
     "explanationEN": "man; male",
-    "explanationCN": "男、雄、子"
+    "explanationCN": "男雄子"
   },
   {
     "character": "𘒃",
     "GX": "lu̱¹",
     "GHC": "lu¹",
     "explanationEN": "stove; furnace",
-    "explanationCN": "1.炉汉语借词2.又音【庐】、【路】、【农】、【论】"
+    "explanationCN": "1.炉】2.又音【庐】【路】【农】【论】"
   },
   {
     "character": "𘘝",
@@ -7614,7 +7614,7 @@ const DICTIONARY_DATA = [
     "GX": "phe̱¹",
     "GHC": "phej¹",
     "explanationEN": "interval",
-    "explanationCN": "间、隔"
+    "explanationCN": "间隔"
   },
   {
     "character": "𗕒",
@@ -7635,7 +7635,7 @@ const DICTIONARY_DATA = [
     "GX": "nwe¹",
     "GHC": "njwij¹",
     "explanationEN": "to obstruct; to block; to choke up",
-    "explanationCN": "阻塞、噎"
+    "explanationCN": "阻塞噎"
   },
   {
     "character": "𗱽",
@@ -7670,21 +7670,21 @@ const DICTIONARY_DATA = [
     "GX": "vah¹",
     "GHC": "wjạ¹",
     "explanationEN": "pretty; beautiful",
-    "explanationCN": "美丽、彩"
+    "explanationCN": "美丽彩"
   },
   {
     "character": "𗰘",
     "GX": "γu̱²",
     "GHC": "ˑu²",
     "explanationEN": "entertaimnent; recreation",
-    "explanationCN": "游戏、娱乐"
+    "explanationCN": "游戏娱乐"
   },
   {
     "character": "𘄫",
     "GX": "tsuh¹",
     "GHC": "tsjụ¹",
     "explanationEN": "to kick",
-    "explanationCN": "鞠、蹴"
+    "explanationCN": "鞠蹴"
   },
   {
     "character": "𗴈",
@@ -7712,7 +7712,7 @@ const DICTIONARY_DATA = [
     "GX": "kaṃ¹",
     "GHC": "kjã¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【坚】、【健】、【根】"
+    "explanationCN": "【坚】【健】【根】"
   },
   {
     "character": "𗘩",
@@ -7747,21 +7747,21 @@ const DICTIONARY_DATA = [
     "GX": "ŋwə̱¹",
     "GHC": "ŋwə¹",
     "explanationEN": "heaven",
-    "explanationCN": "天、皇"
+    "explanationCN": "天皇"
   },
   {
     "character": "𘓵",
     "GX": "rγər¹",
     "GHC": "ɣjɨr¹",
     "explanationEN": "witch; shaman; wizard",
-    "explanationCN": "覡（男巫）汉语借词"
+    "explanationCN": "覡（男巫）】"
   },
   {
     "character": "𗲽",
     "GX": "ryer¹",
     "GHC": "ˑjijr¹",
     "explanationEN": "to pull out; to dredge up",
-    "explanationCN": "拔、捞"
+    "explanationCN": "拔捞"
   },
   {
     "character": "𗈑",
@@ -7782,35 +7782,35 @@ const DICTIONARY_DATA = [
     "GX": "ndu̱²",
     "GHC": "du̱²",
     "explanationEN": "to exert; to try hard",
-    "explanationCN": "努汉语借词"
+    "explanationCN": "努】"
   },
   {
     "character": "𘆫",
     "GX": "teṃ¹",
     "GHC": "tjɨj¹",
     "explanationEN": "to comfort; to appease",
-    "explanationCN": "安抚、拂慰"
+    "explanationCN": "安抚拂慰"
   },
   {
     "character": "𘆺",
     "GX": "bai̱²",
     "GHC": "bie²",
     "explanationEN": "chestnut brown",
-    "explanationCN": "栗色、棕色"
+    "explanationCN": "栗色棕色"
   },
   {
     "character": "𘆽",
     "GX": "ge¹",
     "GHC": "gjij¹",
     "explanationEN": "horse",
-    "explanationCN": "马、玛、午"
+    "explanationCN": "马玛午"
   },
   {
     "character": "𘇞",
     "GX": "bi̱²",
     "GHC": "be²",
     "explanationEN": "fur; leather",
-    "explanationCN": "皮汉语借词"
+    "explanationCN": "皮】"
   },
   {
     "character": "𘒪",
@@ -7824,7 +7824,7 @@ const DICTIONARY_DATA = [
     "GX": "ndzə²",
     "GHC": "dzjɨ̱²",
     "explanationEN": "to practice; to exercise; to review",
-    "explanationCN": "1.习汉语借词2.令3.化"
+    "explanationCN": "1.习】2.令3.化"
   },
   {
     "character": "𘇇",
@@ -7845,7 +7845,7 @@ const DICTIONARY_DATA = [
     "GX": "bi̱²",
     "GHC": "be²",
     "explanationEN": "a surname",
-    "explanationCN": "【皮】、【盃】、【毗】族姓"
+    "explanationCN": "【皮】【盃】【毗】"
   },
   {
     "character": "𗲵",
@@ -7859,7 +7859,7 @@ const DICTIONARY_DATA = [
     "GX": "piṃ¹",
     "GHC": "pjĩ¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【冰】、【臏】、【毕】、【比】2.又音【彪】"
+    "explanationCN": "【冰】【臏】【毕】【比】【彪】"
   },
   {
     "character": "𗘻",
@@ -7873,7 +7873,7 @@ const DICTIONARY_DATA = [
     "GX": "la̱²",
     "GHC": "la²",
     "explanationEN": "clear; obvious; plain",
-    "explanationCN": "明白、分明"
+    "explanationCN": "明白分明"
   },
   {
     "character": "𗰧",
@@ -7887,7 +7887,7 @@ const DICTIONARY_DATA = [
     "GX": "lwuh¹",
     "GHC": "ljwụ¹",
     "explanationEN": "mixed; harmonious",
-    "explanationCN": "1.和合、混合、和睦2.凌"
+    "explanationCN": "1.和合混合和睦2.凌"
   },
   {
     "character": "𗘾",
@@ -7915,14 +7915,14 @@ const DICTIONARY_DATA = [
     "GX": "tśoh²",
     "GHC": "tśjọ²",
     "explanationEN": "heavy",
-    "explanationCN": "重汉语借词"
+    "explanationCN": "重】"
   },
   {
     "character": "𘑧",
     "GX": "si̱w¹",
     "GHC": "sew¹",
     "explanationEN": "dried meat",
-    "explanationCN": "脩汉语借词"
+    "explanationCN": "脩】"
   },
   {
     "character": "𘇢",
@@ -7936,7 +7936,7 @@ const DICTIONARY_DATA = [
     "GX": "ti̱ṃ¹",
     "GHC": "tẽ¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【等】、【灯】、【鐙】"
+    "explanationCN": "【等】【灯】【鐙】"
   },
   {
     "character": "𘆣",
@@ -7978,7 +7978,7 @@ const DICTIONARY_DATA = [
     "GX": "po̱¹",
     "GHC": "po¹",
     "explanationEN": "well-balanced; short",
-    "explanationCN": "匀、矮"
+    "explanationCN": "匀矮"
   },
   {
     "character": "𘗴",
@@ -7992,14 +7992,14 @@ const DICTIONARY_DATA = [
     "GX": "li²",
     "GHC": "ljị²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【李】族姓2.【利】（珠 295）、【吏】（珠 284）、【礼】（珠 291）、【里】（珠 305）、【歷】（珠 282）3.【丽】、【鲤】、【蠡】、【隶】（音 204）。"
+    "explanationCN": "【李】【利】【吏】【礼】【里】【歷】【丽】【鲤】【蠡】【隶】"
   },
   {
     "character": "𗇤",
     "GX": "tswa̱¹",
     "GHC": "tswa¹",
     "explanationEN": "to fall; to throw",
-    "explanationCN": "坠、丢"
+    "explanationCN": "坠丢"
   },
   {
     "character": "𗇪",
@@ -8034,7 +8034,7 @@ const DICTIONARY_DATA = [
     "GX": "źiṃ¹",
     "GHC": "źjĩ¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【任】、【人】族姓、汉语借词2.又音【壬】（珠 096）、【仁】（珠 201）"
+    "explanationCN": "【任】【人】【壬】【仁】"
   },
   {
     "character": "𘄓",
@@ -8062,7 +8062,7 @@ const DICTIONARY_DATA = [
     "GX": "duh¹",
     "GHC": "djụ¹",
     "explanationEN": "centre; middle",
-    "explanationCN": "1.中2.交、岔3.衢4.闕"
+    "explanationCN": "1.中2.交岔3.衢4.闕"
   },
   {
     "character": "𘘤",
@@ -8083,7 +8083,7 @@ const DICTIONARY_DATA = [
     "GX": "źwu²",
     "GHC": "źjwu²",
     "explanationEN": "a surname",
-    "explanationCN": "【如】、【肉】、【弱】、【褥】族姓，"
+    "explanationCN": "【如】【肉】【弱】【褥】，"
   },
   {
     "character": "𘞹",
@@ -8111,7 +8111,7 @@ const DICTIONARY_DATA = [
     "GX": "???",
     "GHC": "?",
     "explanationEN": "inclined to one side; slanting",
-    "explanationCN": "偏、邪"
+    "explanationCN": "偏邪"
   },
   {
     "character": "𗈜",
@@ -8132,7 +8132,7 @@ const DICTIONARY_DATA = [
     "GX": "vih²",
     "GHC": "wjị²",
     "explanationEN": "mill; millstones",
-    "explanationCN": "磑（磨）汉语借词"
+    "explanationCN": "磑（磨）】"
   },
   {
     "character": "𗲃",
@@ -8153,14 +8153,14 @@ const DICTIONARY_DATA = [
     "GX": "luh¹",
     "GHC": "ljụ¹",
     "explanationEN": "to rub; to knead",
-    "explanationCN": "揉、搓"
+    "explanationCN": "揉搓"
   },
   {
     "character": "𗲼",
     "GX": "twə¹",
     "GHC": "tsjwi¹",
     "explanationEN": "to knead; to rub",
-    "explanationCN": "搓、揉"
+    "explanationCN": "搓揉"
   },
   {
     "character": "𘒔",
@@ -8181,14 +8181,14 @@ const DICTIONARY_DATA = [
     "GX": "tshwu¹",
     "GHC": "tshjwu¹",
     "explanationEN": "to swear; to pledge",
-    "explanationCN": "誓、赌咒"
+    "explanationCN": "誓赌咒"
   },
   {
     "character": "𗗯",
     "GX": "tśe²",
     "GHC": "tśjij²",
     "explanationEN": "dog",
-    "explanationCN": "1.狗2.音【整】、【敕】、【贞】、【政】"
+    "explanationCN": "1.狗2.音【整】【敕】【贞】【政】"
   },
   {
     "character": "𗵿",
@@ -8300,7 +8300,7 @@ const DICTIONARY_DATA = [
     "GX": "ẓuo¹",
     "GHC": "źio̱w¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【殊】、【銖】"
+    "explanationCN": "【殊】【銖】"
   },
   {
     "character": "𗈎",
@@ -8328,14 +8328,14 @@ const DICTIONARY_DATA = [
     "GX": "ru̱r²",
     "GHC": "rur²",
     "explanationEN": "to like; to love",
-    "explanationCN": "喜、爱"
+    "explanationCN": "喜爱"
   },
   {
     "character": "𗕳",
     "GX": "śəh¹",
     "GHC": "śjɨ̣¹",
     "explanationEN": "to change; to vary",
-    "explanationCN": "变化、变幻"
+    "explanationCN": "变化变幻"
   },
   {
     "character": "𗘫",
@@ -8384,21 +8384,21 @@ const DICTIONARY_DATA = [
     "GX": "ndzo̱²",
     "GHC": "dzo̱²",
     "explanationEN": "to ride",
-    "explanationCN": "骑、乘"
+    "explanationCN": "骑乘"
   },
   {
     "character": "𘒘",
     "GX": "paa̱ṃ¹",
     "GHC": "piã¹",
     "explanationEN": "to assist",
-    "explanationCN": "1.辅助2.音【班】、【巴】、【把】、【攀】"
+    "explanationCN": "1.辅助2.音【班】【巴】【把】【攀】"
   },
   {
     "character": "𗘂",
     "GX": "khwə¹",
     "GHC": "khjwɨ¹",
     "explanationEN": "dog",
-    "explanationCN": "犬、狗"
+    "explanationCN": "犬狗"
   },
   {
     "character": "𗍈",
@@ -8426,7 +8426,7 @@ const DICTIONARY_DATA = [
     "GX": "rner²",
     "GHC": "njijr²",
     "explanationEN": "face",
-    "explanationCN": "面、情"
+    "explanationCN": "面情"
   },
   {
     "character": "𘄥",
@@ -8447,14 +8447,14 @@ const DICTIONARY_DATA = [
     "GX": "rdzar²",
     "GHC": "dzjar²",
     "explanationEN": "to extinguish; to eliminate",
-    "explanationCN": "灭、绝、尽"
+    "explanationCN": "灭绝尽"
   },
   {
     "character": "𗲁",
     "GX": "tṣaa̱¹",
     "GHC": "tśia¹",
     "explanationEN": "to collapse",
-    "explanationCN": "1.倒蹋2.音【札】、【吒】、【宅】、【笊】、【盏】"
+    "explanationCN": "1.倒蹋2.音【札】【吒】【宅】【笊】【盏】"
   },
   {
     "character": "𗲶",
@@ -8468,7 +8468,7 @@ const DICTIONARY_DATA = [
     "GX": "dẓaa̱ṃ²",
     "GHC": "dźiã²",
     "explanationEN": "egg; ovum",
-    "explanationCN": "卵、蛋"
+    "explanationCN": "卵蛋"
   },
   {
     "character": "𗲷",
@@ -8524,14 +8524,14 @@ const DICTIONARY_DATA = [
     "GX": "tṣhao̱¹",
     "GHC": "tśhio¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【崇】、【众】、【濯】族姓2.又音【疮】（珠 195）、【状】（珠 301）、【窗】（珠 232）、【幢】（珠 211）、【浊】（珠 115）"
+    "explanationCN": "【崇】【众】【濯】【疮】【状】【窗】【幢】【浊】"
   },
   {
     "character": "𗘈",
     "GX": "rŋwi̱r²",
     "GHC": "ŋwer²",
     "explanationEN": "slack; lax; dirty",
-    "explanationCN": "懈、脏"
+    "explanationCN": "懈脏"
   },
   {
     "character": "𗸯",
@@ -8559,35 +8559,35 @@ const DICTIONARY_DATA = [
     "GX": "mpho²",
     "GHC": "phjo̱²",
     "explanationEN": "gentle; harmonious",
-    "explanationCN": "1.和、合2.对偶3.密"
+    "explanationCN": "1.和合2.对偶3.密"
   },
   {
     "character": "𘜞",
     "GX": "tse̱²",
     "GHC": "tsej²",
     "explanationEN": "temporary",
-    "explanationCN": "暂时、须臾"
+    "explanationCN": "暂时须臾"
   },
   {
     "character": "𗈁",
     "GX": "nvu¹",
     "GHC": "wju̱¹",
     "explanationEN": "sad; sorrowful",
-    "explanationCN": "悲、愍"
+    "explanationCN": "悲愍"
   },
   {
     "character": "𗱟",
     "GX": "???",
     "GHC": "?",
     "explanationEN": "to hide; to conceal",
-    "explanationCN": "隠、伏"
+    "explanationCN": "隠伏"
   },
   {
     "character": "𗱭",
     "GX": "śiw²",
     "GHC": "śjiw²",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【守】、【首】、【少】、【修】、【绍】2.又音【寿】（珠 351）、【兽】（珠 161）、【手】（珠 192、255）【受】（珠 285、363）3.【劭】、【狩】、【收】、【首】（音 200）"
+    "explanationCN": "【守】【首】【少】【修】【绍】【寿】【兽】【手】【受】【劭】【狩】【收】【首】"
   },
   {
     "character": "𗲂",
@@ -8601,7 +8601,7 @@ const DICTIONARY_DATA = [
     "GX": "lha²",
     "GHC": "lhja²",
     "explanationEN": "soft; lithe",
-    "explanationCN": "柔、软"
+    "explanationCN": "柔软"
   },
   {
     "character": "𗌴",
@@ -8615,14 +8615,14 @@ const DICTIONARY_DATA = [
     "GX": "qhwe̱¹",
     "GHC": "khwej¹",
     "explanationEN": "to expand; to spread; luxuriant; lush",
-    "explanationCN": "扩展、丰茂形容词"
+    "explanationCN": "扩展丰茂形容词"
   },
   {
     "character": "𗶐",
     "GX": "mi̱²",
     "GHC": "me²",
     "explanationEN": "younger sister",
-    "explanationCN": "妹汉语借词"
+    "explanationCN": "妹】"
   },
   {
     "character": "𗰫",
@@ -8636,14 +8636,14 @@ const DICTIONARY_DATA = [
     "GX": "theṃ¹",
     "GHC": "thjɨj¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.屋舍2.族姓、地名译音3.【殿】（珠 281）、【电】（珠 092）、【】（珠 126）、【田】（珠 132）、【天】（珠 063）、【甜】（珠 334）、【廷】、【定】、【恬】（音 195）"
+    "explanationCN": "【殿】【电】【】【田】【天】【甜】【廷】【定】【恬】"
   },
   {
     "character": "𘔗",
     "GX": "ṇiṃ¹",
     "GHC": "njĩ¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【嚀】2.赤红形容词"
+    "explanationCN": "【嚀】"
   },
   {
     "character": "𘔛",
@@ -8685,14 +8685,14 @@ const DICTIONARY_DATA = [
     "GX": "li²",
     "GHC": "lji²",
     "explanationEN": "children",
-    "explanationCN": "1.儿童2.音【利】、【吏】、【隶】（音 204）"
+    "explanationCN": "1.儿童2.音【利】【吏】【隶】（音 204）"
   },
   {
     "character": "𘝋",
     "GX": "dzwə²",
     "GHC": "dzjwɨ²",
     "explanationEN": "wing",
-    "explanationCN": "1.翅、翼2.羽"
+    "explanationCN": "1.翅翼2.羽"
   },
   {
     "character": "𗱣",
@@ -8720,28 +8720,28 @@ const DICTIONARY_DATA = [
     "GX": "phə̱¹",
     "GHC": "phə¹",
     "explanationEN": "conceited; arrogant",
-    "explanationCN": "矜高、骄傲"
+    "explanationCN": "矜高骄傲"
   },
   {
     "character": "𗕘",
     "GX": "ŋə̱¹",
     "GHC": "ŋə¹",
     "explanationEN": "I; me",
-    "explanationCN": "我汉语借词"
+    "explanationCN": "我】"
   },
   {
     "character": "𗲚",
     "GX": "qwe̱¹",
     "GHC": "kwej¹",
     "explanationEN": "grave; tomb",
-    "explanationCN": "坟墓、尸场"
+    "explanationCN": "坟墓尸场"
   },
   {
     "character": "𗉩",
     "GX": "ŋgo¹",
     "GHC": "gio̱¹",
     "explanationEN": "to bite",
-    "explanationCN": "咬汉语借词"
+    "explanationCN": "咬】"
   },
   {
     "character": "𗉓",
@@ -8755,7 +8755,7 @@ const DICTIONARY_DATA = [
     "GX": "lhə¹",
     "GHC": "lhjɨ¹",
     "explanationEN": "to flatter; to fawn on",
-    "explanationCN": "恭维、奉承"
+    "explanationCN": "恭维奉承"
   },
   {
     "character": "𗕐",
@@ -8769,14 +8769,14 @@ const DICTIONARY_DATA = [
     "GX": "tśiw²",
     "GHC": "tśjiw²",
     "explanationEN": "burnt; charred",
-    "explanationCN": "糊、焦"
+    "explanationCN": "糊焦"
   },
   {
     "character": "𗲳",
     "GX": "rdźwər²",
     "GHC": "dźjwɨr²",
     "explanationEN": "mill; millstones",
-    "explanationCN": "磑、磨"
+    "explanationCN": "磑磨"
   },
   {
     "character": "𘒄",
@@ -8804,14 +8804,14 @@ const DICTIONARY_DATA = [
     "GX": "to̱ṃ¹",
     "GHC": "tow¹",
     "explanationEN": "a surname",
-    "explanationCN": "【多】、【董】、【党】族姓"
+    "explanationCN": "【多】【董】【党】"
   },
   {
     "character": "𗉋",
     "GX": "tṣao̱ṃ¹",
     "GHC": "tśiow¹",
     "explanationEN": "to gather; to assemble",
-    "explanationCN": "1.聚集2.音【桌】、【卓】、【蒺】、【涿】、【庄】、【淖】"
+    "explanationCN": "1.聚集2.音【桌】【卓】【蒺】【涿】【庄】【淖】"
   },
   {
     "character": "𗉠",
@@ -8846,7 +8846,7 @@ const DICTIONARY_DATA = [
     "GX": "rkir²",
     "GHC": "kjir²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【葛】族姓2.俩"
+    "explanationCN": "【葛】双"
   },
   {
     "character": "𘟡",
@@ -8888,7 +8888,7 @@ const DICTIONARY_DATA = [
     "GX": "thwə²",
     "GHC": "thjwɨ²",
     "explanationEN": "to combine; to concentrate",
-    "explanationCN": "结合、结集"
+    "explanationCN": "结合结集"
   },
   {
     "character": "𗱓",
@@ -8909,21 +8909,21 @@ const DICTIONARY_DATA = [
     "GX": "pa¹",
     "GHC": "pja¹",
     "explanationEN": "broad; wide; shallow",
-    "explanationCN": "寛、浅"
+    "explanationCN": "寛浅"
   },
   {
     "character": "𘄟",
     "GX": "tsha̱²",
     "GHC": "tsha²",
     "explanationEN": "wisdom",
-    "explanationCN": "智识、智慧"
+    "explanationCN": "智识智慧"
   },
   {
     "character": "𗟭",
     "GX": "vwo̱²",
     "GHC": "wo²",
     "explanationEN": "should; ought to",
-    "explanationCN": "1.应、可2.也可加在名词之后，具有“宜”义3.可作名词“理”用"
+    "explanationCN": "1.应可2.也可加在名词之后，具有“宜”义3.可作名词“理”用"
   },
   {
     "character": "𘓨",
@@ -8937,7 +8937,7 @@ const DICTIONARY_DATA = [
     "GX": "vwa̱¹",
     "GHC": "wa¹",
     "explanationEN": "eddy; whirlpool",
-    "explanationCN": "涡汉语借词"
+    "explanationCN": "涡】"
   },
   {
     "character": "𗳘",
@@ -8951,14 +8951,14 @@ const DICTIONARY_DATA = [
     "GX": "yə²",
     "GHC": "ˑjɨ²",
     "explanationEN": "to say",
-    "explanationCN": "1.说、曰2.有时可作语尾词用3.音【姨】（珠 204）、【以】（珠 355）、【已】（珠 364）、【依】（珠 292）、【医】（珠 302）、【驛】（珠 062）、【野】、【夷】、【邑】（音 210）"
+    "explanationCN": "1.说曰2.有时可作语尾词用3.音【姨】（珠 204）【以】（珠 355）【已】（珠 364）【依】（珠 292）【医】（珠 302）【驛】（珠 062）【野】【夷】【邑】（音 210）"
   },
   {
     "character": "𘘥",
     "GX": "yə¹",
     "GHC": "ˑjɨ¹",
     "explanationEN": "to say; to call",
-    "explanationCN": "谓、云、说、曰、白"
+    "explanationCN": "谓云说曰白"
   },
   {
     "character": "𘙿",
@@ -8972,7 +8972,7 @@ const DICTIONARY_DATA = [
     "GX": "nświ²",
     "GHC": "śjwi̱²",
     "explanationEN": "gentle; harmonious",
-    "explanationCN": "和、合、调、应、随、顺、美、校动词"
+    "explanationCN": "和合调应随顺美校动词"
   },
   {
     "character": "𗱧",
@@ -8993,7 +8993,7 @@ const DICTIONARY_DATA = [
     "GX": "pə̱¹",
     "GHC": "pə¹",
     "explanationEN": "devil; demon",
-    "explanationCN": "妖、魅、鬼、怪"
+    "explanationCN": "妖魅鬼怪"
   },
   {
     "character": "𗟠",
@@ -9007,7 +9007,7 @@ const DICTIONARY_DATA = [
     "GX": "phəh¹",
     "GHC": "phjɨ̣¹",
     "explanationEN": "aphorism; motto",
-    "explanationCN": "妙语、格言"
+    "explanationCN": "妙语格言"
   },
   {
     "character": "𗲥",
@@ -9021,21 +9021,21 @@ const DICTIONARY_DATA = [
     "GX": "tshi¹",
     "GHC": "tshji¹",
     "explanationEN": "to drive",
-    "explanationCN": "1.御（动）2.【棋】、【箕】（同义甲1425.14）"
+    "explanationCN": "【棋】【箕】"
   },
   {
     "character": "𘄻",
     "GX": "lwa¹",
     "GHC": "ljwa¹",
     "explanationEN": "lower limbs; legs",
-    "explanationCN": "股、下肢"
+    "explanationCN": "股下肢"
   },
   {
     "character": "𗡪",
     "GX": "tsi̱w²",
     "GHC": "tsew²",
     "explanationEN": "limitation",
-    "explanationCN": "1.限、量2.等3.作為词缀，加在基数词之后，构成派生词，表示词序"
+    "explanationCN": "1.限量2.等3.作為词缀，加在基数词之后，构成派生词，表示词序"
   },
   {
     "character": "𗕵",
@@ -9049,7 +9049,7 @@ const DICTIONARY_DATA = [
     "GX": "to̱¹",
     "GHC": "to¹",
     "explanationEN": "a surname",
-    "explanationCN": "【篤】、【哆】族姓"
+    "explanationCN": "【篤】【哆】"
   },
   {
     "character": "𗸮",
@@ -9098,14 +9098,14 @@ const DICTIONARY_DATA = [
     "GX": "tha̱²",
     "GHC": "tha²",
     "explanationEN": "a surname",
-    "explanationCN": "【塔】、【道】族姓"
+    "explanationCN": "【塔】【道】"
   },
   {
     "character": "𗱞",
     "GX": "la̱ṃ¹",
     "GHC": "lã¹",
     "explanationEN": "aerolite",
-    "explanationCN": "陨石、神石"
+    "explanationCN": "陨石神石"
   },
   {
     "character": "𗱮",
@@ -9133,21 +9133,21 @@ const DICTIONARY_DATA = [
     "GX": "lu̱h¹",
     "GHC": "lụ¹",
     "explanationEN": "insect; worm",
-    "explanationCN": "虫、蛆"
+    "explanationCN": "虫蛆"
   },
   {
     "character": "𘒙",
     "GX": "twi̱¹",
     "GHC": "twe¹",
     "explanationEN": "to pile up; to stack",
-    "explanationCN": "1.堆汉语借词2.囤3.坛"
+    "explanationCN": "1.堆】2.囤3.坛"
   },
   {
     "character": "𗌵",
     "GX": "koṃ¹",
     "GHC": "kjow¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【龚】、【䡗】、【宫】、【恭】、【弓】族姓2.音【宫】（珠 102）、【供】（珠 213）、【供】（珠 223）3.【姜】、【共】（音 196）"
+    "explanationCN": "【龚】【䡗】【宫】【恭】【弓】【宫】【供】【供】【姜】【共】"
   },
   {
     "character": "𗍒",
@@ -9161,14 +9161,14 @@ const DICTIONARY_DATA = [
     "GX": "vwi̱²",
     "GHC": "we²",
     "explanationEN": "to sing loudly",
-    "explanationCN": "高唱、娱乐"
+    "explanationCN": "高唱娱乐"
   },
   {
     "character": "𘓫",
     "GX": "tśe¹",
     "GHC": "tśjij¹",
     "explanationEN": "Qiangic people; Tibetan",
-    "explanationCN": "1.羌、藏2.巧匠"
+    "explanationCN": "1.羌藏2.巧匠"
   },
   {
     "character": "𗗺",
@@ -9189,7 +9189,7 @@ const DICTIONARY_DATA = [
     "GX": "ta̱¹",
     "GHC": "ta¹",
     "explanationEN": "dog",
-    "explanationCN": "1.犬2.音【靼】、【郸】、【妲】"
+    "explanationCN": "1.犬2.音【靼】【郸】【妲】"
   },
   {
     "character": "𗘄",
@@ -9217,14 +9217,14 @@ const DICTIONARY_DATA = [
     "GX": "nde¹",
     "GHC": "dji̱j¹",
     "explanationEN": "to smile; to laugh",
-    "explanationCN": "嘻、笑"
+    "explanationCN": "嘻笑"
   },
   {
     "character": "𘄹",
     "GX": "twi̱ṃ¹",
     "GHC": "twe¹",
     "explanationEN": "to brush; to whisk",
-    "explanationCN": "掸、搔、拂"
+    "explanationCN": "掸搔拂"
   },
   {
     "character": "𘴅",
@@ -9238,7 +9238,7 @@ const DICTIONARY_DATA = [
     "GX": "tshi¹",
     "GHC": "tshji¹",
     "explanationEN": "to desire; to want",
-    "explanationCN": "1.要、需求2.音【齐】、【寂】、【戚】、【籍】、【缉】"
+    "explanationCN": "1.要需求2.音【齐】【寂】【戚】【籍】【缉】"
   },
   {
     "character": "𘅖",
@@ -9294,28 +9294,28 @@ const DICTIONARY_DATA = [
     "GX": "mphi¹",
     "GHC": "phji̱¹",
     "explanationEN": "to fly",
-    "explanationCN": "飞、瞬、展翅形容词"
+    "explanationCN": "飞瞬展翅形容词"
   },
   {
     "character": "𘚝",
     "GX": "lu²",
     "GHC": "lu²",
     "explanationEN": "newborn baby; infant",
-    "explanationCN": "產儿、婴儿"
+    "explanationCN": "產儿婴儿"
   },
   {
     "character": "𘞃",
     "GX": "dźoṃ¹",
     "GHC": "dźjow¹",
     "explanationEN": "a long narrow flag; streamer",
-    "explanationCN": "幢汉语借词"
+    "explanationCN": "幢】"
   },
   {
     "character": "𘜝",
     "GX": "rtser²",
     "GHC": "tsjir²",
     "explanationEN": "thorn; splinter",
-    "explanationCN": "1.棘刺2.扠3.茬、稻芒"
+    "explanationCN": "1.棘刺2.扠3.茬稻芒"
   },
   {
     "character": "𗲦",
@@ -9329,7 +9329,7 @@ const DICTIONARY_DATA = [
     "GX": "nde̱¹",
     "GHC": "de̱j¹",
     "explanationEN": "to pass on; transfer",
-    "explanationCN": "1.传、转2.傅"
+    "explanationCN": "1.传转2.傅"
   },
   {
     "character": "𘗮",
@@ -9385,21 +9385,21 @@ const DICTIONARY_DATA = [
     "GX": "bao̱h¹",
     "GHC": "biọ¹",
     "explanationEN": "to break through; to spout",
-    "explanationCN": "迸、突破"
+    "explanationCN": "迸突破"
   },
   {
     "character": "𗲛",
     "GX": "qwe̱¹",
     "GHC": "kwej¹",
     "explanationEN": "four; the fourth",
-    "explanationCN": "四、第四"
+    "explanationCN": "四第四"
   },
   {
     "character": "𗲰",
     "GX": "qwe̱¹",
     "GHC": "kwej¹",
     "explanationEN": "to chop; to pound",
-    "explanationCN": "捣、剁"
+    "explanationCN": "捣剁"
   },
   {
     "character": "𗲟",
@@ -9413,7 +9413,7 @@ const DICTIONARY_DATA = [
     "GX": "tswe¹",
     "GHC": "tsjwij¹",
     "explanationEN": "to rub; to knead",
-    "explanationCN": "揉、搓"
+    "explanationCN": "揉搓"
   },
   {
     "character": "𘒉",
@@ -9427,7 +9427,7 @@ const DICTIONARY_DATA = [
     "GX": "rya̱r²",
     "GHC": "ˑjar²",
     "explanationEN": "to subdue; to tame",
-    "explanationCN": "降伏、驯服、调御"
+    "explanationCN": "降伏驯服调御"
   },
   {
     "character": "𗘋",
@@ -9469,14 +9469,14 @@ const DICTIONARY_DATA = [
     "GX": "γao̱ṃ¹",
     "GHC": "ɣiow¹",
     "explanationEN": "to surrender; to capitulate",
-    "explanationCN": "降汉语借词"
+    "explanationCN": "降】"
   },
   {
     "character": "𗡩",
     "GX": "hwi̱¹",
     "GHC": "xwe¹",
     "explanationEN": "grey; ashy color",
-    "explanationCN": "灰色汉语借词"
+    "explanationCN": "灰色】"
   },
   {
     "character": "𗶅",
@@ -9490,7 +9490,7 @@ const DICTIONARY_DATA = [
     "GX": "te¹",
     "GHC": "tjij¹",
     "explanationEN": "chapter; grade; rank",
-    "explanationCN": "1.品、篇、章2.排3.秩4.摊5.叹"
+    "explanationCN": "1.品篇章2.排3.秩4.摊5.叹"
   },
   {
     "character": "𗳤",
@@ -9525,14 +9525,14 @@ const DICTIONARY_DATA = [
     "GX": "vwa̱²",
     "GHC": "wa²",
     "explanationEN": "to hide; conceal",
-    "explanationCN": "1.隠藏2.音【蛙】（珠 173）、【袜】（珠 252）、【发】（音 194）"
+    "explanationCN": "1.隠藏2.音【蛙】（珠 173）【袜】（珠 252）【发】（音 194）"
   },
   {
     "character": "𗕮",
     "GX": "ntśhi¹",
     "GHC": "tśhji̱¹",
     "explanationEN": "to pull",
-    "explanationCN": "扯汉语借词"
+    "explanationCN": "扯】"
   },
   {
     "character": "𗕴",
@@ -9546,7 +9546,7 @@ const DICTIONARY_DATA = [
     "GX": "swa¹",
     "GHC": "sjwa¹",
     "explanationEN": "time",
-    "explanationCN": "1.时2.音【宣】、【修】"
+    "explanationCN": "1.时2.音【宣】【修】"
   },
   {
     "character": "𗲠",
@@ -9630,7 +9630,7 @@ const DICTIONARY_DATA = [
     "GX": "gu¹",
     "GHC": "gju¹",
     "explanationEN": "pig; hog",
-    "explanationCN": "亥、猪"
+    "explanationCN": "亥猪"
   },
   {
     "character": "𗎣",
@@ -9644,14 +9644,14 @@ const DICTIONARY_DATA = [
     "GX": "rkiwr²",
     "GHC": "kjiwr²",
     "explanationEN": "slanting; inclined; crooked",
-    "explanationCN": "邪、歪邪"
+    "explanationCN": "邪歪邪"
   },
   {
     "character": "𗕱",
     "GX": "γai̱¹",
     "GHC": "ɣie¹",
     "explanationEN": "height (of a person)",
-    "explanationCN": "身高、身长"
+    "explanationCN": "身高身长"
   },
   {
     "character": "𗱺",
@@ -9665,7 +9665,7 @@ const DICTIONARY_DATA = [
     "GX": "mme̱²",
     "GHC": "me̱j²",
     "explanationEN": "end; east",
-    "explanationCN": "末尾、东方、日出处"
+    "explanationCN": "末尾东方日出处"
   },
   {
     "character": "𗍙",
@@ -9686,7 +9686,7 @@ const DICTIONARY_DATA = [
     "GX": "śe¹",
     "GHC": "śjij¹",
     "explanationEN": "to give up; to abandon",
-    "explanationCN": "捨弃、扬弃"
+    "explanationCN": "捨弃扬弃"
   },
   {
     "character": "𗵷",
@@ -9707,14 +9707,14 @@ const DICTIONARY_DATA = [
     "GX": "bə̱²",
     "GHC": "bə²",
     "explanationEN": "old and shabby",
-    "explanationCN": "补衲、破旧"
+    "explanationCN": "补衲破旧"
   },
   {
     "character": "𘗾",
     "GX": "lhe²",
     "GHC": "lhjij²",
     "explanationEN": "to butcher; to sacrifice",
-    "explanationCN": "牺、屠"
+    "explanationCN": "牺屠"
   },
   {
     "character": "𘅸",
@@ -9728,7 +9728,7 @@ const DICTIONARY_DATA = [
     "GX": "dih²",
     "GHC": "djị²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【狄】、【敌】族姓2.踮3.长寿"
+    "explanationCN": "【狄】【敌】"
   },
   {
     "character": "𘙟",
@@ -9798,7 +9798,7 @@ const DICTIONARY_DATA = [
     "GX": "ntśu¹",
     "GHC": "tśju̱¹",
     "explanationEN": "to envy; to harm",
-    "explanationCN": "嫉、害、凌、侵、伤"
+    "explanationCN": "嫉害凌侵伤"
   },
   {
     "character": "𗕦",
@@ -9812,14 +9812,14 @@ const DICTIONARY_DATA = [
     "GX": "nlu²",
     "GHC": "lju̱²",
     "explanationEN": "imperial concubine",
-    "explanationCN": "嬪、妃"
+    "explanationCN": "嬪妃"
   },
   {
     "character": "𘔘",
     "GX": "hu̱ṃ¹",
     "GHC": "xũ¹",
     "explanationEN": "red",
-    "explanationCN": "1.红汉语借词2.音【洪】、【和】、【虹】、【鸿】、【弘】"
+    "explanationCN": "1.红】2.音【洪】【和】【虹】【鸿】【弘】"
   },
   {
     "character": "𗲘",
@@ -9854,7 +9854,7 @@ const DICTIONARY_DATA = [
     "GX": "ryer²",
     "GHC": "ˑji̱r²",
     "explanationEN": "tassel; a piece of cloth",
-    "explanationCN": "缨、巾"
+    "explanationCN": "缨巾"
   },
   {
     "character": "𘒎",
@@ -9875,7 +9875,7 @@ const DICTIONARY_DATA = [
     "GX": "lleṃh²",
     "GHC": "ljɨ̣j²",
     "explanationEN": "happy; delighted",
-    "explanationCN": "欢喜、喜悦"
+    "explanationCN": "欢喜喜悦"
   },
   {
     "character": "𘘽",
@@ -9924,21 +9924,21 @@ const DICTIONARY_DATA = [
     "GX": "ro̱ṃr¹",
     "GHC": "rowr¹",
     "explanationEN": "withered; skinny",
-    "explanationCN": "乾、枯、虚、瘦"
+    "explanationCN": "枯瘦"
   },
   {
     "character": "𗕬",
     "GX": "śə²",
     "GHC": "śjɨ²",
     "explanationEN": "light; not heavy",
-    "explanationCN": "1.轻2.音【什】"
+    "explanationCN": "轻【什】"
   },
   {
     "character": "𘅘",
     "GX": "rner²",
     "GHC": "njijr²",
     "explanationEN": "to spread; to pave",
-    "explanationCN": "1.铺2.薄、部"
+    "explanationCN": "1.铺2.薄部"
   },
   {
     "character": "𘝍",
@@ -9952,7 +9952,7 @@ const DICTIONARY_DATA = [
     "GX": "zəh¹",
     "GHC": "zjɨ̣¹",
     "explanationEN": "daylight; daytime",
-    "explanationCN": "昼、日、时"
+    "explanationCN": "昼日时"
   },
   {
     "character": "𗈃",
@@ -9966,7 +9966,7 @@ const DICTIONARY_DATA = [
     "GX": "rŋwə̱r¹",
     "GHC": "ŋwər¹",
     "explanationEN": "seven; the seventh",
-    "explanationCN": "七、第七"
+    "explanationCN": "七第七"
   },
   {
     "character": "𗉚",
@@ -9980,7 +9980,7 @@ const DICTIONARY_DATA = [
     "GX": "rler¹",
     "GHC": "lji̱r¹",
     "explanationEN": "plough",
-    "explanationCN": "犁汉语借词"
+    "explanationCN": "犁】"
   },
   {
     "character": "𘇥",
@@ -10008,21 +10008,21 @@ const DICTIONARY_DATA = [
     "GX": "kiw¹",
     "GHC": "kjiwr¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "音【鳩】、【骄】、【拘】、【高】"
+    "explanationCN": "音【鳩】【骄】【拘】【高】"
   },
   {
     "character": "𗳵",
     "GX": "ndzwə¹",
     "GHC": "dzjwɨ̱¹",
     "explanationEN": "to speed; to gallop",
-    "explanationCN": "驰汉语借词"
+    "explanationCN": "驰】"
   },
   {
     "character": "𗰷",
     "GX": "rzwə̱r¹",
     "GHC": "zwər¹",
     "explanationEN": "to rinse; to wash",
-    "explanationCN": "洗、濯"
+    "explanationCN": "洗濯"
   },
   {
     "character": "𗇿",
@@ -10050,7 +10050,7 @@ const DICTIONARY_DATA = [
     "GX": "rtsi̱wr²",
     "GHC": "tsewr²",
     "explanationEN": "heavy",
-    "explanationCN": "1.沉重2.触、投、躄、扣、筑"
+    "explanationCN": "1.沉重2.触投躄扣筑"
   },
   {
     "character": "𗕟",
@@ -10064,7 +10064,7 @@ const DICTIONARY_DATA = [
     "GX": "rẓae̱r²",
     "GHC": "ziejr²",
     "explanationEN": "incomplete; different",
-    "explanationCN": "残、差"
+    "explanationCN": "残差"
   },
   {
     "character": "𗸇",
@@ -10078,7 +10078,7 @@ const DICTIONARY_DATA = [
     "GX": "ta̱ṃ¹",
     "GHC": "tã¹",
     "explanationEN": "unlined garment",
-    "explanationCN": "1.单衣 2.音【丹】、【答】、【担】、【胆】"
+    "explanationCN": "1.单衣 2.音【丹】【答】【担】【胆】"
   },
   {
     "character": "𘆊",
@@ -10106,7 +10106,7 @@ const DICTIONARY_DATA = [
     "GX": "buh¹",
     "GHC": "bjụ¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【哺】、【谋】"
+    "explanationCN": "【哺】【谋】"
   },
   {
     "character": "𗕎",
@@ -10120,7 +10120,7 @@ const DICTIONARY_DATA = [
     "GX": "le̱²",
     "GHC": "lej²",
     "explanationEN": "winecup",
-    "explanationCN": "盅、罇、尊"
+    "explanationCN": "盅罇尊"
   },
   {
     "character": "𘇦",
@@ -10134,21 +10134,21 @@ const DICTIONARY_DATA = [
     "GX": "nsu¹",
     "GHC": "sju̱¹",
     "explanationEN": "love; admiration",
-    "explanationCN": "恋慕、仰思"
+    "explanationCN": "恋慕仰思"
   },
   {
     "character": "𗷸",
     "GX": "yiw²",
     "GHC": "ˑjiw²",
     "explanationEN": "son; man",
-    "explanationCN": "子、男、丈夫"
+    "explanationCN": "子男丈夫"
   },
   {
     "character": "𗷬",
     "GX": "rtśhwo̱r²",
     "GHC": "tśhjwor²",
     "explanationEN": "servant",
-    "explanationCN": "（按：依《文海杂类》此字属船母（dź-），但反切系联结果，此字属昌母（tśh-）。疑《文海杂类》注音较早，浊辅音尚未清化。）英文释义servant详细解释请参考《简明夏汉字典》第173页。聂歷山（Nevsky）释义奴僕、奴龚煌城释义童、奴僕、奴《同义》释义童仆mojikyo字体叹景永时字体贩"
+    "explanationCN": "（按：依《文海杂类》此字属船母（dź-），但反切系联结果，此字属昌母（tśh-）。疑《文海杂类》注音较早，浊辅音尚未清化。）英文释义servant详细解释请参考《简明夏汉字典》第173页。聂歷山（Nevsky）释义奴僕奴龚煌城释义童奴僕奴《同义》释义童仆mojikyo字体叹景永时字体贩"
   },
   {
     "character": "𗲑",
@@ -10162,7 +10162,7 @@ const DICTIONARY_DATA = [
     "GX": "ṇi¹",
     "GHC": "nji¹",
     "explanationEN": "magic arts",
-    "explanationCN": "法术、骗术"
+    "explanationCN": "法术骗术"
   },
   {
     "character": "𗱢",
@@ -10190,14 +10190,14 @@ const DICTIONARY_DATA = [
     "GX": "le̱²",
     "GHC": "lej²",
     "explanationEN": "to return; to roll",
-    "explanationCN": "返回、翻滚"
+    "explanationCN": "返回翻滚"
   },
   {
     "character": "𗳶",
     "GX": "tṣhai̱¹",
     "GHC": "tśhie¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【赤】族姓2.【处】"
+    "explanationCN": "【赤】【处】"
   },
   {
     "character": "𘇙",
@@ -10218,7 +10218,7 @@ const DICTIONARY_DATA = [
     "GX": "gu¹",
     "GHC": "gju¹",
     "explanationEN": "rare; thin",
-    "explanationCN": "末、稀、疏"
+    "explanationCN": "末稀疏"
   },
   {
     "character": "𗈚",
@@ -10239,7 +10239,7 @@ const DICTIONARY_DATA = [
     "GX": "nlo̱¹",
     "GHC": "lo̱¹",
     "explanationEN": "pool efforts; cooperation",
-    "explanationCN": "1.合力2.群、党"
+    "explanationCN": "1.合力2.群党"
   },
   {
     "character": "𗷳",
@@ -10274,7 +10274,7 @@ const DICTIONARY_DATA = [
     "GX": "khoṃ¹",
     "GHC": "khjow¹",
     "explanationEN": "strong; powerful",
-    "explanationCN": "强汉语借词"
+    "explanationCN": "强】"
   },
   {
     "character": "𘑯",
@@ -10295,7 +10295,7 @@ const DICTIONARY_DATA = [
     "GX": "ni?",
     "GHC": "nji-?",
     "explanationEN": "to lose; to fail",
-    "explanationCN": "损失、失败"
+    "explanationCN": "损失失败"
   },
   {
     "character": "𗲫",
@@ -10309,7 +10309,7 @@ const DICTIONARY_DATA = [
     "GX": "bo̱ṃh²",
     "GHC": "bọ²",
     "explanationEN": "leopard; panther",
-    "explanationCN": "1.豹汉语借词2.中间"
+    "explanationCN": "1.豹】2.中间"
   },
   {
     "character": "𗸒",
@@ -10330,28 +10330,28 @@ const DICTIONARY_DATA = [
     "GX": "bi¹",
     "GHC": "bji¹",
     "explanationEN": "thin; slight",
-    "explanationCN": "1.薄2.羸、少"
+    "explanationCN": "1.薄2.羸少"
   },
   {
     "character": "𗰹",
     "GX": "tso̱ṃ²",
     "GHC": "tsow²",
     "explanationEN": "a surname",
-    "explanationCN": "【左】、【佐】、【撮】、【作】、【臧】、【蒋】族姓、"
+    "explanationCN": "【左】【佐】【撮】【作】【臧】【蒋】"
   },
   {
     "character": "𗱈",
     "GX": "lli̱²",
     "GHC": "le²",
     "explanationEN": "tiger",
-    "explanationCN": "1.虎、寅2.音【勒】"
+    "explanationCN": "1.虎寅2.音【勒】"
   },
   {
     "character": "𗷲",
     "GX": "giṃ¹",
     "GHC": "gjĩ¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【银】、【严】、【业】、【延】族姓、2.验、证3.音【银】（珠 125）、【砚】（珠 172）、【彦】（珠 303）、【言】（珠 296）"
+    "explanationCN": "【银】【严】【业】【延】【银】【砚】【彦】【言】"
   },
   {
     "character": "𗸏",
@@ -10393,7 +10393,7 @@ const DICTIONARY_DATA = [
     "GX": "ku¹",
     "GHC": "kju¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【俱】、【锯】、【拘】、【鐝】、【脚】族姓、2.音【举】、【莒】、【句】、【居】、【驹】、【车】（音 197）"
+    "explanationCN": "【俱】【锯】【拘】【鐝】【脚】【举】【莒】【句】【居】【驹】【车】"
   },
   {
     "character": "𗕻",
@@ -10407,7 +10407,7 @@ const DICTIONARY_DATA = [
     "GX": "tsi̱ṃ¹",
     "GHC": "tsẽ¹",
     "explanationEN": "to hate; to swear",
-    "explanationCN": "1.憎、駡汉语借词2.音【曾】"
+    "explanationCN": "1.憎駡】2.音【曾】"
   },
   {
     "character": "𗖥",
@@ -10428,7 +10428,7 @@ const DICTIONARY_DATA = [
     "GX": "si̱ṃ¹",
     "GHC": "sẽ¹",
     "explanationEN": "Buddhist monk",
-    "explanationCN": "僧汉语借词"
+    "explanationCN": "僧】"
   },
   {
     "character": "𗈋",
@@ -10449,14 +10449,14 @@ const DICTIONARY_DATA = [
     "GX": "ŋwe̱²",
     "GHC": "ŋwej²",
     "explanationEN": "flat; equal",
-    "explanationCN": "平、齐"
+    "explanationCN": "平齐"
   },
   {
     "character": "𗴨",
     "GX": "səh¹",
     "GHC": "sjɨ̣¹",
     "explanationEN": "to die",
-    "explanationCN": "死汉语借词"
+    "explanationCN": "死】"
   },
   {
     "character": "𘜎",
@@ -10491,21 +10491,21 @@ const DICTIONARY_DATA = [
     "GX": "vih²",
     "GHC": "wjị²",
     "explanationEN": "to change; to make believe",
-    "explanationCN": "变、示、佯、装"
+    "explanationCN": "变示佯装"
   },
   {
     "character": "𗖙",
     "GX": "sa̱²",
     "GHC": "sa²",
     "explanationEN": "to speak; to talk; to tell",
-    "explanationCN": "诉、说"
+    "explanationCN": "诉说"
   },
   {
     "character": "𘇰",
     "GX": "tśhiṃ¹",
     "GHC": "tśhjĩ¹",
     "explanationEN": "old; stale",
-    "explanationCN": "陈汉语借词"
+    "explanationCN": "陈】"
   },
   {
     "character": "𗇞",
@@ -10519,7 +10519,7 @@ const DICTIONARY_DATA = [
     "GX": "ha̱ṃ¹",
     "GHC": "xã¹",
     "explanationEN": "foolish; silly",
-    "explanationCN": "1.憨汉语借词2.音【汉】、【悍】、【含】、【邯】"
+    "explanationCN": "1.憨】2.音【汉】【悍】【含】【邯】"
   },
   {
     "character": "𘒕",
@@ -10554,14 +10554,14 @@ const DICTIONARY_DATA = [
     "GX": "ŋwe̱²",
     "GHC": "ŋwej²",
     "explanationEN": "harmonious; mild",
-    "explanationCN": "和、合、睦、雍、顺、侃、衎"
+    "explanationCN": "和合睦雍顺侃衎"
   },
   {
     "character": "𘒚",
     "GX": "be̱¹",
     "GHC": "bej¹",
     "explanationEN": "to lose; to fail",
-    "explanationCN": "1.败汉语借词2.北、亡"
+    "explanationCN": "1.败】2.北亡"
   },
   {
     "character": "𗖉",
@@ -10589,7 +10589,7 @@ const DICTIONARY_DATA = [
     "GX": "mba̱¹",
     "GHC": "ba̱¹",
     "explanationEN": "to forget",
-    "explanationCN": "1.忘2.音【嚩】、【跋】、【末】"
+    "explanationCN": "1.忘2.音【嚩】【跋】【末】"
   },
   {
     "character": "𗴍",
@@ -10603,7 +10603,7 @@ const DICTIONARY_DATA = [
     "GX": "nlə¹",
     "GHC": "ljɨ̱¹",
     "explanationEN": "to suppress; to put down",
-    "explanationCN": "1.镇摄2.回3.还4.报5.逆、屈6.趺"
+    "explanationCN": "1.镇摄2.回3.还4.报5.逆屈6.趺"
   },
   {
     "character": "𗱤",
@@ -10617,35 +10617,35 @@ const DICTIONARY_DATA = [
     "GX": "swi²",
     "GHC": "sjwi²",
     "explanationEN": "to go along with; to lead; to guide",
-    "explanationCN": "随、带、领、引、擕、牵"
+    "explanationCN": "随带领引擕牵"
   },
   {
     "character": "𗈄",
     "GX": "nnə²",
     "GHC": "njɨ̱²",
     "explanationEN": "to abuse; to swear; to curse",
-    "explanationCN": "駡、詈"
+    "explanationCN": "駡詈"
   },
   {
     "character": "𗱗",
     "GX": "tśeh¹",
     "GHC": "tśjịj¹",
     "explanationEN": "a surname",
-    "explanationCN": "【贞】族姓"
+    "explanationCN": "【贞】"
   },
   {
     "character": "𘆒",
     "GX": "γu̱¹",
     "GHC": "ɣu¹",
     "explanationEN": "to exchange; to change",
-    "explanationCN": "换、变"
+    "explanationCN": "换变"
   },
   {
     "character": "𗖱",
     "GX": "γwu̱²",
     "GHC": "ˑwu²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【乌】、【鄔】、【坞】、【温】、【郝】"
+    "explanationCN": "【乌】【鄔】【坞】【温】【郝】"
   },
   {
     "character": "𗉊",
@@ -10680,21 +10680,21 @@ const DICTIONARY_DATA = [
     "GX": "qhao̱¹",
     "GHC": "khio¹",
     "explanationEN": "to detest.ʙ",
-    "explanationCN": "厌、恶、嫌"
+    "explanationCN": "厌恶嫌"
   },
   {
     "character": "𘒇",
     "GX": "tshi²",
     "GHC": "tshji²",
     "explanationEN": "to wait upon; to serve",
-    "explanationCN": "侍、奉、事、夫"
+    "explanationCN": "侍奉事夫"
   },
   {
     "character": "𗖈",
     "GX": "mpha¹",
     "GHC": "phja̱¹",
     "explanationEN": "to forbid; to ban",
-    "explanationCN": "禁、断"
+    "explanationCN": "禁断"
   },
   {
     "character": "𗴦",
@@ -10722,7 +10722,7 @@ const DICTIONARY_DATA = [
     "GX": "ga¹",
     "GHC": "gja¹",
     "explanationEN": "army; soldier",
-    "explanationCN": "军、兵"
+    "explanationCN": "军兵"
   },
   {
     "character": "𗗉",
@@ -10778,14 +10778,14 @@ const DICTIONARY_DATA = [
     "GX": "tṣhwae̱ṃ¹",
     "GHC": "tśhiwəj¹",
     "explanationEN": "to tie; to fasten",
-    "explanationCN": "繫、缚"
+    "explanationCN": "繫缚"
   },
   {
     "character": "𗗃",
     "GX": "γwuh²",
     "GHC": "ˑwụ²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【於】、【鄔】"
+    "explanationCN": "【於】【鄔】"
   },
   {
     "character": "𘙸",
@@ -10799,21 +10799,21 @@ const DICTIONARY_DATA = [
     "GX": "qu̱¹",
     "GHC": "ku¹",
     "explanationEN": "so",
-    "explanationCN": "1.则、故连词2.音【鼓】（珠 212）、【姑】（珠 366）、【】（珠 166)、【孤】（珠 064）、【羖】（珠 164）、【股】（珠 191）、【孤】"
+    "explanationCN": "1.则故连词2.音【鼓】（珠 212）【姑】（珠 366）【】（珠 166)【孤】（珠 064）【羖】（珠 164）【股】（珠 191）【孤】"
   },
   {
     "character": "𗌮",
     "GX": "rmor¹",
     "GHC": "mjor¹",
     "explanationEN": "true; closes",
-    "explanationCN": "实、如、现"
+    "explanationCN": "实如现"
   },
   {
     "character": "𗖧",
     "GX": "yi²",
     "GHC": "ˑji²",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【㗒】2.音【夷】、【依】、【噎】"
+    "explanationCN": "【㗒】【夷】【依】【噎】"
   },
   {
     "character": "𗘮",
@@ -10841,14 +10841,14 @@ const DICTIONARY_DATA = [
     "GX": "ŋqaa̱²",
     "GHC": "kia̱²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【岬】、【峡】"
+    "explanationCN": "【岬】【峡】"
   },
   {
     "character": "𗇩",
     "GX": "lo̱ṃ²",
     "GHC": "low²",
     "explanationEN": "ancestor; forefather",
-    "explanationCN": "先人、祖先"
+    "explanationCN": "先人祖先"
   },
   {
     "character": "𗈔",
@@ -10862,7 +10862,7 @@ const DICTIONARY_DATA = [
     "GX": "bih¹",
     "GHC": "bjị¹",
     "explanationEN": "wall; stele",
-    "explanationCN": "壁、碑汉语借词"
+    "explanationCN": "壁碑】"
   },
   {
     "character": "𗳾",
@@ -10897,7 +10897,7 @@ const DICTIONARY_DATA = [
     "GX": "dźwə²",
     "GHC": "dźjwɨ²",
     "explanationEN": "a surname",
-    "explanationCN": "【秫】族姓"
+    "explanationCN": "【秫】"
   },
   {
     "character": "𘇬",
@@ -10918,14 +10918,14 @@ const DICTIONARY_DATA = [
     "GX": "qa̱²",
     "GHC": "ka²",
     "explanationEN": "to spread",
-    "explanationCN": "1.伸展2.盃、盏"
+    "explanationCN": "1.伸展2.盃盏"
   },
   {
     "character": "𗴁",
     "GX": "qa̱²",
     "GHC": "ka²",
     "explanationEN": "great-great-grandson",
-    "explanationCN": "1.玄孙2.【葛】族姓"
+    "explanationCN": "玄孙【葛】"
   },
   {
     "character": "𘈵",
@@ -10946,21 +10946,21 @@ const DICTIONARY_DATA = [
     "GX": "soh²",
     "GHC": "sjọ²",
     "explanationEN": "a kind of grass to make rain cape",
-    "explanationCN": "蓑汉语借词"
+    "explanationCN": "蓑】"
   },
   {
     "character": "𗳉",
     "GX": "the¹",
     "GHC": "thjij¹",
     "explanationEN": "fields; subfurbs",
-    "explanationCN": "田野、郊外"
+    "explanationCN": "田野郊外"
   },
   {
     "character": "𗳏",
     "GX": "theṃ¹",
     "GHC": "thjɨj¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【廷】、【田】、【天】"
+    "explanationCN": "【廷】【田】【天】"
   },
   {
     "character": "𘇭",
@@ -11016,7 +11016,7 @@ const DICTIONARY_DATA = [
     "GX": "nni²",
     "GHC": "nji̱²",
     "explanationEN": "giant salamander",
-    "explanationCN": "鯢汉语借词"
+    "explanationCN": "鯢】"
   },
   {
     "character": "𗹕",
@@ -11037,7 +11037,7 @@ const DICTIONARY_DATA = [
     "GX": "qa̱h²",
     "GHC": "kạ²",
     "explanationEN": "equality",
-    "explanationCN": "齐、平、等、同、兼"
+    "explanationCN": "齐平等同兼"
   },
   {
     "character": "𘞘",
@@ -11058,7 +11058,7 @@ const DICTIONARY_DATA = [
     "GX": "bəh¹",
     "GHC": "bjɨ̣¹",
     "explanationEN": "skilful; clever",
-    "explanationCN": "1.巧、巧媳2.【备】族姓"
+    "explanationCN": "【备】巧妇"
   },
   {
     "character": "𘝺",
@@ -11072,7 +11072,7 @@ const DICTIONARY_DATA = [
     "GX": "nśə²",
     "GHC": "tśjɨ̱²",
     "explanationEN": "general name for certain musical instruments",
-    "explanationCN": "1.琴、瑟2.提"
+    "explanationCN": "1.琴瑟2.提"
   },
   {
     "character": "𘞙",
@@ -11100,14 +11100,14 @@ const DICTIONARY_DATA = [
     "GX": "dźwu¹",
     "GHC": "dźjwu¹",
     "explanationEN": "to eliminate; to remove",
-    "explanationCN": "除、消"
+    "explanationCN": "除消"
   },
   {
     "character": "𗙏",
     "GX": "γai̱h²",
     "GHC": "ɣiẹ²",
     "explanationEN": "sound; sound",
-    "explanationCN": "声、音"
+    "explanationCN": "声音"
   },
   {
     "character": "𗹅",
@@ -11128,14 +11128,14 @@ const DICTIONARY_DATA = [
     "GX": "rywər¹",
     "GHC": "ˑjwɨr¹",
     "explanationEN": "looks; appearance",
-    "explanationCN": "相、象"
+    "explanationCN": "相象"
   },
   {
     "character": "𗙱",
     "GX": "qə̱¹",
     "GHC": "kə¹",
     "explanationEN": "arduous; difficult; hard; tough",
-    "explanationCN": "苦、艰苦"
+    "explanationCN": "苦艰苦"
   },
   {
     "character": "𗟹",
@@ -11156,14 +11156,14 @@ const DICTIONARY_DATA = [
     "GX": "the¹",
     "GHC": "thjij¹",
     "explanationEN": "dagger; knife",
-    "explanationCN": "匕首、短刀"
+    "explanationCN": "匕首短刀"
   },
   {
     "character": "𗙅",
     "GX": "rhə̱r¹",
     "GHC": "xər¹",
     "explanationEN": "to hum",
-    "explanationCN": "哼汉语借词"
+    "explanationCN": "哼】"
   },
   {
     "character": "𗰦",
@@ -11177,7 +11177,7 @@ const DICTIONARY_DATA = [
     "GX": "hwi̱ṃ¹",
     "GHC": "xwẽ¹",
     "explanationEN": "dim; dusky",
-    "explanationCN": "1.昏汉语借词2.【浑】族姓"
+    "explanationCN": "【昏】【浑】"
   },
   {
     "character": "𗹌",
@@ -11191,7 +11191,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋgi¹",
     "GHC": "gji̱¹",
     "explanationEN": "clear",
-    "explanationCN": "澄、静、湛"
+    "explanationCN": "澄静湛"
   },
   {
     "character": "𘜘",
@@ -11205,21 +11205,21 @@ const DICTIONARY_DATA = [
     "GX": "thu̱¹",
     "GHC": "thu¹",
     "explanationEN": "to set up; to build",
-    "explanationCN": "1.设、置、安、建、修2.结、织"
+    "explanationCN": "1.设置安建修2.结织"
   },
   {
     "character": "𘙾",
     "GX": "ho̱ṃ¹",
     "GHC": "xow¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【黄】、【璜】、【皇】、【和】"
+    "explanationCN": "【黄】【璜】【皇】【和】"
   },
   {
     "character": "𘓳",
     "GX": "rŋo̱ṃr²",
     "GHC": "ŋowr²",
     "explanationEN": "whole; complete",
-    "explanationCN": "全、俱、尽"
+    "explanationCN": "全俱尽"
   },
   {
     "character": "𘇎",
@@ -11233,21 +11233,21 @@ const DICTIONARY_DATA = [
     "GX": "dzeṃ¹",
     "GHC": "dzjɨj¹",
     "explanationEN": "money",
-    "explanationCN": "钱汉语借词"
+    "explanationCN": "钱】"
   },
   {
     "character": "𗷩",
     "GX": "yeṃ²",
     "GHC": "ˑjɨj²",
     "explanationEN": "prison; jail",
-    "explanationCN": "狱、牢"
+    "explanationCN": "狱牢"
   },
   {
     "character": "𘆶",
     "GX": "su²",
     "GHC": "sju²",
     "explanationEN": "livestock; domestic animals",
-    "explanationCN": "牲、畜"
+    "explanationCN": "牲畜"
   },
   {
     "character": "𘒽",
@@ -11261,14 +11261,14 @@ const DICTIONARY_DATA = [
     "GX": "li̱w²",
     "GHC": "ləw²",
     "explanationEN": "same; alike",
-    "explanationCN": "同、类"
+    "explanationCN": "同类"
   },
   {
     "character": "𘇍",
     "GX": "γwu̱h²",
     "GHC": "ˑwụ²",
     "explanationEN": "domestic animals; steed",
-    "explanationCN": "畜、骏"
+    "explanationCN": "畜骏"
   },
   {
     "character": "𘙨",
@@ -11317,14 +11317,14 @@ const DICTIONARY_DATA = [
     "GX": "γo̱²",
     "GHC": "ˑo²",
     "explanationEN": "to hold; to contain; to enter",
-    "explanationCN": "容、入、进"
+    "explanationCN": "容入进"
   },
   {
     "character": "𘜕",
     "GX": "rkir²",
     "GHC": "kjir²",
     "explanationEN": "to dare",
-    "explanationCN": "敢、能"
+    "explanationCN": "敢能"
   },
   {
     "character": "𘚃",
@@ -11359,14 +11359,14 @@ const DICTIONARY_DATA = [
     "GX": "reṃ²",
     "GHC": "rjɨj²",
     "explanationEN": "string; rope; belt",
-    "explanationCN": "绳索、带"
+    "explanationCN": "绳索带"
   },
   {
     "character": "𘓹",
     "GX": "vwa̱h²",
     "GHC": "wạ²",
     "explanationEN": "palace",
-    "explanationCN": "宫、城"
+    "explanationCN": "宫城"
   },
   {
     "character": "𘓮",
@@ -11380,7 +11380,7 @@ const DICTIONARY_DATA = [
     "GX": "tuh²",
     "GHC": "tjụ²",
     "explanationEN": "to mate; to marry",
-    "explanationCN": "淫、交配、婚"
+    "explanationCN": "淫交配婚"
   },
   {
     "character": "𘇅",
@@ -11394,7 +11394,7 @@ const DICTIONARY_DATA = [
     "GX": "ti̱w¹",
     "GHC": "tew¹",
     "explanationEN": "crooked; curved",
-    "explanationCN": "钓、曲"
+    "explanationCN": "钓曲"
   },
   {
     "character": "𗌯",
@@ -11408,7 +11408,7 @@ const DICTIONARY_DATA = [
     "GX": "qae̱²",
     "GHC": "kiej²",
     "explanationEN": "to expel",
-    "explanationCN": "赶、驱"
+    "explanationCN": "赶驱"
   },
   {
     "character": "𗍶",
@@ -11422,7 +11422,7 @@ const DICTIONARY_DATA = [
     "GX": "thwə¹",
     "GHC": "thjwɨ¹",
     "explanationEN": "fear; dread",
-    "explanationCN": "1.吓、惧2.音【突】"
+    "explanationCN": "1.吓惧2.音【突】"
   },
   {
     "character": "𗙎",
@@ -11443,7 +11443,7 @@ const DICTIONARY_DATA = [
     "GX": "ri̱r²",
     "GHC": "rer²",
     "explanationEN": "jade necklace; net",
-    "explanationCN": "珞、络、网、莉"
+    "explanationCN": "珞络网莉"
   },
   {
     "character": "𗹁",
@@ -11457,14 +11457,14 @@ const DICTIONARY_DATA = [
     "GX": "śwa¹",
     "GHC": "śjwa¹",
     "explanationEN": "to give birth to",
-    "explanationCN": "生產、分娩、出生"
+    "explanationCN": "生產分娩出生"
   },
   {
     "character": "𘄍",
     "GX": "ba̱²",
     "GHC": "ba²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【播】、【嚩】、【袜】族姓、"
+    "explanationCN": "【播】【嚩】【袜】"
   },
   {
     "character": "𘄎",
@@ -11485,7 +11485,7 @@ const DICTIONARY_DATA = [
     "GX": "dzeh¹",
     "GHC": "dzjịj¹",
     "explanationEN": "to cross; to pass; to exceed",
-    "explanationCN": "1.渡、过、越、超、逾2.余3.亢4.济"
+    "explanationCN": "1.渡过越超逾2.余3.亢4.济"
   },
   {
     "character": "𗍻",
@@ -11499,14 +11499,14 @@ const DICTIONARY_DATA = [
     "GX": "khwaə̱?",
     "GHC": "khiwə?",
     "explanationEN": "to abuse; to swear",
-    "explanationCN": "1.駡詈2.音【噲】、【愧】、【蒯】"
+    "explanationCN": "1.駡詈2.音【噲】【愧】【蒯】"
   },
   {
     "character": "𗙔",
     "GX": "hwa̱ṃ¹",
     "GHC": "xwã¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【桓】、【活】"
+    "explanationCN": "【桓】【活】"
   },
   {
     "character": "𗙣",
@@ -11520,7 +11520,7 @@ const DICTIONARY_DATA = [
     "GX": "pəh¹",
     "GHC": "pjɨ̣¹",
     "explanationEN": "suggestion; discussion",
-    "explanationCN": "议、谋"
+    "explanationCN": "议谋"
   },
   {
     "character": "𘄭",
@@ -11562,14 +11562,14 @@ const DICTIONARY_DATA = [
     "GX": "tshwu¹",
     "GHC": "tshjwu¹",
     "explanationEN": "to salute",
-    "explanationCN": "敬礼、拜"
+    "explanationCN": "敬礼拜"
   },
   {
     "character": "𘆪",
     "GX": "tya²",
     "GHC": "tja²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【低】、【点】"
+    "explanationCN": "【低】【点】"
   },
   {
     "character": "𘆷",
@@ -11604,7 +11604,7 @@ const DICTIONARY_DATA = [
     "GX": "phe¹",
     "GHC": "phjij¹",
     "explanationEN": "to calm down; to arrange for",
-    "explanationCN": "平定、安置"
+    "explanationCN": "平定安置"
   },
   {
     "character": "𘆻",
@@ -11618,7 +11618,7 @@ const DICTIONARY_DATA = [
     "GX": "li̱w²",
     "GHC": "lew²",
     "explanationEN": "white",
-    "explanationCN": "1.白2.（珂）贝、车渠"
+    "explanationCN": "1.白2.（珂）贝车渠"
   },
   {
     "character": "𘙱",
@@ -11632,7 +11632,7 @@ const DICTIONARY_DATA = [
     "GX": "liṃ¹",
     "GHC": "ljĩ¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【陵】、【林】、【邻】、【临】、【琳】"
+    "explanationCN": "【陵】【林】【邻】【临】【琳】"
   },
   {
     "character": "𗹈",
@@ -11653,7 +11653,7 @@ const DICTIONARY_DATA = [
     "GX": "beṃ²",
     "GHC": "bjɨj²",
     "explanationEN": "to cheat; to swindle",
-    "explanationCN": "诈、骗"
+    "explanationCN": "诈骗"
   },
   {
     "character": "𗷨",
@@ -11674,42 +11674,42 @@ const DICTIONARY_DATA = [
     "GX": "ta̱¹",
     "GHC": "ta¹",
     "explanationEN": "tail; east",
-    "explanationCN": "1.尾、东2.音【旦】"
+    "explanationCN": "1.尾东2.音【旦】"
   },
   {
     "character": "𗳩",
     "GX": "γo̱¹",
     "GHC": "ˑo¹",
     "explanationEN": "a surname",
-    "explanationCN": "【讹】族姓"
+    "explanationCN": "【讹】"
   },
   {
     "character": "𗸬",
     "GX": "lheṃ¹",
     "GHC": "lhjɨj¹",
     "explanationEN": "to hear; to listen",
-    "explanationCN": "听、闻"
+    "explanationCN": "听闻"
   },
   {
     "character": "𘅆",
     "GX": "swe¹",
     "GHC": "sjwij¹",
     "explanationEN": "to grind; to pestle",
-    "explanationCN": "研、磨"
+    "explanationCN": "研磨"
   },
   {
     "character": "𘔚",
     "GX": "ne¹",
     "GHC": "njij¹",
     "explanationEN": "red",
-    "explanationCN": "霓、红、赤、朱、緋"
+    "explanationCN": "霓红赤朱緋"
   },
   {
     "character": "𘙁",
     "GX": "se̱²",
     "GHC": "sej²",
     "explanationEN": "ripe hide; pelt",
-    "explanationCN": "熟（皮子）形容词汉语借词"
+    "explanationCN": "熟（皮子）形容词】"
   },
   {
     "character": "𘗭",
@@ -11758,14 +11758,14 @@ const DICTIONARY_DATA = [
     "GX": "so̱ṃ¹",
     "GHC": "sow¹",
     "explanationEN": "end; buttocks",
-    "explanationCN": "末尾、屁股"
+    "explanationCN": "末尾屁股"
   },
   {
     "character": "𘙄",
     "GX": "γwae̱ṃ²",
     "GHC": "ɣiwəj²",
     "explanationEN": "thin; feeble",
-    "explanationCN": "瘦、羸"
+    "explanationCN": "瘦羸"
   },
   {
     "character": "𘚙",
@@ -11786,7 +11786,7 @@ const DICTIONARY_DATA = [
     "GX": "so²",
     "GHC": "sjo²",
     "explanationEN": "to be familiar with",
-    "explanationCN": "1.熟悉2.音【诵】、【襄】、【穰】、【相】、【翔】、【祥】、【湘】、【像】"
+    "explanationCN": "1.熟悉2.音【诵】【襄】【穰】【相】【翔】【祥】【湘】【像】"
   },
   {
     "character": "𘈭",
@@ -11800,7 +11800,7 @@ const DICTIONARY_DATA = [
     "GX": "khiṃ¹",
     "GHC": "khjĩ¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【琴】、【禽】、【清】、【顷】"
+    "explanationCN": "【琴】【禽】【清】【顷】"
   },
   {
     "character": "𗉵",
@@ -11828,7 +11828,7 @@ const DICTIONARY_DATA = [
     "GX": "qaa̱¹",
     "GHC": "kia¹",
     "explanationEN": "pan",
-    "explanationCN": "锅汉语借词"
+    "explanationCN": "锅】"
   },
   {
     "character": "𘈰",
@@ -11849,21 +11849,21 @@ const DICTIONARY_DATA = [
     "GX": "yaṃ²",
     "GHC": "jã²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【烟】、【胭】、【延】、【燕】汉语借词"
+    "explanationCN": "【烟】【胭】【延】【燕】】"
   },
   {
     "character": "𘅄",
     "GX": "sa¹",
     "GHC": "sja¹",
     "explanationEN": "to do",
-    "explanationCN": "1.做、作、办2.音【萨】、【颯】、【散】、【三】、【苏】、【僧】、【索】"
+    "explanationCN": "1.做作办2.音【萨】【颯】【散】【三】【苏】【僧】【索】"
   },
   {
     "character": "𗸫",
     "GX": "leh¹",
     "GHC": "ljịj¹",
     "explanationEN": "to do",
-    "explanationCN": "做、办"
+    "explanationCN": "做办"
   },
   {
     "character": "𗸳",
@@ -11877,7 +11877,7 @@ const DICTIONARY_DATA = [
     "GX": "nlə¹",
     "GHC": "ljɨ̱¹",
     "explanationEN": "flag; to raise in wind",
-    "explanationCN": "1.幡、帜2.吹扬动词"
+    "explanationCN": "1.幡帜2.吹扬动词"
   },
   {
     "character": "𘝄",
@@ -11898,7 +11898,7 @@ const DICTIONARY_DATA = [
     "GX": "nśi¹",
     "GHC": "śji̱¹",
     "explanationEN": "livestock; domestic animals",
-    "explanationCN": "牲汉语借词"
+    "explanationCN": "牲】"
   },
   {
     "character": "𗟧",
@@ -12003,14 +12003,14 @@ const DICTIONARY_DATA = [
     "GX": "mmi̱²",
     "GHC": "me̱²",
     "explanationEN": "to lie; to sleep",
-    "explanationCN": "睡、卧"
+    "explanationCN": "睡卧"
   },
   {
     "character": "𘅤",
     "GX": "rar¹",
     "GHC": "rjar¹",
     "explanationEN": "to write",
-    "explanationCN": "1.写、书2.凭3.篤"
+    "explanationCN": "1.写书2.凭3.篤"
   },
   {
     "character": "𘝈",
@@ -12031,35 +12031,35 @@ const DICTIONARY_DATA = [
     "GX": "yaw¹",
     "GHC": "ˑja̱¹",
     "explanationEN": "yes; okay",
-    "explanationCN": "然、诺"
+    "explanationCN": "然诺"
   },
   {
     "character": "𘇤",
     "GX": "ŋge¹",
     "GHC": "gji̱j¹",
     "explanationEN": "to tease; to play",
-    "explanationCN": "戏耍、戏剧、游戏"
+    "explanationCN": "戏耍戏剧游戏"
   },
   {
     "character": "𗳟",
     "GX": "vwe̱ṃ¹",
     "GHC": "wəj¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【愧】、【外】、【韦】、【伟】族姓、"
+    "explanationCN": "【愧】【外】【韦】【伟】"
   },
   {
     "character": "𘄷",
     "GX": "ma¹",
     "GHC": "mja¹",
     "explanationEN": "stirrup",
-    "explanationCN": "1.鐙2.弩、弓"
+    "explanationCN": "1.鐙2.弩弓"
   },
   {
     "character": "𘈬",
     "GX": "nde²",
     "GHC": "dji̱j²",
     "explanationEN": "a skilled workman",
-    "explanationCN": "1.巧匠2.音【寧】、【涅】"
+    "explanationCN": "1.巧匠2.音【寧】【涅】"
   },
   {
     "character": "𘔡",
@@ -12073,14 +12073,14 @@ const DICTIONARY_DATA = [
     "GX": "tse¹",
     "GHC": "tsjij¹",
     "explanationEN": "he; it",
-    "explanationCN": "他、它、彼"
+    "explanationCN": "他它彼"
   },
   {
     "character": "𘘩",
     "GX": "kə²",
     "GHC": "kjɨ²",
     "explanationEN": "an animal looks like a deer",
-    "explanationCN": "麂汉语借词"
+    "explanationCN": "麂】"
   },
   {
     "character": "𗶔",
@@ -12094,14 +12094,14 @@ const DICTIONARY_DATA = [
     "GX": "gi²",
     "GHC": "gji²",
     "explanationEN": "to grant; to award",
-    "explanationCN": "施、赏"
+    "explanationCN": "施赏"
   },
   {
     "character": "𘈱",
     "GX": "mme¹",
     "GHC": "mji̱j¹",
     "explanationEN": "bored; worried",
-    "explanationCN": "闷、忧"
+    "explanationCN": "闷忧"
   },
   {
     "character": "𘙕",
@@ -12115,7 +12115,7 @@ const DICTIONARY_DATA = [
     "GX": "qao̱ṃ¹",
     "GHC": "kiow¹",
     "explanationEN": "obstinate; stubborn",
-    "explanationCN": "犟汉语借词"
+    "explanationCN": "犟】"
   },
   {
     "character": "𘙤",
@@ -12129,14 +12129,14 @@ const DICTIONARY_DATA = [
     "GX": "ne¹",
     "GHC": "njij¹",
     "explanationEN": "a surname",
-    "explanationCN": "【宁】族姓"
+    "explanationCN": "【宁】"
   },
   {
     "character": "𗶃",
     "GX": "tśi²",
     "GHC": "tśji²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【至】汉语借词2.音【止】（珠 321）、【纸】（珠 272）、【枝】（珠 142）、【旨】（珠 285）、【指】（珠 286）、【知】（珠 303）、【智】（珠 176）、【脂】（珠 254）、【蜘】（珠 173）、【鴟】（珠 171）3.【軹】、【志】、【之】（音 199）"
+    "explanationCN": "【至】【止】【纸】【枝】【旨】【指】【知】【智】【脂】【蜘】【鴟】【軹】【志】【之】"
   },
   {
     "character": "𘅇",
@@ -12157,21 +12157,21 @@ const DICTIONARY_DATA = [
     "GX": "tśu¹",
     "GHC": "tśju¹",
     "explanationEN": "work; position",
-    "explanationCN": "事、做事、管理、局、务"
+    "explanationCN": "事做事管理局务"
   },
   {
     "character": "𗳦",
     "GX": "qa̱¹",
     "GHC": "ka¹",
     "explanationEN": "even; equal",
-    "explanationCN": "1.平、等、齐2.俱、斋、并3.谊、均、伦4.两字重迭，意為“同时、一齐”"
+    "explanationCN": "1.平等齐2.俱斋并3.谊均伦4.两字重迭，意為“同时一齐”"
   },
   {
     "character": "𗳫",
     "GX": "lhih¹",
     "GHC": "lhjọ¹",
     "explanationEN": "to take; to marry",
-    "explanationCN": "取、拏、娶"
+    "explanationCN": "取拏娶"
   },
   {
     "character": "𘔋",
@@ -12185,14 +12185,14 @@ const DICTIONARY_DATA = [
     "GX": "na²",
     "GHC": "lja²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【理】、【黎】"
+    "explanationCN": "【理】【黎】"
   },
   {
     "character": "𘔞",
     "GX": "ho̱ṃ¹",
     "GHC": "xow¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【黄】、【煌】2.音【河】、【皇】、【洪】、【何】（音 202）"
+    "explanationCN": "【黄】【煌】【河】【皇】【洪】【何】"
   },
   {
     "character": "𘇾",
@@ -12227,7 +12227,7 @@ const DICTIONARY_DATA = [
     "GX": "nllo̱r¹",
     "GHC": "ljo̱r¹",
     "explanationEN": "false; fake",
-    "explanationCN": "偽、諂"
+    "explanationCN": "偽諂"
   },
   {
     "character": "𘈨",
@@ -12290,7 +12290,7 @@ const DICTIONARY_DATA = [
     "GX": "theṃ¹",
     "GHC": "thjɨj¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【天】2.聪明"
+    "explanationCN": "【天】聪明"
   },
   {
     "character": "𗙿",
@@ -12304,7 +12304,7 @@ const DICTIONARY_DATA = [
     "GX": "di̱h¹",
     "GHC": "dẹ¹",
     "explanationEN": "female",
-    "explanationCN": "女性、巧女、阴性"
+    "explanationCN": "女性巧女阴性"
   },
   {
     "character": "𘅑",
@@ -12318,14 +12318,14 @@ const DICTIONARY_DATA = [
     "GX": "rnoṃr²",
     "GHC": "njowr²",
     "explanationEN": "to move; to migrate",
-    "explanationCN": "迁、徒"
+    "explanationCN": "迁徒"
   },
   {
     "character": "𘈘",
     "GX": "śwə¹",
     "GHC": "śjwɨ¹",
     "explanationEN": "days; times",
-    "explanationCN": "时汉语借词"
+    "explanationCN": "时】"
   },
   {
     "character": "𘘼",
@@ -12339,14 +12339,14 @@ const DICTIONARY_DATA = [
     "GX": "lwi̱h²",
     "GHC": "lwẹ²",
     "explanationEN": "slow; lazy",
-    "explanationCN": "慢、缓、停、怠"
+    "explanationCN": "慢缓停怠"
   },
   {
     "character": "𘒹",
     "GX": "lhu²",
     "GHC": "lhu²",
     "explanationEN": "to increase; to add",
-    "explanationCN": "增、盛、闰"
+    "explanationCN": "增盛闰"
   },
   {
     "character": "𘝊",
@@ -12374,14 +12374,14 @@ const DICTIONARY_DATA = [
     "GX": "ya¹",
     "GHC": "ˑja¹",
     "explanationEN": "cat",
-    "explanationCN": "1.猫儿2.音【牙】、【燕】"
+    "explanationCN": "1.猫儿2.音【牙】【燕】"
   },
   {
     "character": "𗍗",
     "GX": "vwi̱²",
     "GHC": "we²",
     "explanationEN": "black",
-    "explanationCN": "1.黑、戊2.音【卫】、【威】、【韦】（音 204）"
+    "explanationCN": "1.黑戊2.音【卫】【威】【韦】（音 204）"
   },
   {
     "character": "𗍟",
@@ -12395,7 +12395,7 @@ const DICTIONARY_DATA = [
     "GX": "lhwi¹",
     "GHC": "lhjwi¹",
     "explanationEN": "to take; to seize; to draw",
-    "explanationCN": "1.取、夺、吸2.接、堕、援"
+    "explanationCN": "1.取夺吸2.接堕援"
   },
   {
     "character": "𘄡",
@@ -12409,21 +12409,21 @@ const DICTIONARY_DATA = [
     "GX": "teṃ¹",
     "GHC": "tjɨj¹",
     "explanationEN": "bright; intelligent",
-    "explanationCN": "聪明、聪慧、聪颖"
+    "explanationCN": "聪明聪慧聪颖"
   },
   {
     "character": "𘙖",
     "GX": "kə¹",
     "GHC": "kjɨ¹",
     "explanationEN": "vat; jar; crock",
-    "explanationCN": "缸、瓮"
+    "explanationCN": "缸瓮"
   },
   {
     "character": "𘔠",
     "GX": "ne¹",
     "GHC": "njij¹",
     "explanationEN": "servant",
-    "explanationCN": "僕、奴"
+    "explanationCN": "僕奴"
   },
   {
     "character": "𗍢",
@@ -12437,7 +12437,7 @@ const DICTIONARY_DATA = [
     "GX": "γu̱²",
     "GHC": "ˑu²",
     "explanationEN": "to wrestle; to fight",
-    "explanationCN": "摔跤、相扑、角力"
+    "explanationCN": "摔跤相扑角力"
   },
   {
     "character": "𗉧",
@@ -12472,7 +12472,7 @@ const DICTIONARY_DATA = [
     "GX": "rzər¹",
     "GHC": "zjɨr¹",
     "explanationEN": "beautiful; splendid",
-    "explanationCN": "美丽、美妙"
+    "explanationCN": "美丽美妙"
   },
   {
     "character": "𗶋",
@@ -12486,21 +12486,21 @@ const DICTIONARY_DATA = [
     "GX": "rtśər²",
     "GHC": "tśjɨ̱r²",
     "explanationEN": "five",
-    "explanationCN": "1.五2.【折】族姓"
+    "explanationCN": "五【折】"
   },
   {
     "character": "𘆈",
     "GX": "lu̱h¹",
     "GHC": "lụ¹",
     "explanationEN": "man",
-    "explanationCN": "男、夫、君"
+    "explanationCN": "男夫君"
   },
   {
     "character": "𗱉",
     "GX": "lhe²",
     "GHC": "lhjij²",
     "explanationEN": "lack; fault",
-    "explanationCN": "缺、闕形容词"
+    "explanationCN": "缺闕形容词"
   },
   {
     "character": "𗸀",
@@ -12542,7 +12542,7 @@ const DICTIONARY_DATA = [
     "GX": "ra̱r²",
     "GHC": "rar²",
     "explanationEN": "coarse; rough; rude",
-    "explanationCN": "粗糙、粗暴"
+    "explanationCN": "粗糙粗暴"
   },
   {
     "character": "𗳸",
@@ -12563,21 +12563,21 @@ const DICTIONARY_DATA = [
     "GX": "γo̱¹",
     "GHC": "ˑo¹",
     "explanationEN": "host; master",
-    "explanationCN": "1.主2.通常附在之后，表示领属关系3.不表示领主关系，而表示强调原来的词汇意义4.加在动词后，表示该动作的主体5.加在之后，表示敌人、仇人之意"
+    "explanationCN": "1.主2.通常附在之后，表示领属关系3.不表示领主关系，而表示强调原来的词汇意义4.加在动词后，表示该动作的主体5.加在之后，表示敌人仇人之意"
   },
   {
     "character": "𗰿",
     "GX": "ywi²",
     "GHC": "ˑjwi²",
     "explanationEN": "to barter; to exchange",
-    "explanationCN": "易、换汉语借词"
+    "explanationCN": "易换】"
   },
   {
     "character": "𗳷",
     "GX": "tṣhau̱h¹",
     "GHC": "tśhjụ¹",
     "explanationEN": "to lure",
-    "explanationCN": "1.诱2.音【锄】（珠 266）、【处】（珠 343）、【杵】（珠 213）、【枢】（珠 276）、【住】（珠 291）、【柱】（珠 223）、【厨】（珠 221）、【助】（珠 322）3.【泽】、【楚】、【抒】、【褚】、【初】（音 201）"
+    "explanationCN": "诱【锄】【处】【杵】【枢】【住】【柱】【厨】【助】【泽】【楚】【抒】【褚】【初】"
   },
   {
     "character": "𗳹",
@@ -12598,7 +12598,7 @@ const DICTIONARY_DATA = [
     "GX": "thu̱²",
     "GHC": "thu²",
     "explanationEN": "to free oneself from…; to take off",
-    "explanationCN": "解、脱"
+    "explanationCN": "解脱"
   },
   {
     "character": "𗸁",
@@ -12612,7 +12612,7 @@ const DICTIONARY_DATA = [
     "GX": "dze²",
     "GHC": "dzjij²",
     "explanationEN": "other",
-    "explanationCN": "其、他、各、异"
+    "explanationCN": "其他各异"
   },
   {
     "character": "𘜊",
@@ -12626,7 +12626,7 @@ const DICTIONARY_DATA = [
     "GX": "ma¹",
     "GHC": "mja¹",
     "explanationEN": "grey",
-    "explanationCN": "1.黄白、灰2.【麻】先人名"
+    "explanationCN": "灰【麻】"
   },
   {
     "character": "𗸄",
@@ -12682,7 +12682,7 @@ const DICTIONARY_DATA = [
     "GX": "ku¹",
     "GHC": "kju¹",
     "explanationEN": "eardrop",
-    "explanationCN": "璫、耳坠"
+    "explanationCN": "璫耳坠"
   },
   {
     "character": "𗗊",
@@ -12703,7 +12703,7 @@ const DICTIONARY_DATA = [
     "GX": "do̱¹",
     "GHC": "do¹",
     "explanationEN": "to read",
-    "explanationCN": "读汉语借词"
+    "explanationCN": "读】"
   },
   {
     "character": "𘜏",
@@ -12717,14 +12717,14 @@ const DICTIONARY_DATA = [
     "GX": "lu̱²",
     "GHC": "lu²",
     "explanationEN": "to cut; to reduce",
-    "explanationCN": "截、裁"
+    "explanationCN": "截裁"
   },
   {
     "character": "𗕽",
     "GX": "da̱h²",
     "GHC": "dạ²",
     "explanationEN": "to know; to realize; to understand",
-    "explanationCN": "知、了解"
+    "explanationCN": "知了解"
   },
   {
     "character": "𗖇",
@@ -12759,7 +12759,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋŋwu̱¹",
     "GHC": "ŋwu̱¹",
     "explanationEN": "to say; to eulogize",
-    "explanationCN": "曰、颂、唱"
+    "explanationCN": "曰颂唱"
   },
   {
     "character": "𘇳",
@@ -12780,7 +12780,7 @@ const DICTIONARY_DATA = [
     "GX": "tshwa¹",
     "GHC": "tshjwa¹",
     "explanationEN": "to roast; to warm up",
-    "explanationCN": "温、热、烤"
+    "explanationCN": "温热烤"
   },
   {
     "character": "𗉃",
@@ -12794,7 +12794,7 @@ const DICTIONARY_DATA = [
     "GX": "rźai̱r¹",
     "GHC": "źier¹",
     "explanationEN": "to swear; to curse",
-    "explanationCN": "詈、駡、呵"
+    "explanationCN": "詈駡呵"
   },
   {
     "character": "𗖞",
@@ -12808,7 +12808,7 @@ const DICTIONARY_DATA = [
     "GX": "tsha¹",
     "GHC": "tshja¹",
     "explanationEN": "to heat up; to burn",
-    "explanationCN": "热、烫"
+    "explanationCN": "热烫"
   },
   {
     "character": "𗖻",
@@ -12829,14 +12829,14 @@ const DICTIONARY_DATA = [
     "GX": "lweh²",
     "GHC": "ljwịj²",
     "explanationEN": "mountain",
-    "explanationCN": "岭汉语借词"
+    "explanationCN": "岭】"
   },
   {
     "character": "𘞒",
     "GX": "nśə¹",
     "GHC": "śjɨ̱¹",
     "explanationEN": "doubt",
-    "explanationCN": "1.疑惑、怀疑2.恍惚"
+    "explanationCN": "1.疑惑怀疑2.恍惚"
   },
   {
     "character": "𗹘",
@@ -12850,14 +12850,14 @@ const DICTIONARY_DATA = [
     "GX": "qhaa̱²",
     "GHC": "khia²",
     "explanationEN": "gorgeous",
-    "explanationCN": "斑烂、絇丽"
+    "explanationCN": "斑烂絇丽"
   },
   {
     "character": "𗹑",
     "GX": "tśeṃ¹",
     "GHC": "tśjɨj¹",
     "explanationEN": "correct; upright",
-    "explanationCN": "1.正形容词汉语借词2.二字重迭，表示“端正”、“正经”"
+    "explanationCN": "1.正形容词】2.二字重迭，表示“端正”“正经”"
   },
   {
     "character": "𘈴",
@@ -12878,7 +12878,7 @@ const DICTIONARY_DATA = [
     "GX": "lhə̱²",
     "GHC": "lhjo²",
     "explanationEN": "to lose; to die; to fail",
-    "explanationCN": "失、丧、亡、衰、蹶、挫、过、殆"
+    "explanationCN": "失丧亡衰蹶挫过殆"
   },
   {
     "character": "𗳌",
@@ -12892,7 +12892,7 @@ const DICTIONARY_DATA = [
     "GX": "kiṃ¹",
     "GHC": "kjĩ¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【金】、【锦】"
+    "explanationCN": "【金】【锦】"
   },
   {
     "character": "𗳎",
@@ -12934,7 +12934,7 @@ const DICTIONARY_DATA = [
     "GX": "qa̱¹",
     "GHC": "ka¹",
     "explanationEN": "palate",
-    "explanationCN": "顎（口腔、上顎）"
+    "explanationCN": "顎（口腔上顎）"
   },
   {
     "character": "𘚅",
@@ -12955,7 +12955,7 @@ const DICTIONARY_DATA = [
     "GX": "rer²",
     "GHC": "rjijr²",
     "explanationEN": "to hit; to strike",
-    "explanationCN": "打、击、杖、弹"
+    "explanationCN": "打击杖弹"
   },
   {
     "character": "𘗧",
@@ -12969,14 +12969,14 @@ const DICTIONARY_DATA = [
     "GX": "tśuh²",
     "GHC": "tśjụ²",
     "explanationEN": "can; to dare",
-    "explanationCN": "能、敢"
+    "explanationCN": "能敢"
   },
   {
     "character": "𘚉",
     "GX": "yoṃ²",
     "GHC": "ˑjo̱r²",
     "explanationEN": "to weave; to knit",
-    "explanationCN": "编织、结"
+    "explanationCN": "编织结"
   },
   {
     "character": "𘙜",
@@ -12990,21 +12990,21 @@ const DICTIONARY_DATA = [
     "GX": "rker²",
     "GHC": "kji̱r²",
     "explanationEN": "to rob; to steal",
-    "explanationCN": "偷、盗、窃"
+    "explanationCN": "偷盗窃"
   },
   {
     "character": "𘘗",
     "GX": "llih²",
     "GHC": "ljị²",
     "explanationEN": "wide; broad",
-    "explanationCN": "寛、阔"
+    "explanationCN": "寛阔"
   },
   {
     "character": "𗳭",
     "GX": "ryer²",
     "GHC": "ˑjijr²",
     "explanationEN": "to execute; to kill",
-    "explanationCN": "除、诛、斩、戮"
+    "explanationCN": "除诛斩戮"
   },
   {
     "character": "𘔝",
@@ -13032,7 +13032,7 @@ const DICTIONARY_DATA = [
     "GX": "tsheṃ¹",
     "GHC": "tshjɨj¹",
     "explanationEN": "small; thin",
-    "explanationCN": "细、微、小"
+    "explanationCN": "细微小"
   },
   {
     "character": "𗉞",
@@ -13046,7 +13046,7 @@ const DICTIONARY_DATA = [
     "GX": "ta¹",
     "GHC": "tja¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【怛】、【多】、【哆】族姓、"
+    "explanationCN": "【怛】【多】【哆】"
   },
   {
     "character": "𗶇",
@@ -13060,35 +13060,35 @@ const DICTIONARY_DATA = [
     "GX": "duh¹",
     "GHC": "djụ¹",
     "explanationEN": "leg",
-    "explanationCN": "腿、脛"
+    "explanationCN": "腿脛"
   },
   {
     "character": "𘙂",
     "GX": "bih¹",
     "GHC": "bjị¹",
     "explanationEN": "low; inferior",
-    "explanationCN": "低下、轻卑"
+    "explanationCN": "低下轻卑"
   },
   {
     "character": "𗵶",
     "GX": "ŋhe²",
     "GHC": "xjij²",
     "explanationEN": "broad; wide",
-    "explanationCN": "1.寛阔、宽广2.音【歆】"
+    "explanationCN": "1.寛阔宽广2.音【歆】"
   },
   {
     "character": "𗟥",
     "GX": "teh¹",
     "GHC": "tjịj¹",
     "explanationEN": "to reduce",
-    "explanationCN": "减、除、蠲"
+    "explanationCN": "减除蠲"
   },
   {
     "character": "𗌷",
     "GX": "po̱¹",
     "GHC": "po¹",
     "explanationEN": "fort; fortress",
-    "explanationCN": "堡、壁汉语借词"
+    "explanationCN": "堡壁】"
   },
   {
     "character": "𗗱",
@@ -13102,7 +13102,7 @@ const DICTIONARY_DATA = [
     "GX": "se¹",
     "GHC": "sjij¹",
     "explanationEN": "thin; tiny",
-    "explanationCN": "细汉语借词"
+    "explanationCN": "细】"
   },
   {
     "character": "𗶂",
@@ -13130,7 +13130,7 @@ const DICTIONARY_DATA = [
     "GX": "lwu̱²",
     "GHC": "lwu²",
     "explanationEN": "to sell; to loan",
-    "explanationCN": "货、卖"
+    "explanationCN": "货卖"
   },
   {
     "character": "𘞶",
@@ -13172,7 +13172,7 @@ const DICTIONARY_DATA = [
     "GX": "vwi̱¹",
     "GHC": "we¹",
     "explanationEN": "millet",
-    "explanationCN": "粟、糜"
+    "explanationCN": "粟糜"
   },
   {
     "character": "𘇸",
@@ -13193,14 +13193,14 @@ const DICTIONARY_DATA = [
     "GX": "puh¹",
     "GHC": "pjụ¹",
     "explanationEN": "to compel",
-    "explanationCN": "胁、迫"
+    "explanationCN": "胁迫"
   },
   {
     "character": "𗃐",
     "GX": "???",
     "GHC": "?",
     "explanationEN": "hunchback",
-    "explanationCN": "腰、傴僂"
+    "explanationCN": "腰傴僂"
   },
   {
     "character": "𗢨",
@@ -13221,7 +13221,7 @@ const DICTIONARY_DATA = [
     "GX": "bə̱²",
     "GHC": "bə²",
     "explanationEN": "insect; maggot",
-    "explanationCN": "虫、蛆"
+    "explanationCN": "虫蛆"
   },
   {
     "character": "𗬍",
@@ -13235,28 +13235,28 @@ const DICTIONARY_DATA = [
     "GX": "be²",
     "GHC": "bjij²",
     "explanationEN": "tall",
-    "explanationCN": "高、上"
+    "explanationCN": "高上"
   },
   {
     "character": "𗎰",
     "GX": "tśəh¹",
     "GHC": "tśjɨ̣¹",
     "explanationEN": "to move; to migrate",
-    "explanationCN": "徒、移、迁"
+    "explanationCN": "徒移迁"
   },
   {
     "character": "𗎭",
     "GX": "mmi¹",
     "GHC": "mji̱¹",
     "explanationEN": "house; residence",
-    "explanationCN": "家、宅、宫、捨、居、厦"
+    "explanationCN": "家宅宫捨居厦"
   },
   {
     "character": "𗂍",
     "GX": "nlhi¹",
     "GHC": "lhji̱¹",
     "explanationEN": "to pull out; to pick; to take",
-    "explanationCN": "拔、抽、摘、提、取、争、掣、擒"
+    "explanationCN": "拔抽摘提取争掣擒"
   },
   {
     "character": "𗃆",
@@ -13270,21 +13270,21 @@ const DICTIONARY_DATA = [
     "GX": "li¹",
     "GHC": "lji¹",
     "explanationEN": "tired",
-    "explanationCN": "劳累、乏"
+    "explanationCN": "劳累乏"
   },
   {
     "character": "𗆳",
     "GX": "nye¹",
     "GHC": "ˑji̱j¹",
     "explanationEN": "calm",
-    "explanationCN": "平静、伏贴、伏定"
+    "explanationCN": "平静伏贴伏定"
   },
   {
     "character": "𗂭",
     "GX": "pha̱¹",
     "GHC": "pha¹",
     "explanationEN": "to follow",
-    "explanationCN": "随、从、跟、陪"
+    "explanationCN": "随从跟陪"
   },
   {
     "character": "𗂮",
@@ -13298,14 +13298,14 @@ const DICTIONARY_DATA = [
     "GX": "tu²",
     "GHC": "tju²",
     "explanationEN": "to beat",
-    "explanationCN": "打、敲、槌"
+    "explanationCN": "打敲槌"
   },
   {
     "character": "𗂜",
     "GX": "tshi̱²",
     "GHC": "tshe²",
     "explanationEN": "round as a ball; satisfactory",
-    "explanationCN": "滚圆、圆满"
+    "explanationCN": "滚圆圆满"
   },
   {
     "character": "𗆒",
@@ -13326,7 +13326,7 @@ const DICTIONARY_DATA = [
     "GX": "mi¹",
     "GHC": "mji¹",
     "explanationEN": "a surname",
-    "explanationCN": "【名】、【弥】族姓"
+    "explanationCN": "【名】【弥】"
   },
   {
     "character": "𗅱",
@@ -13361,7 +13361,7 @@ const DICTIONARY_DATA = [
     "GX": "me²",
     "GHC": "mjij²",
     "explanationEN": "a surname",
-    "explanationCN": "【弥】族姓"
+    "explanationCN": "【弥】"
   },
   {
     "character": "𗅠",
@@ -13375,14 +13375,14 @@ const DICTIONARY_DATA = [
     "GX": "teṃh²",
     "GHC": "tjɨ̣j²",
     "explanationEN": "ceremony; rite; manner",
-    "explanationCN": "1.礼、閤、法、仪、式、制2.俗3.与（道）结合為“风俗”"
+    "explanationCN": "1.礼閤法仪式制2.俗3.与（道）结合為“风俗”"
   },
   {
     "character": "𗆅",
     "GX": "dźe²",
     "GHC": "²",
     "explanationEN": "tail; end",
-    "explanationCN": "尾、末"
+    "explanationCN": "尾末"
   },
   {
     "character": "𗆲",
@@ -13403,21 +13403,21 @@ const DICTIONARY_DATA = [
     "GX": "kha̱ṃ¹",
     "GHC": "khã¹",
     "explanationEN": "看坎堪",
-    "explanationCN": "1.坎汉语借词2.又音【侃】、【堪】、【看】"
+    "explanationCN": "1.坎】2.又音【侃】【堪】【看】"
   },
   {
     "character": "𗆀",
     "GX": "γu̱²",
     "GHC": "ˑu²",
     "explanationEN": "salt",
-    "explanationCN": "1.盐2.音【五】、【吴】、【乌】、【吾】"
+    "explanationCN": "1.盐2.音【五】【吴】【乌】【吾】"
   },
   {
     "character": "𗆘",
     "GX": "qhə̱h¹",
     "GHC": "khə̣¹",
     "explanationEN": "to contract",
-    "explanationCN": "缩、皱"
+    "explanationCN": "缩皱"
   },
   {
     "character": "𗆥",
@@ -13452,7 +13452,7 @@ const DICTIONARY_DATA = [
     "GX": "si̱²",
     "GHC": "se²",
     "explanationEN": "to tighten",
-    "explanationCN": "1.繄2.蹇、塞、闭"
+    "explanationCN": "1.繄2.蹇塞闭"
   },
   {
     "character": "𗁷",
@@ -13480,14 +13480,14 @@ const DICTIONARY_DATA = [
     "GX": "bu¹",
     "GHC": "bju¹",
     "explanationEN": "a surname",
-    "explanationCN": "【部】族姓"
+    "explanationCN": "【部】"
   },
   {
     "character": "𗂥",
     "GX": "ne²",
     "GHC": "ŋjij²",
     "explanationEN": "before",
-    "explanationCN": "前、昔、久"
+    "explanationCN": "前昔久"
   },
   {
     "character": "𗂊",
@@ -13501,7 +13501,7 @@ const DICTIONARY_DATA = [
     "GX": "rler¹",
     "GHC": "lji̱r¹",
     "explanationEN": "to rub; to knead",
-    "explanationCN": "1.按摩、抚（揉搓）2.拨"
+    "explanationCN": "1.按摩抚（揉搓）2.拨"
   },
   {
     "character": "𗁧",
@@ -13522,14 +13522,14 @@ const DICTIONARY_DATA = [
     "GX": "də¹",
     "GHC": "djɨ¹",
     "explanationEN": "shoulder",
-    "explanationCN": "肩、梁"
+    "explanationCN": "肩梁"
   },
   {
     "character": "𗹤",
     "GX": "ṣae̱¹",
     "GHC": "śiej¹",
     "explanationEN": "to win",
-    "explanationCN": "胜汉语借词"
+    "explanationCN": "胜】"
   },
   {
     "character": "𗃀",
@@ -13543,21 +13543,21 @@ const DICTIONARY_DATA = [
     "GX": "li̱ṃ¹",
     "GHC": "lẽ¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【瓴】、【檁】、【陵】"
+    "explanationCN": "【瓴】【檁】【陵】"
   },
   {
     "character": "𘉂",
     "GX": "dzeṃ¹",
     "GHC": "dzjɨj¹",
     "explanationEN": "moat; chasm; gully",
-    "explanationCN": "堑、沟"
+    "explanationCN": "堑沟"
   },
   {
     "character": "𗺁",
     "GX": "hae̱ṃ²",
     "GHC": "xiəj²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【行】族姓2.音【衡】、【薤】、【解】"
+    "explanationCN": "【行】【衡】【薤】【解】"
   },
   {
     "character": "𗎦",
@@ -13585,14 +13585,14 @@ const DICTIONARY_DATA = [
     "GX": "moh²",
     "GHC": "mjọ²",
     "explanationEN": "exhausted; dried up",
-    "explanationCN": "枯、竭、尽、瘦"
+    "explanationCN": "枯竭尽瘦"
   },
   {
     "character": "𗄭",
     "GX": "dzəh²",
     "GHC": "dzjɨ̣²",
     "explanationEN": "to gather",
-    "explanationCN": "集、聚、俱汉语借词"
+    "explanationCN": "集聚俱】"
   },
   {
     "character": "𗄸",
@@ -13606,7 +13606,7 @@ const DICTIONARY_DATA = [
     "GX": "naw²",
     "GHC": "nja̱²",
     "explanationEN": "be not",
-    "explanationCN": "非、否、不（系词）：作為系词，联系主语和宾语，表示两者不一致，或者宾语所指不是主语所示事物的种类或属性"
+    "explanationCN": "非否不（系词）：作為系词，联系主语和宾语，表示两者不一致，或者宾语所指不是主语所示事物的种类或属性"
   },
   {
     "character": "𗅖",
@@ -13620,14 +13620,14 @@ const DICTIONARY_DATA = [
     "GX": "me²",
     "GHC": "mjij²",
     "explanationEN": "to look into the distance from a high place",
-    "explanationCN": "眺、远眺"
+    "explanationCN": "眺远眺"
   },
   {
     "character": "𗆫",
     "GX": "rlər²",
     "GHC": "ljɨ̱r²",
     "explanationEN": "to think of; to long for",
-    "explanationCN": "思、念、忆"
+    "explanationCN": "思念忆"
   },
   {
     "character": "𗄹",
@@ -13641,49 +13641,49 @@ const DICTIONARY_DATA = [
     "GX": "bi̱h¹",
     "GHC": "bẹ¹",
     "explanationEN": "to pass through",
-    "explanationCN": "穿、贯"
+    "explanationCN": "穿贯"
   },
   {
     "character": "𗅕",
     "GX": "nli̱²",
     "GHC": "le̱²",
     "explanationEN": "dark (of complexion)",
-    "explanationCN": "黧色汉语借词"
+    "explanationCN": "黧色】"
   },
   {
     "character": "𗅚",
     "GX": "beh¹",
     "GHC": "bjịj¹",
     "explanationEN": "to cast sidelong glances",
-    "explanationCN": "仰、后视名词"
+    "explanationCN": "仰后视名词"
   },
   {
     "character": "𗆛",
     "GX": "sa̱²",
     "GHC": "sa²",
     "explanationEN": "to tie; to link",
-    "explanationCN": "连、接"
+    "explanationCN": "连接"
   },
   {
     "character": "𗀲",
     "GX": "tśhiw²",
     "GHC": "tśhjiw²",
     "explanationEN": "to pass through; to invade",
-    "explanationCN": "贯穿、侵入"
+    "explanationCN": "贯穿侵入"
   },
   {
     "character": "𗁯",
     "GX": "qhaə̱²",
     "GHC": "khiə²",
     "explanationEN": "a surname",
-    "explanationCN": "【屈】族姓"
+    "explanationCN": "【屈】"
   },
   {
     "character": "𗂟",
     "GX": "rvar¹",
     "GHC": "wjar¹",
     "explanationEN": "to dig; to collapse",
-    "explanationCN": "挖掘、破"
+    "explanationCN": "挖掘破"
   },
   {
     "character": "𗁭",
@@ -13697,42 +13697,42 @@ const DICTIONARY_DATA = [
     "GX": "mphe¹",
     "GHC": "phji̱j¹",
     "explanationEN": "even; equal",
-    "explanationCN": "均、匀"
+    "explanationCN": "均匀"
   },
   {
     "character": "𗹝",
     "GX": "ne¹",
     "GHC": "njij¹",
     "explanationEN": "relative",
-    "explanationCN": "亲、近"
+    "explanationCN": "亲近"
   },
   {
     "character": "𗹴",
     "GX": "mmə̱¹",
     "GHC": "mə̱¹",
     "explanationEN": "devil; demon",
-    "explanationCN": "魔、魅"
+    "explanationCN": "魔魅"
   },
   {
     "character": "𗹡",
     "GX": "rkir¹",
     "GHC": "kjir¹",
     "explanationEN": "brave; violent",
-    "explanationCN": "勇、刚、猛、暴"
+    "explanationCN": "勇刚猛暴"
   },
   {
     "character": "𗁕",
     "GX": "ta̱h¹",
     "GHC": "tạ¹",
     "explanationEN": "to marry a wife; to take",
-    "explanationCN": "1.娶、取2.打"
+    "explanationCN": "1.娶取2.打"
   },
   {
     "character": "𗀱",
     "GX": "phao̱²",
     "GHC": "phio²",
     "explanationEN": "to sing; to chant",
-    "explanationCN": "1.吟唱2.音【庖】、【鲍】、【薄】、【璞】（音 193）"
+    "explanationCN": "1.吟唱2.音【庖】【鲍】【薄】【璞】（音 193）"
   },
   {
     "character": "𗅇",
@@ -13760,7 +13760,7 @@ const DICTIONARY_DATA = [
     "GX": "dzeṃ¹",
     "GHC": "dzjɨj¹",
     "explanationEN": "relation by marriage",
-    "explanationCN": "姻亲、血亲、宗嗣"
+    "explanationCN": "姻亲血亲宗嗣"
   },
   {
     "character": "𗂞",
@@ -13774,7 +13774,7 @@ const DICTIONARY_DATA = [
     "GX": "qwə̱²",
     "GHC": "kwə²",
     "explanationEN": "to roar; to howl",
-    "explanationCN": "吼、嚎、鸣"
+    "explanationCN": "吼嚎鸣"
   },
   {
     "character": "𗆚",
@@ -13788,7 +13788,7 @@ const DICTIONARY_DATA = [
     "GX": "dziw²",
     "GHC": "dźjiw²",
     "explanationEN": "abortion",
-    "explanationCN": "堕、小產、流產"
+    "explanationCN": "堕小產流產"
   },
   {
     "character": "𗂗",
@@ -13802,7 +13802,7 @@ const DICTIONARY_DATA = [
     "GX": "baa̱²",
     "GHC": "bia²",
     "explanationEN": "to crawl; to creep",
-    "explanationCN": "爬、葡匐汉语借词"
+    "explanationCN": "爬葡匐】"
   },
   {
     "character": "𗁒",
@@ -13816,7 +13816,7 @@ const DICTIONARY_DATA = [
     "GX": "mbi²",
     "GHC": "bji̱²",
     "explanationEN": "the common people",
-    "explanationCN": "庶民、黎民"
+    "explanationCN": "庶民黎民"
   },
   {
     "character": "𗂁",
@@ -13830,14 +13830,14 @@ const DICTIONARY_DATA = [
     "GX": "ta̱h¹",
     "GHC": "tạ¹",
     "explanationEN": "to marry a wife; to take",
-    "explanationCN": "娶、取"
+    "explanationCN": "娶取"
   },
   {
     "character": "𗁼",
     "GX": "be²",
     "GHC": "bjij²",
     "explanationEN": "gold",
-    "explanationCN": "1.兑、金2.音【】"
+    "explanationCN": "1.兑金2.音【】"
   },
   {
     "character": "𗹧",
@@ -13858,7 +13858,7 @@ const DICTIONARY_DATA = [
     "GX": "mmi¹",
     "GHC": "mji̱¹",
     "explanationEN": "crown",
-    "explanationCN": "冕、鬘"
+    "explanationCN": "冕鬘"
   },
   {
     "character": "𗹯",
@@ -13879,7 +13879,7 @@ const DICTIONARY_DATA = [
     "GX": "thi̱w²",
     "GHC": "thew²",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【竇】、【豆】、【鍮】族姓、2.嶸"
+    "explanationCN": "【竇】【豆】【鍮】"
   },
   {
     "character": "𗂻",
@@ -13914,7 +13914,7 @@ const DICTIONARY_DATA = [
     "GX": "ṣaa̱¹",
     "GHC": "śia¹",
     "explanationEN": "sand",
-    "explanationCN": "1.沙汉语借词2.音【衫】、【產】、【洒】"
+    "explanationCN": "1.沙】2.音【衫】【產】【洒】"
   },
   {
     "character": "𗉾",
@@ -13928,21 +13928,21 @@ const DICTIONARY_DATA = [
     "GX": "və²",
     "GHC": "wjɨ²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【韦】族姓2.音【毗】、【毕】"
+    "explanationCN": "【韦】【毗】【毕】"
   },
   {
     "character": "𗊧",
     "GX": "tśhwaṃ¹",
     "GHC": "tśhjwã¹",
     "explanationEN": "river; plain",
-    "explanationCN": "1.川汉语借词2.音【釧】、【椽】、【篆】、【传】"
+    "explanationCN": "1.川】2.音【釧】【椽】【篆】【传】"
   },
   {
     "character": "𗊸",
     "GX": "no̱²",
     "GHC": "no²",
     "explanationEN": "in the past",
-    "explanationCN": "从前、往昔、经过"
+    "explanationCN": "从前往昔经过"
   },
   {
     "character": "𗋠",
@@ -13984,14 +13984,14 @@ const DICTIONARY_DATA = [
     "GX": "naw¹",
     "GHC": "nja̱¹",
     "explanationEN": "deep",
-    "explanationCN": "深、黑"
+    "explanationCN": "深黑"
   },
   {
     "character": "𗌦",
     "GX": "pho̱¹",
     "GHC": "pho¹",
     "explanationEN": "lake",
-    "explanationCN": "泊汉语借词"
+    "explanationCN": "泊】"
   },
   {
     "character": "𗏁",
@@ -14005,7 +14005,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋwə̱¹",
     "GHC": "ŋwə¹",
     "explanationEN": "urn; earthen jar; bottle",
-    "explanationCN": "瓮、瓶"
+    "explanationCN": "瓮瓶"
   },
   {
     "character": "𗢟",
@@ -14089,7 +14089,7 @@ const DICTIONARY_DATA = [
     "GX": "tu̱ṃ¹",
     "GHC": "tũ¹",
     "explanationEN": "winter",
-    "explanationCN": "1.冬汉语借词2.音【东】、【董】、【敦】"
+    "explanationCN": "1.冬】2.音【东】【董】【敦】"
   },
   {
     "character": "𗋉",
@@ -14103,14 +14103,14 @@ const DICTIONARY_DATA = [
     "GX": "tha̱ṃ¹",
     "GHC": "thã¹",
     "explanationEN": "beach; sands",
-    "explanationCN": "1.滩汉语借词2.音【檀】、【曇】、【淡】、【诞】3.洲4.音【段】、【译】（音 195）"
+    "explanationCN": "1.滩】2.音【檀】【曇】【淡】【诞】3.洲4.音【段】【译】（音 195）"
   },
   {
     "character": "𘊂",
     "GX": "naw²",
     "GHC": "nja̱²",
     "explanationEN": "dung; excrement",
-    "explanationCN": "粪、屎"
+    "explanationCN": "粪屎"
   },
   {
     "character": "𘊀",
@@ -14138,21 +14138,21 @@ const DICTIONARY_DATA = [
     "GX": "tha¹",
     "GHC": "thja¹",
     "explanationEN": "other; else",
-    "explanationCN": "其、彼、此"
+    "explanationCN": "其彼此"
   },
   {
     "character": "𗊿",
     "GX": "ṣai̱ṃ¹",
     "GHC": "śiẽ¹",
     "explanationEN": "to ooze; to seep",
-    "explanationCN": "1.渗汉语借词2.【参】"
+    "explanationCN": "【渗】【参】"
   },
   {
     "character": "𘓤",
     "GX": "vwa̱h²",
     "GHC": "wạ²",
     "explanationEN": "pawnshop; to gurantee; to inspect; to examine",
-    "explanationCN": "当铺、担保、检查动词"
+    "explanationCN": "当铺担保检查动词"
   },
   {
     "character": "𗊆",
@@ -14166,7 +14166,7 @@ const DICTIONARY_DATA = [
     "GX": "sa̱²",
     "GHC": "sa²",
     "explanationEN": "dried up; thin",
-    "explanationCN": "涸、竭、瘦"
+    "explanationCN": "涸竭瘦"
   },
   {
     "character": "𗊗",
@@ -14194,7 +14194,7 @@ const DICTIONARY_DATA = [
     "GX": "mba¹",
     "GHC": "bja̱¹",
     "explanationEN": "limit; end",
-    "explanationCN": "穷尽、绝、无"
+    "explanationCN": "穷尽绝无"
   },
   {
     "character": "𗎼",
@@ -14208,7 +14208,7 @@ const DICTIONARY_DATA = [
     "GX": "llo̱ṃ²",
     "GHC": "low²",
     "explanationEN": "country; territory; world",
-    "explanationCN": "国、界"
+    "explanationCN": "国界"
   },
   {
     "character": "𗉹",
@@ -14229,7 +14229,7 @@ const DICTIONARY_DATA = [
     "GX": "ṣaə̱¹",
     "GHC": "śiə¹",
     "explanationEN": "one of",
-    "explanationCN": "1.个2.【賖】、【佘】族姓"
+    "explanationCN": "个【賖】【佘】【诗】"
   },
   {
     "character": "𘉵",
@@ -14264,7 +14264,7 @@ const DICTIONARY_DATA = [
     "GX": "rtsi̱r¹",
     "GHC": "tser¹",
     "explanationEN": "excrement; dung",
-    "explanationCN": "屎、粪"
+    "explanationCN": "屎粪"
   },
   {
     "character": "𘊊",
@@ -14299,14 +14299,14 @@ const DICTIONARY_DATA = [
     "GX": "qaa̱²",
     "GHC": "kia²",
     "explanationEN": "duck",
-    "explanationCN": "1.鸭2.音【贾】、【假】"
+    "explanationCN": "1.鸭2.音【贾】【假】"
   },
   {
     "character": "𘚾",
     "GX": "ndə̱¹",
     "GHC": "də̱¹",
     "explanationEN": "to hasten; to speed",
-    "explanationCN": "1.趋、急行、疾驰2.顿3.二字重迭，具有“竞”之义"
+    "explanationCN": "1.趋急行疾驰2.顿3.二字重迭，具有“竞”之义"
   },
   {
     "character": "𗉿",
@@ -14341,14 +14341,14 @@ const DICTIONARY_DATA = [
     "GX": "swuh²",
     "GHC": "sjwụ²",
     "explanationEN": "to live; to revive",
-    "explanationCN": "活、苏醒"
+    "explanationCN": "活苏醒"
   },
   {
     "character": "𗌅",
     "GX": "saṃ²",
     "GHC": "sjã²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【先】、【纤】、【筛】、【洗】、【燮】"
+    "explanationCN": "【先】【纤】【筛】【洗】【燮】"
   },
   {
     "character": "𗌨",
@@ -14369,7 +14369,7 @@ const DICTIONARY_DATA = [
     "GX": "hwaa̱ṃ¹",
     "GHC": "xiwã¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.凡、梵汉语借词2.音【凡】（珠 351）、【烦】（珠 354）、【幡】（珠 211）、【患】（珠 193）、【环】（珠 253）、【髮】（珠 184）3.【范】、【樊】、【化】、【反】、【番】（音 203）"
+    "explanationCN": "【凡】【梵】【凡】【烦】【幡】【患】【环】【髮】【范】【樊】【化】【反】【番】"
   },
   {
     "character": "𗋘",
@@ -14390,7 +14390,7 @@ const DICTIONARY_DATA = [
     "GX": "phe¹",
     "GHC": "phjij¹",
     "explanationEN": "to hate; grieved; sorrowful",
-    "explanationCN": "恨、悲痛、噫形容词"
+    "explanationCN": "恨悲痛噫形容词"
   },
   {
     "character": "𘉠",
@@ -14439,7 +14439,7 @@ const DICTIONARY_DATA = [
     "GX": "γwe̱¹",
     "GHC": "ɣwej¹",
     "explanationEN": "a surname",
-    "explanationCN": "【回】族姓汉语借词"
+    "explanationCN": "【回】】"
   },
   {
     "character": "𗢬",
@@ -14453,28 +14453,28 @@ const DICTIONARY_DATA = [
     "GX": "rvwo̱r¹",
     "GHC": "wor¹",
     "explanationEN": "to raise; to happen",
-    "explanationCN": "起、生、发"
+    "explanationCN": "起生发"
   },
   {
     "character": "𗣊",
     "GX": "mi²",
     "GHC": "mji²",
     "explanationEN": "I; you",
-    "explanationCN": "我、汝"
+    "explanationCN": "我汝"
   },
   {
     "character": "𗣚",
     "GX": "no̱²",
     "GHC": "no²",
     "explanationEN": "perhaps; maybe; or",
-    "explanationCN": "时、或者"
+    "explanationCN": "时或者"
   },
   {
     "character": "𗩿",
     "GX": "si²",
     "GHC": "sji²",
     "explanationEN": "a surname",
-    "explanationCN": "【细】、【息】族姓"
+    "explanationCN": "【细】【息】"
   },
   {
     "character": "𗼱",
@@ -14488,7 +14488,7 @@ const DICTIONARY_DATA = [
     "GX": "rvwa̱r²",
     "GHC": "war²",
     "explanationEN": "dust; dirt",
-    "explanationCN": "尘、埃"
+    "explanationCN": "尘埃"
   },
   {
     "character": "𗾒",
@@ -14509,28 +14509,28 @@ const DICTIONARY_DATA = [
     "GX": "vwi̱ṃ¹",
     "GHC": "wẽ¹",
     "explanationEN": "a surname",
-    "explanationCN": "【翁】、【汶】、【文】族姓"
+    "explanationCN": "【翁】【汶】【文】"
   },
   {
     "character": "𗣠",
     "GX": "deh¹",
     "GHC": "djịj¹",
     "explanationEN": "a surname",
-    "explanationCN": "【啼】、【跌】族姓"
+    "explanationCN": "【啼】【跌】"
   },
   {
     "character": "𗣛",
     "GX": "qi̱w¹",
     "GHC": "kew¹",
     "explanationEN": "a surname",
-    "explanationCN": "【勾】、【沟】、【高】、【告】族姓"
+    "explanationCN": "【勾】【沟】【高】【告】"
   },
   {
     "character": "𗤉",
     "GX": "ŋa̱²",
     "GHC": "ŋa²",
     "explanationEN": "a surname",
-    "explanationCN": "【鄂】、【罨】族姓"
+    "explanationCN": "【鄂】【罨】"
   },
   {
     "character": "𗨺",
@@ -14551,7 +14551,7 @@ const DICTIONARY_DATA = [
     "GX": "thu̱¹",
     "GHC": "thu¹",
     "explanationEN": "to draw (a bow)",
-    "explanationCN": "张、拉、拔、抽"
+    "explanationCN": "张拉拔抽"
   },
   {
     "character": "𗾓",
@@ -14572,7 +14572,7 @@ const DICTIONARY_DATA = [
     "GX": "pae̱h¹",
     "GHC": "pẹj¹",
     "explanationEN": "belly; abdomen; stomach",
-    "explanationCN": "腹、肚"
+    "explanationCN": "腹肚"
   },
   {
     "character": "𗤄",
@@ -14586,21 +14586,21 @@ const DICTIONARY_DATA = [
     "GX": "nwi¹",
     "GHC": "njwi¹",
     "explanationEN": "to surpass; to be able to",
-    "explanationCN": "胜、能名词"
+    "explanationCN": "胜能名词"
   },
   {
     "character": "𗦪",
     "GX": "thəh¹",
     "GHC": "thjɨ̣¹",
     "explanationEN": "to roll up",
-    "explanationCN": "1.卷、皱2.㲲"
+    "explanationCN": "1.卷皱2.㲲"
   },
   {
     "character": "𗽷",
     "GX": "ryawr²",
     "GHC": "ˑja̱r²",
     "explanationEN": "room; to stay",
-    "explanationCN": "室、厩、栏、栖、宿动词"
+    "explanationCN": "室厩栏栖宿动词"
   },
   {
     "character": "𗾝",
@@ -14642,7 +14642,7 @@ const DICTIONARY_DATA = [
     "GX": "zi²",
     "GHC": "źji²",
     "explanationEN": "extremely",
-    "explanationCN": "最、极、甚、无上"
+    "explanationCN": "最极甚无上"
   },
   {
     "character": "𗨹",
@@ -14663,14 +14663,14 @@ const DICTIONARY_DATA = [
     "GX": "ywiṃ¹",
     "GHC": "ˑjwĩ¹",
     "explanationEN": "even",
-    "explanationCN": "匀汉语借词"
+    "explanationCN": "匀】"
   },
   {
     "character": "𗥲",
     "GX": "pi̱ṃ²",
     "GHC": "pẽ²",
     "explanationEN": "to go through; to undergo",
-    "explanationCN": "1.经歷2.音【本】、【嗢】、【朋】3.音【賁】（音 194）"
+    "explanationCN": "1.经歷2.音【本】【嗢】【朋】3.音【賁】（音 194）"
   },
   {
     "character": "𗨋",
@@ -14684,7 +14684,7 @@ const DICTIONARY_DATA = [
     "GX": "ri̱r²",
     "GHC": "rer²",
     "explanationEN": "a surname",
-    "explanationCN": "【冷】族姓"
+    "explanationCN": "【冷】"
   },
   {
     "character": "𗧓",
@@ -14719,21 +14719,21 @@ const DICTIONARY_DATA = [
     "GX": "bi²",
     "GHC": "bji²",
     "explanationEN": "in the past",
-    "explanationCN": "1.往昔、过去2.音【毗】、【婢】、【鼻】"
+    "explanationCN": "1.往昔过去2.音【毗】【婢】【鼻】"
   },
   {
     "character": "𗪟",
     "GX": "γu̱¹",
     "GHC": "ɣu¹",
     "explanationEN": "the beginning of",
-    "explanationCN": "1.始、初2.元、首"
+    "explanationCN": "1.始初2.元首"
   },
   {
     "character": "𗪘",
     "GX": "śi¹",
     "GHC": "śji¹",
     "explanationEN": "before",
-    "explanationCN": "昔、前"
+    "explanationCN": "昔前"
   },
   {
     "character": "𗩭",
@@ -14754,7 +14754,7 @@ const DICTIONARY_DATA = [
     "GX": "rtsi̱r¹",
     "GHC": "tser¹",
     "explanationEN": "land; soil",
-    "explanationCN": "1.土、地2.社稷"
+    "explanationCN": "1.土地2.社稷"
   },
   {
     "character": "𗩐",
@@ -14775,21 +14775,21 @@ const DICTIONARY_DATA = [
     "GX": "ke¹",
     "GHC": "kjij¹",
     "explanationEN": "barbarian",
-    "explanationCN": "蛮、夷"
+    "explanationCN": "蛮夷"
   },
   {
     "character": "𗪬",
     "GX": "qo̱ṃ¹",
     "GHC": "kow¹",
     "explanationEN": "night",
-    "explanationCN": "夜、晚"
+    "explanationCN": "夜晚"
   },
   {
     "character": "𗩕",
     "GX": "dza̱¹",
     "GHC": "dza¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【砸】、【匝】"
+    "explanationCN": "【砸】【匝】"
   },
   {
     "character": "𗩽",
@@ -14831,7 +14831,7 @@ const DICTIONARY_DATA = [
     "GX": "ṣao̱ṃ²",
     "GHC": "śjow²",
     "explanationEN": "above; higher place",
-    "explanationCN": "上汉语借词"
+    "explanationCN": "上】"
   },
   {
     "character": "𗦨",
@@ -14845,7 +14845,7 @@ const DICTIONARY_DATA = [
     "GX": "rṣaa̱r¹",
     "GHC": "śiar¹",
     "explanationEN": "a surname",
-    "explanationCN": "【娑】、【萨】、【杀】族姓"
+    "explanationCN": "【娑】【萨】【杀】"
   },
   {
     "character": "𗽥",
@@ -14866,7 +14866,7 @@ const DICTIONARY_DATA = [
     "GX": "ni̱w¹",
     "GHC": "new¹",
     "explanationEN": "breast",
-    "explanationCN": "奶、乳房汉语借词"
+    "explanationCN": "奶乳房】"
   },
   {
     "character": "𗪁",
@@ -14887,14 +14887,14 @@ const DICTIONARY_DATA = [
     "GX": "ba̱¹",
     "GHC": "ba¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【跋】、【拔】"
+    "explanationCN": "【跋】【拔】"
   },
   {
     "character": "𗤿",
     "GX": "lhə¹",
     "GHC": "lhjɨ¹",
     "explanationEN": "a surname",
-    "explanationCN": "【縲】族姓（族姓）"
+    "explanationCN": "【縲】（）"
   },
   {
     "character": "𗥋",
@@ -14908,14 +14908,14 @@ const DICTIONARY_DATA = [
     "GX": "be²",
     "GHC": "bjij²",
     "explanationEN": "wife; concubine; woman",
-    "explanationCN": "妻、眷、妾、妇"
+    "explanationCN": "妻眷妾妇"
   },
   {
     "character": "𗨼",
     "GX": "dźwe²",
     "GHC": "dźjij²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【葚】、【膡】"
+    "explanationCN": "【葚】【膡】"
   },
   {
     "character": "𗫕",
@@ -14943,14 +14943,14 @@ const DICTIONARY_DATA = [
     "GX": "zwih¹",
     "GHC": "zjwị¹",
     "explanationEN": "nephew",
-    "explanationCN": "甥、侄"
+    "explanationCN": "甥侄"
   },
   {
     "character": "𗧯",
     "GX": "nye¹",
     "GHC": "ˑji̱j¹",
     "explanationEN": "to hold",
-    "explanationCN": "1.执、持、禀2.揆3.含4.定"
+    "explanationCN": "1.执持禀2.揆3.含4.定"
   },
   {
     "character": "𗫋",
@@ -14971,7 +14971,7 @@ const DICTIONARY_DATA = [
     "GX": "mbu̱²",
     "GHC": "bu̱²",
     "explanationEN": "grave; mausoleum",
-    "explanationCN": "1.墓汉语借词2.音【穆】、【茂】、【慕】、【母】3.音【漠】、【谋】、【嫫】（音 193）"
+    "explanationCN": "1.墓】2.音【穆】【茂】【慕】【母】3.音【漠】【谋】【嫫】（音 193）"
   },
   {
     "character": "𗿔",
@@ -14992,14 +14992,14 @@ const DICTIONARY_DATA = [
     "GX": "qhwu̱h²",
     "GHC": "khwụ²",
     "explanationEN": "to blow; to beat",
-    "explanationCN": "吹、击"
+    "explanationCN": "吹击"
   },
   {
     "character": "𗺘",
     "GX": "yiw²",
     "GHC": "ˑjiw²",
     "explanationEN": "barnyard grass",
-    "explanationCN": "稗、稊"
+    "explanationCN": "稗稊"
   },
   {
     "character": "𗏼",
@@ -15013,7 +15013,7 @@ const DICTIONARY_DATA = [
     "GX": "ġai̱¹",
     "GHC": "gie¹",
     "explanationEN": "hard; difficult",
-    "explanationCN": "1.难、险、叵2.二字相重有“良久”之义"
+    "explanationCN": "1.难险叵2.二字相重有“良久”之义"
   },
   {
     "character": "𗼷",
@@ -15041,42 +15041,42 @@ const DICTIONARY_DATA = [
     "GX": "γa̱¹",
     "GHC": "ɣa¹",
     "explanationEN": "herbal medicine",
-    "explanationCN": "薢汉语借词"
+    "explanationCN": "薢】"
   },
   {
     "character": "𗏴",
     "GX": "dźu¹",
     "GHC": "dźju¹",
     "explanationEN": "to show; to declare",
-    "explanationCN": "显、宣、明、达"
+    "explanationCN": "显宣明达"
   },
   {
     "character": "𗥮",
     "GX": "rkur²",
     "GHC": "kjur²",
     "explanationEN": "skill; artistry",
-    "explanationCN": "1.技能、技艺2.敏捷"
+    "explanationCN": "1.技能技艺2.敏捷"
   },
   {
     "character": "𗪭",
     "GX": "ndə̱¹",
     "GHC": "də̱¹",
     "explanationEN": "ago; before",
-    "explanationCN": "前、昔"
+    "explanationCN": "前昔"
   },
   {
     "character": "𗫍",
     "GX": "śi¹",
     "GHC": "śji¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【石】、【食】、【世】、【植】、【师】、【使】、【失】、【什】、【瑟】"
+    "explanationCN": "【石】【食】【世】【植】【师】【使】【失】【什】【瑟】"
   },
   {
     "character": "𗽤",
     "GX": "tṣhae̱²",
     "GHC": "tśhiej²",
     "explanationEN": "a stocked village",
-    "explanationCN": "1.寨汉语借词2.音【鐺】、【釵】、【豺】、【柴】、【生】"
+    "explanationCN": "1.寨】2.音【鐺】【釵】【豺】【柴】【生】"
   },
   {
     "character": "𗽓",
@@ -15090,35 +15090,35 @@ const DICTIONARY_DATA = [
     "GX": "po̱¹",
     "GHC": "po¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【播】族姓2.做、办"
+    "explanationCN": "【播】"
   },
   {
     "character": "𗺭",
     "GX": "dźoṃ¹",
     "GHC": "dźjow¹",
     "explanationEN": "green",
-    "explanationCN": "青、绿"
+    "explanationCN": "青绿"
   },
   {
     "character": "𗺬",
     "GX": "dzwəh¹",
     "GHC": "dzjwɨ̣¹",
     "explanationEN": "witch",
-    "explanationCN": "巫、驱鬼者"
+    "explanationCN": "巫驱鬼者"
   },
   {
     "character": "𗺩",
     "GX": "ṣaa̱²",
     "GHC": "śia²",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【莎】草名（仅见于旧版《夏汉字典》）2.莎果名词（仅见于《简明夏汉字典》）"
+    "explanationCN": "【莎】"
   },
   {
     "character": "𗺾",
     "GX": "rvwa̱r²",
     "GHC": "war²",
     "explanationEN": "net; to be captured",
-    "explanationCN": "网、落网动词"
+    "explanationCN": "网落网动词"
   },
   {
     "character": "𗻧",
@@ -15132,7 +15132,7 @@ const DICTIONARY_DATA = [
     "GX": "dźwaṃ²",
     "GHC": "dźjwã²",
     "explanationEN": "rafter",
-    "explanationCN": "淮汉语借词"
+    "explanationCN": "淮】"
   },
   {
     "character": "𗧐",
@@ -15146,14 +15146,14 @@ const DICTIONARY_DATA = [
     "GX": "mmi̱²",
     "GHC": "me̱²",
     "explanationEN": "mould; mildew; mouldy smell",
-    "explanationCN": "霉、霉味汉语借词"
+    "explanationCN": "霉霉味】"
   },
   {
     "character": "𗪆",
     "GX": "nswə¹",
     "GHC": "sjwɨ̱¹",
     "explanationEN": "to think",
-    "explanationCN": "1.思、虑、忧、愁、惻、忆2.二字重迭意“切切”"
+    "explanationCN": "1.思虑忧愁惻忆2.二字重迭意“切切”"
   },
   {
     "character": "𗿋",
@@ -15167,7 +15167,7 @@ const DICTIONARY_DATA = [
     "GX": "nde²",
     "GHC": "dji̱j²",
     "explanationEN": "to light a fire",
-    "explanationCN": "点火、燃香、燃烛"
+    "explanationCN": "点火燃香燃烛"
   },
   {
     "character": "𗻢",
@@ -15209,7 +15209,7 @@ const DICTIONARY_DATA = [
     "GX": "tśhu²",
     "GHC": "tśhju²",
     "explanationEN": "that",
-    "explanationCN": "彼、此"
+    "explanationCN": "彼此"
   },
   {
     "character": "𗣜",
@@ -15230,7 +15230,7 @@ const DICTIONARY_DATA = [
     "GX": "tshwu̱²",
     "GHC": "tshwu²",
     "explanationEN": "for a particular person, occasion, purpose, etc.",
-    "explanationCN": "专心、虔诚"
+    "explanationCN": "专心虔诚"
   },
   {
     "character": "𗤵",
@@ -15244,14 +15244,14 @@ const DICTIONARY_DATA = [
     "GX": "pə̱¹",
     "GHC": "pə¹",
     "explanationEN": "big; thick",
-    "explanationCN": "1.大、粗、头、首2.音【不】、【本】（音 192）"
+    "explanationCN": "1.大粗头首2.音【不】【本】（音 192）"
   },
   {
     "character": "𗣋",
     "GX": "khaṃ²",
     "GHC": "khjã²",
     "explanationEN": "enemy; foe",
-    "explanationCN": "1.强敌2.命3.音【恒】、【俭】4.音【乾】（珠 102）、【遣】（珠 302）、【鈐】（珠 225）"
+    "explanationCN": "1.强敌2.命3.音【恒】【俭】4.音【乾】（珠 102）【遣】（珠 302）【鈐】（珠 225）"
   },
   {
     "character": "𗨤",
@@ -15265,7 +15265,7 @@ const DICTIONARY_DATA = [
     "GX": "rdźər¹",
     "GHC": "dźjɨr¹",
     "explanationEN": "to give up; to abandon",
-    "explanationCN": "捨、弃、授、絶"
+    "explanationCN": "捨弃授絶"
   },
   {
     "character": "𗽲",
@@ -15279,21 +15279,21 @@ const DICTIONARY_DATA = [
     "GX": "tho̱ṃ¹",
     "GHC": "thow¹",
     "explanationEN": "proficient",
-    "explanationCN": "1.通2.音【汤】、【统】、【同】、【彤】、【敦】"
+    "explanationCN": "1.通2.音【汤】【统】【同】【彤】【敦】"
   },
   {
     "character": "𗣖",
     "GX": "ṣuo¹",
     "GHC": "śio̱w¹",
     "explanationEN": "familiar",
-    "explanationCN": "熟汉语借词"
+    "explanationCN": "熟】"
   },
   {
     "character": "𗣗",
     "GX": "zeh²",
     "GHC": "zjịj²",
     "explanationEN": "to do",
-    "explanationCN": "做、作、為"
+    "explanationCN": "做作為"
   },
   {
     "character": "𗢫",
@@ -15328,21 +15328,21 @@ const DICTIONARY_DATA = [
     "GX": "nnaa̱²",
     "GHC": "nia̱²",
     "explanationEN": "to stutter; to faint",
-    "explanationCN": "1.口吃、昏厥2.悲伤"
+    "explanationCN": "1.口吃昏厥2.悲伤"
   },
   {
     "character": "𗣻",
     "GX": "lhə¹",
     "GHC": "lhjɨ¹",
     "explanationEN": "to add; to increase",
-    "explanationCN": "增、添"
+    "explanationCN": "增添"
   },
   {
     "character": "𘊛",
     "GX": "dzoh¹",
     "GHC": "dzjọ¹",
     "explanationEN": "metaphor; just like",
-    "explanationCN": "比喻、譬如介词"
+    "explanationCN": "比喻譬如介词"
   },
   {
     "character": "𘔲",
@@ -15377,7 +15377,7 @@ const DICTIONARY_DATA = [
     "GX": "tu̱¹",
     "GHC": "tu¹",
     "explanationEN": "sincere",
-    "explanationCN": "篤、厚"
+    "explanationCN": "篤厚"
   },
   {
     "character": "𗤸",
@@ -15391,7 +15391,7 @@ const DICTIONARY_DATA = [
     "GX": "khwi²",
     "GHC": "khjwi²",
     "explanationEN": "circle",
-    "explanationCN": "圈、圆、围"
+    "explanationCN": "圈圆围"
   },
   {
     "character": "𗽐",
@@ -15433,7 +15433,7 @@ const DICTIONARY_DATA = [
     "GX": "llo̱ṃ²",
     "GHC": "low²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【龙】、【陵】族姓"
+    "explanationCN": "【龙】【陵】"
   },
   {
     "character": "𗥃",
@@ -15447,21 +15447,21 @@ const DICTIONARY_DATA = [
     "GX": "me̱¹",
     "GHC": "mej¹",
     "explanationEN": "a surname",
-    "explanationCN": "【没】族姓"
+    "explanationCN": "【没】"
   },
   {
     "character": "𗼹",
     "GX": "dźwo²",
     "GHC": "dźjwo²",
     "explanationEN": "cave; hole",
-    "explanationCN": "1.洞、穴、孔、窟、窍2.阴"
+    "explanationCN": "1.洞穴孔窟窍2.阴"
   },
   {
     "character": "𗾬",
     "GX": "γiw²",
     "GHC": "ɣjiw²",
     "explanationEN": "cuckoo",
-    "explanationCN": "1.杜鹃2.【乙】番姓"
+    "explanationCN": "杜鹃【乙】"
   },
   {
     "character": "𗾲",
@@ -15503,7 +15503,7 @@ const DICTIONARY_DATA = [
     "GX": "lə²",
     "GHC": "ljɨ²",
     "explanationEN": "a surname",
-    "explanationCN": "【黎】、【力】、【利】族姓"
+    "explanationCN": "【黎】【力】【利】"
   },
   {
     "character": "𗣾",
@@ -15552,7 +15552,7 @@ const DICTIONARY_DATA = [
     "GX": "nvwə̱¹",
     "GHC": "wə̱¹",
     "explanationEN": "to own; to have",
-    "explanationCN": "1.有、享有2.属"
+    "explanationCN": "1.有享有2.属"
   },
   {
     "character": "𗩻",
@@ -15594,14 +15594,14 @@ const DICTIONARY_DATA = [
     "GX": "thu̱¹",
     "GHC": "thu¹",
     "explanationEN": "to draw (a bow)",
-    "explanationCN": "张、拉、拔"
+    "explanationCN": "张拉拔"
   },
   {
     "character": "𗢪",
     "GX": "pi¹",
     "GHC": "pji¹",
     "explanationEN": "majestic; glorious",
-    "explanationCN": "1.壮丽2.【壁】、【脾】、【鼻】、【毕】、【秘】、【比】3.【轡】（珠 336）、【錍】（珠 254）、【彼】（珠 314）、【毕】（珠 272）、【笔】（珠 325）、【碧】（珠 126）、【壁】（珠 053）、【鄙】（音 193）"
+    "explanationCN": "【壁】【脾】【鼻】【毕】【秘】【比】【轡】【錍】【彼】【毕】【笔】【碧】【壁】【鄙】"
   },
   {
     "character": "𗣏",
@@ -15622,7 +15622,7 @@ const DICTIONARY_DATA = [
     "GX": "ne¹",
     "GHC": "njij¹",
     "explanationEN": "emissary",
-    "explanationCN": "1.使者2.与（文）结合，具有帛书、书信之义3.试"
+    "explanationCN": "1.使者2.与（文）结合，具有帛书书信之义3.试"
   },
   {
     "character": "𗦊",
@@ -15643,14 +15643,14 @@ const DICTIONARY_DATA = [
     "GX": "yo̱ṃ²",
     "GHC": "ˑjow²",
     "explanationEN": "relatives",
-    "explanationCN": "1.亲2.【养】地名"
+    "explanationCN": "亲【养】"
   },
   {
     "character": "𗧭",
     "GX": "rγər¹",
     "GHC": "ɣjɨr¹",
     "explanationEN": "a surname",
-    "explanationCN": "【兮】族姓"
+    "explanationCN": "【兮】"
   },
   {
     "character": "𗨷",
@@ -15671,7 +15671,7 @@ const DICTIONARY_DATA = [
     "GX": "lhwih¹",
     "GHC": "lhjwị¹",
     "explanationEN": "a surname",
-    "explanationCN": "【力】、【利】族姓"
+    "explanationCN": "【力】【利】"
   },
   {
     "character": "𗾭",
@@ -15713,7 +15713,7 @@ const DICTIONARY_DATA = [
     "GX": "mə̱²",
     "GHC": "mə²",
     "explanationEN": "fly; mosquito",
-    "explanationCN": "蝇、蚊"
+    "explanationCN": "蝇蚊"
   },
   {
     "character": "𗫫",
@@ -15734,7 +15734,7 @@ const DICTIONARY_DATA = [
     "GX": "tu̱¹",
     "GHC": "tu¹",
     "explanationEN": "stupid; foolish",
-    "explanationCN": "1.愚蠢2.音【都】、【堵】、【篤】"
+    "explanationCN": "1.愚蠢2.音【都】【堵】【篤】"
   },
   {
     "character": "𗧦",
@@ -15797,7 +15797,7 @@ const DICTIONARY_DATA = [
     "GX": "ṣae̱ṃ¹",
     "GHC": "śiəj¹",
     "explanationEN": "man",
-    "explanationCN": "1.生汉语借词2.兽、猩"
+    "explanationCN": "1.生】2.兽猩"
   },
   {
     "character": "𗦩",
@@ -15811,14 +15811,14 @@ const DICTIONARY_DATA = [
     "GX": "ŋkhu²",
     "GHC": "khju̱²",
     "explanationEN": "to watch; to oversee",
-    "explanationCN": "视、监、守"
+    "explanationCN": "视监守"
   },
   {
     "character": "𗪨",
     "GX": "mae̱²",
     "GHC": "miej²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【孟】、【猛】、【埋】、【卖】族姓"
+    "explanationCN": "【孟】【猛】【埋】【卖】"
   },
   {
     "character": "𗿤",
@@ -15839,7 +15839,7 @@ const DICTIONARY_DATA = [
     "GX": "dźwoṃ¹",
     "GHC": "dźjwow¹",
     "explanationEN": "bird",
-    "explanationCN": "1.鸟、禽、鷄（酉）2.飞腾、浮"
+    "explanationCN": "1.鸟禽鷄（酉）2.飞腾浮"
   },
   {
     "character": "𗢶",
@@ -15853,7 +15853,7 @@ const DICTIONARY_DATA = [
     "GX": "ko¹",
     "GHC": "kjo¹",
     "explanationEN": "mother’s brother",
-    "explanationCN": "舅汉语借词"
+    "explanationCN": "舅】"
   },
   {
     "character": "𗫯",
@@ -15867,7 +15867,7 @@ const DICTIONARY_DATA = [
     "GX": "me²",
     "GHC": "mjij²",
     "explanationEN": "mother",
-    "explanationCN": "妈、母、娘"
+    "explanationCN": "妈母娘"
   },
   {
     "character": "𗿻",
@@ -15881,7 +15881,7 @@ const DICTIONARY_DATA = [
     "GX": "vih¹",
     "GHC": "wjị¹",
     "explanationEN": "east; tail",
-    "explanationCN": "末、尾"
+    "explanationCN": "末尾"
   },
   {
     "character": "𘊜",
@@ -15902,7 +15902,7 @@ const DICTIONARY_DATA = [
     "GX": "rzur²",
     "GHC": "zjur²",
     "explanationEN": "comet",
-    "explanationCN": "扫星、彗星"
+    "explanationCN": "扫星彗星"
   },
   {
     "character": "𗻓",
@@ -15916,7 +15916,7 @@ const DICTIONARY_DATA = [
     "GX": "lu̱h²",
     "GHC": "lụ²",
     "explanationEN": "stem; stalk",
-    "explanationCN": "植（杆）、茎、柄"
+    "explanationCN": "植（杆）茎柄"
   },
   {
     "character": "𗏻",
@@ -15930,7 +15930,7 @@ const DICTIONARY_DATA = [
     "GX": "tṣae̱¹",
     "GHC": "tśiej¹",
     "explanationEN": "headgear; hat; cap",
-    "explanationCN": "帽、冠"
+    "explanationCN": "帽冠"
   },
   {
     "character": "𘔹",
@@ -15951,7 +15951,7 @@ const DICTIONARY_DATA = [
     "GX": "kuh¹",
     "GHC": "kjụ¹",
     "explanationEN": "onion; garlic",
-    "explanationCN": "䓤、韭、蒜"
+    "explanationCN": "䓤韭蒜"
   },
   {
     "character": "𗺚",
@@ -15979,7 +15979,7 @@ const DICTIONARY_DATA = [
     "GX": "dźə¹",
     "GHC": "dźjɨ¹",
     "explanationEN": "a surname",
-    "explanationCN": "番、党项人"
+    "explanationCN": "番党项人"
   },
   {
     "character": "𗏉",
@@ -15993,14 +15993,14 @@ const DICTIONARY_DATA = [
     "GX": "dau̱²",
     "GHC": "du²",
     "explanationEN": "a surname",
-    "explanationCN": "【杜】、【奴】族姓"
+    "explanationCN": "【杜】【奴】"
   },
   {
     "character": "𗽂",
     "GX": "γi̱w¹",
     "GHC": "ɣew¹",
     "explanationEN": "trench",
-    "explanationCN": "壕汉语借词"
+    "explanationCN": "壕】"
   },
   {
     "character": "𗩂",
@@ -16035,7 +16035,7 @@ const DICTIONARY_DATA = [
     "GX": "lo̱ṃ²",
     "GHC": "low²",
     "explanationEN": "round",
-    "explanationCN": "1.圆球、摶2.音【郎】、【落】族姓"
+    "explanationCN": "1.圆球摶2.音【郎】【落】"
   },
   {
     "character": "𗦧",
@@ -16049,7 +16049,7 @@ const DICTIONARY_DATA = [
     "GX": "tṣao̱²",
     "GHC": "tśio²",
     "explanationEN": "headgear; hat; cap",
-    "explanationCN": "1.帽、冠2.【卓】、【车】族姓译音"
+    "explanationCN": "帽冠【卓】【车】"
   },
   {
     "character": "𘊖",
@@ -16070,14 +16070,14 @@ const DICTIONARY_DATA = [
     "GX": "ŋgi¹",
     "GHC": "gji̱¹",
     "explanationEN": "to give birth",
-    "explanationCN": "生、產"
+    "explanationCN": "生產"
   },
   {
     "character": "𗥍",
     "GX": "guh²",
     "GHC": "gjụ²",
     "explanationEN": "post; pillar; seat",
-    "explanationCN": "柱、座"
+    "explanationCN": "柱座"
   },
   {
     "character": "𗟝",
@@ -16105,7 +16105,7 @@ const DICTIONARY_DATA = [
     "GX": "liw²",
     "GHC": "ljiw²",
     "explanationEN": "to pull; to drag",
-    "explanationCN": "拉、扯"
+    "explanationCN": "拉扯"
   },
   {
     "character": "𘚳",
@@ -16154,14 +16154,14 @@ const DICTIONARY_DATA = [
     "GX": "qwaa̱¹",
     "GHC": "kiwa¹",
     "explanationEN": "to step on; to burst; to split",
-    "explanationCN": "踩压、破裂"
+    "explanationCN": "踩压破裂"
   },
   {
     "character": "𗬦",
     "GX": "hi̱w²",
     "GHC": "xew²",
     "explanationEN": "musical instrument; a surname (?)",
-    "explanationCN": "1.箜篌（乐器名）2.【篌】、【黑】族姓译音"
+    "explanationCN": "【篌】【黑】"
   },
   {
     "character": "𗃧",
@@ -16182,21 +16182,21 @@ const DICTIONARY_DATA = [
     "GX": "dẓae̱ṃ¹",
     "GHC": "dźiəj¹",
     "explanationEN": "to do; to act",
-    "explanationCN": "做、為"
+    "explanationCN": "做為"
   },
   {
     "character": "𗬳",
     "GX": "pe̱¹",
     "GHC": "pej¹",
     "explanationEN": "outer; exterior",
-    "explanationCN": "1.外表、背后2.防护"
+    "explanationCN": "1.外表背后2.防护"
   },
   {
     "character": "𗃫",
     "GX": "piw¹",
     "GHC": "pjiw¹",
     "explanationEN": "poor; needy; impoverished",
-    "explanationCN": "1.贫穷、饥寒2.又音【表】"
+    "explanationCN": "1.贫穷饥寒2.又音【表】"
   },
   {
     "character": "𗃭",
@@ -16217,21 +16217,21 @@ const DICTIONARY_DATA = [
     "GX": "de²",
     "GHC": "djij²",
     "explanationEN": "ever; to have already",
-    "explanationCN": "1.曾、尝动词2.况、初"
+    "explanationCN": "1.曾尝动词2.况初"
   },
   {
     "character": "𗬯",
     "GX": "qwə̱²",
     "GHC": "kwə²",
     "explanationEN": "to listen; to hear",
-    "explanationCN": "听、闻"
+    "explanationCN": "听闻"
   },
   {
     "character": "𗬱",
     "GX": "źu¹",
     "GHC": "źju¹",
     "explanationEN": "loyal; honest",
-    "explanationCN": "忠、正直"
+    "explanationCN": "忠正直"
   },
   {
     "character": "𗃩",
@@ -16245,7 +16245,7 @@ const DICTIONARY_DATA = [
     "GX": "rγa̱r¹",
     "GHC": "ɣar¹",
     "explanationEN": "urgent",
-    "explanationCN": "紧、极、甚、楚"
+    "explanationCN": "紧极甚楚"
   },
   {
     "character": "𘓒",
@@ -16259,7 +16259,7 @@ const DICTIONARY_DATA = [
     "GX": "γa̱¹",
     "GHC": "ɣa¹",
     "explanationEN": "sad; sorrowful",
-    "explanationCN": "悲哀、忧愁"
+    "explanationCN": "悲哀忧愁"
   },
   {
     "character": "𘓓",
@@ -16287,7 +16287,7 @@ const DICTIONARY_DATA = [
     "GX": "tho̱¹",
     "GHC": "tho¹",
     "explanationEN": "tired; weary",
-    "explanationCN": "疲倦、疲劳、困乏"
+    "explanationCN": "疲倦疲劳困乏"
   },
   {
     "character": "𗃗",
@@ -16301,21 +16301,21 @@ const DICTIONARY_DATA = [
     "GX": "nlho̱²",
     "GHC": "lho̱²",
     "explanationEN": "bright; smooth",
-    "explanationCN": "光亮、平光"
+    "explanationCN": "光亮平光"
   },
   {
     "character": "𗬵",
     "GX": "dźwoṃ¹",
     "GHC": "dźjwow¹",
     "explanationEN": "to float; to hang",
-    "explanationCN": "漂浮、悬"
+    "explanationCN": "漂浮悬"
   },
   {
     "character": "𗴗",
     "GX": "pe¹",
     "GHC": "pjij¹",
     "explanationEN": "to come and go; to have contact",
-    "explanationCN": "1.往来、恭敬2.【并】、【炳】（音 193）"
+    "explanationCN": "恭敬【并】【炳】"
   },
   {
     "character": "𗴛",
@@ -16350,14 +16350,14 @@ const DICTIONARY_DATA = [
     "GX": "śoṃ¹",
     "GHC": "śjow¹",
     "explanationEN": "a surname",
-    "explanationCN": "【尚】族姓"
+    "explanationCN": "【尚】"
   },
   {
     "character": "𗼔",
     "GX": "tśho²",
     "GHC": "tśhjo²",
     "explanationEN": "a surname",
-    "explanationCN": "【丑】族姓"
+    "explanationCN": "【丑】"
   },
   {
     "character": "𗼜",
@@ -16378,14 +16378,14 @@ const DICTIONARY_DATA = [
     "GX": "ŋwi̱²",
     "GHC": "ŋwe²",
     "explanationEN": "a surname",
-    "explanationCN": "【嵬】族姓"
+    "explanationCN": "【嵬】"
   },
   {
     "character": "𗼤",
     "GX": "vwo̱ṃ¹",
     "GHC": "wow¹",
     "explanationEN": "prosperous; flourishing",
-    "explanationCN": "旺汉语借词"
+    "explanationCN": "旺】"
   },
   {
     "character": "𗼄",
@@ -16399,14 +16399,14 @@ const DICTIONARY_DATA = [
     "GX": "lo¹",
     "GHC": "ljo¹",
     "explanationEN": "good fortune",
-    "explanationCN": "福、右"
+    "explanationCN": "福右"
   },
   {
     "character": "𗼬",
     "GX": "ba̱ṃ¹",
     "GHC": "bã¹",
     "explanationEN": "to twine; to bind",
-    "explanationCN": "缠、绕"
+    "explanationCN": "缠绕"
   },
   {
     "character": "𗼇",
@@ -16420,14 +16420,14 @@ const DICTIONARY_DATA = [
     "GX": "qwaa̱ṃ¹",
     "GHC": "kiwã¹",
     "explanationEN": "to close",
-    "explanationCN": "1.关汉语借词2.【关】地名"
+    "explanationCN": "【关】"
   },
   {
     "character": "𗼦",
     "GX": "dzuh²",
     "GHC": "dzjụ²",
     "explanationEN": "round-grained non-glutinous rice",
-    "explanationCN": "黍、粳稻"
+    "explanationCN": "黍粳稻"
   },
   {
     "character": "𗼭",
@@ -16448,21 +16448,21 @@ const DICTIONARY_DATA = [
     "GX": "zəh¹",
     "GHC": "zjɨ̣¹",
     "explanationEN": "emperor; monarch",
-    "explanationCN": "天子、君"
+    "explanationCN": "天子君"
   },
   {
     "character": "𗺑",
     "GX": "mba¹",
     "GHC": "bja̱¹",
     "explanationEN": "limit; end",
-    "explanationCN": "穷、尽、絶、无"
+    "explanationCN": "穷尽絶无"
   },
   {
     "character": "𘉄",
     "GX": "llwu²",
     "GHC": "ljwu²",
     "explanationEN": "witty remark; witticism; rhetoric",
-    "explanationCN": "妙语、修辞"
+    "explanationCN": "妙语修辞"
   },
   {
     "character": "𗺔",
@@ -16476,7 +16476,7 @@ const DICTIONARY_DATA = [
     "GX": "khiw²",
     "GHC": "khjiw²",
     "explanationEN": "to discard; to abandon",
-    "explanationCN": "弃汉语借词"
+    "explanationCN": "弃】"
   },
   {
     "character": "𗄱",
@@ -16490,7 +16490,7 @@ const DICTIONARY_DATA = [
     "GX": "sa̱ṃ¹",
     "GHC": "sã¹",
     "explanationEN": "scattered",
-    "explanationCN": "散汉语借词"
+    "explanationCN": "散】"
   },
   {
     "character": "𗆭",
@@ -16504,14 +16504,14 @@ const DICTIONARY_DATA = [
     "GX": "gih²",
     "GHC": "gjị²",
     "explanationEN": "wide; eclipse",
-    "explanationCN": "广、蚀"
+    "explanationCN": "广蚀"
   },
   {
     "character": "𗹥",
     "GX": "rer¹",
     "GHC": "rjijr¹",
     "explanationEN": "to speed; to run quickly",
-    "explanationCN": "竞、奔驰"
+    "explanationCN": "竞奔驰"
   },
   {
     "character": "𗎧",
@@ -16525,7 +16525,7 @@ const DICTIONARY_DATA = [
     "GX": "mmi¹",
     "GHC": "mji̱¹",
     "explanationEN": "a surname",
-    "explanationCN": "【米（名）】、【弥】族姓"
+    "explanationCN": "【米（名）】【弥】"
   },
   {
     "character": "𗄪",
@@ -16553,21 +16553,21 @@ const DICTIONARY_DATA = [
     "GX": "nsi̱w²",
     "GHC": "sew²",
     "explanationEN": "to survey; to research",
-    "explanationCN": "1.测、察、思2.占"
+    "explanationCN": "1.测察思2.占"
   },
   {
     "character": "𗂙",
     "GX": "pha̱¹",
     "GHC": "pha¹",
     "explanationEN": "difference",
-    "explanationCN": "异、别"
+    "explanationCN": "异别"
   },
   {
     "character": "𗆠",
     "GX": "bu̱¹",
     "GHC": "bu¹",
     "explanationEN": "to subdue",
-    "explanationCN": "降服、降伏"
+    "explanationCN": "降服降伏"
   },
   {
     "character": "𗅺",
@@ -16630,7 +16630,7 @@ const DICTIONARY_DATA = [
     "GX": "ya¹",
     "GHC": "ˑja¹",
     "explanationEN": "east; tail",
-    "explanationCN": "东、末、尾"
+    "explanationCN": "东末尾"
   },
   {
     "character": "𗅨",
@@ -16651,7 +16651,7 @@ const DICTIONARY_DATA = [
     "GX": "di¹",
     "GHC": "dji¹",
     "explanationEN": "internal organs; viscera; abdominal cavity",
-    "explanationCN": "内臟、腹腔"
+    "explanationCN": "内臟腹腔"
   },
   {
     "character": "𗆡",
@@ -16686,14 +16686,14 @@ const DICTIONARY_DATA = [
     "GX": "rbo̱ṃr¹",
     "GHC": "bowr¹",
     "explanationEN": "bag; pocket",
-    "explanationCN": "包、囊、袋"
+    "explanationCN": "包囊袋"
   },
   {
     "character": "𗂅",
     "GX": "rmer²",
     "GHC": "mjijr²",
     "explanationEN": "prime minister; government officials",
-    "explanationCN": "丞相、宰相、官吏"
+    "explanationCN": "丞相宰相官吏"
   },
   {
     "character": "𗂂",
@@ -16707,14 +16707,14 @@ const DICTIONARY_DATA = [
     "GX": "nlə¹",
     "GHC": "ljɨ̱¹",
     "explanationEN": "a surname",
-    "explanationCN": "【祠】族姓"
+    "explanationCN": "【祠】"
   },
   {
     "character": "𗂎",
     "GX": "tsheṃ²",
     "GHC": "tshjɨj²",
     "explanationEN": "purple; violet",
-    "explanationCN": "1.紫色2.紺3.音【倩】、【靖】、【青】、【净】、【前】"
+    "explanationCN": "1.紫色2.紺3.音【倩】【靖】【青】【净】【前】"
   },
   {
     "character": "𗹜",
@@ -16728,7 +16728,7 @@ const DICTIONARY_DATA = [
     "GX": "vwo̱ṃ²",
     "GHC": "wow²",
     "explanationEN": "a surname",
-    "explanationCN": "【王】、【旺】族姓"
+    "explanationCN": "【王】【旺】"
   },
   {
     "character": "𘈺",
@@ -16756,14 +16756,14 @@ const DICTIONARY_DATA = [
     "GX": "nle²",
     "GHC": "lji̱j²",
     "explanationEN": "to destroy; to damage",
-    "explanationCN": "1.毁壤、破壤2.散离3.陷4.伐"
+    "explanationCN": "1.毁壤破壤2.散离3.陷4.伐"
   },
   {
     "character": "𗁣",
     "GX": "dzə¹",
     "GHC": "dzjɨ¹",
     "explanationEN": "careful; fearful",
-    "explanationCN": "1.谨、畏2.敬3.平"
+    "explanationCN": "1.谨畏2.敬3.平"
   },
   {
     "character": "𗆦",
@@ -16777,14 +16777,14 @@ const DICTIONARY_DATA = [
     "GX": "ndzu̱²",
     "GHC": "dzu̱²",
     "explanationEN": "to sit; to reside",
-    "explanationCN": "坐、乘、居、住"
+    "explanationCN": "坐乘居住"
   },
   {
     "character": "𗶧",
     "GX": "dźwi²",
     "GHC": "dźjwi²",
     "explanationEN": "bed",
-    "explanationCN": "1.床、榻2.扶3.载4.两字重迭為“同床”、“同居”、“同住”"
+    "explanationCN": "1.床榻2.扶3.载4.两字重迭為“同床”“同居”“同住”"
   },
   {
     "character": "𗢞",
@@ -16798,14 +16798,14 @@ const DICTIONARY_DATA = [
     "GX": "rne̱r¹",
     "GHC": "nejr¹",
     "explanationEN": "flat-iron; smoothness; moistness",
-    "explanationCN": "润、滑、熨"
+    "explanationCN": "润滑熨"
   },
   {
     "character": "𗋨",
     "GX": "rlir²",
     "GHC": "ljir²",
     "explanationEN": "to extract butter; to curdle",
-    "explanationCN": "炼（乳）、凝结"
+    "explanationCN": "炼（乳）凝结"
   },
   {
     "character": "𗋌",
@@ -16819,7 +16819,7 @@ const DICTIONARY_DATA = [
     "GX": "lwəh¹",
     "GHC": "ljwɨ̣¹",
     "explanationEN": "to run; to speed",
-    "explanationCN": "跑、驰、奔"
+    "explanationCN": "跑驰奔"
   },
   {
     "character": "𗏇",
@@ -16861,7 +16861,7 @@ const DICTIONARY_DATA = [
     "GX": "tṣhaə̱¹",
     "GHC": "tśhiə¹",
     "explanationEN": "foam; froth",
-    "explanationCN": "抹、泡沫"
+    "explanationCN": "抹泡沫"
   },
   {
     "character": "𘊢",
@@ -16896,14 +16896,14 @@ const DICTIONARY_DATA = [
     "GX": "tśəh²",
     "GHC": "tśjɨ̣²",
     "explanationEN": "to flow; to pass",
-    "explanationCN": "流、过"
+    "explanationCN": "流过"
   },
   {
     "character": "𗋒",
     "GX": "keh¹",
     "GHC": "kjịj¹",
     "explanationEN": "stalk",
-    "explanationCN": "1.茎汉语借词2.经3.释"
+    "explanationCN": "1.茎】2.经3.释"
   },
   {
     "character": "𗋟",
@@ -16924,7 +16924,7 @@ const DICTIONARY_DATA = [
     "GX": "śwow¹",
     "GHC": "śjwo¹",
     "explanationEN": "to need; to want",
-    "explanationCN": "1.需、用2.二字重迭表示“所需、所用”3.音【先】"
+    "explanationCN": "1.需用2.二字重迭表示“所需所用”3.音【先】"
   },
   {
     "character": "𗌄",
@@ -16938,7 +16938,7 @@ const DICTIONARY_DATA = [
     "GX": "hwi̱ṃ²",
     "GHC": "xwẽ²",
     "explanationEN": "a surname",
-    "explanationCN": "【浑】族姓"
+    "explanationCN": "【浑】"
   },
   {
     "character": "𗢗",
@@ -16994,14 +16994,14 @@ const DICTIONARY_DATA = [
     "GX": "keh¹",
     "GHC": "kjịj¹",
     "explanationEN": "rottenness",
-    "explanationCN": "朽、烂"
+    "explanationCN": "朽烂"
   },
   {
     "character": "𘊋",
     "GX": "po¹",
     "GHC": "pjo¹",
     "explanationEN": "slander",
-    "explanationCN": "谤、詆"
+    "explanationCN": "谤詆"
   },
   {
     "character": "𗋣",
@@ -17078,7 +17078,7 @@ const DICTIONARY_DATA = [
     "GX": "phi̱¹",
     "GHC": "phe¹",
     "explanationEN": "a surname",
-    "explanationCN": "【匹】族姓"
+    "explanationCN": "【匹】"
   },
   {
     "character": "𗾞",
@@ -17092,14 +17092,14 @@ const DICTIONARY_DATA = [
     "GX": "śəh¹",
     "GHC": "śjɨ̣¹",
     "explanationEN": "to eat",
-    "explanationCN": "食、吃"
+    "explanationCN": "食吃"
   },
   {
     "character": "𗏑",
     "GX": "nno̱¹",
     "GHC": "no̱¹",
     "explanationEN": "weak",
-    "explanationCN": "弱、哀"
+    "explanationCN": "弱哀"
   },
   {
     "character": "𗺣",
@@ -17113,7 +17113,7 @@ const DICTIONARY_DATA = [
     "GX": "rŋir¹",
     "GHC": "ŋjir¹",
     "explanationEN": "disaster; calamity",
-    "explanationCN": "灾祸、灾难"
+    "explanationCN": "灾祸灾难"
   },
   {
     "character": "𗻄",
@@ -17134,7 +17134,7 @@ const DICTIONARY_DATA = [
     "GX": "lo²",
     "GHC": "ljo²",
     "explanationEN": "elder brother",
-    "explanationCN": "兄、哥"
+    "explanationCN": "兄哥"
   },
   {
     "character": "𗣸",
@@ -17155,7 +17155,7 @@ const DICTIONARY_DATA = [
     "GX": "śi²",
     "GHC": "śji²",
     "explanationEN": "market",
-    "explanationCN": "1.市2.【施】人名"
+    "explanationCN": "【市】【施】"
   },
   {
     "character": "𗾽",
@@ -17169,28 +17169,28 @@ const DICTIONARY_DATA = [
     "GX": "llih²",
     "GHC": "ljị²",
     "explanationEN": "before; formerly",
-    "explanationCN": "从前、昔日"
+    "explanationCN": "从前昔日"
   },
   {
     "character": "𗧱",
     "GX": "swə²",
     "GHC": "sjwɨ²",
     "explanationEN": "a surname",
-    "explanationCN": "【税】、【绥】族姓"
+    "explanationCN": "【税】【绥】"
   },
   {
     "character": "𗿁",
     "GX": "phə¹",
     "GHC": "phjɨ¹",
     "explanationEN": "to hear; to know",
-    "explanationCN": "听、闻"
+    "explanationCN": "听闻"
   },
   {
     "character": "𗪯",
     "GX": "gi²",
     "GHC": "gji²",
     "explanationEN": "wife; concubine",
-    "explanationCN": "妻、妾"
+    "explanationCN": "妻妾"
   },
   {
     "character": "𗺺",
@@ -17211,7 +17211,7 @@ const DICTIONARY_DATA = [
     "GX": "rir²",
     "GHC": "rjir²",
     "explanationEN": "before; formerly",
-    "explanationCN": "经过、从前"
+    "explanationCN": "经过从前"
   },
   {
     "character": "𗬎",
@@ -17225,7 +17225,7 @@ const DICTIONARY_DATA = [
     "GX": "sə̱¹",
     "GHC": "sə¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【斯】、【嗣】、【似】、【氏】2.【思】（珠 315）、【巳】（珠 101）、【四】（珠 101）、【司】（珠 275）、【丝】（珠 086）、【死】（珠 195）、【赐】（音 198）"
+    "explanationCN": "【斯】【嗣】【似】【氏】【思】【巳】【四】【司】【丝】【死】【赐】"
   },
   {
     "character": "𗽄",
@@ -17246,7 +17246,7 @@ const DICTIONARY_DATA = [
     "GX": "de¹",
     "GHC": "djij¹",
     "explanationEN": "sage; able and virtuous person",
-    "explanationCN": "1.圣、贤2.音【提】、【地】、【点】、【底】、【定】"
+    "explanationCN": "1.圣贤2.音【提】【地】【点】【底】【定】"
   },
   {
     "character": "𗣞",
@@ -17267,14 +17267,14 @@ const DICTIONARY_DATA = [
     "GX": "lhwə²",
     "GHC": "lhjwɨ²",
     "explanationEN": "abrupt; sudden; violent",
-    "explanationCN": "1.骤、暴、疾2.突然"
+    "explanationCN": "1.骤暴疾2.突然"
   },
   {
     "character": "𗤻",
     "GX": "vah¹",
     "GHC": "wjạ¹",
     "explanationEN": "flower",
-    "explanationCN": "1.花、华2.音【怀】"
+    "explanationCN": "1.花华2.音【怀】"
   },
   {
     "character": "𗦶",
@@ -17288,7 +17288,7 @@ const DICTIONARY_DATA = [
     "GX": "tsa̱ṃ¹",
     "GHC": "tsã¹",
     "explanationEN": "to burst; to blast",
-    "explanationCN": "1.爆裂、爆破、破裂2.音【赞】"
+    "explanationCN": "1.爆裂爆破破裂2.音【赞】"
   },
   {
     "character": "𗾠",
@@ -17302,7 +17302,7 @@ const DICTIONARY_DATA = [
     "GX": "ba²",
     "GHC": "bja²",
     "explanationEN": "belly",
-    "explanationCN": "腹、肚子"
+    "explanationCN": "腹肚子"
   },
   {
     "character": "𗬢",
@@ -17323,7 +17323,7 @@ const DICTIONARY_DATA = [
     "GX": "ra̱r²",
     "GHC": "rar²",
     "explanationEN": "to flow; to leak",
-    "explanationCN": "1.流、漏、过2.休3.絶4.轮"
+    "explanationCN": "1.流漏过2.休3.絶4.轮"
   },
   {
     "character": "𗧑",
@@ -17337,7 +17337,7 @@ const DICTIONARY_DATA = [
     "GX": "hwaa̱¹",
     "GHC": "xiwa¹",
     "explanationEN": "flower; grass",
-    "explanationCN": "1.花、草汉语借词2.【项】3.【翻】4.话"
+    "explanationCN": "【花】【项】【翻】【话】"
   },
   {
     "character": "𗧬",
@@ -17351,7 +17351,7 @@ const DICTIONARY_DATA = [
     "GX": "khe¹",
     "GHC": "khjij¹",
     "explanationEN": "to open wide; to be exposed to the sun",
-    "explanationCN": "敞开、暴晒"
+    "explanationCN": "敞开暴晒"
   },
   {
     "character": "𗪜",
@@ -17379,7 +17379,7 @@ const DICTIONARY_DATA = [
     "GX": "hao̱ṃ²",
     "GHC": "xjow²",
     "explanationEN": "a place name",
-    "explanationCN": "【旬】、【匈】地名"
+    "explanationCN": "【旬】【匈】地名"
   },
   {
     "character": "𗽯",
@@ -17407,28 +17407,28 @@ const DICTIONARY_DATA = [
     "GX": "tṣhaa̱ṃ¹",
     "GHC": "tśhiã¹",
     "explanationEN": "thatched cottage",
-    "explanationCN": "草捨、茅棚"
+    "explanationCN": "草捨茅棚"
   },
   {
     "character": "𗪝",
     "GX": "γwae̱h¹",
     "GHC": "ɣwẹj¹",
     "explanationEN": "to struggle; to fight",
-    "explanationCN": "击、"
+    "explanationCN": "击"
   },
   {
     "character": "𗏥",
     "GX": "nllu²",
     "GHC": "lju̱²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【吕】族姓2.妙"
+    "explanationCN": "【吕】妙"
   },
   {
     "character": "𗏲",
     "GX": "phe̱²",
     "GHC": "phej²",
     "explanationEN": "a surname",
-    "explanationCN": "【沛】、【裴】族姓"
+    "explanationCN": "【沛】【裴】"
   },
   {
     "character": "𗣢",
@@ -17442,70 +17442,70 @@ const DICTIONARY_DATA = [
     "GX": "na̱¹",
     "GHC": "na¹",
     "explanationEN": "night; darkness",
-    "explanationCN": "夜、冥、暗"
+    "explanationCN": "夜冥暗"
   },
   {
     "character": "𗦢",
     "GX": "sa̱²",
     "GHC": "dza²",
     "explanationEN": "to survey; measure",
-    "explanationCN": "1.测、量、喻、卜、度2.策"
+    "explanationCN": "1.测量喻卜度2.策"
   },
   {
     "character": "𗦤",
     "GX": "nle¹",
     "GHC": "lji̱j¹",
     "explanationEN": "to wait; to stay",
-    "explanationCN": "稍侍、停留"
+    "explanationCN": "稍侍停留"
   },
   {
     "character": "𗨟",
     "GX": "dź??",
     "GHC": "dź-?",
     "explanationEN": "oblique; lopsided",
-    "explanationCN": "倾斜、邪、歪"
+    "explanationCN": "倾斜邪歪"
   },
   {
     "character": "𗩚",
     "GX": "dau̱¹",
     "GHC": "du¹",
     "explanationEN": "to exist; to have; to place",
-    "explanationCN": "在、有、置、设"
+    "explanationCN": "在有置设"
   },
   {
     "character": "𗧽",
     "GX": "rtso̱ṃr²",
     "GHC": "tsowr²",
     "explanationEN": "to astonish; to shock; to voice",
-    "explanationCN": "震骇、震鸣、憒闹"
+    "explanationCN": "震骇震鸣憒闹"
   },
   {
     "character": "𗨰",
     "GX": "la̱²",
     "GHC": "la²",
     "explanationEN": "to weave",
-    "explanationCN": "1.织2.【啦】（语气助词）"
+    "explanationCN": "织【啦】"
   },
   {
     "character": "𗼺",
     "GX": "ndzu̱²",
     "GHC": "dzu̱²",
     "explanationEN": "to plant; to stand",
-    "explanationCN": "植、立"
+    "explanationCN": "植立"
   },
   {
     "character": "𗾾",
     "GX": "rir²",
     "GHC": "rjir²",
     "explanationEN": "to fight; to struggle",
-    "explanationCN": "争、鬭"
+    "explanationCN": "争鬭"
   },
   {
     "character": "𗺱",
     "GX": "ṣwaə̱¹",
     "GHC": "śiwə¹",
     "explanationEN": "mouse; rat",
-    "explanationCN": "鼠汉语借词"
+    "explanationCN": "鼠】"
   },
   {
     "character": "𗻤",
@@ -17533,7 +17533,7 @@ const DICTIONARY_DATA = [
     "GX": "hu̱¹",
     "GHC": "xu¹",
     "explanationEN": "clear; distinct",
-    "explanationCN": "1.明晓、明星、分明2.又音【傅】、【户】、【护】"
+    "explanationCN": "1.明晓明星分明2.又音【傅】【户】【护】"
   },
   {
     "character": "𗺰",
@@ -17575,14 +17575,14 @@ const DICTIONARY_DATA = [
     "GX": "thi̱w¹",
     "GHC": "thew¹",
     "explanationEN": "to penetrate",
-    "explanationCN": "1.穿透汉语借词2.破3.音【陶】"
+    "explanationCN": "1.穿透】2.破3.音【陶】"
   },
   {
     "character": "𗨛",
     "GX": "rər²",
     "GHC": "rjɨr²",
     "explanationEN": "to go out; to arise",
-    "explanationCN": "1.出、去2.遁"
+    "explanationCN": "1.出去2.遁"
   },
   {
     "character": "𗫬",
@@ -17596,14 +17596,14 @@ const DICTIONARY_DATA = [
     "GX": "yu²",
     "GHC": "ˑju²",
     "explanationEN": "often",
-    "explanationCN": "常、永"
+    "explanationCN": "常永"
   },
   {
     "character": "𗪞",
     "GX": "yu¹",
     "GHC": "ˑju¹",
     "explanationEN": "ashamed; abashed",
-    "explanationCN": "1.羞愧2.音【与】、【预】"
+    "explanationCN": "1.羞愧2.音【与】【预】"
   },
   {
     "character": "𗪔",
@@ -17617,7 +17617,7 @@ const DICTIONARY_DATA = [
     "GX": "γai̱h²",
     "GHC": "ɣie²",
     "explanationEN": "to harm; to damage",
-    "explanationCN": "1.损害2.患3.阻碍、障壅、滞4.贼"
+    "explanationCN": "1.损害2.患3.阻碍障壅滞4.贼"
   },
   {
     "character": "𗺯",
@@ -17638,21 +17638,21 @@ const DICTIONARY_DATA = [
     "GX": "naw²",
     "GHC": "nja̱²",
     "explanationEN": "wisdom",
-    "explanationCN": "慧心、慧觉"
+    "explanationCN": "慧心慧觉"
   },
   {
     "character": "𗟜",
     "GX": "rdzər¹",
     "GHC": "dzjɨr¹",
     "explanationEN": "rapid speed",
-    "explanationCN": "急汉语借词"
+    "explanationCN": "急】"
   },
   {
     "character": "𘜤",
     "GX": "ha¹",
     "GHC": "xja¹",
     "explanationEN": "very fast; rapid",
-    "explanationCN": "迅速、急速"
+    "explanationCN": "迅速急速"
   },
   {
     "character": "𘚫",
@@ -17673,7 +17673,7 @@ const DICTIONARY_DATA = [
     "GX": "dzih²",
     "GHC": "dzjị²",
     "explanationEN": "to stand up; to set up",
-    "explanationCN": "立、柱"
+    "explanationCN": "立柱"
   },
   {
     "character": "𘚴",
@@ -17708,7 +17708,7 @@ const DICTIONARY_DATA = [
     "GX": "puh²",
     "GHC": "pjụ²",
     "explanationEN": "hat; crown",
-    "explanationCN": "1.冠、盖2.戴"
+    "explanationCN": "1.冠盖2.戴"
   },
   {
     "character": "𘓍",
@@ -17729,14 +17729,14 @@ const DICTIONARY_DATA = [
     "GX": "de¹",
     "GHC": "djij¹",
     "explanationEN": "the sun; day",
-    "explanationCN": "日、天"
+    "explanationCN": "日天"
   },
   {
     "character": "𗬫",
     "GX": "rdər²",
     "GHC": "djɨr²",
     "explanationEN": "surface",
-    "explanationCN": "表、外"
+    "explanationCN": "表外"
   },
   {
     "character": "𗃷",
@@ -17764,7 +17764,7 @@ const DICTIONARY_DATA = [
     "GX": "rir²",
     "GHC": "rjir²",
     "explanationEN": "to stagnate; to leave over; to remain",
-    "explanationCN": "停滞、遗留、剩餘"
+    "explanationCN": "停滞遗留剩餘"
   },
   {
     "character": "𗃨",
@@ -17785,7 +17785,7 @@ const DICTIONARY_DATA = [
     "GX": "rir²",
     "GHC": "rjir²",
     "explanationEN": "to revere; to fear",
-    "explanationCN": "敬畏、可怕"
+    "explanationCN": "敬畏可怕"
   },
   {
     "character": "𘓐",
@@ -17813,14 +17813,14 @@ const DICTIONARY_DATA = [
     "GX": "śeṃ²",
     "GHC": "śjɨj²",
     "explanationEN": "sage; able and virtuous person",
-    "explanationCN": "圣汉语借词"
+    "explanationCN": "圣】"
   },
   {
     "character": "𗼖",
     "GX": "lo¹",
     "GHC": "ljo¹",
     "explanationEN": "good fortune",
-    "explanationCN": "福、右"
+    "explanationCN": "福右"
   },
   {
     "character": "𗼈",
@@ -17841,42 +17841,42 @@ const DICTIONARY_DATA = [
     "GX": "lhuo¹",
     "GHC": "lhio̱w¹",
     "explanationEN": "to strangle",
-    "explanationCN": "勒死、被割"
+    "explanationCN": "勒死被割"
   },
   {
     "character": "𘉅",
     "GX": "dza̱¹",
     "GHC": "dza¹",
     "explanationEN": "miscellaneous; mixed",
-    "explanationCN": "杂汉语借词"
+    "explanationCN": "杂】"
   },
   {
     "character": "𗂼",
     "GX": "ye²",
     "GHC": "ˑjij²",
     "explanationEN": "banquet; feast",
-    "explanationCN": "宴席汉语借词"
+    "explanationCN": "宴席】"
   },
   {
     "character": "𗃇",
     "GX": "la¹",
     "GHC": "lja¹",
     "explanationEN": "to hide; to conceal",
-    "explanationCN": "匿、隠藏"
+    "explanationCN": "匿隠藏"
   },
   {
     "character": "𗆽",
     "GX": "tṣhaə̱¹",
     "GHC": "tśhiə¹",
     "explanationEN": "to take out",
-    "explanationCN": "抽、拔、取"
+    "explanationCN": "抽拔取"
   },
   {
     "character": "𗁓",
     "GX": "tə̱¹",
     "GHC": "tə¹",
     "explanationEN": "得",
-    "explanationCN": "【德】、【得】"
+    "explanationCN": "【德】【得】"
   },
   {
     "character": "𗂇",
@@ -17890,21 +17890,21 @@ const DICTIONARY_DATA = [
     "GX": "rpə̱r¹",
     "GHC": "pər¹",
     "explanationEN": "to clean; to clear away",
-    "explanationCN": "扫除、清除"
+    "explanationCN": "扫除清除"
   },
   {
     "character": "𗂲",
     "GX": "dzeṃ²",
     "GHC": "dzjɨj²",
     "explanationEN": "to pierce; to penetrate",
-    "explanationCN": "穿、陷"
+    "explanationCN": "穿陷"
   },
   {
     "character": "𗆾",
     "GX": "geh¹",
     "GHC": "gjịj¹",
     "explanationEN": "inferior; to betray",
-    "explanationCN": "劣、逆、叛动词"
+    "explanationCN": "劣逆叛动词"
   },
   {
     "character": "𗆣",
@@ -17918,21 +17918,21 @@ const DICTIONARY_DATA = [
     "GX": "tho̱ṃ¹",
     "GHC": "thow¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【唐】族姓2.音【道】、【陀】、【拓】、【桃】、【糖】、【通】3.音【大】（珠 154）、【他】（珠 344）、【驼】（珠 163）、【堂】（珠 211）、【棠】（珠 134）、【铜】（音 194）"
+    "explanationCN": "【唐】【道】【陀】【拓】【桃】【糖】【通】【大】【他】【驼】【堂】【棠】【铜】"
   },
   {
     "character": "𗹨",
     "GX": "yeṃ²",
     "GHC": "ˑjɨj²",
     "explanationEN": "tent; house; temple",
-    "explanationCN": "帐、捨、堂、室、宅、宇、庙、泡"
+    "explanationCN": "帐捨堂室宅宇庙泡"
   },
   {
     "character": "𗀷",
     "GX": "khu²",
     "GHC": "khju²",
     "explanationEN": "penis",
-    "explanationCN": "1.阴、男根2.淫"
+    "explanationCN": "1.阴男根2.淫"
   },
   {
     "character": "𗁁",
@@ -17946,7 +17946,7 @@ const DICTIONARY_DATA = [
     "GX": "me̱²",
     "GHC": "mej²",
     "explanationEN": "hair; feather",
-    "explanationCN": "1.毛、毫2.音【昧】"
+    "explanationCN": "1.毛毫2.音【昧】"
   },
   {
     "character": "𗁟",
@@ -17960,7 +17960,7 @@ const DICTIONARY_DATA = [
     "GX": "twə̱h¹",
     "GHC": "twə̣¹",
     "explanationEN": "to take out; to catch",
-    "explanationCN": "抽、拔、擒、夺、掣、瞤"
+    "explanationCN": "抽拔擒夺掣瞤"
   },
   {
     "character": "𗂢",
@@ -17995,14 +17995,14 @@ const DICTIONARY_DATA = [
     "GX": "la̱ṃ¹",
     "GHC": "lã¹",
     "explanationEN": "railing",
-    "explanationCN": "栏汉语借词"
+    "explanationCN": "栏】"
   },
   {
     "character": "𗹩",
     "GX": "ŋki¹",
     "GHC": "kji̱¹",
     "explanationEN": "to make smooth with a file; to grind",
-    "explanationCN": "銼、研磨"
+    "explanationCN": "銼研磨"
   },
   {
     "character": "𗂔",
@@ -18016,14 +18016,14 @@ const DICTIONARY_DATA = [
     "GX": "mi̱²",
     "GHC": "me²",
     "explanationEN": "a surname",
-    "explanationCN": "【妹】、【梅】族姓"
+    "explanationCN": "【妹】【梅】"
   },
   {
     "character": "𗶩",
     "GX": "thi²",
     "GHC": "thji²",
     "explanationEN": "land",
-    "explanationCN": "1.地汉语借词2.音【狄】、【翟】3.音【地】（珠 264）、【笛】（珠 325）、【涕】（珠 193）【体】（珠 304）"
+    "explanationCN": "1.地】2.音【狄】【翟】3.音【地】（珠 264）【笛】（珠 325）【涕】（珠 193）【体】（珠 304）"
   },
   {
     "character": "𗊍",
@@ -18037,7 +18037,7 @@ const DICTIONARY_DATA = [
     "GX": "dzu̱²",
     "GHC": "dzu²",
     "explanationEN": "powerful",
-    "explanationCN": "强胜、豪强"
+    "explanationCN": "强胜豪强"
   },
   {
     "character": "𗊎",
@@ -18065,7 +18065,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋah²",
     "GHC": "ŋjạ²",
     "explanationEN": "scar; defect; drawback",
-    "explanationCN": "1.疮疤、缺陷2.罪过"
+    "explanationCN": "1.疮疤缺陷2.罪过"
   },
   {
     "character": "𗊩",
@@ -18128,7 +18128,7 @@ const DICTIONARY_DATA = [
     "GX": "su̱²",
     "GHC": "su²",
     "explanationEN": "self",
-    "explanationCN": "自、吾"
+    "explanationCN": "自吾"
   },
   {
     "character": "𗋚",
@@ -18142,35 +18142,35 @@ const DICTIONARY_DATA = [
     "GX": "???",
     "GHC": "?",
     "explanationEN": "lintel (over a door)",
-    "explanationCN": "梠、楣"
+    "explanationCN": "梠楣"
   },
   {
     "character": "𗢤",
     "GX": "la̱²",
     "GHC": "la²",
     "explanationEN": "grave; tomb",
-    "explanationCN": "墓、冢、坟"
+    "explanationCN": "墓冢坟"
   },
   {
     "character": "𗾅",
     "GX": "rar¹",
     "GHC": "rjar¹",
     "explanationEN": "prison; jail",
-    "explanationCN": "监牢、狱"
+    "explanationCN": "监牢狱"
   },
   {
     "character": "𘉷",
     "GX": "rkwər¹",
     "GHC": "kjwɨ̱r¹",
     "explanationEN": "a kind of coarse cloth",
-    "explanationCN": "粗糙、褐"
+    "explanationCN": "粗糙褐"
   },
   {
     "character": "𘉻",
     "GX": "lhi̱h²",
     "GHC": "lhẹ²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【吕】、【累】族姓2.虑3.蹴"
+    "explanationCN": "【吕】【累】【虑】踩踏"
   },
   {
     "character": "𘉡",
@@ -18198,7 +18198,7 @@ const DICTIONARY_DATA = [
     "GX": "qau̱¹",
     "GHC": "ku¹",
     "explanationEN": "valley; gorge",
-    "explanationCN": "1.谷汉语借词2.隙"
+    "explanationCN": "1.谷】2.隙"
   },
   {
     "character": "𗐉",
@@ -18240,21 +18240,21 @@ const DICTIONARY_DATA = [
     "GX": "qhau̱²",
     "GHC": "khu²",
     "explanationEN": "a place name",
-    "explanationCN": "【库】、【窟】族姓"
+    "explanationCN": "【库】【窟】"
   },
   {
     "character": "𗥜",
     "GX": "qwə̱h¹",
     "GHC": "kwə̣¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【骨】族姓2.音【橘】"
+    "explanationCN": "【骨】【橘】"
   },
   {
     "character": "𗨵",
     "GX": "kwəh¹",
     "GHC": "kjwɨ̣¹",
     "explanationEN": "a surname",
-    "explanationCN": "【格】族姓"
+    "explanationCN": "【格】"
   },
   {
     "character": "𗏪",
@@ -18282,35 +18282,35 @@ const DICTIONARY_DATA = [
     "GX": "rnor¹",
     "GHC": "njo̱r¹",
     "explanationEN": "tail; the east",
-    "explanationCN": "尾、东"
+    "explanationCN": "尾东"
   },
   {
     "character": "𗨁",
     "GX": "phu²",
     "GHC": "phju²",
     "explanationEN": "up; above; over",
-    "explanationCN": "1.上（方、位）2.长3.高"
+    "explanationCN": "1.上（方位）2.长3.高"
   },
   {
     "character": "𗨎",
     "GX": "rŋi̱wr¹",
     "GHC": "ŋewr¹",
     "explanationEN": "to count; to calculate",
-    "explanationCN": "算计、筹算"
+    "explanationCN": "算计筹算"
   },
   {
     "character": "𗪿",
     "GX": "la¹",
     "GHC": "lja¹",
     "explanationEN": "a surname",
-    "explanationCN": "【梁】、【拉】、【猎】族姓"
+    "explanationCN": "【梁】【拉】【猎】"
   },
   {
     "character": "𗾵",
     "GX": "khu²",
     "GHC": "khju²",
     "explanationEN": "minced meat; ground meat",
-    "explanationCN": "肉末、肉馅"
+    "explanationCN": "肉末肉馅"
   },
   {
     "character": "𗣥",
@@ -18324,7 +18324,7 @@ const DICTIONARY_DATA = [
     "GX": "si̱ṃ¹",
     "GHC": "sẽ¹",
     "explanationEN": "to think",
-    "explanationCN": "思汉语借词"
+    "explanationCN": "思】"
   },
   {
     "character": "𗦲",
@@ -18366,7 +18366,7 @@ const DICTIONARY_DATA = [
     "GX": "ṣae̱ṃ²",
     "GHC": "śiəj²",
     "explanationEN": "servant",
-    "explanationCN": "1.奴僕2.【琛】族姓"
+    "explanationCN": "奴僕【琛】"
   },
   {
     "character": "𗨣",
@@ -18380,7 +18380,7 @@ const DICTIONARY_DATA = [
     "GX": "vi¹",
     "GHC": "wji¹",
     "explanationEN": "visitor; guest",
-    "explanationCN": "客、宾"
+    "explanationCN": "客宾"
   },
   {
     "character": "𗦘",
@@ -18401,21 +18401,21 @@ const DICTIONARY_DATA = [
     "GX": "ŋġo̱r¹",
     "GHC": "go̱r¹",
     "explanationEN": "man; male",
-    "explanationCN": "男、夫、君、雄"
+    "explanationCN": "男夫君雄"
   },
   {
     "character": "𗤊",
     "GX": "su̱²",
     "GHC": "su²",
     "explanationEN": "to plot; to scheme; to conspire",
-    "explanationCN": "1.图谋、计谋2.音【肃】（地名）"
+    "explanationCN": "1.图谋计谋2.音【肃】（地名）"
   },
   {
     "character": "𗥄",
     "GX": "təh¹",
     "GHC": "tjɨ̣¹",
     "explanationEN": "often; constantly",
-    "explanationCN": "1.时时2.若、或（语助）"
+    "explanationCN": "1.时时2.若或（语助）"
   },
   {
     "character": "𗦸",
@@ -18436,7 +18436,7 @@ const DICTIONARY_DATA = [
     "GX": "la̱²",
     "GHC": "la²",
     "explanationEN": "foolish; stupid",
-    "explanationCN": "愚傻、愣"
+    "explanationCN": "愚傻愣"
   },
   {
     "character": "𗪛",
@@ -18450,14 +18450,14 @@ const DICTIONARY_DATA = [
     "GX": "hao̱²",
     "GHC": "xjow²",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【房】、【方】、【逢】、【风】、【匈】、【兴】、【奉】、【雄】2.又音【放】、【雍】、【封】、【冯】、【风】（音 201）"
+    "explanationCN": "【房】【方】【逢】【风】【匈】【兴】【奉】【雄】【放】【雍】【封】【冯】【风】"
   },
   {
     "character": "𗩴",
     "GX": "nni̱w²",
     "GHC": "ne̱w²",
     "explanationEN": "good; mercy",
-    "explanationCN": "善、亲"
+    "explanationCN": "善亲"
   },
   {
     "character": "𗥝",
@@ -18478,21 +18478,21 @@ const DICTIONARY_DATA = [
     "GX": "mme²",
     "GHC": "mji̱j²",
     "explanationEN": "name; title",
-    "explanationCN": "1.名汉语借词2.本3.称"
+    "explanationCN": "1.名】2.本3.称"
   },
   {
     "character": "𗣧",
     "GX": "pho̱¹",
     "GHC": "pho¹",
     "explanationEN": "thin",
-    "explanationCN": "1.薄汉语借词2.音【波】、【婆】、【摩】、【訶】"
+    "explanationCN": "1.薄】2.音【波】【婆】【摩】【訶】"
   },
   {
     "character": "𗢻",
     "GX": "mi̱²",
     "GHC": "me²",
     "explanationEN": "a surname",
-    "explanationCN": "【枚】、【羊】族姓"
+    "explanationCN": "【枚】【羊】"
   },
   {
     "character": "𗣤",
@@ -18513,7 +18513,7 @@ const DICTIONARY_DATA = [
     "GX": "źiw¹",
     "GHC": "źjiw¹",
     "explanationEN": "a surname",
-    "explanationCN": "【寿】族姓"
+    "explanationCN": "【寿】"
   },
   {
     "character": "𗤙",
@@ -18527,14 +18527,14 @@ const DICTIONARY_DATA = [
     "GX": "da̱²",
     "GHC": "da²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【达】族姓2.大、长子"
+    "explanationCN": "【达】大长子"
   },
   {
     "character": "𗪋",
     "GX": "ŋkhə²",
     "GHC": "khjɨ̱²",
     "explanationEN": "line; ranks",
-    "explanationCN": "1.行列2.章、句"
+    "explanationCN": "1.行列2.章句"
   },
   {
     "character": "𗏭",
@@ -18548,7 +18548,7 @@ const DICTIONARY_DATA = [
     "GX": "tśoṃ¹",
     "GHC": "tśjow¹",
     "explanationEN": "a surname",
-    "explanationCN": "【忠】、【鐘】、【众】、【中】、【章】族姓"
+    "explanationCN": "【忠】【鐘】【众】【中】【章】"
   },
   {
     "character": "𗤐",
@@ -18562,14 +18562,14 @@ const DICTIONARY_DATA = [
     "GX": "pha̱ṃ¹",
     "GHC": "phã¹",
     "explanationEN": "a surname",
-    "explanationCN": "【盘】、【槃】、【潘】、【跋】族姓"
+    "explanationCN": "【盘】【槃】【潘】【跋】"
   },
   {
     "character": "𗨀",
     "GX": "dź??",
     "GHC": "dź-?",
     "explanationEN": "to abandon; to exempt",
-    "explanationCN": "免、废、弃"
+    "explanationCN": "免废弃"
   },
   {
     "character": "𗩝",
@@ -18604,14 +18604,14 @@ const DICTIONARY_DATA = [
     "GX": "bo̱ṃh²",
     "GHC": "bọ²",
     "explanationEN": "arrow",
-    "explanationCN": "矢、箭"
+    "explanationCN": "矢箭"
   },
   {
     "character": "𗾄",
     "GX": "llə̱h¹",
     "GHC": "lə̣¹",
     "explanationEN": "to bury",
-    "explanationCN": "1.埋、葬2.殯"
+    "explanationCN": "1.埋葬2.殯"
   },
   {
     "character": "𗏾",
@@ -18639,7 +18639,7 @@ const DICTIONARY_DATA = [
     "GX": "rγər¹",
     "GHC": "ɣjɨr¹",
     "explanationEN": "a surname",
-    "explanationCN": "【兮】、【乙】族姓"
+    "explanationCN": "【兮】【乙】"
   },
   {
     "character": "𗦞",
@@ -18667,14 +18667,14 @@ const DICTIONARY_DATA = [
     "GX": "bi¹",
     "GHC": "bji¹",
     "explanationEN": "down",
-    "explanationCN": "底、下"
+    "explanationCN": "底下"
   },
   {
     "character": "𗩙",
     "GX": "phu̱¹",
     "GHC": "phu¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【普】族姓2.【部】3.音【铺】（珠 233）、【葡】（珠 151）、【薄】（珠 145）、【菩】（珠 286）、【泊】（珠 122）、【濮】（音 193）"
+    "explanationCN": "【普】【部】【铺】【葡】【薄】【菩】【泊】【濮】"
   },
   {
     "character": "𗪾",
@@ -18695,28 +18695,28 @@ const DICTIONARY_DATA = [
     "GX": "so̱²",
     "GHC": "so²",
     "explanationEN": "man",
-    "explanationCN": "1.男2.阳3.音【桑】、【娑】、【索】"
+    "explanationCN": "1.男2.阳3.音【桑】【娑】【索】"
   },
   {
     "character": "𗏩",
     "GX": "bə̱²",
     "GHC": "bə²",
     "explanationEN": "an old-fashioned belt",
-    "explanationCN": "袜汉语借词"
+    "explanationCN": "袜】"
   },
   {
     "character": "𗧳",
     "GX": "kha²",
     "GHC": "khja̱²",
     "explanationEN": "to twine; to wind",
-    "explanationCN": "绕、缠、围"
+    "explanationCN": "绕缠围"
   },
   {
     "character": "𗽻",
     "GX": "qao̱ṃ²",
     "GHC": "kiow²",
     "explanationEN": "tool; implement",
-    "explanationCN": "（工）具汉语借词"
+    "explanationCN": "（工）具】"
   },
   {
     "character": "𗽡",
@@ -18730,7 +18730,7 @@ const DICTIONARY_DATA = [
     "GX": "so̱²",
     "GHC": "so²",
     "explanationEN": "bird",
-    "explanationCN": "鸟、雀"
+    "explanationCN": "鸟雀"
   },
   {
     "character": "𗺤",
@@ -18758,14 +18758,14 @@ const DICTIONARY_DATA = [
     "GX": "nə²",
     "GHC": "njɨ²",
     "explanationEN": "to arrive; to spread",
-    "explanationCN": "1.至、到、普、遍2.周、上、临、及、均"
+    "explanationCN": "1.至到普遍2.周上临及均"
   },
   {
     "character": "𗩌",
     "GX": "nlhu¹",
     "GHC": "lhju̱¹",
     "explanationEN": "a surname",
-    "explanationCN": "【律】、【嚕】族姓"
+    "explanationCN": "【律】【嚕】"
   },
   {
     "character": "𗏨",
@@ -18779,7 +18779,7 @@ const DICTIONARY_DATA = [
     "GX": "lu²",
     "GHC": "lju²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【陆】、【鲁】、【洛】族姓2.迟缓"
+    "explanationCN": "【陆】【鲁】【洛】迟缓"
   },
   {
     "character": "𗧝",
@@ -18807,7 +18807,7 @@ const DICTIONARY_DATA = [
     "GX": "zu̱²",
     "GHC": "zu²",
     "explanationEN": "to eliminate; to clean up",
-    "explanationCN": "肃汉语借词"
+    "explanationCN": "肃】"
   },
   {
     "character": "𗻆",
@@ -18821,7 +18821,7 @@ const DICTIONARY_DATA = [
     "GX": "loṃ¹",
     "GHC": "ljow¹",
     "explanationEN": "ball; ovum",
-    "explanationCN": "卵、丸"
+    "explanationCN": "卵丸"
   },
   {
     "character": "𘚰",
@@ -18842,14 +18842,14 @@ const DICTIONARY_DATA = [
     "GX": "lə̱¹",
     "GHC": "lə¹",
     "explanationEN": "to belch; to breathe ones last",
-    "explanationCN": "嗝、嚥"
+    "explanationCN": "嗝嚥"
   },
   {
     "character": "𗾃",
     "GX": "rqha̱r¹",
     "GHC": "khar¹",
     "explanationEN": "dry; thirsty",
-    "explanationCN": "乾、渴"
+    "explanationCN": "乾渴"
   },
   {
     "character": "𗃪",
@@ -18884,7 +18884,7 @@ const DICTIONARY_DATA = [
     "GX": "tśə¹",
     "GHC": "tśjɨ¹",
     "explanationEN": "label; mark",
-    "explanationCN": "誌、识汉语借词"
+    "explanationCN": "誌识】"
   },
   {
     "character": "𗎫",
@@ -18919,7 +18919,7 @@ const DICTIONARY_DATA = [
     "GX": "lweṃh¹",
     "GHC": "ljwɨ̣j¹",
     "explanationEN": "ignorant; muddle-headed",
-    "explanationCN": "暗、愚昧"
+    "explanationCN": "暗愚昧"
   },
   {
     "character": "𗆩",
@@ -18933,14 +18933,14 @@ const DICTIONARY_DATA = [
     "GX": "lheh²",
     "GHC": "lhjịj²",
     "explanationEN": "skeleton; marrow",
-    "explanationCN": "骨骼、骨髓"
+    "explanationCN": "骨骼骨髓"
   },
   {
     "character": "𗡼",
     "GX": "rber²",
     "GHC": "bji̱j²",
     "explanationEN": "to help; to aid",
-    "explanationCN": "1.助、副、右2.嬪"
+    "explanationCN": "1.助副右2.嬪"
   },
   {
     "character": "𗆙",
@@ -18968,7 +18968,7 @@ const DICTIONARY_DATA = [
     "GX": "lwuh¹",
     "GHC": "ljwụ¹",
     "explanationEN": "level; smooth (land)",
-    "explanationCN": "1.坦2.二字重迭具有“堂堂、巍巍”之义"
+    "explanationCN": "1.坦2.二字重迭具有“堂堂巍巍”之义"
   },
   {
     "character": "𗁌",
@@ -18989,21 +18989,21 @@ const DICTIONARY_DATA = [
     "GX": "vi¹",
     "GHC": "wji¹",
     "explanationEN": "year; age",
-    "explanationCN": "年、岁"
+    "explanationCN": "年岁"
   },
   {
     "character": "𗁜",
     "GX": "rvor¹",
     "GHC": "wjor¹",
     "explanationEN": "backbone",
-    "explanationCN": "脊、梁"
+    "explanationCN": "脊梁"
   },
   {
     "character": "𗂩",
     "GX": "ru̱r¹",
     "GHC": "rur¹",
     "explanationEN": "a surname",
-    "explanationCN": "【儒】、【茹】、【汝】族姓"
+    "explanationCN": "【儒】【茹】【汝】"
   },
   {
     "character": "𗹳",
@@ -19017,14 +19017,14 @@ const DICTIONARY_DATA = [
     "GX": "rer¹",
     "GHC": "rjijr¹",
     "explanationEN": "skilful; ingenious",
-    "explanationCN": "巧、善、精、利"
+    "explanationCN": "巧善精利"
   },
   {
     "character": "𗹸",
     "GX": "lhuo¹",
     "GHC": "lhio̱w¹",
     "explanationEN": "grave",
-    "explanationCN": "1.坟、墓2.音【牢】"
+    "explanationCN": "1.坟墓2.音【牢】"
   },
   {
     "character": "𗹼",
@@ -19052,7 +19052,7 @@ const DICTIONARY_DATA = [
     "GX": "tshweṃ¹",
     "GHC": "tshjwɨj¹",
     "explanationEN": "stupor; coma",
-    "explanationCN": "昏、迷"
+    "explanationCN": "昏迷"
   },
   {
     "character": "𗏃",
@@ -19080,7 +19080,7 @@ const DICTIONARY_DATA = [
     "GX": "vwo̱h¹",
     "GHC": "ˑwiọ¹",
     "explanationEN": "circle",
-    "explanationCN": "1.围、圆、周2.近"
+    "explanationCN": "1.围圆周2.近"
   },
   {
     "character": "𗋡",
@@ -19094,7 +19094,7 @@ const DICTIONARY_DATA = [
     "GX": "rmu̱r¹",
     "GHC": "mur¹",
     "explanationEN": "confusion",
-    "explanationCN": "迷惑、愚"
+    "explanationCN": "迷惑愚"
   },
   {
     "character": "𗢜",
@@ -19129,35 +19129,35 @@ const DICTIONARY_DATA = [
     "GX": "low¹",
     "GHC": "ljow¹",
     "explanationEN": "winding; crooked",
-    "explanationCN": "弯曲、斜"
+    "explanationCN": "弯曲斜"
   },
   {
     "character": "𗊈",
     "GX": "hwi̱¹",
     "GHC": "xwe¹",
     "explanationEN": "to howl",
-    "explanationCN": "嚎、吼"
+    "explanationCN": "嚎吼"
   },
   {
     "character": "𗊴",
     "GX": "se¹",
     "GHC": "sjij¹",
     "explanationEN": "blood",
-    "explanationCN": "血汉语借词"
+    "explanationCN": "血】"
   },
   {
     "character": "𘊈",
     "GX": "rnoṃr²",
     "GHC": "njowr²",
     "explanationEN": "to weed",
-    "explanationCN": "耨、锄、除"
+    "explanationCN": "耨锄除"
   },
   {
     "character": "𘓣",
     "GX": "mbaa̱²",
     "GHC": "bia̱²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【马】族姓2.【马】（珠 282）、【玛】（珠 131）、【麻】（珠 161）、【鬘】（珠 211）、【蛮】（音 103）"
+    "explanationCN": "【马】【马】【玛】【麻】【鬘】【蛮】"
   },
   {
     "character": "𗊢",
@@ -19178,14 +19178,14 @@ const DICTIONARY_DATA = [
     "GX": "rtśhwər²",
     "GHC": "tśhjwɨr²",
     "explanationEN": "vinegar",
-    "explanationCN": "1.醋、酸、酱汉语借词2.辛3.与结合，具有“梅”之义"
+    "explanationCN": "1.醋酸酱】2.辛3.与结合，具有“梅”之义"
   },
   {
     "character": "𗦠",
     "GX": "nvwə̱¹",
     "GHC": "wə̱¹",
     "explanationEN": "to detest; to abhor",
-    "explanationCN": "厌恶汉语借词"
+    "explanationCN": "厌恶】"
   },
   {
     "character": "𗽙",
@@ -19227,7 +19227,7 @@ const DICTIONARY_DATA = [
     "GX": "təh¹",
     "GHC": "tjɨ̣¹",
     "explanationEN": "very fast; rapid",
-    "explanationCN": "急速、疾"
+    "explanationCN": "急速疾"
   },
   {
     "character": "𗥉",
@@ -19248,21 +19248,21 @@ const DICTIONARY_DATA = [
     "GX": "tśi¹",
     "GHC": "tśji¹",
     "explanationEN": "to know",
-    "explanationCN": "知汉语借词"
+    "explanationCN": "知】"
   },
   {
     "character": "𗥦",
     "GX": "γu̱¹",
     "GHC": "ɣu¹",
     "explanationEN": "head",
-    "explanationCN": "1.头、首2.上3.与连用具有“投降“之义"
+    "explanationCN": "1.头首2.上3.与连用具有“投降“之义"
   },
   {
     "character": "𗦯",
     "GX": "γu̱¹",
     "GHC": "ɣu¹",
     "explanationEN": "a surname",
-    "explanationCN": "【胡】、【吴】族姓"
+    "explanationCN": "【胡】【吴】"
   },
   {
     "character": "𗥳",
@@ -19276,7 +19276,7 @@ const DICTIONARY_DATA = [
     "GX": "nlhi̱w²",
     "GHC": "lhe̱w²",
     "explanationEN": "to own; to have",
-    "explanationCN": "有、在"
+    "explanationCN": "有在"
   },
   {
     "character": "𗧏",
@@ -19290,7 +19290,7 @@ const DICTIONARY_DATA = [
     "GX": "rlwə̱r²",
     "GHC": "lwər²",
     "explanationEN": "a surname",
-    "explanationCN": "【洛】族姓"
+    "explanationCN": "【洛】"
   },
   {
     "character": "𗨈",
@@ -19346,21 +19346,21 @@ const DICTIONARY_DATA = [
     "GX": "γu̱¹",
     "GHC": "ɣu¹",
     "explanationEN": "evening",
-    "explanationCN": "晚、名"
+    "explanationCN": "晚名"
   },
   {
     "character": "𗪙",
     "GX": "rmu̱r¹",
     "GHC": "mur¹",
     "explanationEN": "vulgar",
-    "explanationCN": "俗、愚、顽"
+    "explanationCN": "俗愚顽"
   },
   {
     "character": "𗽫",
     "GX": "nwe¹",
     "GHC": "njwij¹",
     "explanationEN": "to swell; to coagulate",
-    "explanationCN": "肿、凝结"
+    "explanationCN": "肿凝结"
   },
   {
     "character": "𗿇",
@@ -19374,7 +19374,7 @@ const DICTIONARY_DATA = [
     "GX": "γa̱¹",
     "GHC": "ɣa¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【华】、【匣】族姓"
+    "explanationCN": "【华】【匣】"
   },
   {
     "character": "𘊗",
@@ -19388,7 +19388,7 @@ const DICTIONARY_DATA = [
     "GX": "pho¹",
     "GHC": "phjo¹",
     "explanationEN": "a kind of tool for divination",
-    "explanationCN": "1.卜骨、肩梁2.检查、造册"
+    "explanationCN": "1.卜骨肩梁2.检查造册"
   },
   {
     "character": "𗥹",
@@ -19402,7 +19402,7 @@ const DICTIONARY_DATA = [
     "GX": "phai̱¹",
     "GHC": "phie¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【白】族姓2.音【彭】"
+    "explanationCN": "【白】【彭】"
   },
   {
     "character": "𗫞",
@@ -19423,21 +19423,21 @@ const DICTIONARY_DATA = [
     "GX": "ri̱r²",
     "GHC": "rer²",
     "explanationEN": "weapon",
-    "explanationCN": "戈、兵器"
+    "explanationCN": "戈兵器"
   },
   {
     "character": "𗤇",
     "GX": "di̱w²",
     "GHC": "dew²",
     "explanationEN": "to obey",
-    "explanationCN": "1.服从、归顺2.奔（投）"
+    "explanationCN": "1.服从归顺2.奔（投）"
   },
   {
     "character": "𗥞",
     "GX": "ŋgu²",
     "GHC": "gju̱²",
     "explanationEN": "to rescue; relieve",
-    "explanationCN": "救、济"
+    "explanationCN": "救济"
   },
   {
     "character": "𗤪",
@@ -19458,49 +19458,49 @@ const DICTIONARY_DATA = [
     "GX": "gə²",
     "GHC": "gjɨ²",
     "explanationEN": "skill; scheme; stratagem",
-    "explanationCN": "技、计汉语借词"
+    "explanationCN": "技计】"
   },
   {
     "character": "𗽕",
     "GX": "qao̱ṃ²",
     "GHC": "kiow²",
     "explanationEN": "valley",
-    "explanationCN": "岬、谷"
+    "explanationCN": "岬谷"
   },
   {
     "character": "𗾱",
     "GX": "ne²",
     "GHC": "njij²",
     "explanationEN": "weapon",
-    "explanationCN": "戈、械、枪、剑、箭……兵器"
+    "explanationCN": "戈械枪剑箭……兵器"
   },
   {
     "character": "𘔺",
     "GX": "khi²",
     "GHC": "khji²",
     "explanationEN": "gas",
-    "explanationCN": "1.气汉语借词2.音【溪】、【忌】、【綺】、【暨】3.音【器】（珠 232）、【其】（珠 294）、【起】（珠 105）、【岂】（珠 353）、【炁】（珠 082）"
+    "explanationCN": "1.气】2.音【溪】【忌】【綺】【暨】3.音【器】（珠 232）【其】（珠 294）【起】（珠 105）【岂】（珠 353）【炁】（珠 082）"
   },
   {
     "character": "𗣿",
     "GX": "lhweh¹",
     "GHC": "lhjwịj¹",
     "explanationEN": "face",
-    "explanationCN": "面容、脸面"
+    "explanationCN": "面容脸面"
   },
   {
     "character": "𗥨",
     "GX": "dźwow¹",
     "GHC": "dźjwo¹",
     "explanationEN": "bright; clever",
-    "explanationCN": "明、聪"
+    "explanationCN": "明聪"
   },
   {
     "character": "𗩎",
     "GX": "nti̱w²",
     "GHC": "te̱w²",
     "explanationEN": "scheme; strategy",
-    "explanationCN": "谋略、计策"
+    "explanationCN": "谋略计策"
   },
   {
     "character": "𗫑",
@@ -19514,7 +19514,7 @@ const DICTIONARY_DATA = [
     "GX": "tu̱h¹",
     "GHC": "tụ¹",
     "explanationEN": "net",
-    "explanationCN": "网、罗"
+    "explanationCN": "网罗"
   },
   {
     "character": "𗻁",
@@ -19528,7 +19528,7 @@ const DICTIONARY_DATA = [
     "GX": "rvor²",
     "GHC": "wjor²",
     "explanationEN": "nest",
-    "explanationCN": "窝、巢汉语借词"
+    "explanationCN": "窝巢】"
   },
   {
     "character": "𗧢",
@@ -19542,7 +19542,7 @@ const DICTIONARY_DATA = [
     "GX": "khu²",
     "GHC": "khju²",
     "explanationEN": "to request; to ask",
-    "explanationCN": "1.请来2.音【遽】、【鉅】、【巨】、【瞿】、【恪】3.音【具】（珠 322）、【渠】（珠 121）、【局】（珠 301）、【去】（珠 112）4.音【距】、【曲】、【邛】（音 196）"
+    "explanationCN": "1.请来2.音【遽】【鉅】【巨】【瞿】【恪】3.音【具】（珠 322）【渠】（珠 121）【局】（珠 301）【去】（珠 112）4.音【距】【曲】【邛】（音 196）"
   },
   {
     "character": "𗻛",
@@ -19570,21 +19570,21 @@ const DICTIONARY_DATA = [
     "GX": "ru̱r¹",
     "GHC": "rur¹",
     "explanationEN": "to herd; herbage",
-    "explanationCN": "放牧、牧草名词"
+    "explanationCN": "放牧牧草名词"
   },
   {
     "character": "𗏖",
     "GX": "rer²",
     "GHC": "rjijr²",
     "explanationEN": "a surname",
-    "explanationCN": "【领】、【翎】族姓"
+    "explanationCN": "【领】【翎】"
   },
   {
     "character": "𗣈",
     "GX": "lho̱?",
     "GHC": "lho?",
     "explanationEN": "to go out",
-    "explanationCN": "出、过"
+    "explanationCN": "出过"
   },
   {
     "character": "𘊝",
@@ -19626,7 +19626,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋkhe¹",
     "GHC": "khji̱j¹",
     "explanationEN": "difficult",
-    "explanationCN": "【折】族姓"
+    "explanationCN": "【折】"
   },
   {
     "character": "𗥽",
@@ -19647,7 +19647,7 @@ const DICTIONARY_DATA = [
     "GX": "mbu²",
     "GHC": "bju̱²",
     "explanationEN": "to command",
-    "explanationCN": "詔、敕"
+    "explanationCN": "詔敕"
   },
   {
     "character": "𗿢",
@@ -19703,7 +19703,7 @@ const DICTIONARY_DATA = [
     "GX": "γu̱²",
     "GHC": "ɣu²",
     "explanationEN": "emperor",
-    "explanationCN": "君、皇"
+    "explanationCN": "君皇"
   },
   {
     "character": "𗼑",
@@ -19717,7 +19717,7 @@ const DICTIONARY_DATA = [
     "GX": "qhu̱¹",
     "GHC": "khu¹",
     "explanationEN": "to tribute; to consecrate",
-    "explanationCN": "1.贡献、供奉2.进3.奏"
+    "explanationCN": "1.贡献供奉2.进3.奏"
   },
   {
     "character": "𗼝",
@@ -19752,14 +19752,14 @@ const DICTIONARY_DATA = [
     "GX": "vuh²",
     "GHC": "wjụ²",
     "explanationEN": "village; hamlet",
-    "explanationCN": "村、邑、乡、里"
+    "explanationCN": "村邑乡里"
   },
   {
     "character": "𗎲",
     "GX": "dźwe²",
     "GHC": "dźjwij²",
     "explanationEN": "to move; to migrate",
-    "explanationCN": "迁、徒"
+    "explanationCN": "迁徒"
   },
   {
     "character": "𗁳",
@@ -19773,7 +19773,7 @@ const DICTIONARY_DATA = [
     "GX": "mə̱²",
     "GHC": "mə²",
     "explanationEN": "to give birth to; to bear",
-    "explanationCN": "生、產、诞"
+    "explanationCN": "生產诞"
   },
   {
     "character": "𗢂",
@@ -19787,7 +19787,7 @@ const DICTIONARY_DATA = [
     "GX": "rŋwə̱r²",
     "GHC": "ŋwər²",
     "explanationEN": "to heal; to recover",
-    "explanationCN": "1.愈、消2.瘥"
+    "explanationCN": "1.愈消2.瘥"
   },
   {
     "character": "𗅛",
@@ -19801,7 +19801,7 @@ const DICTIONARY_DATA = [
     "GX": "phe̱¹",
     "GHC": "phej¹",
     "explanationEN": "to tie up; to truss up; to restrict",
-    "explanationCN": "1.捆、缚、枷、拘2.纪、方"
+    "explanationCN": "1.捆缚枷拘2.纪方"
   },
   {
     "character": "𗂛",
@@ -19829,21 +19829,21 @@ const DICTIONARY_DATA = [
     "GX": "tshwa̱¹",
     "GHC": "tshwa¹",
     "explanationEN": "to invade and harass; to impale",
-    "explanationCN": "刺穿、侵扰"
+    "explanationCN": "刺穿侵扰"
   },
   {
     "character": "𗁽",
     "GX": "tshe̱¹",
     "GHC": "tshej¹",
     "explanationEN": "to invade and harass",
-    "explanationCN": "侵扰、劳役"
+    "explanationCN": "侵扰劳役"
   },
   {
     "character": "𗅆",
     "GX": "deṃ²",
     "GHC": "djɨj²",
     "explanationEN": "calm; quiet",
-    "explanationCN": "定汉语借词"
+    "explanationCN": "定】"
   },
   {
     "character": "𗹿",
@@ -19871,21 +19871,21 @@ const DICTIONARY_DATA = [
     "GX": "bu̱¹",
     "GHC": "bu¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【部】、【牟】族姓"
+    "explanationCN": "【部】【牟】"
   },
   {
     "character": "𗂓",
     "GX": "ti̱w¹",
     "GHC": "tew¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【竇】、【斗】族姓"
+    "explanationCN": "【竇】【斗】"
   },
   {
     "character": "𗂀",
     "GX": "qo̱¹",
     "GHC": "ko¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【果】、【光】族姓"
+    "explanationCN": "【果】【光】"
   },
   {
     "character": "𗢆",
@@ -19934,42 +19934,42 @@ const DICTIONARY_DATA = [
     "GX": "nna̱²",
     "GHC": "na̱²",
     "explanationEN": "flood; floodwater",
-    "explanationCN": "洪、洪水"
+    "explanationCN": "洪洪水"
   },
   {
     "character": "𘓥",
     "GX": "γu̱h²",
     "GHC": "ˑụ²",
     "explanationEN": "to bear (a burden)",
-    "explanationCN": "负荷、负担、背、载"
+    "explanationCN": "负荷负担背载"
   },
   {
     "character": "𗢢",
     "GX": "dzih²",
     "GHC": "dzjị²",
     "explanationEN": "grave; cemetery",
-    "explanationCN": "丘、墓"
+    "explanationCN": "丘墓"
   },
   {
     "character": "𗋲",
     "GX": "lai̱h¹",
     "GHC": "liẹ¹",
     "explanationEN": "to wash; to clean",
-    "explanationCN": "洗、涤"
+    "explanationCN": "洗涤"
   },
   {
     "character": "𘉿",
     "GX": "tsu¹",
     "GHC": "tsju¹",
     "explanationEN": "a surname",
-    "explanationCN": "【且】、【且】族姓"
+    "explanationCN": "【且】【且】"
   },
   {
     "character": "𗊥",
     "GX": "mə̱²",
     "GHC": "mə²",
     "explanationEN": "moist; smooth",
-    "explanationCN": "润、滑"
+    "explanationCN": "润滑"
   },
   {
     "character": "𗢳",
@@ -19990,7 +19990,7 @@ const DICTIONARY_DATA = [
     "GX": "dzih²",
     "GHC": "dzjị²",
     "explanationEN": "to cover; to overspread",
-    "explanationCN": "1.遮盖2.音【寂】、【坐】"
+    "explanationCN": "1.遮盖2.音【寂】【坐】"
   },
   {
     "character": "𗾛",
@@ -20004,14 +20004,14 @@ const DICTIONARY_DATA = [
     "GX": "haa̱²",
     "GHC": "xia̱²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【晓】、【罅】"
+    "explanationCN": "【晓】【罅】"
   },
   {
     "character": "𗥓",
     "GX": "ŋo̱²",
     "GHC": "ŋo²",
     "explanationEN": "illness; disease",
-    "explanationCN": "病、疾"
+    "explanationCN": "病疾"
   },
   {
     "character": "𗧥",
@@ -20025,28 +20025,28 @@ const DICTIONARY_DATA = [
     "GX": "lhao̱h²",
     "GHC": "lhiọ²",
     "explanationEN": "great-great-grandson",
-    "explanationCN": "曾孙、玄孙"
+    "explanationCN": "曾孙玄孙"
   },
   {
     "character": "𗩄",
     "GX": "do̱¹",
     "GHC": "do¹",
     "explanationEN": "a surname",
-    "explanationCN": "【诺】、【陀】族姓"
+    "explanationCN": "【诺】【陀】"
   },
   {
     "character": "𗽬",
     "GX": "tshih¹",
     "GHC": "tśhjị¹",
     "explanationEN": "soil; land",
-    "explanationCN": "土、己"
+    "explanationCN": "土己"
   },
   {
     "character": "𗫌",
     "GX": "ni¹",
     "GHC": "nji¹",
     "explanationEN": "family; house",
-    "explanationCN": "1.家、宅、捨2.都"
+    "explanationCN": "1.家宅捨2.都"
   },
   {
     "character": "𗏦",
@@ -20060,14 +20060,14 @@ const DICTIONARY_DATA = [
     "GX": "si¹",
     "GHC": "sji¹",
     "explanationEN": "a surname",
-    "explanationCN": "【西】、【息】"
+    "explanationCN": "【西】【息】"
   },
   {
     "character": "𗪚",
     "GX": "dau̱¹",
     "GHC": "du¹",
     "explanationEN": "peaceful",
-    "explanationCN": "安、康、寧、靖"
+    "explanationCN": "安康寧靖"
   },
   {
     "character": "𗪩",
@@ -20081,7 +20081,7 @@ const DICTIONARY_DATA = [
     "GX": "qae̱²",
     "GHC": "kiej²",
     "explanationEN": "person",
-    "explanationCN": "（按：此為男子、女子之子，后缀、语尾也）英文释义person详细解释请参考《简明夏汉字典》第346页。《同义》释义子mojikyo字体埒景永时字体縌"
+    "explanationCN": "（按：此為男子女子之子，后缀语尾也）英文释义person详细解释请参考《简明夏汉字典》第346页。《同义》释义子mojikyo字体埒景永时字体縌"
   },
   {
     "character": "𗾸",
@@ -20095,35 +20095,35 @@ const DICTIONARY_DATA = [
     "GX": "lhoṃ²",
     "GHC": "lhjo̱r²",
     "explanationEN": "a surname",
-    "explanationCN": "【寥】、【量】"
+    "explanationCN": "【寥】【量】"
   },
   {
     "character": "𗧩",
     "GX": "bo̱²",
     "GHC": "bo²",
     "explanationEN": "a surname",
-    "explanationCN": "【勃】、【柏】"
+    "explanationCN": "【勃】【柏】"
   },
   {
     "character": "𗽁",
     "GX": "γəh¹",
     "GHC": "ɣjɨ̣¹",
     "explanationEN": "tile; pottery",
-    "explanationCN": "瓦、陶"
+    "explanationCN": "瓦陶"
   },
   {
     "character": "𗩇",
     "GX": "vwi̱ṃ¹",
     "GHC": "wẽ¹",
     "explanationEN": "a surname",
-    "explanationCN": "【温】、【文】"
+    "explanationCN": "【温】【文】"
   },
   {
     "character": "𗿡",
     "GX": "vwi̱ṃ¹",
     "GHC": "wẽ¹",
     "explanationEN": "a place name",
-    "explanationCN": "【文】、【汶】地名"
+    "explanationCN": "【文】【汶】地名"
   },
   {
     "character": "𗦔",
@@ -20137,21 +20137,21 @@ const DICTIONARY_DATA = [
     "GX": "???",
     "GHC": "?",
     "explanationEN": "pointed end; point",
-    "explanationCN": "1.尖、端2.擢"
+    "explanationCN": "1.尖端2.擢"
   },
   {
     "character": "𗦓",
     "GX": "də¹",
     "GHC": "djɨ¹",
     "explanationEN": "a surname",
-    "explanationCN": "【禘】、【尼】族姓"
+    "explanationCN": "【禘】【尼】"
   },
   {
     "character": "𘔻",
     "GX": "kho²",
     "GHC": "khjo²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【强】、【溪】"
+    "explanationCN": "【强】【溪】"
   },
   {
     "character": "𗩁",
@@ -20165,7 +20165,7 @@ const DICTIONARY_DATA = [
     "GX": "dzo̱²",
     "GHC": "dzo²",
     "explanationEN": "a surname",
-    "explanationCN": "【嵯】、【族】"
+    "explanationCN": "【嵯】【族】"
   },
   {
     "character": "𗻮",
@@ -20200,21 +20200,21 @@ const DICTIONARY_DATA = [
     "GX": "mə̱²",
     "GHC": "mə²",
     "explanationEN": "vigor; appearance",
-    "explanationCN": "精神、仪表"
+    "explanationCN": "精神仪表"
   },
   {
     "character": "𗫃",
     "GX": "pho̱ṃ¹",
     "GHC": "phow¹",
     "explanationEN": "a surname",
-    "explanationCN": "【彭】、【朋】、【坡】族姓"
+    "explanationCN": "【彭】【朋】【坡】"
   },
   {
     "character": "𗺿",
     "GX": "pa̱h²",
     "GHC": "pạ²",
     "explanationEN": "a surname",
-    "explanationCN": "【巴】族姓"
+    "explanationCN": "【巴】"
   },
   {
     "character": "𗽳",
@@ -20228,14 +20228,14 @@ const DICTIONARY_DATA = [
     "GX": "mə̱²",
     "GHC": "mə²",
     "explanationEN": "surname",
-    "explanationCN": "1.姓、氏2.【没】姓"
+    "explanationCN": "【没】"
   },
   {
     "character": "𗽊",
     "GX": "mme̱²",
     "GHC": "me̱j²",
     "explanationEN": "cave",
-    "explanationCN": "1.洞穴2.岩、川3.窍"
+    "explanationCN": "1.洞穴2.岩川3.窍"
   },
   {
     "character": "𗾨",
@@ -20249,7 +20249,7 @@ const DICTIONARY_DATA = [
     "GX": "dźe²",
     "GHC": "dźẽ²",
     "explanationEN": "a surname",
-    "explanationCN": "【神】族姓"
+    "explanationCN": "【神】"
   },
   {
     "character": "𗧪",
@@ -20263,7 +20263,7 @@ const DICTIONARY_DATA = [
     "GX": "qhwe̱²",
     "GHC": "khwej²",
     "explanationEN": "big; large",
-    "explanationCN": "大、魁汉语借词"
+    "explanationCN": "大魁】"
   },
   {
     "character": "𘊡",
@@ -20284,14 +20284,14 @@ const DICTIONARY_DATA = [
     "GX": "γwaa̱ṃ¹",
     "GHC": "ɣiwã¹",
     "explanationEN": "foolish; stupid",
-    "explanationCN": "愚顽、愚蠢"
+    "explanationCN": "愚顽愚蠢"
   },
   {
     "character": "𗬲",
     "GX": "ndaa̱²",
     "GHC": "dia̱²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【达】、【那】"
+    "explanationCN": "【达】【那】"
   },
   {
     "character": "𗃯",
@@ -20305,14 +20305,14 @@ const DICTIONARY_DATA = [
     "GX": "rvwə̱r¹",
     "GHC": "wər¹",
     "explanationEN": "to admire; to respect",
-    "explanationCN": "钦敬、尊敬"
+    "explanationCN": "钦敬尊敬"
   },
   {
     "character": "𘓘",
     "GX": "gu¹",
     "GHC": "gju¹",
     "explanationEN": "hot; painful",
-    "explanationCN": "辛、裂、痛"
+    "explanationCN": "辛裂痛"
   },
   {
     "character": "𗴝",
@@ -20333,14 +20333,14 @@ const DICTIONARY_DATA = [
     "GX": "qwae̱ṃ¹",
     "GHC": "kiwəj¹",
     "explanationEN": "clumsy",
-    "explanationCN": "1.笨2.【虢】"
+    "explanationCN": "笨【虢】"
   },
   {
     "character": "𗂬",
     "GX": "ryar²",
     "GHC": "ˑjar²",
     "explanationEN": "to marry",
-    "explanationCN": "嫁、过继"
+    "explanationCN": "嫁过继"
   },
   {
     "character": "𗪎",
@@ -20368,14 +20368,14 @@ const DICTIONARY_DATA = [
     "GX": "rkir¹",
     "GHC": "kjir¹",
     "explanationEN": "clumsy; awkward; stupid",
-    "explanationCN": "笨拙、愚笨"
+    "explanationCN": "笨拙愚笨"
   },
   {
     "character": "𗅐",
     "GX": "la̱²",
     "GHC": "la²",
     "explanationEN": "true; real; honest",
-    "explanationCN": "1.真实、诚实2.果然"
+    "explanationCN": "1.真实诚实2.果然"
   },
   {
     "character": "𗅻",
@@ -20396,7 +20396,7 @@ const DICTIONARY_DATA = [
     "GX": "lhwow¹",
     "GHC": "lhjwo¹",
     "explanationEN": "to return; to retreat",
-    "explanationCN": "1.退、还、归2.崩3.屈"
+    "explanationCN": "1.退还归2.崩3.屈"
   },
   {
     "character": "𗅏",
@@ -20417,14 +20417,14 @@ const DICTIONARY_DATA = [
     "GX": "no̱¹",
     "GHC": "no¹",
     "explanationEN": "rib",
-    "explanationCN": "1.肋2.音【那】、【拏】"
+    "explanationCN": "1.肋2.音【那】【拏】"
   },
   {
     "character": "𗆿",
     "GX": "rphaa̱r¹",
     "GHC": "phiar¹",
     "explanationEN": "to disorder; loose",
-    "explanationCN": "乱、散"
+    "explanationCN": "乱散"
   },
   {
     "character": "𗅓",
@@ -20445,7 +20445,7 @@ const DICTIONARY_DATA = [
     "GX": "me²",
     "GHC": "mjij²",
     "explanationEN": "a surname",
-    "explanationCN": "【酩】族姓"
+    "explanationCN": "【酩】"
   },
   {
     "character": "𗂈",
@@ -20459,7 +20459,7 @@ const DICTIONARY_DATA = [
     "GX": "rver²",
     "GHC": "wjijr²",
     "explanationEN": "to hug; to hold up",
-    "explanationCN": "举、抱"
+    "explanationCN": "举抱"
   },
   {
     "character": "𗂺",
@@ -20473,7 +20473,7 @@ const DICTIONARY_DATA = [
     "GX": "phi¹",
     "GHC": "phji¹",
     "explanationEN": "dustpan",
-    "explanationCN": "1.簸（箕）2.音【备】、【毗】、【琵】、【苾】、【比】、【鼻】、【频】、【嚭】、【丕】"
+    "explanationCN": "1.簸（箕）2.音【备】【毗】【琵】【苾】【比】【鼻】【频】【嚭】【丕】"
   },
   {
     "character": "𘈻",
@@ -20487,7 +20487,7 @@ const DICTIONARY_DATA = [
     "GX": "du¹",
     "GHC": "dju¹",
     "explanationEN": "how long; when",
-    "explanationCN": "久、何时"
+    "explanationCN": "久何时"
   },
   {
     "character": "𗎨",
@@ -20501,35 +20501,35 @@ const DICTIONARY_DATA = [
     "GX": "li̱w?",
     "GHC": "ləu?",
     "explanationEN": "nature; temperament",
-    "explanationCN": "1.性格2.散、流"
+    "explanationCN": "1.性格2.散流"
   },
   {
     "character": "𗡺",
     "GX": "rber²",
     "GHC": "bji̱j²",
     "explanationEN": "to explain; to note",
-    "explanationCN": "注释、注解"
+    "explanationCN": "注释注解"
   },
   {
     "character": "𗅪",
     "GX": "qwae̱¹",
     "GHC": "kiwej¹",
     "explanationEN": "to lose",
-    "explanationCN": "遗、失"
+    "explanationCN": "遗失"
   },
   {
     "character": "𗁏",
     "GX": "ŋko¹",
     "GHC": "kio̱¹",
     "explanationEN": "to bite",
-    "explanationCN": "咬、嚙"
+    "explanationCN": "咬嚙"
   },
   {
     "character": "𗄾",
     "GX": "se̱¹",
     "GHC": "sej¹",
     "explanationEN": "to calculate; to count",
-    "explanationCN": "1.算、数2.歷3.卜4.该5.娄"
+    "explanationCN": "1.算数2.歷3.卜4.该5.娄"
   },
   {
     "character": "𗅴",
@@ -20543,7 +20543,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋġe̱²",
     "GHC": "ge̱j²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【讹】、【额】族姓"
+    "explanationCN": "【讹】【额】"
   },
   {
     "character": "𗆝",
@@ -20557,21 +20557,21 @@ const DICTIONARY_DATA = [
     "GX": "lla̱h²",
     "GHC": "lạ²",
     "explanationEN": "many; dense",
-    "explanationCN": "多、稠"
+    "explanationCN": "多稠"
   },
   {
     "character": "𗁋",
     "GX": "taw¹",
     "GHC": "tja̱¹",
     "explanationEN": "to drip",
-    "explanationCN": "（滴）答汉语借词"
+    "explanationCN": "（滴）答】"
   },
   {
     "character": "𗂧",
     "GX": "lheh²",
     "GHC": "lhjịj²",
     "explanationEN": "country; nation",
-    "explanationCN": "1.国、邦2.土3.刹"
+    "explanationCN": "1.国邦2.土3.刹"
   },
   {
     "character": "𗅅",
@@ -20585,14 +20585,14 @@ const DICTIONARY_DATA = [
     "GX": "zeh¹",
     "GHC": "zjịj¹",
     "explanationEN": "to hit; to touch; to fit exactly",
-    "explanationCN": "1.著、中2.滞3.结4.耽"
+    "explanationCN": "1.著中2.滞3.结4.耽"
   },
   {
     "character": "𗁾",
     "GX": "ta̱h¹",
     "GHC": "¹",
     "explanationEN": "to rest; to stop",
-    "explanationCN": "息、止"
+    "explanationCN": "息止"
   },
   {
     "character": "𗁙",
@@ -20641,28 +20641,28 @@ const DICTIONARY_DATA = [
     "GX": "qo̱¹",
     "GHC": "ko¹",
     "explanationEN": "to put (the palms together)",
-    "explanationCN": "1.合2.【网】、【光】、【哥】、【个】、【广】、【刚】、【姜】、【羌】"
+    "explanationCN": "合【网】【光】【哥】【个】【广】【刚】【姜】【羌】"
   },
   {
     "character": "𗂌",
     "GX": "yo̱r¹",
     "GHC": "ˑjo̱r¹",
     "explanationEN": "firm; strong",
-    "explanationCN": "刚、强"
+    "explanationCN": "刚强"
   },
   {
     "character": "𗀽",
     "GX": "ti̱w¹",
     "GHC": "tew¹",
     "explanationEN": "to pound with a pestle; to beat",
-    "explanationCN": "捣汉语借词"
+    "explanationCN": "捣】"
   },
   {
     "character": "𗹱",
     "GX": "hae̱ṃ²",
     "GHC": "xiəj²",
     "explanationEN": "a surname",
-    "explanationCN": "【欣】、【性】"
+    "explanationCN": "【欣】【性】"
   },
   {
     "character": "𗹽",
@@ -20676,21 +20676,21 @@ const DICTIONARY_DATA = [
     "GX": "phe¹",
     "GHC": "phjij¹",
     "explanationEN": "former times; in the past",
-    "explanationCN": "昔、原先、先前"
+    "explanationCN": "昔原先先前"
   },
   {
     "character": "𗅩",
     "GX": "lwo̱ṃ¹",
     "GHC": "lwow¹",
     "explanationEN": "absurd; unexpected",
-    "explanationCN": "妄、枉、虚、横"
+    "explanationCN": "妄枉虚横"
   },
   {
     "character": "𗃌",
     "GX": "rver²",
     "GHC": "²",
     "explanationEN": "to hug; to hold up",
-    "explanationCN": "举、抱"
+    "explanationCN": "举抱"
   },
   {
     "character": "𗀶",
@@ -20711,14 +20711,14 @@ const DICTIONARY_DATA = [
     "GX": "doh²",
     "GHC": "djọ²",
     "explanationEN": "to build; to treat (a disease)",
-    "explanationCN": "治、造"
+    "explanationCN": "治造"
   },
   {
     "character": "𗁿",
     "GX": "ta̱h¹",
     "GHC": "tạ¹",
     "explanationEN": "to rest; to stop",
-    "explanationCN": "息、止"
+    "explanationCN": "息止"
   },
   {
     "character": "𗁵",
@@ -20746,7 +20746,7 @@ const DICTIONARY_DATA = [
     "GX": "rgwər¹",
     "GHC": "giwɨr¹",
     "explanationEN": "to rise; to grow",
-    "explanationCN": "涨、张、昌"
+    "explanationCN": "涨张昌"
   },
   {
     "character": "𗅷",
@@ -20760,7 +20760,7 @@ const DICTIONARY_DATA = [
     "GX": "no̱²",
     "GHC": "no²",
     "explanationEN": "to like; to love; to desire",
-    "explanationCN": "爱、欲"
+    "explanationCN": "爱欲"
   },
   {
     "character": "𗆑",
@@ -20774,7 +20774,7 @@ const DICTIONARY_DATA = [
     "GX": "lwo̱ṃ¹",
     "GHC": "lwow¹",
     "explanationEN": "lazy; slow",
-    "explanationCN": "懒惰、迟钝"
+    "explanationCN": "懒惰迟钝"
   },
   {
     "character": "𗆗",
@@ -20788,14 +20788,14 @@ const DICTIONARY_DATA = [
     "GX": "rsa̱r²",
     "GHC": "sar²",
     "explanationEN": "to spread; to break up",
-    "explanationCN": "1.散汉语借词2.弛3.张"
+    "explanationCN": "1.散】2.弛3.张"
   },
   {
     "character": "𗆨",
     "GX": "meh²",
     "GHC": "mjịj²",
     "explanationEN": "laborer; physical labor",
-    "explanationCN": "（按：体，非体之简体，《广韵》薄本切，音笨。“体工”乃干粗活之人，即劳力、劳工也。）英文释义laborer; physical labor详细解释请参考《简明夏汉字典》第359页。聂歷山（Nevsky）释义体龚煌城释义体《同义》释义苦力、奴仆mojikyo字体嫺景永时字体糠"
+    "explanationCN": "（按：体，非体之简体，《广韵》薄本切，音笨。“体工”乃干粗活之人，即劳力劳工也。）英文释义laborer; physical labor详细解释请参考《简明夏汉字典》第359页。聂歷山（Nevsky）释义体龚煌城释义体《同义》释义苦力奴仆mojikyo字体嫺景永时字体糠"
   },
   {
     "character": "𗂪",
@@ -20809,14 +20809,14 @@ const DICTIONARY_DATA = [
     "GX": "nvwi̱¹",
     "GHC": "we̱¹",
     "explanationEN": "to lose; to be in debt",
-    "explanationCN": "遗失、负债"
+    "explanationCN": "遗失负债"
   },
   {
     "character": "𗁘",
     "GX": "rer²",
     "GHC": "²",
     "explanationEN": "to distend",
-    "explanationCN": "胀、宽"
+    "explanationCN": "胀宽"
   },
   {
     "character": "𗃍",
@@ -20830,7 +20830,7 @@ const DICTIONARY_DATA = [
     "GX": "tśhaw²",
     "GHC": "tśhja̱²",
     "explanationEN": "cui, a traditional unit of length",
-    "explanationCN": "尺汉语借词"
+    "explanationCN": "尺】"
   },
   {
     "character": "𗹣",
@@ -20844,21 +20844,21 @@ const DICTIONARY_DATA = [
     "GX": "rtser¹",
     "GHC": "tsji̱r¹",
     "explanationEN": "government official",
-    "explanationCN": "官、吏、爵"
+    "explanationCN": "官吏爵"
   },
   {
     "character": "𘈼",
     "GX": "ma̱²",
     "GHC": "ma²",
     "explanationEN": "in the past",
-    "explanationCN": "过去、昔日、昨、昔"
+    "explanationCN": "过去昔日昨昔"
   },
   {
     "character": "𗁹",
     "GX": "tha̱²",
     "GHC": "tha²",
     "explanationEN": "narrowness",
-    "explanationCN": "迫、逼"
+    "explanationCN": "迫逼"
   },
   {
     "character": "𗹫",
@@ -20872,7 +20872,7 @@ const DICTIONARY_DATA = [
     "GX": "tshwiṃ¹",
     "GHC": "tshjwĩ¹",
     "explanationEN": "cun, a traditional unit of length",
-    "explanationCN": "寸汉语借词"
+    "explanationCN": "寸】"
   },
   {
     "character": "𗁴",
@@ -20893,7 +20893,7 @@ const DICTIONARY_DATA = [
     "GX": "dzwa̱¹",
     "GHC": "dzwa¹",
     "explanationEN": "short; brief",
-    "explanationCN": "矬汉语借词"
+    "explanationCN": "矬】"
   },
   {
     "character": "𗅁",
@@ -20907,7 +20907,7 @@ const DICTIONARY_DATA = [
     "GX": "puh¹",
     "GHC": "pjụ¹",
     "explanationEN": "measure; price",
-    "explanationCN": "量、价"
+    "explanationCN": "量价"
   },
   {
     "character": "𗁥",
@@ -20928,14 +20928,14 @@ const DICTIONARY_DATA = [
     "GX": "lhəh¹",
     "GHC": "lhjɨ̣¹",
     "explanationEN": "to flog; to beat",
-    "explanationCN": "打、拷、击、笞"
+    "explanationCN": "打拷击笞"
   },
   {
     "character": "𗁩",
     "GX": "ti̱ṃ¹",
     "GHC": "¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "等、鐙"
+    "explanationCN": "等鐙"
   },
   {
     "character": "𗃄",
@@ -20963,63 +20963,63 @@ const DICTIONARY_DATA = [
     "GX": "ba²",
     "GHC": "bja²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【跋】族姓2.坪"
+    "explanationCN": "1.【跋】坪"
   },
   {
     "character": "𗹷",
     "GX": "rŋo̱ṃr²",
     "GHC": "ŋowr²",
     "explanationEN": "anger; fury",
-    "explanationCN": "怒、嗔怒"
+    "explanationCN": "怒嗔怒"
   },
   {
     "character": "𗐛",
     "GX": "rvwa̱r²",
     "GHC": "war²",
     "explanationEN": "gathering; numerous",
-    "explanationCN": "集、众、坐"
+    "explanationCN": "聚众坐"
   },
   {
     "character": "𗶨",
     "GX": "rda̱r¹",
     "GHC": "dar¹",
     "explanationEN": "to reach",
-    "explanationCN": "1.达汉语借词2.舆3.活"
+    "explanationCN": "1.达】2.舆3.活"
   },
   {
     "character": "𗶫",
     "GX": "liw²",
     "GHC": "ljiw²",
     "explanationEN": "exhausted; be used up",
-    "explanationCN": "1.尽、底2.【柳】"
+    "explanationCN": "尽【柳】"
   },
   {
     "character": "𗋭",
     "GX": "dih¹",
     "GHC": "djị¹",
     "explanationEN": "to sink",
-    "explanationCN": "沉、溺、没、坠"
+    "explanationCN": "沉溺没坠"
   },
   {
     "character": "𗌥",
     "GX": "pah¹",
     "GHC": "pjạ¹",
     "explanationEN": "dregs; residue",
-    "explanationCN": "渣、渣滓"
+    "explanationCN": "渣"
   },
   {
     "character": "𗴭",
     "GX": "swu̱²",
     "GHC": "swu²",
     "explanationEN": "similarity",
-    "explanationCN": "像、样、似"
+    "explanationCN": "像样似"
   },
   {
     "character": "𗊀",
     "GX": "γu¹",
     "GHC": "ɣju¹",
     "explanationEN": "ditch; gully",
-    "explanationCN": "沟、壑"
+    "explanationCN": "沟壑"
   },
   {
     "character": "𗌁",
@@ -21040,7 +21040,7 @@ const DICTIONARY_DATA = [
     "GX": "yu¹",
     "GHC": "ˑju¹",
     "explanationEN": "ghost; spirit",
-    "explanationCN": "1.鬼、魔2.【与】"
+    "explanationCN": "鬼魔【与】"
   },
   {
     "character": "𗊽",
@@ -21054,14 +21054,14 @@ const DICTIONARY_DATA = [
     "GX": "γa²",
     "GHC": "ɣja²",
     "explanationEN": "fast; rapid",
-    "explanationCN": "疾速、急"
+    "explanationCN": "疾速急"
   },
   {
     "character": "𗴫",
     "GX": "ki¹",
     "GHC": "kji¹",
     "explanationEN": "to sing",
-    "explanationCN": "唱、歌"
+    "explanationCN": "唱歌"
   },
   {
     "character": "𗌕",
@@ -21074,421 +21074,421 @@ const DICTIONARY_DATA = [
     "character": "𗌕",
     "GX": "kar²",
     "GHC": "-jar²",
-    "explanationEN": "cover; lid; to cover",
-    "explanationCN": "盖、覆、罩动词"
+    "explanationEN": "net",
+    "explanationCN": "网"
   },
   {
     "character": "𗐜",
     "GX": "γa²",
     "GHC": "ɣja²",
-    "explanationEN": "quail",
-    "explanationCN": "鵪鶉"
+    "explanationEN": "cover; lid; to cover",
+    "explanationCN": "盖覆罩动词"
   },
   {
     "character": "𘔿",
     "GX": "rlho̱ṃr²",
     "GHC": "lhowr²",
-    "explanationEN": "eye socket",
-    "explanationCN": "眶汉语借词"
+    "explanationEN": "quail",
+    "explanationCN": "鵪鶉"
   },
   {
     "character": "𗋆",
     "GX": "rqhwa̱r²",
     "GHC": "khwar²",
-    "explanationEN": "fountainhead; well-spring",
-    "explanationCN": "源泉"
+    "explanationEN": "eye socket",
+    "explanationCN": "眶】"
   },
   {
     "character": "𗊓",
     "GX": "mə̱²",
     "GHC": "mə²",
-    "explanationEN": "moist; rain; pool",
-    "explanationCN": "泽、雨"
+    "explanationEN": "fountainhead; well-spring",
+    "explanationCN": "源泉"
   },
   {
     "character": "𗋩",
     "GX": "rvwi̱r²",
     "GHC": "wer²",
-    "explanationEN": "canal; ditch",
-    "explanationCN": "1.血、沟2.沼3.流"
+    "explanationEN": "moist; rain; pool",
+    "explanationCN": "泽雨"
   },
   {
     "character": "𗋊",
     "GX": "re̱r²",
     "GHC": "rejr²",
-    "explanationEN": "a ghost name",
-    "explanationCN": "【魃】鬼名"
+    "explanationEN": "canal; ditch",
+    "explanationCN": "1.血沟2.沼3.流"
   },
   {
     "character": "𘊍",
     "GX": "po̱¹",
     "GHC": "po¹",
-    "explanationEN": "to capture; to gain",
-    "explanationCN": "1.获得2.及、逮"
+    "explanationEN": "a ghost name",
+    "explanationCN": "【魃】鬼名"
   },
   {
     "character": "𗐗",
     "GX": "lhuh²",
     "GHC": "lhjụ²",
-    "explanationEN": "aspiration; ideal; able; capable",
-    "explanationCN": "志向、能干形容词"
+    "explanationEN": "to capture; to gain",
+    "explanationCN": "1.获得2.及逮"
   },
   {
     "character": "𗐙",
     "GX": "ndu̱²",
     "GHC": "du²",
-    "explanationEN": "kind; type",
-    "explanationCN": "类、族、軰、儔、部、党"
+    "explanationEN": "aspiration; ideal; able; capable",
+    "explanationCN": "志向能干形容词"
   },
   {
     "character": "𗴮",
     "GX": "deh¹",
     "GHC": "djịj¹",
-    "explanationEN": "cover; lid",
-    "explanationCN": "1.盖汉语借词2.【概】"
+    "explanationEN": "kind; type",
+    "explanationCN": "类"
   },
   {
     "character": "𗐍",
     "GX": "ke̱?",
     "GHC": "kej?",
-    "explanationEN": "to analyze",
-    "explanationCN": "分析"
+    "explanationEN": "cover, lid",
+    "explanationCN": "盖"
   },
   {
     "character": "𗉻",
     "GX": "tshe¹",
     "GHC": "tshjij¹",
-    "explanationEN": "reality; accuracy",
-    "explanationCN": "中、实、正确"
+    "explanationEN": "to analyze",
+    "explanationCN": "分析"
   },
   {
     "character": "𘉥",
+    "GX": "dźaw¹",
+    "GHC": "dźja̱¹",
+    "explanationEN": "reality; accuracy",
+    "explanationCN": "中实正确"
+  },
+  {
+    "character": "𘉦",
     "GX": "dźaw¹",
     "GHC": "dźja̱¹",
     "explanationEN": "chapters and sections",
     "explanationCN": "章节"
   },
   {
-    "character": "𘉦",
-    "GX": "dźaw¹",
-    "GHC": "dźja̱¹",
-    "explanationEN": "dark",
-    "explanationCN": "黑"
-  },
-  {
     "character": "𗘰",
     "GX": "mbaa̱²",
     "GHC": "bia̱²",
-    "explanationEN": "tasteless",
-    "explanationCN": "淡"
+    "explanationEN": "dark",
+    "explanationCN": "黑"
   },
   {
     "character": "𗉼",
     "GX": "γa̱¹",
     "GHC": "ɣa¹",
-    "explanationEN": "a surname",
-    "explanationCN": "1.【昊】族姓2.【贺】、【皓】（音 202）"
+    "explanationEN": "tasteless",
+    "explanationCN": "淡"
   },
   {
     "character": "𗊺",
     "GX": "ha̱²",
     "GHC": "xa²",
-    "explanationEN": "barnyard grass",
-    "explanationCN": "稗、蒿子"
+    "explanationEN": "a surname",
+    "explanationCN": "淡"
   },
   {
     "character": "𗌀",
     "GX": "ha̱²",
     "GHC": "xa²",
-    "explanationEN": "marsh",
-    "explanationCN": "沼泽"
+    "explanationEN": "barnyard grass",
+    "explanationCN": "稗蒿子"
   },
   {
     "character": "𗉸",
     "GX": "ho̱ṃ²",
     "GHC": "xow²",
-    "explanationEN": "lining; inside",
-    "explanationCN": "1.里2.答"
+    "explanationEN": "marsh",
+    "explanationCN": "沼泽"
   },
   {
     "character": "𗊬",
     "GX": "qu̱h²",
     "GHC": "kụ²",
-    "explanationEN": "servant",
-    "explanationCN": "奴婢"
+    "explanationEN": "lining; inside",
+    "explanationCN": "1.里2.答"
   },
   {
     "character": "𗌏",
     "GX": "ryur²",
     "GHC": "ˑjur²",
-    "explanationEN": "to murder",
-    "explanationCN": "杀害、凶杀、谋杀"
+    "explanationEN": "servant",
+    "explanationCN": "奴婢"
   },
   {
     "character": "𗢎",
     "GX": "rγa̱r¹",
     "GHC": "ɣar¹",
-    "explanationEN": "to ridicule; to slander",
-    "explanationCN": "哂、讥、讽、谤"
+    "explanationEN": "to murder",
+    "explanationCN": "杀害凶杀谋杀"
   },
   {
     "character": "𘉪",
     "GX": "nwo²",
     "GHC": "njwo²",
-    "explanationEN": "to ridicule",
-    "explanationCN": "嘲笑；【济】、【跡】、【祇】、【质】、【即】、【止】"
+    "explanationEN": "to ridicule; to slander",
+    "explanationCN": "哂讥讽谤"
   },
   {
     "character": "𗊋",
     "GX": "tsi²",
     "GHC": "tsji²",
-    "explanationEN": "victory",
-    "explanationCN": "胜"
+    "explanationEN": "to ridicule",
+    "explanationCN": "嘲笑；【济】【跡】【祇】【质】【即】【止】"
   },
   {
     "character": "𘚁",
     "GX": "vi̱h¹",
     "GHC": "wẹ¹",
-    "explanationEN": "peace; adore",
-    "explanationCN": "睦、慕"
+    "explanationEN": "victory",
+    "explanationCN": "胜"
   },
   {
     "character": "𗋥",
     "GX": "rvwi̱r¹",
     "GHC": "wer¹",
-    "explanationEN": "to cherish; to stint",
-    "explanationCN": "惜、吝"
+    "explanationEN": "peace; adore",
+    "explanationCN": "睦慕"
   },
   {
     "character": "𗌤",
     "GX": "???",
     "GHC": "?",
-    "explanationEN": "a kind of food",
-    "explanationCN": "乳头"
+    "explanationEN": "to cherish; to stint",
+    "explanationCN": "惜吝"
   },
   {
     "character": "𗋏",
     "GX": "thwu̱²",
     "GHC": "thwu²",
-    "explanationEN": "teapoy",
-    "explanationCN": "茶几"
+    "explanationEN": "a kind of food",
+    "explanationCN": "乳头"
   },
   {
     "character": "𗐏",
     "GX": "lhuh²",
     "GHC": "lhjụ²",
-    "explanationEN": "dignified; true meaning",
-    "explanationCN": "庄严、高贵、威仪"
+    "explanationEN": "teapoy",
+    "explanationCN": "茶几"
   },
   {
     "character": "𘉢",
     "GX": "dweh¹",
     "GHC": "djwịj¹",
-    "explanationEN": "to choke; to stifle",
-    "explanationCN": "噎、塞、闷死、窒息"
+    "explanationEN": "dignified; true meaning",
+    "explanationCN": "庄严高贵威仪"
   },
   {
     "character": "𗐓",
     "GX": "swə¹",
     "GHC": "sjwɨ¹",
-    "explanationEN": "water spring",
-    "explanationCN": "泉"
+    "explanationEN": "to choke; to stifle",
+    "explanationCN": "噎塞闷死窒息"
   },
   {
     "character": "𗊑",
     "GX": "dzwaṃ¹",
     "GHC": "dzjwã¹",
-    "explanationEN": "sweat; perspiration",
-    "explanationCN": "汗"
+    "explanationEN": "water spring",
+    "explanationCN": "泉"
   },
   {
     "character": "𗊌",
     "GX": "nu¹",
     "GHC": "nju¹",
-    "explanationEN": "a thin white silk used in ancient China, plain color",
-    "explanationCN": "縹、素白"
+    "explanationEN": "sweat; perspiration",
+    "explanationCN": "汗"
   },
   {
     "character": "𗊶",
     "GX": "lhu¹",
     "GHC": "lhju¹",
-    "explanationEN": "to breed",
-    "explanationCN": "育、养"
+    "explanationEN": "a thin white silk used in ancient China, plain color",
+    "explanationCN": "縹素白"
   },
   {
     "character": "𗋿",
     "GX": "ryur¹",
     "GHC": "ˑjur¹",
-    "explanationEN": "to arrive",
-    "explanationCN": "至、到"
+    "explanationEN": "to breed",
+    "explanationCN": "育养"
   },
   {
     "character": "𗐘",
     "GX": "qho̱¹",
     "GHC": "kho¹",
-    "explanationEN": "grave",
-    "explanationCN": "1.坟2.死"
+    "explanationEN": "to arrive",
+    "explanationCN": "至到"
   },
   {
     "character": "𗢐",
     "GX": "γu̱¹",
     "GHC": "ˑu¹",
-    "explanationEN": "a transliteration",
-    "explanationCN": "1.【曹】族姓2.【曲】、【凑】、【秋】3.【锹】（珠 266）、【草】（珠 136）、【造】（珠 231）4.【骚】、【譙】、【就】、【澡】（音 199）"
+    "explanationEN": "grave",
+    "explanationCN": "1.坟2.死"
   },
   {
     "character": "𗊛",
     "GX": "tshi̱w¹",
     "GHC": "tshew¹",
-    "explanationEN": "a nail",
-    "explanationCN": "1.钉汉语借词2.【顶】（珠 223）、【鼎】（珠 234）、【造】（珠 231）、【黄】（音 195）"
+    "explanationEN": "a transliteration",
+    "explanationCN": "坟"
   },
   {
     "character": "𗊄",
     "GX": "teṃ¹",
     "GHC": "tjɨj¹",
-    "explanationEN": "a bottle",
-    "explanationCN": "1.瓶2.奎"
+    "explanationEN": "a nail",
+    "explanationCN": "【曹】【曲】【凑】【秋】【锹】【草】【造】【骚】【譙】【就】【澡】"
   },
   {
     "character": "𗊰",
     "GX": "lu²",
     "GHC": "lju²",
-    "explanationEN": "strong; brave",
-    "explanationCN": "体魄、勇健"
+    "explanationEN": "a bottle",
+    "explanationCN": "1.瓶2.奎"
   },
   {
     "character": "𗊵",
     "GX": "tśhu¹",
     "GHC": "tśhju¹",
-    "explanationEN": "to melt; to thaw; to confess",
-    "explanationCN": "融化、招供"
+    "explanationEN": "strong; brave",
+    "explanationCN": "体魄勇健"
   },
   {
     "character": "𗌍",
     "GX": "rhwa̱r¹",
     "GHC": "xwar¹",
-    "explanationEN": "blood stasis",
-    "explanationCN": "瘀（血阻病）"
+    "explanationEN": "to melt; to thaw; to confess",
+    "explanationCN": "融化招供"
   },
   {
     "character": "𗌎",
     "GX": "dih¹",
     "GHC": "djị¹",
-    "explanationEN": "sweet; honeyed",
-    "explanationCN": "甜"
+    "explanationEN": "blood stasis",
+    "explanationCN": "瘀（血阻病）"
   },
   {
     "character": "𗋔",
     "GX": "thwi¹",
     "GHC": "thjwi¹",
-    "explanationEN": "water; dew",
-    "explanationCN": "水、（坎）、汲"
+    "explanationEN": "sweet; honeyed",
+    "explanationCN": "甜"
   },
   {
     "character": "𗌜",
     "GX": "rnor¹",
     "GHC": "njo̱r¹",
-    "explanationEN": "to cross; to tide over",
-    "explanationCN": "渡、度"
+    "explanationEN": "water; dew",
+    "explanationCN": "水（坎）汲"
   },
   {
     "character": "𗌗",
     "GX": "gu¹",
     "GHC": "gju¹",
-    "explanationEN": "cow disease",
-    "explanationCN": "牛病"
+    "explanationEN": "to cross; to tide over",
+    "explanationCN": "渡度"
   },
   {
     "character": "𗢚",
     "GX": "zoh¹",
     "GHC": "zjọ¹",
-    "explanationEN": "mouth",
-    "explanationCN": "口、口腔"
+    "explanationEN": "cow disease",
+    "explanationCN": "牛病"
   },
   {
     "character": "𗋈",
     "GX": "ŋwu̱²",
     "GHC": "ŋwu²",
-    "explanationEN": "cattail",
-    "explanationCN": "蒲汉语借词"
+    "explanationEN": "mouth",
+    "explanationCN": "口口腔"
   },
   {
     "character": "𗋬",
     "GX": "pho̱¹",
     "GHC": "pho¹",
-    "explanationEN": "fish",
-    "explanationCN": "鱼、鱼"
+    "explanationEN": "cattail",
+    "explanationCN": "蒲】"
   },
   {
     "character": "𗋾",
     "GX": "źu²",
     "GHC": "źju²",
     "explanationEN": "fish",
-    "explanationCN": "鱼"
+    "explanationCN": "鱼鱼"
   },
   {
     "character": "𗋽",
     "GX": "rzər²",
     "GHC": "zjɨ̱r²",
-    "explanationEN": "to mix; to stir; to blend",
-    "explanationCN": "和、拌"
+    "explanationEN": "fish",
+    "explanationCN": "鱼"
   },
   {
     "character": "𗌛",
     "GX": "rhwa̱r¹",
     "GHC": "xwar¹",
-    "explanationEN": "wild goose",
-    "explanationCN": "雁"
+    "explanationEN": "to mix; to stir; to blend",
+    "explanationCN": "和拌"
   },
   {
     "character": "𗌋",
     "GX": "ha̱²",
     "GHC": "xa²",
-    "explanationEN": "to putty; to spread on",
-    "explanationCN": "泥、涂"
+    "explanationEN": "wild goose",
+    "explanationCN": "雁"
   },
   {
     "character": "𗌒",
     "GX": "rtṣao̱r²",
     "GHC": "tśior²",
-    "explanationEN": "to burst; to split; to break",
-    "explanationCN": "破裂"
+    "explanationEN": "to putty; to spread on",
+    "explanationCN": "泥涂"
   },
   {
     "character": "𘉲",
     "GX": "giw²",
     "GHC": "gjiw²",
     "explanationEN": "hot; smelly",
-    "explanationCN": "1.辛、臭2.【才】"
+    "explanationCN": "破裂"
   },
   {
     "character": "𘊃",
     "GX": "seh²",
     "GHC": "sjịj²",
     "explanationEN": "indignation",
-    "explanationCN": "愤、怒"
+    "explanationCN": "愤怒"
   },
   {
     "character": "𘊌",
     "GX": "dẓai̱w¹",
     "GHC": "dźiew¹",
     "explanationEN": "milk; butter",
-    "explanationCN": "乳、奶"
+    "explanationCN": "乳奶"
   },
   {
     "character": "𗌙",
     "GX": "lhu¹",
     "GHC": "lhju¹",
     "explanationEN": "moisture; drop",
-    "explanationCN": "湿、滴"
+    "explanationCN": "湿滴"
   },
   {
     "character": "𗌬",
     "GX": "rdawr²",
     "GHC": "dja̱r²",
     "explanationEN": "to wash; to bathe",
-    "explanationCN": "洗、涤"
+    "explanationCN": "洗涤"
   },
   {
     "character": "𗋝",
@@ -21516,14 +21516,14 @@ const DICTIONARY_DATA = [
     "GX": "dzwəh¹",
     "GHC": "dzjwɨ̣¹",
     "explanationEN": "boat; ship",
-    "explanationCN": "1.船、舟、舸、舶、舫、筏2.与连用，具有“櫓”之义"
+    "explanationCN": "1.船舟舸舶舫筏2.与连用，具有“櫓”之义"
   },
   {
     "character": "𗊔",
     "GX": "baa̱²",
     "GHC": "bia²",
     "explanationEN": "to mix",
-    "explanationCN": "拌（搅拌）汉语借词"
+    "explanationCN": "拌（搅拌）】"
   },
   {
     "character": "𗢏",
@@ -21537,7 +21537,7 @@ const DICTIONARY_DATA = [
     "GX": "noh¹",
     "GHC": "njọ¹",
     "explanationEN": "lubrication; oiliness",
-    "explanationCN": "润滑、油润"
+    "explanationCN": "润滑油润"
   },
   {
     "character": "𗋫",
@@ -21551,7 +21551,7 @@ const DICTIONARY_DATA = [
     "GX": "si¹",
     "GHC": "sji¹",
     "explanationEN": "limit; end",
-    "explanationCN": "穷、尽"
+    "explanationCN": "穷尽"
   },
   {
     "character": "𗢒",
@@ -21579,28 +21579,28 @@ const DICTIONARY_DATA = [
     "GX": "nśiw¹",
     "GHC": "śjiw¹",
     "explanationEN": "to divine disease; to diagnose",
-    "explanationCN": "占病、诊断"
+    "explanationCN": "占病诊断"
   },
   {
     "character": "𗋛",
     "GX": "nwəh¹",
     "GHC": "njwɨ̣¹",
     "explanationEN": "moisture; sweat",
-    "explanationCN": "津、潮、湿"
+    "explanationCN": "津潮湿"
   },
   {
     "character": "𘉾",
     "GX": "veh¹",
     "GHC": "wjịj¹",
     "explanationEN": "excrement; faeces; dung",
-    "explanationCN": "屎、粪"
+    "explanationCN": "屎粪"
   },
   {
     "character": "𗌪",
     "GX": "lwə¹",
     "GHC": "ljwɨ¹",
     "explanationEN": "tear",
-    "explanationCN": "泪汉语借词"
+    "explanationCN": "泪】"
   },
   {
     "character": "𗐔",
@@ -21621,7 +21621,7 @@ const DICTIONARY_DATA = [
     "GX": "qu̱h²",
     "GHC": "kụ²",
     "explanationEN": "gargle; rinse",
-    "explanationCN": "漱、洗"
+    "explanationCN": "漱洗"
   },
   {
     "character": "𗘱",
@@ -21656,7 +21656,7 @@ const DICTIONARY_DATA = [
     "GX": "lho̱ṃh²",
     "GHC": "lhọ²",
     "explanationEN": "ugly",
-    "explanationCN": "陋汉语借词"
+    "explanationCN": "陋】"
   },
   {
     "character": "𗫱",
@@ -21677,21 +21677,21 @@ const DICTIONARY_DATA = [
     "GX": "de²",
     "GHC": "djij²",
     "explanationEN": "a place name; a surname",
-    "explanationCN": "【邓】、【塔】族姓、地名"
+    "explanationCN": "【邓】【塔】地名"
   },
   {
     "character": "𗫲",
     "GX": "khe¹",
     "GHC": "khjij¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【契】、【卿】族姓2.【茄】（珠 145）、【<衤加>】（珠 255）、【警】（珠 233）、【罄】（珠 211）"
+    "explanationCN": "【契】【卿】【茄】【警】【罄】"
   },
   {
     "character": "𗬀",
     "GX": "lwu̱²",
     "GHC": "lwu²",
     "explanationEN": "to hide; to conceal",
-    "explanationCN": "隠、匿、伏"
+    "explanationCN": "隠匿伏"
   },
   {
     "character": "𗫿",
@@ -21705,28 +21705,28 @@ const DICTIONARY_DATA = [
     "GX": "tswa̱¹",
     "GHC": "tswa¹",
     "explanationEN": "a surname",
-    "explanationCN": "【札】（族姓）"
+    "explanationCN": "【札】（）"
   },
   {
     "character": "𗬁",
     "GX": "deṃ²",
     "GHC": "djɨj²",
     "explanationEN": "to stop; to abolish",
-    "explanationCN": "停汉语借词"
+    "explanationCN": "停】"
   },
   {
     "character": "𗫻",
     "GX": "ndźe¹",
     "GHC": "dźji̱j¹",
     "explanationEN": "to live; to stay; to exist",
-    "explanationCN": "1.住、在、居、有、留2.二字重迭，具有指代词和名词性质"
+    "explanationCN": "1.住在居有留2.二字重迭，具有指代词和名词性质"
   },
   {
     "character": "𗬃",
     "GX": "si̱¹",
     "GHC": "se¹",
     "explanationEN": "intention; intent; word; term",
-    "explanationCN": "意图、词"
+    "explanationCN": "意图词"
   },
   {
     "character": "𗫸",
@@ -21747,7 +21747,7 @@ const DICTIONARY_DATA = [
     "GX": "vwi̱²",
     "GHC": "we²",
     "explanationEN": "entertaimnent; recreation; to lead a chorus",
-    "explanationCN": "娱乐、领唱动词"
+    "explanationCN": "娱乐领唱动词"
   },
   {
     "character": "𗏗",
@@ -21768,7 +21768,7 @@ const DICTIONARY_DATA = [
     "GX": "twə¹",
     "GHC": "tsjwɨ¹",
     "explanationEN": "an auxiliary word",
-    "explanationCN": "然、则"
+    "explanationCN": "然则"
   },
   {
     "character": "𗩲",
@@ -21782,7 +21782,7 @@ const DICTIONARY_DATA = [
     "GX": "tih²",
     "GHC": "tjị²",
     "explanationEN": "dry",
-    "explanationCN": "乾、涸"
+    "explanationCN": "乾涸"
   },
   {
     "character": "𗾏",
@@ -21803,7 +21803,7 @@ const DICTIONARY_DATA = [
     "GX": "rmer²",
     "GHC": "mjịjr²",
     "explanationEN": "god; magic power",
-    "explanationCN": "通、灵、应、神"
+    "explanationCN": "通灵应神"
   },
   {
     "character": "𗏞",
@@ -21824,56 +21824,56 @@ const DICTIONARY_DATA = [
     "GX": "lhə¹",
     "GHC": "lhjɨ¹",
     "explanationEN": "a kind of shell which looks like a jade; dress and personal adornment; dress",
-    "explanationCN": "1.珂贝、服饰（穿戴）2.精神"
+    "explanationCN": "1.珂贝服饰（穿戴）2.精神"
   },
   {
     "character": "𗣡",
     "GX": "thə²",
     "GHC": "thjɨ²",
     "explanationEN": "a surname",
-    "explanationCN": "【狄】族姓"
+    "explanationCN": "【狄】"
   },
   {
     "character": "𗨡",
     "GX": "deh¹",
     "GHC": "djịj¹",
     "explanationEN": "trough; cup",
-    "explanationCN": "槽、盏"
+    "explanationCN": "槽盏"
   },
   {
     "character": "𗨶",
     "GX": "to̱²",
     "GHC": "to²",
     "explanationEN": "to cry; to weep",
-    "explanationCN": "哭泣、啼哭"
+    "explanationCN": "哭泣啼哭"
   },
   {
     "character": "𗥑",
     "GX": "hu̱¹",
     "GHC": "xu¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【富】族姓2.【府】、【符】、【夫】、【浮】、【甫】、【駙】、【扶】、【虎】、【呼】3.【服】（珠 243）、【缚】（珠 354）、【福】（珠 095）、【腹】（珠 191）、【父】（珠 313）、【斧】（珠 285）、【伏】（珠 321）、【袱】（珠 221）4.【符】、【敷】、【傅】、【鳧】、【妇】、【辅】、【凤】、【福】（音 202）"
+    "explanationCN": "1.【富】2.【府】【符】【夫】【浮】【甫】【駙】【扶】【虎】【呼】3.【服】（珠 243）【缚】（珠 354）【福】（珠 095）【腹】（珠 191）【父】（珠 313）【斧】（珠 285）【伏】（珠 321）【袱】（珠 221）4.【符】【敷】【傅】【鳧】【妇】【辅】【凤】【福】（音 202）"
   },
   {
     "character": "𗫔",
     "GX": "yi¹",
     "GHC": "ˑji¹",
     "explanationEN": "many; numerous",
-    "explanationCN": "1.众、多、群2.和尚3.【伊】、【易】、【裔】、【医】、【云】4.【翼】、【夷】、【意】、【羿】、【异】（音 201）"
+    "explanationCN": "1.众多群2.和尚3.【伊】【易】【裔】【医】【云】4.【翼】【夷】【意】【羿】【异】（音 201）"
   },
   {
     "character": "𗣹",
     "GX": "tsi²",
     "GHC": "tsji²",
     "explanationEN": "a surname",
-    "explanationCN": "【跡】族姓"
+    "explanationCN": "【跡】"
   },
   {
     "character": "𗤹",
     "GX": "γu¹",
     "GHC": "ɣju¹",
     "explanationEN": "a surname",
-    "explanationCN": "【药】族姓"
+    "explanationCN": "【药】"
   },
   {
     "character": "𗽌",
@@ -21894,7 +21894,7 @@ const DICTIONARY_DATA = [
     "GX": "zeh²",
     "GHC": "zjịj²",
     "explanationEN": "many; much; numerous",
-    "explanationCN": "多、伙、繁、众"
+    "explanationCN": "多伙繁众"
   },
   {
     "character": "𘔽",
@@ -21922,14 +21922,14 @@ const DICTIONARY_DATA = [
     "GX": "ywiṃ¹",
     "GHC": "ˑjwĩ¹",
     "explanationEN": "a surname",
-    "explanationCN": "【尹】、【允】、【员】、【运】、【云】族姓"
+    "explanationCN": "【尹】【允】【员】【运】【云】"
   },
   {
     "character": "𗨌",
     "GX": "nwə¹",
     "GHC": "njwɨ¹",
     "explanationEN": "to guard; to defend",
-    "explanationCN": "守护、守卫"
+    "explanationCN": "守护守卫"
   },
   {
     "character": "𗦖",
@@ -21971,14 +21971,14 @@ const DICTIONARY_DATA = [
     "GX": "vaa̱ṃ²",
     "GHC": "wjã²",
     "explanationEN": "a surname",
-    "explanationCN": "【万】、【晚】、【曼】、【宪】"
+    "explanationCN": "【万】【晚】【曼】【宪】"
   },
   {
     "character": "𗽛",
     "GX": "pah¹",
     "GHC": "pjạ¹",
     "explanationEN": "patch",
-    "explanationCN": "补衲、补贴、补丁"
+    "explanationCN": "补衲补贴补丁"
   },
   {
     "character": "𗽢",
@@ -21992,21 +21992,21 @@ const DICTIONARY_DATA = [
     "GX": "phə̱²",
     "GHC": "phə²",
     "explanationEN": "jar; bottle",
-    "explanationCN": "泡、瓶、罐"
+    "explanationCN": "泡瓶罐"
   },
   {
     "character": "𗤀",
     "GX": "śe¹",
     "GHC": "śjij¹",
     "explanationEN": "life; generation",
-    "explanationCN": "1.世汉语借词2.代3.朝4.氏5.时"
+    "explanationCN": "1.世】2.代3.朝4.氏5.时"
   },
   {
     "character": "𗫭",
     "GX": "lhuh²",
     "GHC": "lhjụ²",
     "explanationEN": "to sing; to chant",
-    "explanationCN": "歌、颂、咏、唱"
+    "explanationCN": "歌颂咏唱"
   },
   {
     "character": "𗪰",
@@ -22034,7 +22034,7 @@ const DICTIONARY_DATA = [
     "GX": "paa̱¹",
     "GHC": "pia¹",
     "explanationEN": "to hide; to lurk",
-    "explanationCN": "伏、匿"
+    "explanationCN": "伏匿"
   },
   {
     "character": "𗪥",
@@ -22062,7 +22062,7 @@ const DICTIONARY_DATA = [
     "GX": "dzu²",
     "GHC": "dzju²",
     "explanationEN": "weapon; arms",
-    "explanationCN": "兵器、武器"
+    "explanationCN": "兵器武器"
   },
   {
     "character": "𗪱",
@@ -22132,7 +22132,7 @@ const DICTIONARY_DATA = [
     "GX": "rŋwə̱r²",
     "GHC": "ŋwər²",
     "explanationEN": "face; look",
-    "explanationCN": "脸、面、容"
+    "explanationCN": "脸面容"
   },
   {
     "character": "𗨙",
@@ -22146,7 +22146,7 @@ const DICTIONARY_DATA = [
     "GX": "rir²",
     "GHC": "rjir²",
     "explanationEN": "a kind of shell which looks like a jade; dress and personal adornment; dress",
-    "explanationCN": "珂贝、服饰（穿戴）"
+    "explanationCN": "珂贝服饰（穿戴）"
   },
   {
     "character": "𗻠",
@@ -22167,7 +22167,7 @@ const DICTIONARY_DATA = [
     "GX": "pho̱ṃ¹",
     "GHC": "phow¹",
     "explanationEN": "front of a garment",
-    "explanationCN": "怀、襟"
+    "explanationCN": "怀襟"
   },
   {
     "character": "𗺸",
@@ -22181,42 +22181,42 @@ const DICTIONARY_DATA = [
     "GX": "rir²",
     "GHC": "rjir²",
     "explanationEN": "human being; human being",
-    "explanationCN": "民、人"
+    "explanationCN": "民人"
   },
   {
     "character": "𗻩",
     "GX": "zi̱ṃ²",
     "GHC": "zẽ²",
     "explanationEN": "jaw",
-    "explanationCN": "頜（頦、下巴）"
+    "explanationCN": "頜（頦下巴）"
   },
   {
     "character": "𗢹",
     "GX": "yə¹",
     "GHC": "ˑjɨ¹",
     "explanationEN": "to salute",
-    "explanationCN": "揖汉语借词"
+    "explanationCN": "揖】"
   },
   {
     "character": "𗩫",
     "GX": "mmə¹",
     "GHC": "mjɨ̱¹",
     "explanationEN": "woman; the female",
-    "explanationCN": "1.女2.【迷】族姓"
+    "explanationCN": "1.女2.【迷】"
   },
   {
     "character": "𗽟",
     "GX": "γwe̱²",
     "GHC": "ɣwej²",
     "explanationEN": "a surname",
-    "explanationCN": "【回】族姓"
+    "explanationCN": "【回】"
   },
   {
     "character": "𗿜",
     "GX": "tśhi¹",
     "GHC": "tśhji¹",
     "explanationEN": "shame; disgrace",
-    "explanationCN": "耻汉语借词"
+    "explanationCN": "耻】"
   },
   {
     "character": "𗿭",
@@ -22244,7 +22244,7 @@ const DICTIONARY_DATA = [
     "GX": "mi²",
     "GHC": "mji²",
     "explanationEN": "to understand; to comprehend",
-    "explanationCN": "了然、了解、解悟"
+    "explanationCN": "了然了解解悟"
   },
   {
     "character": "𗨳",
@@ -22258,7 +22258,7 @@ const DICTIONARY_DATA = [
     "GX": "śuh¹",
     "GHC": "śjụ¹",
     "explanationEN": "nit",
-    "explanationCN": "蟣"
+    "explanationCN": "虮"
   },
   {
     "character": "𗽺",
@@ -22272,14 +22272,14 @@ const DICTIONARY_DATA = [
     "GX": "gwi¹",
     "GHC": "gjwi¹",
     "explanationEN": "word; speech",
-    "explanationCN": "言词、说"
+    "explanationCN": "言词"
   },
   {
     "character": "𗢩",
     "GX": "tsa¹",
     "GHC": "tsja¹",
     "explanationEN": "a surname",
-    "explanationCN": "【匝】、【砸】、【杂】族姓"
+    "explanationCN": "【匝】【砸】【杂】"
   },
   {
     "character": "𗢼",
@@ -22300,7 +22300,7 @@ const DICTIONARY_DATA = [
     "GX": "deṃ²",
     "GHC": "²",
     "explanationEN": "to stop; to abolish",
-    "explanationCN": "停、休"
+    "explanationCN": "停休"
   },
   {
     "character": "𗧘",
@@ -22328,7 +22328,7 @@ const DICTIONARY_DATA = [
     "GX": "si̱w²",
     "GHC": "sew²",
     "explanationEN": "close; intimate",
-    "explanationCN": "亲密、悄语"
+    "explanationCN": "亲密悄语"
   },
   {
     "character": "𘔰",
@@ -22342,14 +22342,14 @@ const DICTIONARY_DATA = [
     "GX": "ror²",
     "GHC": "rjor²",
     "explanationEN": "to ferment; to make (wine)",
-    "explanationCN": "闷、酿"
+    "explanationCN": "闷酿"
   },
   {
     "character": "𗬘",
     "GX": "lo²",
     "GHC": "ljo²",
     "explanationEN": "to spread.ʙ ; to disseminate.ʙ",
-    "explanationCN": "散布、散撒"
+    "explanationCN": "散布散撒"
   },
   {
     "character": "𗢯",
@@ -22363,7 +22363,7 @@ const DICTIONARY_DATA = [
     "GX": "lhə¹",
     "GHC": "¹",
     "explanationEN": "a kind of shell which looks like a jade; dress and personal adornment; dress",
-    "explanationCN": "珂贝、服饰、精神"
+    "explanationCN": "珂贝服饰精神"
   },
   {
     "character": "𗣉",
@@ -22377,21 +22377,21 @@ const DICTIONARY_DATA = [
     "GX": "tshiṃ¹",
     "GHC": "tshjĩ¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【秦】族姓2.【亲】、【尽】、【曾】、【津】"
+    "explanationCN": "1.【秦】2.【亲】【尽】【曾】【津】"
   },
   {
     "character": "𗣷",
     "GX": "lhə̱?",
     "GHC": "lhə?",
     "explanationEN": "full; packed; satisfied",
-    "explanationCN": "1.满足2.充、备"
+    "explanationCN": "1.满足2.充备"
   },
   {
     "character": "𗣃",
     "GX": "gwi²",
     "GHC": "gjwi²",
     "explanationEN": "word; sentence",
-    "explanationCN": "词、句"
+    "explanationCN": "词句"
   },
   {
     "character": "𗧙",
@@ -22405,14 +22405,14 @@ const DICTIONARY_DATA = [
     "GX": "γu̱²",
     "GHC": "ɣu²",
     "explanationEN": "to manage; to administer",
-    "explanationCN": "1.管理、勾管2.了、毕"
+    "explanationCN": "1.管理勾管2.了毕"
   },
   {
     "character": "𗧔",
     "GX": "llu̱h¹",
     "GHC": "lụ¹",
     "explanationEN": "a surname",
-    "explanationCN": "【卢】、【鲁】、【陆】（族姓）"
+    "explanationCN": "【卢】【鲁】【陆】（）"
   },
   {
     "character": "𗩶",
@@ -22433,28 +22433,28 @@ const DICTIONARY_DATA = [
     "GX": "di²",
     "GHC": "dji²",
     "explanationEN": "complete",
-    "explanationCN": "1.全、俱2.【地】、【狄】"
+    "explanationCN": "1.全俱2.【地】【狄】"
   },
   {
     "character": "𗧁",
     "GX": "rer²",
     "GHC": "rjir²",
     "explanationEN": "scholar",
-    "explanationCN": "儒、士、才"
+    "explanationCN": "儒士才"
   },
   {
     "character": "𗽨",
     "GX": "ntaa̱²",
     "GHC": "tia̱²",
     "explanationEN": "dry",
-    "explanationCN": "涸、枯"
+    "explanationCN": "涸枯"
   },
   {
     "character": "𗾍",
     "GX": "gwi²",
     "GHC": "gjwi²",
     "explanationEN": "to rise; to leap",
-    "explanationCN": "起、跃"
+    "explanationCN": "起跃"
   },
   {
     "character": "𘊠",
@@ -22496,7 +22496,7 @@ const DICTIONARY_DATA = [
     "GX": "phe¹",
     "GHC": "phjij¹",
     "explanationEN": "to attack by words",
-    "explanationCN": "抨汉语借词"
+    "explanationCN": "抨】"
   },
   {
     "character": "𗦜",
@@ -22517,28 +22517,28 @@ const DICTIONARY_DATA = [
     "GX": "tsiṃ¹",
     "GHC": "tsjĩ¹",
     "explanationEN": "a surname",
-    "explanationCN": "【晋】、【津】、【增】、【甑】族姓"
+    "explanationCN": "【晋】【津】【增】【甑】"
   },
   {
     "character": "𗥙",
     "GX": "tsha̱ṃ¹",
     "GHC": "tshã¹",
     "explanationEN": "steed; fine horse",
-    "explanationCN": "骏、驥"
+    "explanationCN": "骏驥"
   },
   {
     "character": "𗥂",
     "GX": "ŋqhe̱¹",
     "GHC": "khe̱j¹",
     "explanationEN": "house; room",
-    "explanationCN": "屋、捨"
+    "explanationCN": "屋捨"
   },
   {
     "character": "𗥩",
     "GX": "lwu²",
     "GHC": "ljwu²",
     "explanationEN": "to meet; to assemble",
-    "explanationCN": "1.会、聚、盟2.期"
+    "explanationCN": "1.会聚盟2.期"
   },
   {
     "character": "𗣎",
@@ -22552,14 +22552,14 @@ const DICTIONARY_DATA = [
     "GX": "rtwar¹",
     "GHC": "tjwar¹",
     "explanationEN": "to cease; to stop",
-    "explanationCN": "息、停、止"
+    "explanationCN": "息停止"
   },
   {
     "character": "𗨩",
     "GX": "pa̱¹",
     "GHC": "pa¹",
     "explanationEN": "a surname",
-    "explanationCN": "【巴】、【波】族姓"
+    "explanationCN": "【巴】【波】"
   },
   {
     "character": "𗪣",
@@ -22622,7 +22622,7 @@ const DICTIONARY_DATA = [
     "GX": "ntho¹",
     "GHC": "thjo̱¹",
     "explanationEN": "beautiful; wonderful",
-    "explanationCN": "妙、懿、美"
+    "explanationCN": "妙懿美"
   },
   {
     "character": "𗥺",
@@ -22636,14 +22636,14 @@ const DICTIONARY_DATA = [
     "GX": "lheh²",
     "GHC": "lhjịj²",
     "explanationEN": "a surname",
-    "explanationCN": "【令】、【领】、【呤】族姓"
+    "explanationCN": "【令】【领】【呤】"
   },
   {
     "character": "𗫥",
     "GX": "dźəh¹",
     "GHC": "dźjɨ̣¹",
     "explanationEN": "ten",
-    "explanationCN": "十、什"
+    "explanationCN": "十什"
   },
   {
     "character": "𗪓",
@@ -22671,7 +22671,7 @@ const DICTIONARY_DATA = [
     "GX": "kah²",
     "GHC": "kjạ²",
     "explanationEN": "song",
-    "explanationCN": "1.歌曲汉语借词2.曲"
+    "explanationCN": "1.歌曲】2.曲"
   },
   {
     "character": "𗩉",
@@ -22685,14 +22685,14 @@ const DICTIONARY_DATA = [
     "GX": "tsho̱ṃ¹",
     "GHC": "tshow¹",
     "explanationEN": "to teach; to instruct",
-    "explanationCN": "1.教、指示2.又音【座】"
+    "explanationCN": "1.教指示2.又音【座】"
   },
   {
     "character": "𗣮",
     "GX": "ye¹",
     "GHC": "ˑjij¹",
     "explanationEN": "a surname",
-    "explanationCN": "【盈】、【耶】族姓"
+    "explanationCN": "【盈】【耶】"
   },
   {
     "character": "𗧖",
@@ -22706,7 +22706,7 @@ const DICTIONARY_DATA = [
     "GX": "dzu²",
     "GHC": "dzju²",
     "explanationEN": "complete; whole; all",
-    "explanationCN": "全、俱"
+    "explanationCN": "全俱"
   },
   {
     "character": "𗤚",
@@ -22769,14 +22769,14 @@ const DICTIONARY_DATA = [
     "GX": "śiṃ¹",
     "GHC": "śjĩ¹",
     "explanationEN": "body",
-    "explanationCN": "1.身汉语借词2.【审】（珠 283）、【肾】（珠 086）、【深】（珠 124）、【辰】（珠 101）、【申】（珠 101）、【神】（珠 064）、【绳】（珠 246）3.【臣】、【沉】、【晨】"
+    "explanationCN": "1.身】2.【审】（珠 283）【肾】（珠 086）【深】（珠 124）【辰】（珠 101）【申】（珠 101）【神】（珠 064）【绳】（珠 246）3.【臣】【沉】【晨】"
   },
   {
     "character": "𗤲",
     "GX": "tsho̱ṃ²",
     "GHC": "tshow²",
     "explanationEN": "to ridicule; to deride",
-    "explanationCN": "宣、嘲"
+    "explanationCN": "宣嘲"
   },
   {
     "character": "𗿏",
@@ -22797,7 +22797,7 @@ const DICTIONARY_DATA = [
     "GX": "śa¹",
     "GHC": "śja¹",
     "explanationEN": "to buy or sell on credit",
-    "explanationCN": "1.赊汉语借词2.【捨】、【闍】"
+    "explanationCN": "1.赊】2.【捨】【闍】"
   },
   {
     "character": "𗿙",
@@ -22832,14 +22832,14 @@ const DICTIONARY_DATA = [
     "GX": "thə̱¹",
     "GHC": "thə¹",
     "explanationEN": "cooperation",
-    "explanationCN": "协力、合力"
+    "explanationCN": "协力合力"
   },
   {
     "character": "𗦂",
     "GX": "dzi¹",
     "GHC": "dzji¹",
     "explanationEN": "calm",
-    "explanationCN": "心静、心安"
+    "explanationCN": "心静心安"
   },
   {
     "character": "𗨲",
@@ -22860,7 +22860,7 @@ const DICTIONARY_DATA = [
     "GX": "qho̱ṃ¹",
     "GHC": "khow¹",
     "explanationEN": "a surname",
-    "explanationCN": "【穹】、【空】、【孔】族姓"
+    "explanationCN": "【穹】【空】【孔】"
   },
   {
     "character": "𗨪",
@@ -22881,7 +22881,7 @@ const DICTIONARY_DATA = [
     "GX": "qo̱ṃ¹",
     "GHC": "kow¹",
     "explanationEN": "body",
-    "explanationCN": "躬汉语借词"
+    "explanationCN": "躬】"
   },
   {
     "character": "𗦳",
@@ -22902,7 +22902,7 @@ const DICTIONARY_DATA = [
     "GX": "tśhweṃ¹",
     "GHC": "tśhjwɨj¹",
     "explanationEN": "to prohibit; to forbid; to ban",
-    "explanationCN": "1.禁、治2.【修】、【齐】、【慎】、【谨】、【製】、【驭】"
+    "explanationCN": "1.禁治2.【修】【齐】【慎】【谨】【製】【驭】"
   },
   {
     "character": "𗼁",
@@ -22916,7 +22916,7 @@ const DICTIONARY_DATA = [
     "GX": "deṃ¹",
     "GHC": "djɨj¹",
     "explanationEN": "to hide; to shelter",
-    "explanationCN": "匿、窝、藏"
+    "explanationCN": "匿窝藏"
   },
   {
     "character": "𗐂",
@@ -22930,7 +22930,7 @@ const DICTIONARY_DATA = [
     "GX": "tśu¹",
     "GHC": "tśju¹",
     "explanationEN": "urn; earthen jar; bottle",
-    "explanationCN": "瓮、瓶"
+    "explanationCN": "瓮瓶"
   },
   {
     "character": "𗏘",
@@ -22944,7 +22944,7 @@ const DICTIONARY_DATA = [
     "GX": "na̱¹",
     "GHC": "na¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【那】、【纳】族姓2.【南】"
+    "explanationCN": "1.【那】【纳】2.【南】"
   },
   {
     "character": "𗣄",
@@ -22965,14 +22965,14 @@ const DICTIONARY_DATA = [
     "GX": "tsha²",
     "GHC": "tshja²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【潜】、【千】、【贱】、【浅】、【钱】、【践】族姓及"
+    "explanationCN": "【潜】【千】【贱】【浅】【钱】【践】及"
   },
   {
     "character": "𗣣",
     "GX": "tshi¹",
     "GHC": "tshji¹",
     "explanationEN": "food and drink; cooked rice or other cereals",
-    "explanationCN": "飧、食、饌"
+    "explanationCN": "飧食饌"
   },
   {
     "character": "𗣶",
@@ -22993,14 +22993,14 @@ const DICTIONARY_DATA = [
     "GX": "zih²",
     "GHC": "zjwị²",
     "explanationEN": "to give birth",
-    "explanationCN": "生、產"
+    "explanationCN": "生產"
   },
   {
     "character": "𗥷",
     "GX": "nla̱¹",
     "GHC": "la̱¹",
     "explanationEN": "color; look",
-    "explanationCN": "色、容、顏"
+    "explanationCN": "色容顏"
   },
   {
     "character": "𗧕",
@@ -23014,7 +23014,7 @@ const DICTIONARY_DATA = [
     "GX": "la²",
     "GHC": "lja²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【罗】、【拉】、【喇】、【辣】族姓及"
+    "explanationCN": "【罗】【拉】【喇】【辣】及"
   },
   {
     "character": "𗧌",
@@ -23042,7 +23042,7 @@ const DICTIONARY_DATA = [
     "GX": "ru̱r¹",
     "GHC": "rur¹",
     "explanationEN": "narrow",
-    "explanationCN": "狭、窄"
+    "explanationCN": "狭窄"
   },
   {
     "character": "𗩷",
@@ -23063,7 +23063,7 @@ const DICTIONARY_DATA = [
     "GX": "lə̱²",
     "GHC": "lə²",
     "explanationEN": "to cover; to hide from view",
-    "explanationCN": "遮蔽、遮掩"
+    "explanationCN": "遮蔽遮掩"
   },
   {
     "character": "𗽖",
@@ -23077,7 +23077,7 @@ const DICTIONARY_DATA = [
     "GX": "da̱ṃ¹",
     "GHC": "dã¹",
     "explanationEN": "to kick",
-    "explanationCN": "蹴、踢"
+    "explanationCN": "蹴踢"
   },
   {
     "character": "𗽜",
@@ -23105,7 +23105,7 @@ const DICTIONARY_DATA = [
     "GX": "naw²",
     "GHC": "nja̱²",
     "explanationEN": "a surname",
-    "explanationCN": "【药】、【纳】族姓"
+    "explanationCN": "【药】【纳】"
   },
   {
     "character": "𗿌",
@@ -23126,14 +23126,14 @@ const DICTIONARY_DATA = [
     "GX": "lwi̱w¹",
     "GHC": "lwew¹",
     "explanationEN": "gas; smoke; flame",
-    "explanationCN": "1.气、焰2.蒸"
+    "explanationCN": "1.气焰2.蒸"
   },
   {
     "character": "𘔴",
     "GX": "du²",
     "GHC": "dju²",
     "explanationEN": "to give birth",
-    "explanationCN": "生、產"
+    "explanationCN": "生產"
   },
   {
     "character": "𘟦",
@@ -23154,7 +23154,7 @@ const DICTIONARY_DATA = [
     "GX": "rγa̱r²",
     "GHC": "ɣar²",
     "explanationEN": "amazement; astonishment",
-    "explanationCN": "惊讶、惊愕、惊骇"
+    "explanationCN": "惊讶惊愕惊骇"
   },
   {
     "character": "𗩵",
@@ -23168,14 +23168,14 @@ const DICTIONARY_DATA = [
     "GX": "kiw¹",
     "GHC": "kjiw¹",
     "explanationEN": "year; age",
-    "explanationCN": "年、岁"
+    "explanationCN": "年岁"
   },
   {
     "character": "𗤔",
     "GX": "mu²",
     "GHC": "mju²",
     "explanationEN": "to dance; to play",
-    "explanationCN": "舞蹈、娱乐、游戏"
+    "explanationCN": "舞蹈娱乐游戏"
   },
   {
     "character": "𗦋",
@@ -23189,28 +23189,28 @@ const DICTIONARY_DATA = [
     "GX": "di²",
     "GHC": "dji²",
     "explanationEN": "land",
-    "explanationCN": "地汉语借词"
+    "explanationCN": "地】"
   },
   {
     "character": "𗽑",
     "GX": "nde²",
     "GHC": "dji̱j²",
     "explanationEN": "grave; cemetery",
-    "explanationCN": "坟、墓"
+    "explanationCN": "坟墓"
   },
   {
     "character": "𗾟",
     "GX": "vwa̱h²",
     "GHC": "wạ²",
     "explanationEN": "vast; wide; extensive",
-    "explanationCN": "广、昊、弘"
+    "explanationCN": "广昊弘"
   },
   {
     "character": "𗿮",
     "GX": "pə̱¹",
     "GHC": "pə¹",
     "explanationEN": "people of father’s generation",
-    "explanationCN": "父辈、长辈"
+    "explanationCN": "父辈长辈"
   },
   {
     "character": "𗿞",
@@ -23224,7 +23224,7 @@ const DICTIONARY_DATA = [
     "GX": "llih²",
     "GHC": "ljị²",
     "explanationEN": "to combine; to gather",
-    "explanationCN": "结合、聚集"
+    "explanationCN": "结合聚集"
   },
   {
     "character": "𗏮",
@@ -23245,7 +23245,7 @@ const DICTIONARY_DATA = [
     "GX": "yiw¹",
     "GHC": "ˑjiw¹",
     "explanationEN": "cause",
-    "explanationCN": "原因、因缘、由"
+    "explanationCN": "原因因缘由"
   },
   {
     "character": "𗧀",
@@ -23259,14 +23259,14 @@ const DICTIONARY_DATA = [
     "GX": "tśeh¹",
     "GHC": "tśjịj¹",
     "explanationEN": "year; age",
-    "explanationCN": "年、岁"
+    "explanationCN": "年岁"
   },
   {
     "character": "𗩠",
     "GX": "ba̱h²",
     "GHC": "bạ²",
     "explanationEN": "luxuriant; majestic",
-    "explanationCN": "茂盛、壮"
+    "explanationCN": "茂盛壮"
   },
   {
     "character": "𗫦",
@@ -23294,7 +23294,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋŋaa̱²",
     "GHC": "ŋia̱²",
     "explanationEN": "goose",
-    "explanationCN": "1.鹅2.【顏】、【宴】、【崖】、【英】、【晏】、【琊】3.【牙】（珠 183）、【芽】（珠 152）、【岩】（珠 122）、【鸭】（珠 166）、【雁】（珠 166）、【眼】（珠 142）4.【雅】、【晏】、【琊】、【邪】（音 197）"
+    "explanationCN": "1.鹅2.【顏】【宴】【崖】【英】【晏】【琊】3.【牙】（珠 183）【芽】（珠 152）【岩】（珠 122）【鸭】（珠 166）【雁】（珠 166）【眼】（珠 142）4.【雅】【晏】【琊】【邪】（音 197）"
   },
   {
     "character": "𗿩",
@@ -23329,7 +23329,7 @@ const DICTIONARY_DATA = [
     "GX": "loṃ²",
     "GHC": "ljow²",
     "explanationEN": "to measure",
-    "explanationCN": "量汉语借词"
+    "explanationCN": "量】"
   },
   {
     "character": "𗩸",
@@ -23343,7 +23343,7 @@ const DICTIONARY_DATA = [
     "GX": "swa̱ṃ¹",
     "GHC": "swã¹",
     "explanationEN": "mute",
-    "explanationCN": "1.瘂、冥2.【隋】"
+    "explanationCN": "1.瘂冥2.【隋】"
   },
   {
     "character": "𗪇",
@@ -23364,14 +23364,14 @@ const DICTIONARY_DATA = [
     "GX": "mmi̱²",
     "GHC": "me̱²",
     "explanationEN": "coal; mine; holy mountain",
-    "explanationCN": "煤（矿山、神山）"
+    "explanationCN": "煤（矿山神山）"
   },
   {
     "character": "𗿦",
     "GX": "ma¹",
     "GHC": "mja¹",
     "explanationEN": "female; woman",
-    "explanationCN": "1.雌、母、妇2.【麻】族姓"
+    "explanationCN": "1.雌母妇2.【麻】"
   },
   {
     "character": "𗺗",
@@ -23399,7 +23399,7 @@ const DICTIONARY_DATA = [
     "GX": "rni̱r²",
     "GHC": "ner²",
     "explanationEN": "to fade; to wither; to shrivel up",
-    "explanationCN": "1.枯萎汉语借词2.感"
+    "explanationCN": "1.枯萎】2.感"
   },
   {
     "character": "𗺻",
@@ -23413,28 +23413,28 @@ const DICTIONARY_DATA = [
     "GX": "rdzwər¹",
     "GHC": "dzjwɨr¹",
     "explanationEN": "limit; end",
-    "explanationCN": "绝、尽"
+    "explanationCN": "绝尽"
   },
   {
     "character": "𗥵",
     "GX": "qhə̱²",
     "GHC": "khə²",
     "explanationEN": "a surname",
-    "explanationCN": "【骨】、【客】族姓"
+    "explanationCN": "【骨】【客】"
   },
   {
     "character": "𗫐",
     "GX": "su̱¹",
     "GHC": "su¹",
     "explanationEN": "a surname",
-    "explanationCN": "【苏】、【肃】族姓"
+    "explanationCN": "【苏】【肃】"
   },
   {
     "character": "𗩏",
     "GX": "tshi̱²",
     "GHC": "tshe²",
     "explanationEN": "target",
-    "explanationCN": "盔、垛、靶"
+    "explanationCN": "盔垛靶"
   },
   {
     "character": "𗻡",
@@ -23490,21 +23490,21 @@ const DICTIONARY_DATA = [
     "GX": "γiw¹",
     "GHC": "ɣjiw¹",
     "explanationEN": "to summon (for surrender); to call for",
-    "explanationCN": "招、请、摄"
+    "explanationCN": "招请摄"
   },
   {
     "character": "𗏷",
     "GX": "gə²",
     "GHC": "gjɨ²",
     "explanationEN": "coffin; casket",
-    "explanationCN": "棺、匣、函、帙"
+    "explanationCN": "棺匣函帙"
   },
   {
     "character": "𗦛",
     "GX": "rdzə̱r²",
     "GHC": "dzər²",
     "explanationEN": "to extrude",
-    "explanationCN": "挤、压"
+    "explanationCN": "挤压"
   },
   {
     "character": "𗪺",
@@ -23518,7 +23518,7 @@ const DICTIONARY_DATA = [
     "GX": "lə̱²",
     "GHC": "lə²",
     "explanationEN": "wrestling",
-    "explanationCN": "相扑、角抵、摔交"
+    "explanationCN": "相扑角抵摔交"
   },
   {
     "character": "𗧡",
@@ -23546,7 +23546,7 @@ const DICTIONARY_DATA = [
     "GX": "qae̱h²",
     "GHC": "kiẹj²",
     "explanationEN": "steps; stairs",
-    "explanationCN": "陛、阶汉语借词"
+    "explanationCN": "陛阶】"
   },
   {
     "character": "𗤮",
@@ -23567,7 +23567,7 @@ const DICTIONARY_DATA = [
     "GX": "rŋu̱r¹",
     "GHC": "ŋur¹",
     "explanationEN": "ridge",
-    "explanationCN": "脊、墚、岭"
+    "explanationCN": "脊墚岭"
   },
   {
     "character": "𗏋",
@@ -23588,42 +23588,42 @@ const DICTIONARY_DATA = [
     "GX": "seh²",
     "GHC": "sjịj²",
     "explanationEN": "to write",
-    "explanationCN": "1.写汉语借词2.画"
+    "explanationCN": "1.写】2.画"
   },
   {
     "character": "𗣵",
     "GX": "bae̱¹",
     "GHC": "biej¹",
     "explanationEN": "a surname",
-    "explanationCN": "【埋】、【默】、【墨】族姓"
+    "explanationCN": "【埋】【默】【墨】"
   },
   {
     "character": "𗩥",
     "GX": "bo̱¹",
     "GHC": "bo¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【婆】、【部】"
+    "explanationCN": "【婆】【部】"
   },
   {
     "character": "𗫏",
     "GX": "thwih¹",
     "GHC": "thjwị¹",
     "explanationEN": "the young",
-    "explanationCN": "少、幼"
+    "explanationCN": "少幼"
   },
   {
     "character": "𗏵",
     "GX": "ma¹",
     "GHC": "mja¹",
     "explanationEN": "end; tail; east",
-    "explanationCN": "1.末、尾、东2.【嘛】、【末】、【摩】、【么】、【謨】、【莫】、【曼】"
+    "explanationCN": "1.末尾东2.【嘛】【末】【摩】【么】【謨】【莫】【曼】"
   },
   {
     "character": "𗦬",
     "GX": "ġu̱²",
     "GHC": "gu²",
     "explanationEN": "common; generally",
-    "explanationCN": "1.共、总、通2.二字重迭表示“俱共”、“共同”3.廓、交"
+    "explanationCN": "1.共总通2.二字重迭表示“俱共”“共同”3.廓交"
   },
   {
     "character": "𗪢",
@@ -23665,7 +23665,7 @@ const DICTIONARY_DATA = [
     "GX": "mi̱²",
     "GHC": "me²",
     "explanationEN": "to smear; to plaster",
-    "explanationCN": "涂、抹"
+    "explanationCN": "涂抹"
   },
   {
     "character": "𗏿",
@@ -23686,7 +23686,7 @@ const DICTIONARY_DATA = [
     "GX": "hi̱w¹",
     "GHC": "xew¹",
     "explanationEN": "a kind of grass",
-    "explanationCN": "1.【厚】草名2.【喉】（珠 184）、【㬋】（珠 082）、【篌】（珠 324）、【后】（珠 108）、【霍】（音 203）、【侯】、【呼】"
+    "explanationCN": "1.【厚】草名2.【喉】（珠 184）【㬋】（珠 082）【篌】（珠 324）【后】（珠 108）【霍】（音 203）【侯】【呼】"
   },
   {
     "character": "𗻬",
@@ -23700,14 +23700,14 @@ const DICTIONARY_DATA = [
     "GX": "bə̱²",
     "GHC": "bə²",
     "explanationEN": "pellet",
-    "explanationCN": "颗、粒"
+    "explanationCN": "颗粒"
   },
   {
     "character": "𗼾",
     "GX": "ni̱ṃ¹",
     "GHC": "nẽ¹",
     "explanationEN": "a place name",
-    "explanationCN": "【谷】、【南】地名"
+    "explanationCN": "【谷】【南】地名"
   },
   {
     "character": "𗧴",
@@ -23728,7 +23728,7 @@ const DICTIONARY_DATA = [
     "GX": "mba̱¹",
     "GHC": "ba̱¹",
     "explanationEN": "a surname",
-    "explanationCN": "【冒】、【末】族姓"
+    "explanationCN": "【冒】【末】"
   },
   {
     "character": "𗫓",
@@ -23742,7 +23742,7 @@ const DICTIONARY_DATA = [
     "GX": "gə²",
     "GHC": "gjɨ²",
     "explanationEN": "cave; den; valley",
-    "explanationCN": "谷、穴、窍"
+    "explanationCN": "谷穴窍"
   },
   {
     "character": "𗥸",
@@ -23763,21 +23763,21 @@ const DICTIONARY_DATA = [
     "GX": "da̱ṃ¹",
     "GHC": "dã¹",
     "explanationEN": "a surname",
-    "explanationCN": "【陀】、【谭】族姓"
+    "explanationCN": "【陀】【谭】"
   },
   {
     "character": "𗐎",
     "GX": "pə¹",
     "GHC": "pjɨ¹",
     "explanationEN": "father",
-    "explanationCN": "父、爹、爸"
+    "explanationCN": "父爹爸"
   },
   {
     "character": "𗐖",
     "GX": "tśi¹",
     "GHC": "tśji¹",
     "explanationEN": "to arrive",
-    "explanationCN": "至、到汉语借词"
+    "explanationCN": "至到】"
   },
   {
     "character": "𗺇",
@@ -23791,7 +23791,7 @@ const DICTIONARY_DATA = [
     "GX": "qhae̱ṃ¹",
     "GHC": "khiəj¹",
     "explanationEN": "cough; asthma",
-    "explanationCN": "咳嗽、喘"
+    "explanationCN": "咳嗽喘"
   },
   {
     "character": "𘚸",
@@ -23812,35 +23812,35 @@ const DICTIONARY_DATA = [
     "GX": "he̱¹",
     "GHC": "xej¹",
     "explanationEN": "sea",
-    "explanationCN": "海汉语借词"
+    "explanationCN": "海】"
   },
   {
     "character": "𗐑",
     "GX": "śi¹",
     "GHC": "śji¹",
     "explanationEN": "scarf; kerchief",
-    "explanationCN": "纚汉语借词"
+    "explanationCN": "纚】"
   },
   {
     "character": "𗴡",
     "GX": "ŋġa̱¹",
     "GHC": "ga̱¹",
     "explanationEN": "doubt",
-    "explanationCN": "忧、疑"
+    "explanationCN": "忧疑"
   },
   {
     "character": "𗴑",
     "GX": "qhae̱ṃ¹",
     "GHC": "khiəj¹",
     "explanationEN": "calf (of the leg)",
-    "explanationCN": "腿肚（注：此字按字形结构应為，但《同音》甲、乙、丁本均刻為“?”）"
+    "explanationCN": "腿肚（注：此字按字形结构应為，但《同音》甲乙丁本均刻為“?”）"
   },
   {
     "character": "𗐋",
     "GX": "γa²",
     "GHC": "ɣja²",
     "explanationEN": "umbrella of a carriage",
-    "explanationCN": "轩、盖"
+    "explanationCN": "轩盖"
   },
   {
     "character": "𗃕",
@@ -23882,28 +23882,28 @@ const DICTIONARY_DATA = [
     "GX": "ṇo̱ṃ²",
     "GHC": "dźiow²",
     "explanationEN": "plaint; certificate",
-    "explanationCN": "状汉语借词"
+    "explanationCN": "状】"
   },
   {
     "character": "𗴏",
     "GX": "tsa¹",
     "GHC": "tsja¹",
     "explanationEN": "to broil; to roast",
-    "explanationCN": "炙、烫"
+    "explanationCN": "炙烫"
   },
   {
     "character": "𗃖",
     "GX": "mu²",
     "GHC": "mju²",
     "explanationEN": "a surname",
-    "explanationCN": "【穆】、【慕】族姓"
+    "explanationCN": "【穆】【慕】"
   },
   {
     "character": "𗃜",
     "GX": "llih²",
     "GHC": "ljị²",
     "explanationEN": "to be willing to; to be ready to",
-    "explanationCN": "乐意、愿意"
+    "explanationCN": "乐意愿意"
   },
   {
     "character": "𘓛",
@@ -23917,7 +23917,7 @@ const DICTIONARY_DATA = [
     "GX": "miw²",
     "GHC": "mjiw²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【莫】、【摩】、【藐】族姓、"
+    "explanationCN": "【莫】【摩】【藐】"
   },
   {
     "character": "𗃸",
@@ -23938,14 +23938,14 @@ const DICTIONARY_DATA = [
     "GX": "qhu̱¹",
     "GHC": "khu¹",
     "explanationEN": "detestion",
-    "explanationCN": "1.厌、嫌2.【佉】、【龋】"
+    "explanationCN": "1.厌嫌2.【佉】【龋】"
   },
   {
     "character": "𗃤",
     "GX": "mmi̱²",
     "GHC": "me̱²",
     "explanationEN": "relief; terrain",
-    "explanationCN": "地面、地势"
+    "explanationCN": "地面地势"
   },
   {
     "character": "𗴔",
@@ -23959,56 +23959,56 @@ const DICTIONARY_DATA = [
     "GX": "ŋwə¹",
     "GHC": "ŋjwɨ¹",
     "explanationEN": "fear; dread",
-    "explanationCN": "惊骇、恐惧"
+    "explanationCN": "惊骇恐惧"
   },
   {
     "character": "𗴢",
     "GX": "mbu¹",
     "GHC": "bju̱¹",
     "explanationEN": "to respect; to revere",
-    "explanationCN": "1.敬、恭2.贵、重3.仰、崇4.钦5.宗6.致7.惭8.豪9.达"
+    "explanationCN": "1.敬恭2.贵重3.仰崇4.钦5.宗6.致7.惭8.豪9.达"
   },
   {
     "character": "𘓗",
     "GX": "dzə̱¹",
     "GHC": "dzə¹",
     "explanationEN": "concentrated",
-    "explanationCN": "专心、专注"
+    "explanationCN": "专心专注"
   },
   {
     "character": "𗬴",
     "GX": "le̱ṃ¹",
     "GHC": "ləj¹",
     "explanationEN": "equal; even; moderate",
-    "explanationCN": "均匀、适中"
+    "explanationCN": "均匀适中"
   },
   {
     "character": "𗃦",
     "GX": "də¹",
     "GHC": "djɨ¹",
     "explanationEN": "city",
-    "explanationCN": "郭（城郭、都城）、邑"
+    "explanationCN": "郭（城郭都城）邑"
   },
   {
     "character": "𗐐",
     "GX": "hoṃ¹",
     "GHC": "xjow¹",
     "explanationEN": "fragrant",
-    "explanationCN": "1.香汉语借词2.【方】（珠 133、352）、【房】（珠 344）、【向】（珠 361）、【胸】（珠 185）、【乡】、【雄】（音 203）"
+    "explanationCN": "1.香】2.【方】（珠 133352）【房】（珠 344）【向】（珠 361）【胸】（珠 185）【乡】【雄】（音 203）"
   },
   {
     "character": "𗃬",
     "GX": "lli̱²",
     "GHC": "le²",
     "explanationEN": "fear; dread",
-    "explanationCN": "1.恐惧、惊骇2.怨"
+    "explanationCN": "1.恐惧惊骇2.怨"
   },
   {
     "character": "𗴟",
     "GX": "pa¹",
     "GHC": "pja¹",
     "explanationEN": "father",
-    "explanationCN": "爸爸、父亲、爹爹"
+    "explanationCN": "爸爸父亲爹爹"
   },
   {
     "character": "𗴓",
@@ -24022,7 +24022,7 @@ const DICTIONARY_DATA = [
     "GX": "pe¹",
     "GHC": "pji̱j¹",
     "explanationEN": "to flog; to beat",
-    "explanationCN": "扑打、拷打"
+    "explanationCN": "扑打拷打"
   },
   {
     "character": "𗃳",
@@ -24036,7 +24036,7 @@ const DICTIONARY_DATA = [
     "GX": "si̱w¹",
     "GHC": "sew¹",
     "explanationEN": "shyness; shame",
-    "explanationCN": "羞汉语借词"
+    "explanationCN": "羞】"
   },
   {
     "character": "𗼪",
@@ -24050,14 +24050,14 @@ const DICTIONARY_DATA = [
     "GX": "dzuh²",
     "GHC": "dzjụ²",
     "explanationEN": "rain",
-    "explanationCN": "1.雨2.两字重迭表示“降雨”之义3.【族】族姓"
+    "explanationCN": "1.雨2.两字重迭表示“降雨”之义3.【族】"
   },
   {
     "character": "𗐌",
     "GX": "vwa̱¹",
     "GHC": "wa¹",
     "explanationEN": "a surname",
-    "explanationCN": "【洼】族姓"
+    "explanationCN": "【洼】"
   },
   {
     "character": "𗼗",
@@ -24071,14 +24071,14 @@ const DICTIONARY_DATA = [
     "GX": "nwə¹",
     "GHC": "njwɨ¹",
     "explanationEN": "beautiful; good",
-    "explanationCN": "美、善"
+    "explanationCN": "美善"
   },
   {
     "character": "𘴂",
     "GX": "γu̱¹",
     "GHC": "ɣu¹",
     "explanationEN": "god; deity; divinity; supernatural being",
-    "explanationCN": "神、神仙"
+    "explanationCN": "神神仙"
   },
   {
     "character": "𗼍",
@@ -24092,35 +24092,35 @@ const DICTIONARY_DATA = [
     "GX": "γo̱ṃ²",
     "GHC": "ˑow²",
     "explanationEN": "a surname",
-    "explanationCN": "【敖】、【卧】族姓"
+    "explanationCN": "【敖】【卧】"
   },
   {
     "character": "𗼠",
     "GX": "khwə¹",
     "GHC": "khjwɨ¹",
     "explanationEN": "favor; merit",
-    "explanationCN": "1.功、恩2.【屈】、【掘】"
+    "explanationCN": "1.功恩2.【屈】【掘】"
   },
   {
     "character": "𗼡",
     "GX": "peh¹",
     "GHC": "pjịj¹",
     "explanationEN": "wizard",
-    "explanationCN": "巫、禳"
+    "explanationCN": "巫禳"
   },
   {
     "character": "𗼥",
     "GX": "qa̱¹",
     "GHC": "ka¹",
     "explanationEN": "power; authority",
-    "explanationCN": "权、势"
+    "explanationCN": "权势"
   },
   {
     "character": "𗼩",
     "GX": "γa̱h²",
     "GHC": "ɣạ²",
     "explanationEN": "name, surname",
-    "explanationCN": "1.【夏】族姓2.姻缘名词"
+    "explanationCN": "1.【夏】2.姻缘名词"
   },
   {
     "character": "𗼋",
@@ -24134,14 +24134,14 @@ const DICTIONARY_DATA = [
     "GX": "po̱¹",
     "GHC": "po¹",
     "explanationEN": "uncle",
-    "explanationCN": "父、叔、伯、舅、翁"
+    "explanationCN": "父叔伯舅翁"
   },
   {
     "character": "𘉈",
     "GX": "dzi̱w²",
     "GHC": "dzew²",
     "explanationEN": "to swindle; to cheat",
-    "explanationCN": "1.诈、骗、矫2.偽、僭"
+    "explanationCN": "1.诈骗矫2.偽僭"
   },
   {
     "character": "𘉃",
@@ -24169,21 +24169,21 @@ const DICTIONARY_DATA = [
     "GX": "pe²",
     "GHC": "pjij²",
     "explanationEN": "father; people of father's generation",
-    "explanationCN": "爸、爹、翁"
+    "explanationCN": "爸爹翁"
   },
   {
     "character": "𗁄",
     "GX": "mo̱²",
     "GHC": "mo²",
     "explanationEN": "fatigue",
-    "explanationCN": "疲倦、疲乏"
+    "explanationCN": "疲倦疲乏"
   },
   {
     "character": "𗎴",
     "GX": "ti¹",
     "GHC": "tji¹",
     "explanationEN": "east; end",
-    "explanationCN": "东方、末尾"
+    "explanationCN": "东方末尾"
   },
   {
     "character": "𗃉",
@@ -24204,7 +24204,7 @@ const DICTIONARY_DATA = [
     "GX": "hə̱¹",
     "GHC": "xə¹",
     "explanationEN": "to seek; to look for",
-    "explanationCN": "1.寻觅、寻找2.【霍】（音 203）"
+    "explanationCN": "1.寻觅寻找2.【霍】（音 203）"
   },
   {
     "character": "𗆎",
@@ -24218,14 +24218,14 @@ const DICTIONARY_DATA = [
     "GX": "γa̱¹",
     "GHC": "ˑja¹",
     "explanationEN": "alone; lonely; different",
-    "explanationCN": "独、孤、异"
+    "explanationCN": "独孤异"
   },
   {
     "character": "𗄼",
     "GX": "la¹",
     "GHC": "lja¹",
     "explanationEN": "to come; to fall",
-    "explanationCN": "来、降"
+    "explanationCN": "来降"
   },
   {
     "character": "𗆧",
@@ -24239,14 +24239,14 @@ const DICTIONARY_DATA = [
     "GX": "qaa̱¹",
     "GHC": "kia¹",
     "explanationEN": "uneven; to fight",
-    "explanationCN": "参差、鬭动词"
+    "explanationCN": "参差鬭动词"
   },
   {
     "character": "𗆉",
     "GX": "qao̱¹",
     "GHC": "kio¹",
     "explanationEN": "to drive; to oust",
-    "explanationCN": "驱、赶、撵"
+    "explanationCN": "驱赶撵"
   },
   {
     "character": "𗃈",
@@ -24260,7 +24260,7 @@ const DICTIONARY_DATA = [
     "GX": "tśhwaw¹",
     "GHC": "tśhjwa̱¹",
     "explanationEN": "to separate; to break off",
-    "explanationCN": "分开、分离、掰开"
+    "explanationCN": "分开分离掰开"
   },
   {
     "character": "𗂒",
@@ -24274,7 +24274,7 @@ const DICTIONARY_DATA = [
     "GX": "lwe̱ṃ¹",
     "GHC": "lwəj¹",
     "explanationEN": "slow; obtuse",
-    "explanationCN": "迟、钝"
+    "explanationCN": "迟钝"
   },
   {
     "character": "𗆵",
@@ -24295,28 +24295,28 @@ const DICTIONARY_DATA = [
     "GX": "la̱h¹",
     "GHC": "lạ¹",
     "explanationEN": "to estimate",
-    "explanationCN": "量、测"
+    "explanationCN": "量测"
   },
   {
     "character": "𗂱",
     "GX": "lə̱¹",
     "GHC": "lə¹",
     "explanationEN": "neck",
-    "explanationCN": "颈、项"
+    "explanationCN": "颈项"
   },
   {
     "character": "𗃅",
     "GX": "rvwi̱r¹",
     "GHC": "wer¹",
     "explanationEN": "to decorate; to adorn",
-    "explanationCN": "装饰、校饰、严饰"
+    "explanationCN": "装饰校饰严饰"
   },
   {
     "character": "𗹬",
     "GX": "se²",
     "GHC": "sjij²",
     "explanationEN": "passion; knowledge",
-    "explanationCN": "1.情、知、识2.虞人"
+    "explanationCN": "1.情知识2.虞人"
   },
   {
     "character": "𗹟",
@@ -24330,7 +24330,7 @@ const DICTIONARY_DATA = [
     "GX": "rtśər²",
     "GHC": "tśjɨ̱r²",
     "explanationEN": "to shoot",
-    "explanationCN": "射汉语借词"
+    "explanationCN": "射】"
   },
   {
     "character": "𗀸",
@@ -24358,7 +24358,7 @@ const DICTIONARY_DATA = [
     "GX": "rma̱r²",
     "GHC": "mar²",
     "explanationEN": "sorrowful; puzzled",
-    "explanationCN": "苦、罪、迷惑"
+    "explanationCN": "苦罪迷惑"
   },
   {
     "character": "𗆴",
@@ -24372,7 +24372,7 @@ const DICTIONARY_DATA = [
     "GX": "γwae̱ṃ¹",
     "GHC": "ɣiwəj¹",
     "explanationEN": "harsh and unreasonable; perverse",
-    "explanationCN": "横汉语借词"
+    "explanationCN": "横】"
   },
   {
     "character": "𗆢",
@@ -24428,7 +24428,7 @@ const DICTIONARY_DATA = [
     "GX": "lla̱h¹",
     "GHC": "lạ¹",
     "explanationEN": "hand",
-    "explanationCN": "1.手2.臂3.巾4.擒5.始、末"
+    "explanationCN": "1.手2.臂3.巾4.擒5.始末"
   },
   {
     "character": "𗁃",
@@ -24449,7 +24449,7 @@ const DICTIONARY_DATA = [
     "GX": "ntwi̱²",
     "GHC": "twe̱²",
     "explanationEN": "pair; couple",
-    "explanationCN": "对汉语借词"
+    "explanationCN": "对】"
   },
   {
     "character": "𘴀",
@@ -24491,7 +24491,7 @@ const DICTIONARY_DATA = [
     "GX": "dzeh¹",
     "GHC": "dzjịj¹",
     "explanationEN": "muddy; trubid",
-    "explanationCN": "混、浊"
+    "explanationCN": "混浊"
   },
   {
     "character": "𗡽",
@@ -24519,14 +24519,14 @@ const DICTIONARY_DATA = [
     "GX": "rγo̱r²",
     "GHC": "ɣor²",
     "explanationEN": "winding; meandering",
-    "explanationCN": "斜、弯曲"
+    "explanationCN": "斜弯曲"
   },
   {
     "character": "𗡻",
     "GX": "lə¹",
     "GHC": "ljɨ̣¹",
     "explanationEN": "excrement; dung",
-    "explanationCN": "屎、粪"
+    "explanationCN": "屎粪"
   },
   {
     "character": "𗆹",
@@ -24547,56 +24547,56 @@ const DICTIONARY_DATA = [
     "GX": "lla¹",
     "GHC": "lja¹",
     "explanationEN": "to transport.ᴀ",
-    "explanationCN": "送还.ᴀ、运送.ᴀ"
+    "explanationCN": "送还.ᴀ运送.ᴀ"
   },
   {
     "character": "𗆱",
     "GX": "tha̱²",
     "GHC": "tha²",
     "explanationEN": "to close; to handcuff",
-    "explanationCN": "关闭、銬梏"
+    "explanationCN": "关闭銬梏"
   },
   {
     "character": "𗇁",
     "GX": "śaṃ¹",
     "GHC": "śjã¹",
     "explanationEN": "(Buddhist) chan; zen",
-    "explanationCN": "禪汉语借词"
+    "explanationCN": "禪】"
   },
   {
     "character": "𗅭",
     "GX": "rŋi̱wr¹",
     "GHC": "ŋewr¹",
     "explanationEN": "to chop; to cut",
-    "explanationCN": "斩、断、裁、剪、割"
+    "explanationCN": "斩断裁剪割"
   },
   {
     "character": "𗁦",
     "GX": "beh¹",
     "GHC": "bjịj¹",
     "explanationEN": "to promote; to raise",
-    "explanationCN": "1.高、昇、举2.骄慢"
+    "explanationCN": "1.高昇举2.骄慢"
   },
   {
     "character": "𗃊",
     "GX": "pho̱¹",
     "GHC": "pho¹",
     "explanationEN": "to splash; to pour",
-    "explanationCN": "1.泼、洒汉语借词2.灌"
+    "explanationCN": "1.泼洒】2.灌"
   },
   {
     "character": "𗂸",
     "GX": "bi²",
     "GHC": "bji²",
     "explanationEN": "prime minister (in ancient China)",
-    "explanationCN": "臣、丞相、宰相、官宦、大夫"
+    "explanationCN": "臣丞相宰相官宦大夫"
   },
   {
     "character": "𗂘",
     "GX": "rker²",
     "GHC": "kji̱r²",
     "explanationEN": "to obstruct",
-    "explanationCN": "障碍、性衰竭（阳痿）"
+    "explanationCN": "障碍性衰竭（阳痿）"
   },
   {
     "character": "𗃎",
@@ -24617,14 +24617,14 @@ const DICTIONARY_DATA = [
     "GX": "di̱w¹",
     "GHC": "dew¹",
     "explanationEN": "a surname",
-    "explanationCN": "【竇】、【杜】、【奴】族姓"
+    "explanationCN": "【竇】【杜】【奴】"
   },
   {
     "character": "𗹦",
     "GX": "mə̱¹",
     "GHC": "mə¹",
     "explanationEN": "sky; heaven",
-    "explanationCN": "1.天2.活业、营生"
+    "explanationCN": "1.天2.活业营生"
   },
   {
     "character": "𗺃",
@@ -24638,14 +24638,14 @@ const DICTIONARY_DATA = [
     "GX": "pha²",
     "GHC": "phja²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【拍】、【帕】"
+    "explanationCN": "【拍】【帕】"
   },
   {
     "character": "𗎩",
     "GX": "qaa̱¹",
     "GHC": "kia¹",
     "explanationEN": "family; household",
-    "explanationCN": "家汉语借词"
+    "explanationCN": "家】"
   },
   {
     "character": "𗅡",
@@ -24666,35 +24666,35 @@ const DICTIONARY_DATA = [
     "GX": "yu¹",
     "GHC": "ˑju¹",
     "explanationEN": "big tree",
-    "explanationCN": "1.大（榆）树2.【羽】、【裕】、【昱】、【瘐】3.【豫】、【余】、【昱】、【约】（音 202）"
+    "explanationCN": "1.大（榆）树2.【羽】【裕】【昱】【瘐】3.【豫】【余】【昱】【约】（音 202）"
   },
   {
     "character": "𗶰",
     "GX": "ne²",
     "GHC": "njij²",
     "explanationEN": "to expose; to reveal",
-    "explanationCN": "1.暴露2.露宿、躲避"
+    "explanationCN": "1.暴露2.露宿躲避"
   },
   {
     "character": "𘝔",
     "GX": "śwu¹",
     "GHC": "śjwu¹",
     "explanationEN": "to transport",
-    "explanationCN": "输汉语借词"
+    "explanationCN": "输】"
   },
   {
     "character": "𘝒",
     "GX": "śwu¹",
     "GHC": "śjwu¹",
     "explanationEN": "string; wool rope",
-    "explanationCN": "绳、毛绳"
+    "explanationCN": "绳毛绳"
   },
   {
     "character": "𘉧",
     "GX": "dźaw²",
     "GHC": "dźja̱²",
     "explanationEN": "skinny; wan and sallow",
-    "explanationCN": "消瘦、憔悴"
+    "explanationCN": "消瘦憔悴"
   },
   {
     "character": "𗌣",
@@ -24708,14 +24708,14 @@ const DICTIONARY_DATA = [
     "GX": "tshwu¹",
     "GHC": "tshjwu¹",
     "explanationEN": "to present as a gift; to give",
-    "explanationCN": "1.赠、施、供2.趣"
+    "explanationCN": "1.赠施供2.趣"
   },
   {
     "character": "𗢦",
     "GX": "gi²",
     "GHC": "gji²",
     "explanationEN": "flag; banner",
-    "explanationCN": "旗汉语借词"
+    "explanationCN": "旗】"
   },
   {
     "character": "𗋸",
@@ -24729,7 +24729,7 @@ const DICTIONARY_DATA = [
     "GX": "ntho̱²",
     "GHC": "tho̱²",
     "explanationEN": "to harm; to endanger",
-    "explanationCN": "危害、损害"
+    "explanationCN": "危害损害"
   },
   {
     "character": "𗋹",
@@ -24757,7 +24757,7 @@ const DICTIONARY_DATA = [
     "GX": "rphar¹",
     "GHC": "phjar¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【派】、【帕】"
+    "explanationCN": "【派】【帕】"
   },
   {
     "character": "𗋱",
@@ -24771,7 +24771,7 @@ const DICTIONARY_DATA = [
     "GX": "ge¹",
     "GHC": "gjij¹",
     "explanationEN": "a surname",
-    "explanationCN": "【竭】、【迎】族姓"
+    "explanationCN": "【竭】【迎】"
   },
   {
     "character": "𗏈",
@@ -24792,7 +24792,7 @@ const DICTIONARY_DATA = [
     "GX": "thwa̱ṃ²",
     "GHC": "thwã²",
     "explanationEN": "a surname",
-    "explanationCN": "【段】、【断】族姓"
+    "explanationCN": "【段】【断】"
   },
   {
     "character": "𗇇",
@@ -24813,14 +24813,14 @@ const DICTIONARY_DATA = [
     "GX": "ha̱¹",
     "GHC": "xa¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【哈】族姓汉语借词2.【合】、【褐】、【皓】、【闔】3.活"
+    "explanationCN": "1.【哈】】2.【合】【褐】【皓】【闔】3.活"
   },
   {
     "character": "𗊞",
     "GX": "gi¹",
     "GHC": "gji¹",
     "explanationEN": "honest; upright",
-    "explanationCN": "正直、忠诚"
+    "explanationCN": "正直忠诚"
   },
   {
     "character": "𗋤",
@@ -24834,28 +24834,28 @@ const DICTIONARY_DATA = [
     "GX": "dzwə̱¹",
     "GHC": "dzwə¹",
     "explanationEN": "chapter; volume",
-    "explanationCN": "1.章、册2.首"
+    "explanationCN": "1.章册2.首"
   },
   {
     "character": "𗊝",
     "GX": "dźaw¹",
     "GHC": "dźja̱¹",
     "explanationEN": "to cross (a river)",
-    "explanationCN": "1.渡、涉2.浮"
+    "explanationCN": "1.渡涉2.浮"
   },
   {
     "character": "𗢕",
     "GX": "rlhər¹",
     "GHC": "lhjɨ̱r¹",
     "explanationEN": "to lose; to fall",
-    "explanationCN": "落、失、堕、夺"
+    "explanationCN": "落失堕夺"
   },
   {
     "character": "𗏅",
     "GX": "n·ywə¹",
     "GHC": "ˑjwɨ̱¹",
     "explanationEN": "to block; to obstruct",
-    "explanationCN": "障、蔽、遮、栏"
+    "explanationCN": "障蔽遮栏"
   },
   {
     "character": "𗊮",
@@ -24869,56 +24869,56 @@ const DICTIONARY_DATA = [
     "GX": "???",
     "GHC": "?",
     "explanationEN": "to press; to suppress",
-    "explanationCN": "压、榨"
+    "explanationCN": "压榨"
   },
   {
     "character": "𗌇",
     "GX": "kəh²",
     "GHC": "kjɨ̣²",
     "explanationEN": "harmonious",
-    "explanationCN": "和、谐"
+    "explanationCN": "和谐"
   },
   {
     "character": "𗋜",
     "GX": "tsa²",
     "GHC": "tsja²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【接】、【节】"
+    "explanationCN": "【接】【节】"
   },
   {
     "character": "𘊄",
     "GX": "ṇo̱ṃ²",
     "GHC": "niow²",
     "explanationEN": "evil; wicked; bad",
-    "explanationCN": "1.恶2.凶、3.涂4.妖5.【溺】（音 197）"
+    "explanationCN": "1.恶2.凶3.涂4.妖5.【溺】（音 197）"
   },
   {
     "character": "𘊁",
     "GX": "khiw²",
     "GHC": "khjiw²",
     "explanationEN": "to dig",
-    "explanationCN": "掘汉语借词"
+    "explanationCN": "掘】"
   },
   {
     "character": "𗋳",
     "GX": "kwa̱ṃ¹",
     "GHC": "kwã¹",
     "explanationEN": "tube",
-    "explanationCN": "1.管汉语借词2.【管】、【官】、【冠】"
+    "explanationCN": "1.管】2.【管】【官】【冠】"
   },
   {
     "character": "𗃛",
     "GX": "loṃ¹",
     "GHC": "ljow¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【梁】、【凉】、【亮】、【龙】族姓、"
+    "explanationCN": "【梁】【凉】【亮】【龙】"
   },
   {
     "character": "𗌆",
     "GX": "śwe²",
     "GHC": "śjwij²",
     "explanationEN": "to need; to want",
-    "explanationCN": "需、要"
+    "explanationCN": "需要"
   },
   {
     "character": "𗌠",
@@ -24939,14 +24939,14 @@ const DICTIONARY_DATA = [
     "GX": "pae̱ṃh²",
     "GHC": "piə̣j²",
     "explanationEN": "sweet words; flattery",
-    "explanationCN": "辞语、巧语、花言"
+    "explanationCN": "辞语巧语花言"
   },
   {
     "character": "𗫹",
     "GX": "γwə̱¹",
     "GHC": "ɣwə¹",
     "explanationEN": "to struggle; to fight",
-    "explanationCN": "、争、打"
+    "explanationCN": "争打"
   },
   {
     "character": "𗫺",
@@ -24960,7 +24960,7 @@ const DICTIONARY_DATA = [
     "GX": "rvwa̱r¹",
     "GHC": "war¹",
     "explanationEN": "to twine; to wind",
-    "explanationCN": "1.缠绕2.【娃】、【婆】"
+    "explanationCN": "1.缠绕2.【娃】【婆】"
   },
   {
     "character": "𗬅",
@@ -24981,7 +24981,7 @@ const DICTIONARY_DATA = [
     "GX": "γwə̱¹",
     "GHC": "ɣwə¹",
     "explanationEN": "a surname",
-    "explanationCN": "【鶻】族姓"
+    "explanationCN": "【鶻】"
   },
   {
     "character": "𗤤",
@@ -24995,14 +24995,14 @@ const DICTIONARY_DATA = [
     "GX": "lu̱²",
     "GHC": "lu²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【鲁】、【陆】、【卢】族姓、2.【炉】（珠 234）、【农】（珠 265）、【禄】（珠 062）、【碌】（珠 162）、【鹿】（珠 162）、【露】（珠 091）"
+    "explanationCN": "1.【鲁】【陆】【卢】2.【炉】（珠 234）【农】（珠 265）【禄】（珠 062）【碌】（珠 162）【鹿】（珠 162）【露】（珠 091）"
   },
   {
     "character": "𘊞",
     "GX": "lu̱²",
     "GHC": "lu²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【陆】、【路】、【农】"
+    "explanationCN": "【陆】【路】【农】"
   },
   {
     "character": "𘊔",
@@ -25016,21 +25016,21 @@ const DICTIONARY_DATA = [
     "GX": "ma¹",
     "GHC": "mja¹",
     "explanationEN": "hook",
-    "explanationCN": "勾、钩动词"
+    "explanationCN": "勾钩动词"
   },
   {
     "character": "𗤨",
     "GX": "dźu²",
     "GHC": "dźju²",
     "explanationEN": "timid; weak",
-    "explanationCN": "1.怯、弱2.衰、惫3.卑、劣"
+    "explanationCN": "1.怯弱2.衰惫3.卑劣"
   },
   {
     "character": "𗿑",
     "GX": "rhwə̱r¹",
     "GHC": "xwər¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【霍】、【壑】族姓2.鹤"
+    "explanationCN": "1.【霍】【壑】2.鹤"
   },
   {
     "character": "𘊟",
@@ -25051,7 +25051,7 @@ const DICTIONARY_DATA = [
     "GX": "tse²",
     "GHC": "tsjij²",
     "explanationEN": "to realize; to know",
-    "explanationCN": "1.悟、晓、通、达、明、瞭2.（菩）萨"
+    "explanationCN": "1.悟晓通达明瞭2.（菩）萨"
   },
   {
     "character": "𗨉",
@@ -25065,21 +25065,21 @@ const DICTIONARY_DATA = [
     "GX": "swe¹",
     "GHC": "sjwij¹",
     "explanationEN": "clear; obvious",
-    "explanationCN": "明显、分明、消息"
+    "explanationCN": "明显分明消息"
   },
   {
     "character": "𗪕",
     "GX": "mbi²",
     "GHC": "bji̱²",
     "explanationEN": "to count; to calculate",
-    "explanationCN": "数、计算"
+    "explanationCN": "数计算"
   },
   {
     "character": "𗪫",
     "GX": "le²",
     "GHC": "ljị²",
     "explanationEN": "a surname",
-    "explanationCN": "【黎】、【列】族姓"
+    "explanationCN": "【黎】【列】"
   },
   {
     "character": "𗿂",
@@ -25093,14 +25093,14 @@ const DICTIONARY_DATA = [
     "GX": "sih¹",
     "GHC": "sjị¹",
     "explanationEN": "pure",
-    "explanationCN": "1.清白2.【西】、【仙】（神仙名）"
+    "explanationCN": "1.清白2.【西】【仙】（神仙名）"
   },
   {
     "character": "𗪪",
     "GX": "śwu¹",
     "GHC": "śjwu¹",
     "explanationEN": "clear; transparent",
-    "explanationCN": "澈、澄、清"
+    "explanationCN": "澈澄清"
   },
   {
     "character": "𗨊",
@@ -25128,7 +25128,7 @@ const DICTIONARY_DATA = [
     "GX": "swə¹",
     "GHC": "sjwɨ¹",
     "explanationEN": "to make a noise; to stir up trouble",
-    "explanationCN": "哄、闹"
+    "explanationCN": "哄闹"
   },
   {
     "character": "𗩢",
@@ -25142,7 +25142,7 @@ const DICTIONARY_DATA = [
     "GX": "paa̱¹",
     "GHC": "pia¹",
     "explanationEN": "scar",
-    "explanationCN": "1.疤痕汉语借词2.【霸】、【班】"
+    "explanationCN": "1.疤痕】2.【霸】【班】"
   },
   {
     "character": "𗫅",
@@ -25163,14 +25163,14 @@ const DICTIONARY_DATA = [
     "GX": "ŋgi¹",
     "GHC": "gji̱¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【义】族姓2.【宜】、【玉】、【仪】、【毅】、【凝】（音 196）"
+    "explanationCN": "1.【义】2.【宜】【玉】【仪】【毅】【凝】（音 196）"
   },
   {
     "character": "𗤬",
     "GX": "nni²",
     "GHC": "nji̱²",
     "explanationEN": "to link; to unite",
-    "explanationCN": "1.连2.攻3.干4.蒙、坌5.死"
+    "explanationCN": "1.连2.攻3.干4.蒙坌5.死"
   },
   {
     "character": "𗧅",
@@ -25184,35 +25184,35 @@ const DICTIONARY_DATA = [
     "GX": "ve²",
     "GHC": "wjij²",
     "explanationEN": "a surname",
-    "explanationCN": "【温】、【魏】族姓"
+    "explanationCN": "【温】【魏】"
   },
   {
     "character": "𗫊",
     "GX": "bə̱¹",
     "GHC": "bə¹",
     "explanationEN": "suddenly; abruptly; to throw",
-    "explanationCN": "猛、投、起、弃副词"
+    "explanationCN": "猛投起弃副词"
   },
   {
     "character": "𗨗",
     "GX": "ndzu̱²",
     "GHC": "dzu̱²",
     "explanationEN": "harmonious",
-    "explanationCN": "协和、偕、谐"
+    "explanationCN": "协和偕谐"
   },
   {
     "character": "𗫁",
     "GX": "γwai̱¹",
     "GHC": "ɣiwe¹",
     "explanationEN": "influence; power",
-    "explanationCN": "权、势、贵"
+    "explanationCN": "权势贵"
   },
   {
     "character": "𗬕",
     "GX": "rmer²",
     "GHC": "mjijr²",
     "explanationEN": "dark; ignorant",
-    "explanationCN": "1.暗、昧2.宗源"
+    "explanationCN": "1.暗昧2.宗源"
   },
   {
     "character": "𗨾",
@@ -25233,14 +25233,14 @@ const DICTIONARY_DATA = [
     "GX": "γu¹",
     "GHC": "ɣju¹",
     "explanationEN": "to ask; to call",
-    "explanationCN": "请、召唤"
+    "explanationCN": "请召唤"
   },
   {
     "character": "𗽭",
     "GX": "qhi̱w²",
     "GHC": "khew²",
     "explanationEN": "opening; entrance; ferry crossing",
-    "explanationCN": "口、津汉语借词"
+    "explanationCN": "口津】"
   },
   {
     "character": "𘔵",
@@ -25275,7 +25275,7 @@ const DICTIONARY_DATA = [
     "GX": "yu¹",
     "GHC": "ˑju̱¹",
     "explanationEN": "to see; to look at",
-    "explanationCN": "1.看、视、覩、瞻2.检验"
+    "explanationCN": "1.看视覩瞻2.检验"
   },
   {
     "character": "𗪼",
@@ -25310,7 +25310,7 @@ const DICTIONARY_DATA = [
     "GX": "rtsi̱r¹",
     "GHC": "tser¹",
     "explanationEN": "to cure; to treat; to heal",
-    "explanationCN": "医、治"
+    "explanationCN": "医治"
   },
   {
     "character": "𗿧",
@@ -25352,7 +25352,7 @@ const DICTIONARY_DATA = [
     "GX": "γwe̱²",
     "GHC": "xwej²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【回】族姓汉语借词2.【慧】、【会】、【灰】、【恢】（音 202）"
+    "explanationCN": "1.【回】】2.【慧】【会】【灰】【恢】（音 202）"
   },
   {
     "character": "𗦽",
@@ -25366,7 +25366,7 @@ const DICTIONARY_DATA = [
     "GX": "tshwiṃ¹",
     "GHC": "tshjwĩ¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【村】、【寸】"
+    "explanationCN": "【村】【寸】"
   },
   {
     "character": "𗣨",
@@ -25387,14 +25387,14 @@ const DICTIONARY_DATA = [
     "GX": "rkər²",
     "GHC": "kjɨ̱r²",
     "explanationEN": "house; room",
-    "explanationCN": "室、屋、房、庐捨"
+    "explanationCN": "室屋房庐捨"
   },
   {
     "character": "𗥬",
     "GX": "ye¹",
     "GHC": "ˑjij¹",
     "explanationEN": "a surname",
-    "explanationCN": "【瓔】、【郢】（族姓）"
+    "explanationCN": "【瓔】【郢】（）"
   },
   {
     "character": "𗨐",
@@ -25422,42 +25422,42 @@ const DICTIONARY_DATA = [
     "GX": "ni²",
     "GHC": "nji²",
     "explanationEN": "whispered; quiet; secret",
-    "explanationCN": "窃窃、谆谆、低声、悄悄、暗暗、阴谋"
+    "explanationCN": "窃窃谆谆低声悄悄暗暗阴谋"
   },
   {
     "character": "𗤩",
     "GX": "γwaṃ¹",
     "GHC": "ɣjwã¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【袁】、【元】族姓2.【圆】（珠 352）、【园】（珠 133）、【原】（珠 121）、【愿】（珠 304）、【远】（珠 361）、【㳂】（珠 344）3.【渊】、【阮】、【苑】、【援】、【尹】、【兗】（音 202）"
+    "explanationCN": "1.【袁】【元】2.【圆】（珠 352）【园】（珠 133）【原】（珠 121）【愿】（珠 304）【远】（珠 361）【㳂】（珠 344）3.【渊】【阮】【苑】【援】【尹】【兗】（音 202）"
   },
   {
     "character": "𗪑",
     "GX": "rkhwar¹",
     "GHC": "khjwar¹",
     "explanationEN": "circle; ring",
-    "explanationCN": "圈汉语借词"
+    "explanationCN": "圈】"
   },
   {
     "character": "𗣟",
     "GX": "rver¹",
     "GHC": "wjijr¹",
     "explanationEN": "divination",
-    "explanationCN": "卜、占卜"
+    "explanationCN": "卜占卜"
   },
   {
     "character": "𗥆",
     "GX": "rmer²",
     "GHC": "mjijr²",
     "explanationEN": "stars",
-    "explanationCN": "辰、星"
+    "explanationCN": "辰星"
   },
   {
     "character": "𗽝",
     "GX": "qwaa̱¹",
     "GHC": "kiwa¹",
     "explanationEN": "a place name",
-    "explanationCN": "1.【瓜】、【寡】地名2.【媧】、【关】（音 197）"
+    "explanationCN": "1.【瓜】【寡】地名2.【媧】【关】（音 197）"
   },
   {
     "character": "𗿃",
@@ -25478,14 +25478,14 @@ const DICTIONARY_DATA = [
     "GX": "γwu̱h²",
     "GHC": "ˑwụ²",
     "explanationEN": "man; male",
-    "explanationCN": "男、雄"
+    "explanationCN": "男雄"
   },
   {
     "character": "𗥢",
     "GX": "dźih?",
     "GHC": "dźjị?",
     "explanationEN": "a surname",
-    "explanationCN": "【貰】族姓"
+    "explanationCN": "【貰】"
   },
   {
     "character": "𗩓",
@@ -25506,14 +25506,14 @@ const DICTIONARY_DATA = [
     "GX": "rer²",
     "GHC": "rjijr²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【令】、【力】族姓2.哉3.乐"
+    "explanationCN": "1.【令】【力】2.哉3.乐"
   },
   {
     "character": "𗣩",
     "GX": "tha̱²",
     "GHC": "tha²",
     "explanationEN": "to rely on; to depend",
-    "explanationCN": "1.托、依、靠、恃、柱2.【佗】3.【踏】（珠 242）、【大】（珠 326）、【道】（珠 276）、【桃】（珠 141、142）、【叹】（珠 275）、【毯】（珠 243）、【贪】（珠 355）、【达】（音 195）"
+    "explanationCN": "1.托依靠恃柱2.【佗】3.【踏】（珠 242）【大】（珠 326）【道】（珠 276）【桃】（珠 141142）【叹】（珠 275）【毯】（珠 243）【贪】（珠 355）【达】（音 195）"
   },
   {
     "character": "𗤟",
@@ -25555,7 +25555,7 @@ const DICTIONARY_DATA = [
     "GX": "no̱²",
     "GHC": "no²",
     "explanationEN": "to speak; to say; to state",
-    "explanationCN": "讲、说、述"
+    "explanationCN": "讲说述"
   },
   {
     "character": "𗿨",
@@ -25576,14 +25576,14 @@ const DICTIONARY_DATA = [
     "GX": "vwi̱¹",
     "GHC": "we¹",
     "explanationEN": "six; the sixth",
-    "explanationCN": "六、行六"
+    "explanationCN": "六行六"
   },
   {
     "character": "𗺜",
     "GX": "dzə̱h¹",
     "GHC": "dzə̣¹",
     "explanationEN": "dense",
-    "explanationCN": "1.稠、茂密2.聚集"
+    "explanationCN": "1.稠茂密2.聚集"
   },
   {
     "character": "𗺦",
@@ -25632,7 +25632,7 @@ const DICTIONARY_DATA = [
     "GX": "yə¹",
     "GHC": "ˑjɨ¹",
     "explanationEN": "marriage; matchmaker; relatives by marriage",
-    "explanationCN": "婚姻、亲家、媒人"
+    "explanationCN": "婚姻亲家媒人"
   },
   {
     "character": "𗏯",
@@ -25667,7 +25667,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋqa̱r¹",
     "GHC": "ka̱r¹",
     "explanationEN": "eyes",
-    "explanationCN": "眼、目"
+    "explanationCN": "眼目"
   },
   {
     "character": "𗨏",
@@ -25681,7 +25681,7 @@ const DICTIONARY_DATA = [
     "GX": "tśə¹",
     "GHC": "tśjɨ¹",
     "explanationEN": "a surname",
-    "explanationCN": "【跖】、【姪】族姓"
+    "explanationCN": "【跖】【姪】"
   },
   {
     "character": "𗬔",
@@ -25695,28 +25695,28 @@ const DICTIONARY_DATA = [
     "GX": "theṃ¹",
     "GHC": "thjɨj¹",
     "explanationEN": "sky; lightning",
-    "explanationCN": "天、电汉语借词"
+    "explanationCN": "天电】"
   },
   {
     "character": "𗽇",
     "GX": "tṣhaa̱¹",
     "GHC": "tśhia¹",
     "explanationEN": "fork; branch of an object",
-    "explanationCN": "1.岔汉语借词2.【叉】、【茶】（珠 235）、【炒】（珠 155）、【鞔】（珠 336）、【差】、【刹】、【湛】（音 200）"
+    "explanationCN": "1.岔】2.【叉】【茶】（珠 235）【炒】（珠 155）【鞔】（珠 336）【差】【刹】【湛】（音 200）"
   },
   {
     "character": "𗽈",
     "GX": "llih¹",
     "GHC": "ljị¹",
     "explanationEN": "to plant; to cultivate",
-    "explanationCN": "1.耕、种、植2.农3.结"
+    "explanationCN": "1.耕种植2.农3.结"
   },
   {
     "character": "𗽮",
     "GX": "na̱¹",
     "GHC": "na¹",
     "explanationEN": "south",
-    "explanationCN": "南汉语借词"
+    "explanationCN": "南】"
   },
   {
     "character": "𗾗",
@@ -25765,7 +25765,7 @@ const DICTIONARY_DATA = [
     "GX": "ṣaə̱²",
     "GHC": "śiə²",
     "explanationEN": "a surname",
-    "explanationCN": "【苏】族姓"
+    "explanationCN": "【苏】"
   },
   {
     "character": "𗥥",
@@ -25786,21 +25786,21 @@ const DICTIONARY_DATA = [
     "GX": "twə¹",
     "GHC": "tjwɨ¹",
     "explanationEN": "to flog; to beat",
-    "explanationCN": "1.打、拷、挞2.筑"
+    "explanationCN": "1.打拷挞2.筑"
   },
   {
     "character": "𗦱",
     "GX": "hwa̱¹",
     "GHC": "xwa¹",
     "explanationEN": "a surname",
-    "explanationCN": "【和】、【会】、【哈】族姓"
+    "explanationCN": "【和】【会】【哈】"
   },
   {
     "character": "𗩊",
     "GX": "rtso̱r²",
     "GHC": "tsor²",
     "explanationEN": "ancestor; source",
-    "explanationCN": "祖、本源"
+    "explanationCN": "祖本源"
   },
   {
     "character": "𗩋",
@@ -25821,14 +25821,14 @@ const DICTIONARY_DATA = [
     "GX": "ṣai̱²",
     "GHC": "śie²",
     "explanationEN": "a kind of bird",
-    "explanationCN": "1.【鶽】鸟名2.音【谢】、【泄】、【先】"
+    "explanationCN": "1.【鶽】鸟名2.音【谢】【泄】【先】"
   },
   {
     "character": "𗨂",
     "GX": "yeṃ¹",
     "GHC": "ˑjɨj¹",
     "explanationEN": "to gain; to make profit",
-    "explanationCN": "1.羸汉语借词2.【英】、【夜】3.【婴】、【冶】、【野】、【赢】、【曄】（音 202）"
+    "explanationCN": "1.羸】2.【英】【夜】3.【婴】【冶】【野】【赢】【曄】（音 202）"
   },
   {
     "character": "𗪡",
@@ -25856,7 +25856,7 @@ const DICTIONARY_DATA = [
     "GX": "nlu̱¹",
     "GHC": "lu̱¹",
     "explanationEN": "to dig",
-    "explanationCN": "掘、凿"
+    "explanationCN": "掘凿"
   },
   {
     "character": "𗾺",
@@ -25884,7 +25884,7 @@ const DICTIONARY_DATA = [
     "GX": "thu̱²",
     "GHC": "²",
     "explanationEN": "close; near",
-    "explanationCN": "亲近、侧"
+    "explanationCN": "亲近侧"
   },
   {
     "character": "𗿬",
@@ -25926,7 +25926,7 @@ const DICTIONARY_DATA = [
     "GX": "do̱²",
     "GHC": "do²",
     "explanationEN": "poison; toxin",
-    "explanationCN": "毒汉语借词"
+    "explanationCN": "毒】"
   },
   {
     "character": "𗻚",
@@ -25947,14 +25947,14 @@ const DICTIONARY_DATA = [
     "GX": "śi²",
     "GHC": "śji²",
     "explanationEN": "knowledge",
-    "explanationCN": "识汉语借词"
+    "explanationCN": "识】"
   },
   {
     "character": "𗿸",
     "GX": "vwi̱²",
     "GHC": "we²",
     "explanationEN": "name; title",
-    "explanationCN": "1.名、号、曰2.讳"
+    "explanationCN": "1.名号曰2.讳"
   },
   {
     "character": "𗻰",
@@ -25982,14 +25982,14 @@ const DICTIONARY_DATA = [
     "GX": "rer²",
     "GHC": "rjijr²",
     "explanationEN": "pool efforts",
-    "explanationCN": "助、合力"
+    "explanationCN": "助合力"
   },
   {
     "character": "𗧤",
     "GX": "pha¹",
     "GHC": "phja¹",
     "explanationEN": "to break off; to sever",
-    "explanationCN": "1.断、绝、除2.禁"
+    "explanationCN": "1.断绝除2.禁"
   },
   {
     "character": "𗿫",
@@ -26003,21 +26003,21 @@ const DICTIONARY_DATA = [
     "GX": "rdi̱r²",
     "GHC": "de̱r²",
     "explanationEN": "to fear; to terrify",
-    "explanationCN": "心慌、惊慌"
+    "explanationCN": "心慌惊慌"
   },
   {
     "character": "𗫄",
     "GX": "dzwə¹",
     "GHC": "dzjwɨ¹",
     "explanationEN": "a surname",
-    "explanationCN": "【族】、【殂】族姓"
+    "explanationCN": "【族】【殂】"
   },
   {
     "character": "𗧛",
     "GX": "geh¹",
     "GHC": "gjịj¹",
     "explanationEN": "to select; to choose",
-    "explanationCN": "选、择"
+    "explanationCN": "选择"
   },
   {
     "character": "𗧟",
@@ -26038,7 +26038,7 @@ const DICTIONARY_DATA = [
     "GX": "nwə¹",
     "GHC": "njwɨ¹",
     "explanationEN": "custom; common sayings",
-    "explanationCN": "俗、俗语、民情"
+    "explanationCN": "俗俗语民情"
   },
   {
     "character": "𗥭",
@@ -26052,14 +26052,14 @@ const DICTIONARY_DATA = [
     "GX": "gi²",
     "GHC": "gji²",
     "explanationEN": "to manage; to direct; to preside",
-    "explanationCN": "持、主持"
+    "explanationCN": "持主持"
   },
   {
     "character": "𗏸",
     "GX": "ma¹",
     "GHC": "mja¹",
     "explanationEN": "doorframe",
-    "explanationCN": "閫、门坎"
+    "explanationCN": "閫门坎"
   },
   {
     "character": "𗻋",
@@ -26087,14 +26087,14 @@ const DICTIONARY_DATA = [
     "GX": "pao̱h¹",
     "GHC": "piọ¹",
     "explanationEN": "bottom",
-    "explanationCN": "1.底、下2.腐烂"
+    "explanationCN": "1.底下2.腐烂"
   },
   {
     "character": "𘜨",
     "GX": "tṣhwae̱¹",
     "GHC": "tśhiwej¹",
     "explanationEN": "very fast; at high speed",
-    "explanationCN": "疾速、迅速"
+    "explanationCN": "疾速迅速"
   },
   {
     "character": "𘚵",
@@ -26129,7 +26129,7 @@ const DICTIONARY_DATA = [
     "GX": "the²",
     "GHC": "thjij²",
     "explanationEN": "raised",
-    "explanationCN": "挺（凸）汉语借词"
+    "explanationCN": "挺（凸）】"
   },
   {
     "character": "𗃚",
@@ -26157,7 +26157,7 @@ const DICTIONARY_DATA = [
     "GX": "qə̱¹",
     "GHC": "kə¹",
     "explanationEN": "puppy",
-    "explanationCN": "小狗"
+    "explanationCN": "词头"
   },
   {
     "character": "𗃾",
@@ -26171,7 +26171,7 @@ const DICTIONARY_DATA = [
     "GX": "nəh²",
     "GHC": "njɨ̣²",
     "explanationEN": "wisdom; consciousness",
-    "explanationCN": "智慧、知觉"
+    "explanationCN": "智慧知觉"
   },
   {
     "character": "𘓞",
@@ -26199,7 +26199,7 @@ const DICTIONARY_DATA = [
     "GX": "qo̱ṃ¹",
     "GHC": "kow¹",
     "explanationEN": "public affairs; merit",
-    "explanationCN": "1.公、功汉语借词2.【公】、【翁】、【军】、【贡】、【工】（音 196）"
+    "explanationCN": "1.公功】2.【公】【翁】【军】【贡】【工】（音 196）"
   },
   {
     "character": "𗃥",
@@ -26213,7 +26213,7 @@ const DICTIONARY_DATA = [
     "GX": "qai̱¹",
     "GHC": "kie¹",
     "explanationEN": "commandment; (Buddhist) discipline",
-    "explanationCN": "1.戒汉语借词2.律3.法3.条"
+    "explanationCN": "1.戒】2.律3.法3.条"
   },
   {
     "character": "𗬮",
@@ -26248,21 +26248,21 @@ const DICTIONARY_DATA = [
     "GX": "ndźa²",
     "GHC": "dźja̱²",
     "explanationEN": "a surname",
-    "explanationCN": "【碾】、【輦】、【念】族姓"
+    "explanationCN": "【碾】【輦】【念】"
   },
   {
     "character": "𗬰",
     "GX": "ṇi²",
     "GHC": "dźji²",
     "explanationEN": "male",
-    "explanationCN": "雄、男"
+    "explanationCN": "雄男"
   },
   {
     "character": "𗴤",
     "GX": "yiw²",
     "GHC": "ˑjiw²",
     "explanationEN": "sentry; examination",
-    "explanationCN": "哨、查"
+    "explanationCN": "哨查"
   },
   {
     "character": "𗼫",
@@ -26290,28 +26290,28 @@ const DICTIONARY_DATA = [
     "GX": "swe¹",
     "GHC": "sjwij¹",
     "explanationEN": "year",
-    "explanationCN": "岁汉语借词"
+    "explanationCN": "岁】"
   },
   {
     "character": "𗼎",
     "GX": "mə²",
     "GHC": "mjɨ²",
     "explanationEN": "a surname",
-    "explanationCN": "【弥】、【弭】族姓"
+    "explanationCN": "【弥】【弭】"
   },
   {
     "character": "𗼞",
     "GX": "qo̱ṃ²",
     "GHC": "kow²",
     "explanationEN": "government official",
-    "explanationCN": "官、公"
+    "explanationCN": "官公"
   },
   {
     "character": "𗼢",
     "GX": "rzə̱r²",
     "GHC": "zər²",
     "explanationEN": "a surname",
-    "explanationCN": "【叙】、【舒】族姓"
+    "explanationCN": "【叙】【舒】"
   },
   {
     "character": "𘉆",
@@ -26339,49 +26339,49 @@ const DICTIONARY_DATA = [
     "GX": "twi̱h¹",
     "GHC": "twẹ¹",
     "explanationEN": "to sew; to follow the pattern of",
-    "explanationCN": "缀、袭、立、任"
+    "explanationCN": "缀袭立任"
   },
   {
     "character": "𗁉",
     "GX": "pheh¹",
     "GHC": "phjịj¹",
     "explanationEN": "slant; leaning",
-    "explanationCN": "偏、斜"
+    "explanationCN": "偏斜"
   },
   {
     "character": "𗆖",
     "GX": "rar¹",
     "GHC": "rjar¹",
     "explanationEN": "field; farmland",
-    "explanationCN": "田、田畴"
+    "explanationCN": "田田畴"
   },
   {
     "character": "𗆜",
     "GX": "rtsa̱r¹",
     "GHC": "tsar¹",
     "explanationEN": "to escape; to flee",
-    "explanationCN": "遁、逃"
+    "explanationCN": "遁逃"
   },
   {
     "character": "𗄳",
     "GX": "mma¹",
     "GHC": "mja̱¹",
     "explanationEN": "big; great; thick",
-    "explanationCN": "大、粗"
+    "explanationCN": "大粗"
   },
   {
     "character": "𗄽",
     "GX": "ṣaa̱ṃ¹",
     "GHC": "śiã¹",
     "explanationEN": "hill; mountain",
-    "explanationCN": "1.山汉语借词2.【產】"
+    "explanationCN": "1.山】2.【產】"
   },
   {
     "character": "𗂦",
     "GX": "ryir²",
     "GHC": "ˑjir²",
     "explanationEN": "to chop; to kill",
-    "explanationCN": "斩、诛"
+    "explanationCN": "斩诛"
   },
   {
     "character": "𗹺",
@@ -26395,35 +26395,35 @@ const DICTIONARY_DATA = [
     "GX": "zi¹",
     "GHC": "zji¹",
     "explanationEN": "little; young (bird or beast)",
-    "explanationCN": "小、崽、雏"
+    "explanationCN": "小崽雏"
   },
   {
     "character": "𗅟",
     "GX": "ri̱wr¹",
     "GHC": "rewr¹",
     "explanationEN": "sharp",
-    "explanationCN": "尖、端"
+    "explanationCN": "尖端"
   },
   {
     "character": "𗆏",
     "GX": "tśuh²",
     "GHC": "tśjụ²",
     "explanationEN": "goat; lamb",
-    "explanationCN": "羊、小羊"
+    "explanationCN": "羊小羊"
   },
   {
     "character": "𗆪",
     "GX": "nye¹",
     "GHC": "ˑji̱j¹",
     "explanationEN": "to exempt; to grant a pardon",
-    "explanationCN": "减、免、赦"
+    "explanationCN": "减免赦"
   },
   {
     "character": "𘝑",
     "GX": "ntswi̱¹",
     "GHC": "tswe̱¹",
     "explanationEN": "to sit; to squat",
-    "explanationCN": "坐、蹲"
+    "explanationCN": "坐蹲"
   },
   {
     "character": "𗎿",
@@ -26444,14 +26444,14 @@ const DICTIONARY_DATA = [
     "GX": "źu²",
     "GHC": "źju²",
     "explanationEN": "milk",
-    "explanationCN": "乳汉语借词"
+    "explanationCN": "乳】"
   },
   {
     "character": "𘊇",
     "GX": "śoṃ¹",
     "GHC": "śjow¹",
     "explanationEN": "to guard",
-    "explanationCN": "1.监护2.【尚】、【商】、【昌】、【章】3.【尝】、【丞】、【桑】（音 200）"
+    "explanationCN": "1.监护2.【尚】【商】【昌】【章】3.【尝】【丞】【桑】（音 200）"
   },
   {
     "character": "𘊅",
@@ -26465,14 +26465,14 @@ const DICTIONARY_DATA = [
     "GX": "tswu̱h¹",
     "GHC": "tswụ¹",
     "explanationEN": "alms bowl; earthen bowl; kettle",
-    "explanationCN": "鉢、壶"
+    "explanationCN": "鉢壶"
   },
   {
     "character": "𘉣",
     "GX": "puh¹",
     "GHC": "pjụ¹",
     "explanationEN": "love; adore",
-    "explanationCN": "恋、爱慕"
+    "explanationCN": "恋爱慕"
   },
   {
     "character": "𗢙",
@@ -26493,21 +26493,21 @@ const DICTIONARY_DATA = [
     "GX": "tṣuo¹",
     "GHC": "tśio̱w¹",
     "explanationEN": "to steal",
-    "explanationCN": "1.盗窃2.【謖】、【勺】、【竹】、【筑】"
+    "explanationCN": "1.盗窃2.【謖】【勺】【竹】【筑】"
   },
   {
     "character": "𗧷",
     "GX": "llwu̱h¹",
     "GHC": "lwụ¹",
     "explanationEN": "space",
-    "explanationCN": "间、空间"
+    "explanationCN": "间空间"
   },
   {
     "character": "𗥕",
     "GX": "zu̱²",
     "GHC": "zu²",
     "explanationEN": "to tie up",
-    "explanationCN": "繫、缚"
+    "explanationCN": "繫缚"
   },
   {
     "character": "𗨕",
@@ -26535,7 +26535,7 @@ const DICTIONARY_DATA = [
     "GX": "ri̱r²",
     "GHC": "rer²",
     "explanationEN": "shield",
-    "explanationCN": "盾、櫓、龟甲"
+    "explanationCN": "盾櫓龟甲"
   },
   {
     "character": "𗤥",
@@ -26549,14 +26549,14 @@ const DICTIONARY_DATA = [
     "GX": "tsu̱²",
     "GHC": "tsu²",
     "explanationEN": "to stand up; to rise; to jump",
-    "explanationCN": "1.起、跃2.上3.【祖】（音 199）"
+    "explanationCN": "1.起跃2.上3.【祖】（音 199）"
   },
   {
     "character": "𗦮",
     "GX": "phe¹",
     "GHC": "phjij¹",
     "explanationEN": "to escape; to evade",
-    "explanationCN": "1.逃、避2.【平】、【瓶】、【病】"
+    "explanationCN": "1.逃避2.【平】【瓶】【病】"
   },
   {
     "character": "𗏐",
@@ -26605,28 +26605,28 @@ const DICTIONARY_DATA = [
     "GX": "reṃ²",
     "GHC": "ljɨj²",
     "explanationEN": "to instruct; to teach",
-    "explanationCN": "指教、教导"
+    "explanationCN": "指教教导"
   },
   {
     "character": "𗣅",
     "GX": "ŋwu̱²",
     "GHC": "ŋwu²",
     "explanationEN": "a surname",
-    "explanationCN": "【兀】族姓"
+    "explanationCN": "【兀】"
   },
   {
     "character": "𗣫",
     "GX": "tse̱ṃ¹",
     "GHC": "tsəj¹",
     "explanationEN": "small; little; young",
-    "explanationCN": "小、少、幼"
+    "explanationCN": "小少幼"
   },
   {
     "character": "𗼽",
     "GX": "si̱w²",
     "GHC": "sew²",
     "explanationEN": "small",
-    "explanationCN": "1.小汉语借词2.【霄】、【簫】"
+    "explanationCN": "1.小】2.【霄】【簫】"
   },
   {
     "character": "𗾙",
@@ -26640,7 +26640,7 @@ const DICTIONARY_DATA = [
     "GX": "koṃ¹",
     "GHC": "kjow¹",
     "explanationEN": "mouse",
-    "explanationCN": "鼱、小鼠"
+    "explanationCN": "鼱小鼠"
   },
   {
     "character": "𘔱",
@@ -26654,28 +26654,28 @@ const DICTIONARY_DATA = [
     "GX": "peṃ¹",
     "GHC": "pjɨj¹",
     "explanationEN": "border",
-    "explanationCN": "1.边、编汉语借词2.又音【邴】（音 194）、【丙】（珠 096）、【并】（珠 345）、【饼】（珠 332）、【变】（珠 364）、【秉】、【扁】（音 194）"
+    "explanationCN": "1.边编】2.又音【邴】（音 194）【丙】（珠 096）【并】（珠 345）【饼】（珠 332）【变】（珠 364）【秉】【扁】（音 194）"
   },
   {
     "character": "𗣴",
     "GX": "vwi̱ṃ¹",
     "GHC": "wẽ¹",
     "explanationEN": "a surname",
-    "explanationCN": "【文】、【汶】、【闻】族姓"
+    "explanationCN": "【文】【汶】【闻】"
   },
   {
     "character": "𗤧",
     "GX": "tśuh¹",
     "GHC": "tśjụ¹",
     "explanationEN": "it; you; he; others",
-    "explanationCN": "彼、他、你"
+    "explanationCN": "彼他你"
   },
   {
     "character": "𗻍",
     "GX": "bu̱¹",
     "GHC": "bu¹",
     "explanationEN": "cattail",
-    "explanationCN": "蒲汉语借词"
+    "explanationCN": "蒲】"
   },
   {
     "character": "𗥫",
@@ -26689,35 +26689,35 @@ const DICTIONARY_DATA = [
     "GX": "hu¹",
     "GHC": "xju¹",
     "explanationEN": "void; empty",
-    "explanationCN": "1.虚汉语借词2.【许】、【荀】"
+    "explanationCN": "1.虚】2.【许】【荀】"
   },
   {
     "character": "𘕀",
     "GX": "ndzi²",
     "GHC": "dzji̱²",
     "explanationEN": "to know; to understand",
-    "explanationCN": "知、晓"
+    "explanationCN": "知晓"
   },
   {
     "character": "𘚱",
     "GX": "lə²",
     "GHC": "ljɨ²",
     "explanationEN": "bamboo or twig fence",
-    "explanationCN": "篱笆汉语借词"
+    "explanationCN": "篱笆】"
   },
   {
     "character": "𗃽",
     "GX": "rvwa̱r¹",
     "GHC": "war¹",
     "explanationEN": "despaired; destitute; poor",
-    "explanationCN": "穷困、绝望、窘"
+    "explanationCN": "穷困绝望窘"
   },
   {
     "character": "𗇌",
     "GX": "lu̱²",
     "GHC": "lu²",
     "explanationEN": "fortune; luck",
-    "explanationCN": "运气、福气"
+    "explanationCN": "运气福气"
   },
   {
     "character": "𗐤",
@@ -26766,21 +26766,21 @@ const DICTIONARY_DATA = [
     "GX": "lu̱²",
     "GHC": "lu²",
     "explanationEN": "seat; place; official title",
-    "explanationCN": "1.座、位、官爵2.职"
+    "explanationCN": "1.座位官爵2.职"
   },
   {
     "character": "𗐡",
     "GX": "tśə¹",
     "GHC": "tśjɨ¹",
     "explanationEN": "presently; in a moment",
-    "explanationCN": "俄顷、一会儿"
+    "explanationCN": "俄顷一会儿"
   },
   {
     "character": "𗐣",
     "GX": "lu̱²",
     "GHC": "lu²",
     "explanationEN": "to enjoin; to tell",
-    "explanationCN": "1.嘱咐、吩咐2.赠送"
+    "explanationCN": "1.嘱咐吩咐2.赠送"
   },
   {
     "character": "𗐝",
@@ -26794,7 +26794,7 @@ const DICTIONARY_DATA = [
     "GX": "ne̱²",
     "GHC": "nej²",
     "explanationEN": "a surname",
-    "explanationCN": "【乃】、【迺】族姓"
+    "explanationCN": "【乃】【迺】"
   },
   {
     "character": "𗐦",
@@ -26815,7 +26815,7 @@ const DICTIONARY_DATA = [
     "GX": "rtśər²",
     "GHC": "tśjɨ̱r²",
     "explanationEN": "to twine; to wind; to tie up",
-    "explanationCN": "缠、缚"
+    "explanationCN": "缠缚"
   },
   {
     "character": "𗇔",
@@ -26836,7 +26836,7 @@ const DICTIONARY_DATA = [
     "GX": "qwə̱¹",
     "GHC": "kwə¹",
     "explanationEN": "fortune; luck",
-    "explanationCN": "运气、福气"
+    "explanationCN": "运气福气"
   },
   {
     "character": "𘟙",
@@ -26850,14 +26850,14 @@ const DICTIONARY_DATA = [
     "GX": "le²",
     "GHC": "ljij²",
     "explanationEN": "a surname",
-    "explanationCN": "【令】、【龄】族姓"
+    "explanationCN": "【令】【龄】"
   },
   {
     "character": "𗇐",
     "GX": "dih²",
     "GHC": "²",
     "explanationEN": "to build",
-    "explanationCN": "修造、医治"
+    "explanationCN": "修造医治"
   },
   {
     "character": "𗇙",
@@ -26885,7 +26885,7 @@ const DICTIONARY_DATA = [
     "GX": "the²",
     "GHC": "thjij²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【定】、【亭】、【鐡】、【蝶】、【听】"
+    "explanationCN": "【定】【亭】【鐡】【蝶】【听】"
   },
   {
     "character": "𗇓",
@@ -26906,21 +26906,21 @@ const DICTIONARY_DATA = [
     "GX": "ha̱²",
     "GHC": "xa²",
     "explanationEN": "happy; open wide",
-    "explanationCN": "舒坦、敞开"
+    "explanationCN": "舒坦敞开"
   },
   {
     "character": "𗇕",
     "GX": "la̱¹",
     "GHC": "la¹",
     "explanationEN": "open wide",
-    "explanationCN": "舒坦、敞开"
+    "explanationCN": "舒坦敞开"
   },
   {
     "character": "𗇒",
     "GX": "śa¹",
     "GHC": "śja¹",
     "explanationEN": "rope; to fasten",
-    "explanationCN": "1.绳索、捆绑动词2.逸"
+    "explanationCN": "1.绳索捆绑动词2.逸"
   },
   {
     "character": "𗭆",
@@ -26934,21 +26934,21 @@ const DICTIONARY_DATA = [
     "GX": "do̱ṃ²",
     "GHC": "dow²",
     "explanationEN": "shin; leg",
-    "explanationCN": "脛、腿"
+    "explanationCN": "脛腿"
   },
   {
     "character": "𗭍",
     "GX": "dźeh¹",
     "GHC": "dźjịj¹",
     "explanationEN": "to go; to send",
-    "explanationCN": "1.行、遣2.用、进3.设、狩"
+    "explanationCN": "1.行遣2.用进3.设狩"
   },
   {
     "character": "𗭈",
     "GX": "bi²",
     "GHC": "bji²",
     "explanationEN": "to overflow; to spill",
-    "explanationCN": "满、溢"
+    "explanationCN": "满溢"
   },
   {
     "character": "𘀆",
@@ -26976,14 +26976,14 @@ const DICTIONARY_DATA = [
     "GX": "źiw¹",
     "GHC": "źjiw¹",
     "explanationEN": "six; the sixth",
-    "explanationCN": "六、第六"
+    "explanationCN": "六第六"
   },
   {
     "character": "𘀔",
     "GX": "phu̱¹",
     "GHC": "phu¹",
     "explanationEN": "cattail",
-    "explanationCN": "蒲汉语借词"
+    "explanationCN": "蒲】"
   },
   {
     "character": "𘀕",
@@ -26997,14 +26997,14 @@ const DICTIONARY_DATA = [
     "GX": "dźe¹",
     "GHC": "dźjij¹",
     "explanationEN": "to go; to parade",
-    "explanationCN": "行、游行"
+    "explanationCN": "行游行"
   },
   {
     "character": "𘊺",
     "GX": "nwə²",
     "GHC": "njwɨ²",
     "explanationEN": "to burn",
-    "explanationCN": "燃、烧"
+    "explanationCN": "燃烧"
   },
   {
     "character": "𘋀",
@@ -27032,28 +27032,28 @@ const DICTIONARY_DATA = [
     "GX": "ge²",
     "GHC": "gjij²",
     "explanationEN": "fetters",
-    "explanationCN": "桎、镣"
+    "explanationCN": "桎镣"
   },
   {
     "character": "𘕃",
     "GX": "dźe¹",
     "GHC": "dźjij¹",
     "explanationEN": "to comment; to prepare",
-    "explanationCN": "议论、筹议"
+    "explanationCN": "议论筹议"
   },
   {
     "character": "𘋇",
     "GX": "fi¹",
     "GHC": "xjwi¹",
     "explanationEN": "mouse; rat",
-    "explanationCN": "1.鼠2.【惠】3.【肺】（珠 186）、【掸】（珠 286）、【徽】（珠 281）、【擕】（珠 096）、【髮】（珠 313）4.【飞】、【妃】、【费】（音 194）"
+    "explanationCN": "1.鼠2.【惠】3.【肺】（珠 186）【掸】（珠 286）【徽】（珠 281）【擕】（珠 096）【髮】（珠 313）4.【飞】【妃】【费】（音 194）"
   },
   {
     "character": "𗭓",
     "GX": "γae̱¹",
     "GHC": "ɣiej¹",
     "explanationEN": "shoes",
-    "explanationCN": "鞋汉语借词"
+    "explanationCN": "鞋】"
   },
   {
     "character": "𗭇",
@@ -27067,7 +27067,7 @@ const DICTIONARY_DATA = [
     "GX": "sə²",
     "GHC": "sjɨ²",
     "explanationEN": "fetters",
-    "explanationCN": "桎、镣"
+    "explanationCN": "桎镣"
   },
   {
     "character": "𗭙",
@@ -27081,7 +27081,7 @@ const DICTIONARY_DATA = [
     "GX": "nu̱h¹",
     "GHC": "nụ¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【奴】、【怒】"
+    "explanationCN": "【奴】【怒】"
   },
   {
     "character": "𘛅",
@@ -27116,14 +27116,14 @@ const DICTIONARY_DATA = [
     "GX": "kwih¹",
     "GHC": "kjwị¹",
     "explanationEN": "full; filled",
-    "explanationCN": "饱、满"
+    "explanationCN": "饱满"
   },
   {
     "character": "𗭫",
     "GX": "pi¹",
     "GHC": "pji¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【壁】、【卑】族姓2.闭汉语借词"
+    "explanationCN": "1.【壁】【卑】2.闭】"
   },
   {
     "character": "𘊣",
@@ -27144,28 +27144,28 @@ const DICTIONARY_DATA = [
     "GX": "ra̱r²",
     "GHC": "rar²",
     "explanationEN": "meat stuffing; sausage",
-    "explanationCN": "肉馅、香肠"
+    "explanationCN": "肉馅香肠"
   },
   {
     "character": "𘀝",
     "GX": "ywə¹",
     "GHC": "ˑjwɨ¹",
     "explanationEN": "hunger",
-    "explanationCN": "饥、饿"
+    "explanationCN": "饥饿"
   },
   {
     "character": "𘀴",
     "GX": "zwaṃ²",
     "GHC": "zjwã²",
     "explanationEN": "to revolve; to rotate",
-    "explanationCN": "旋汉语借词"
+    "explanationCN": "旋】"
   },
   {
     "character": "𘀬",
     "GX": "γa̱¹",
     "GHC": "ɣa¹",
     "explanationEN": "bag; pocket; sack",
-    "explanationCN": "囊、袋"
+    "explanationCN": "囊袋"
   },
   {
     "character": "𘀧",
@@ -27179,14 +27179,14 @@ const DICTIONARY_DATA = [
     "GX": "me²",
     "GHC": "mjij²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【酩】、【冥】、【命】"
+    "explanationCN": "【酩】【冥】【命】"
   },
   {
     "character": "𘛇",
     "GX": "gu²",
     "GHC": "gju²",
     "explanationEN": "utensils",
-    "explanationCN": "具汉语借词"
+    "explanationCN": "具】"
   },
   {
     "character": "𘀨",
@@ -27221,7 +27221,7 @@ const DICTIONARY_DATA = [
     "GX": "rgwar²",
     "GHC": "gjwar²",
     "explanationEN": "lower limbs; legs",
-    "explanationCN": "下肢、股脛"
+    "explanationCN": "下肢股脛"
   },
   {
     "character": "𗭟",
@@ -27235,7 +27235,7 @@ const DICTIONARY_DATA = [
     "GX": "ndẓaa̱²",
     "GHC": "dźia̱²",
     "explanationEN": "lameness",
-    "explanationCN": "跛、蹶"
+    "explanationCN": "跛蹶"
   },
   {
     "character": "𘀌",
@@ -27256,7 +27256,7 @@ const DICTIONARY_DATA = [
     "GX": "mbe²",
     "GHC": "bji̱j²",
     "explanationEN": "a surname",
-    "explanationCN": "【】族姓"
+    "explanationCN": "【】"
   },
   {
     "character": "𘊳",
@@ -27284,7 +27284,7 @@ const DICTIONARY_DATA = [
     "GX": "ṣai̱¹",
     "GHC": "śie¹",
     "explanationEN": "rare; sparse",
-    "explanationCN": "1.疏汉语借词2.【率】、【舒】、【书】3.【树】（珠 235）、【梳】（珠 254）、【书】（珠 276）、【鼠】（珠 164）、【数】（珠 264）、【庶】（珠 293）、【蔬】（珠 144）、【恕】（音 200）"
+    "explanationCN": "1.疏】2.【率】【舒】【书】3.【树】（珠 235）【梳】（珠 254）【书】（珠 276）【鼠】（珠 164）【数】（珠 264）【庶】（珠 293）【蔬】（珠 144）【恕】（音 200）"
   },
   {
     "character": "𘊶",
@@ -27305,7 +27305,7 @@ const DICTIONARY_DATA = [
     "GX": "pi¹",
     "GHC": "pji¹",
     "explanationEN": "a kind of insect",
-    "explanationCN": "【壁】、【蜱】、【蛆】虫名"
+    "explanationCN": "【壁】【蜱】【蛆】虫名"
   },
   {
     "character": "𘀹",
@@ -27319,21 +27319,21 @@ const DICTIONARY_DATA = [
     "GX": "ni̱h¹",
     "GHC": "nẹ¹",
     "explanationEN": "to give a speech; to publicize",
-    "explanationCN": "宣、演、说"
+    "explanationCN": "宣演说"
   },
   {
     "character": "𘀻",
     "GX": "γiw²",
     "GHC": "ɣjiw²",
     "explanationEN": "to grow; to increase",
-    "explanationCN": "增、长"
+    "explanationCN": "增长"
   },
   {
     "character": "𘀟",
     "GX": "γo̱¹",
     "GHC": "ˑo¹",
     "explanationEN": "belly; abdomen; stomach",
-    "explanationCN": "1.腹、肚2.胎3.妊"
+    "explanationCN": "1.腹肚2.胎3.妊"
   },
   {
     "character": "𘀡",
@@ -27354,21 +27354,21 @@ const DICTIONARY_DATA = [
     "GX": "pha̱¹",
     "GHC": "pha¹",
     "explanationEN": "a surname",
-    "explanationCN": "【跋】、【帕】族姓"
+    "explanationCN": "【跋】【帕】"
   },
   {
     "character": "𘀘",
     "GX": "mphe̱¹",
     "GHC": "phe̱j¹",
     "explanationEN": "to cover; to block",
-    "explanationCN": "覆盖、遮蔽"
+    "explanationCN": "覆盖遮蔽"
   },
   {
     "character": "𘋂",
     "GX": "phu¹",
     "GHC": "phju¹",
     "explanationEN": "feast; banquet",
-    "explanationCN": "筵、宴"
+    "explanationCN": "筵宴"
   },
   {
     "character": "𘀚",
@@ -27396,14 +27396,14 @@ const DICTIONARY_DATA = [
     "GX": "pu̱¹",
     "GHC": "pu¹",
     "explanationEN": "a surname",
-    "explanationCN": "【布】、【博】、【北】族姓"
+    "explanationCN": "【布】【博】【北】"
   },
   {
     "character": "𘀈",
     "GX": "phu̱¹",
     "GHC": "phu¹",
     "explanationEN": "soil; land",
-    "explanationCN": "坤、地"
+    "explanationCN": "坤地"
   },
   {
     "character": "𘀑",
@@ -27424,14 +27424,14 @@ const DICTIONARY_DATA = [
     "GX": "lə̱²",
     "GHC": "lə²",
     "explanationEN": "a surname",
-    "explanationCN": "【勒】族姓"
+    "explanationCN": "【勒】"
   },
   {
     "character": "𘊸",
     "GX": "ba̱²",
     "GHC": "ba²",
     "explanationEN": "mother-in-law",
-    "explanationCN": "婆婆、岳母"
+    "explanationCN": "婆婆岳母"
   },
   {
     "character": "𘊥",
@@ -27459,21 +27459,21 @@ const DICTIONARY_DATA = [
     "GX": "thu¹",
     "GHC": "thju¹",
     "explanationEN": "a classifier",
-    "explanationCN": "次、根"
+    "explanationCN": "次根"
   },
   {
     "character": "𘊪",
     "GX": "śəh¹",
     "GHC": "śjɨ̣¹",
     "explanationEN": "arrow",
-    "explanationCN": "矢汉语借词"
+    "explanationCN": "矢】"
   },
   {
     "character": "𘀵",
     "GX": "kuh¹",
     "GHC": "kjụ¹",
     "explanationEN": "to bow; to salute",
-    "explanationCN": "鞠躬、敬礼"
+    "explanationCN": "鞠躬敬礼"
   },
   {
     "character": "𘊬",
@@ -27487,21 +27487,21 @@ const DICTIONARY_DATA = [
     "GX": "tśhwiw²",
     "GHC": "tśhjwiw²",
     "explanationEN": "to support; to sustain",
-    "explanationCN": "支、撑、垫"
+    "explanationCN": "支撑垫"
   },
   {
     "character": "𘀙",
     "GX": "bo²",
     "GHC": "bjo²",
     "explanationEN": "clear; obvious",
-    "explanationCN": "明白、分明"
+    "explanationCN": "明白分明"
   },
   {
     "character": "𗭛",
     "GX": "sweṃ²",
     "GHC": "sjwɨj²",
     "explanationEN": "heel",
-    "explanationCN": "踵、跟"
+    "explanationCN": "踵跟"
   },
   {
     "character": "𘀎",
@@ -27515,7 +27515,7 @@ const DICTIONARY_DATA = [
     "GX": "na²",
     "GHC": "nja²",
     "explanationEN": "you",
-    "explanationCN": "你、汝、子"
+    "explanationCN": "你汝子"
   },
   {
     "character": "𘀒",
@@ -27536,14 +27536,14 @@ const DICTIONARY_DATA = [
     "GX": "tśhwi¹",
     "GHC": "tśhjwi¹",
     "explanationEN": "to melt; to smelt",
-    "explanationCN": "冶熔、融、熔"
+    "explanationCN": "冶熔融熔"
   },
   {
     "character": "𗭦",
     "GX": "tśhwiw²",
     "GHC": "²",
     "explanationEN": "to support; to sustain",
-    "explanationCN": "支、撑"
+    "explanationCN": "支撑"
   },
   {
     "character": "𗭨",
@@ -27557,7 +27557,7 @@ const DICTIONARY_DATA = [
     "GX": "lhə̱¹",
     "GHC": "lhə¹",
     "explanationEN": "to shrink; to contract",
-    "explanationCN": "抽缩、收缩、卷缩"
+    "explanationCN": "抽缩收缩卷缩"
   },
   {
     "character": "𘀦",
@@ -27571,42 +27571,42 @@ const DICTIONARY_DATA = [
     "GX": "qwae̱²",
     "GHC": "kiwej²",
     "explanationEN": "true; precious",
-    "explanationCN": "珍、真、精"
+    "explanationCN": "珍真精"
   },
   {
     "character": "𘀫",
     "GX": "zəh¹",
     "GHC": "zjɨ̣¹",
     "explanationEN": "foe; enemy",
-    "explanationCN": "敌、敌寇"
+    "explanationCN": "敌敌寇"
   },
   {
     "character": "𘊱",
     "GX": "pha̱¹",
     "GHC": "pha¹",
     "explanationEN": "half; side",
-    "explanationCN": "半、偏、旁、片"
+    "explanationCN": "半偏旁片"
   },
   {
     "character": "𘝘",
     "GX": "yiw¹",
     "GHC": "ˑjiw¹",
     "explanationEN": "disease; illness",
-    "explanationCN": "疾病、病患、疫"
+    "explanationCN": "疾病病患疫"
   },
   {
     "character": "𗐩",
     "GX": "ṣai̱¹",
     "GHC": "śie¹",
     "explanationEN": "a surname",
-    "explanationCN": "【庶】、【率】族姓"
+    "explanationCN": "【庶】【率】"
   },
   {
     "character": "𘝗",
     "GX": "yiw¹",
     "GHC": "ˑjiw¹",
     "explanationEN": "a surname",
-    "explanationCN": "【姚】、【攸】、【繇】、【瑶】、【陶】、【尧】族姓、"
+    "explanationCN": "【姚】【攸】【繇】【瑶】【陶】【尧】"
   },
   {
     "character": "𘞣",
@@ -27648,7 +27648,7 @@ const DICTIONARY_DATA = [
     "GX": "le̱²",
     "GHC": "lej²",
     "explanationEN": "to tread on; to trample",
-    "explanationCN": "践、踏踩"
+    "explanationCN": "践踏踩"
   },
   {
     "character": "𘀛",
@@ -27662,35 +27662,35 @@ const DICTIONARY_DATA = [
     "GX": "tśə¹",
     "GHC": "tśjɨ¹",
     "explanationEN": "to realize; to wake up to reality",
-    "explanationCN": "悟、醒"
+    "explanationCN": "悟醒"
   },
   {
     "character": "𘊾",
     "GX": "kaw¹",
     "GHC": "kja̱¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【迦】、【羯】、【鳩】"
+    "explanationCN": "【迦】【羯】【鳩】"
   },
   {
     "character": "𘊵",
     "GX": "thu̱¹",
     "GHC": "thu¹",
     "explanationEN": "skill; artistry",
-    "explanationCN": "艺、技艺"
+    "explanationCN": "艺技艺"
   },
   {
     "character": "𘀗",
     "GX": "tshwu¹",
     "GHC": "tshjwu¹",
     "explanationEN": "sky; heaven",
-    "explanationCN": "天、乾"
+    "explanationCN": "天乾"
   },
   {
     "character": "𘊴",
     "GX": "thu̱¹",
     "GHC": "thu¹",
     "explanationEN": "to talk; to speak",
-    "explanationCN": "1.言、谈、说2.设制3.结4.【屠】、【杜】、【敦】5.2【涂】（珠 361）、【肚】（珠 191）、【兔】（珠 162）、【碡】（珠 265）6.【徒】、【度】、【菟】、【吐】、【土】（音 195）"
+    "explanationCN": "1.言谈说2.设制3.结4.【屠】【杜】【敦】5.2【涂】（珠 361）【肚】（珠 191）【兔】（珠 162）【碡】（珠 265）6.【徒】【度】【菟】【吐】【土】（音 195）"
   },
   {
     "character": "𘕄",
@@ -27718,21 +27718,21 @@ const DICTIONARY_DATA = [
     "GX": "thi̱ṃ²",
     "GHC": "thẽ²",
     "explanationEN": "a surname",
-    "explanationCN": "【腾】、【邓】族姓"
+    "explanationCN": "【腾】【邓】"
   },
   {
     "character": "𘋁",
     "GX": "dźwi¹",
     "GHC": "dźjwi¹",
     "explanationEN": "to melt; to eliminate",
-    "explanationCN": "熔、融、消、毁"
+    "explanationCN": "熔融消毁"
   },
   {
     "character": "𘟚",
     "GX": "də¹",
     "GHC": "djɨ¹",
     "explanationEN": "imperial edict",
-    "explanationCN": "詔、敕"
+    "explanationCN": "詔敕"
   },
   {
     "character": "𘋆",
@@ -27753,7 +27753,7 @@ const DICTIONARY_DATA = [
     "GX": "źiw¹",
     "GHC": "źjiw¹",
     "explanationEN": "bird",
-    "explanationCN": "禽、雀"
+    "explanationCN": "禽雀"
   },
   {
     "character": "𗭣",
@@ -27781,7 +27781,7 @@ const DICTIONARY_DATA = [
     "GX": "ntsa̱¹",
     "GHC": "tsa̱¹",
     "explanationEN": "legs; shin",
-    "explanationCN": "腿、脛"
+    "explanationCN": "腿脛"
   },
   {
     "character": "𘛉",
@@ -27795,7 +27795,7 @@ const DICTIONARY_DATA = [
     "GX": "vih¹",
     "GHC": "wjị¹",
     "explanationEN": "taste; flavor",
-    "explanationCN": "味汉语借词"
+    "explanationCN": "味】"
   },
   {
     "character": "𘀣",
@@ -27823,7 +27823,7 @@ const DICTIONARY_DATA = [
     "GX": "dźoṃ¹",
     "GHC": "dźjow¹",
     "explanationEN": "to do; to make",
-    "explanationCN": "做、作"
+    "explanationCN": "做作"
   },
   {
     "character": "𘞠",
@@ -27872,28 +27872,28 @@ const DICTIONARY_DATA = [
     "GX": "dźoṃ¹",
     "GHC": "dźjow¹",
     "explanationEN": "to play; to sport",
-    "explanationCN": "嬉戏、嬉闹"
+    "explanationCN": "嬉戏嬉闹"
   },
   {
     "character": "𘀯",
     "GX": "ma̱h²",
     "GHC": "mạ²",
     "explanationEN": "to spread; to scatter",
-    "explanationCN": "散布、散落"
+    "explanationCN": "散布散落"
   },
   {
     "character": "𗭩",
     "GX": "vi̱h¹",
     "GHC": "wẹ¹",
     "explanationEN": "foolish; stupid",
-    "explanationCN": "愚、蠢"
+    "explanationCN": "愚蠢"
   },
   {
     "character": "𘀥",
     "GX": "luh²",
     "GHC": "ljụ²",
     "explanationEN": "stomach; belly",
-    "explanationCN": "胃、肚"
+    "explanationCN": "胃肚"
   },
   {
     "character": "𘊨",
@@ -27907,7 +27907,7 @@ const DICTIONARY_DATA = [
     "GX": "ndze²",
     "GHC": "dzji̱j²",
     "explanationEN": "to cut out",
-    "explanationCN": "裁缝汉语借词"
+    "explanationCN": "裁缝】"
   },
   {
     "character": "𘊮",
@@ -27921,28 +27921,28 @@ const DICTIONARY_DATA = [
     "GX": "sa̱ṃ¹",
     "GHC": "sã¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【山】、【三】、【珊】2.【散】（音 198）"
+    "explanationCN": "1.【山】【三】【珊】2.【散】（音 198）"
   },
   {
     "character": "𘊹",
     "GX": "kaw¹",
     "GHC": "kja̱¹",
     "explanationEN": "foundation; basis; burden",
-    "explanationCN": "1.根脚、根基、负重2.【葛】3.【藁】（音 197）"
+    "explanationCN": "1.根脚根基负重2.【葛】3.【藁】（音 197）"
   },
   {
     "character": "𘊻",
     "GX": "nə¹",
     "GHC": "njɨ¹",
     "explanationEN": "mother-in-law",
-    "explanationCN": "岳母、姑婆"
+    "explanationCN": "岳母姑婆"
   },
   {
     "character": "𘊼",
     "GX": "thwe̱¹",
     "GHC": "thwej¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【腿】、【兑】、【退】"
+    "explanationCN": "【腿】【兑】【退】"
   },
   {
     "character": "𗭭",
@@ -27963,7 +27963,7 @@ const DICTIONARY_DATA = [
     "GX": "khə¹",
     "GHC": "khjɨ¹",
     "explanationEN": "foot",
-    "explanationCN": "脚、足"
+    "explanationCN": "脚足"
   },
   {
     "character": "𗭠",
@@ -27977,7 +27977,7 @@ const DICTIONARY_DATA = [
     "GX": "ta̱ṃ¹",
     "GHC": "tã¹",
     "explanationEN": "to bear (a burden); to shoulder",
-    "explanationCN": "1.担汉语借词2.丹、郸"
+    "explanationCN": "1.担】2.丹郸"
   },
   {
     "character": "𘕁",
@@ -28019,7 +28019,7 @@ const DICTIONARY_DATA = [
     "GX": "yu¹",
     "GHC": "ˑju̱¹",
     "explanationEN": "to taste",
-    "explanationCN": "1.尝2.闻、齅3.食"
+    "explanationCN": "1.尝2.闻齅3.食"
   },
   {
     "character": "𘛊",
@@ -28047,14 +28047,14 @@ const DICTIONARY_DATA = [
     "GX": "kha²",
     "GHC": "khja²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【卡】、【恰】"
+    "explanationCN": "【卡】【恰】"
   },
   {
     "character": "𘀺",
     "GX": "kha²",
     "GHC": "khja²",
     "explanationEN": "to draw (water); derive",
-    "explanationCN": "1.汲取2.【騫】、【伽】、【佉】、【竭】、【桀】、【俭】"
+    "explanationCN": "1.汲取2.【騫】【伽】【佉】【竭】【桀】【俭】"
   },
   {
     "character": "𘀿",
@@ -28082,7 +28082,7 @@ const DICTIONARY_DATA = [
     "GX": "pha̱¹",
     "GHC": "pha¹",
     "explanationEN": "to damage; to lose",
-    "explanationCN": "1.破、损2.崩3.亡4.拔"
+    "explanationCN": "1.破损2.崩3.亡4.拔"
   },
   {
     "character": "𘊲",
@@ -28103,7 +28103,7 @@ const DICTIONARY_DATA = [
     "GX": "śu¹",
     "GHC": "śju¹",
     "explanationEN": "fetters",
-    "explanationCN": "镣、桎"
+    "explanationCN": "镣桎"
   },
   {
     "character": "𘛁",
@@ -28117,35 +28117,35 @@ const DICTIONARY_DATA = [
     "GX": "ntśə²",
     "GHC": "tśjɨ̱²",
     "explanationEN": "to fall; to tumble",
-    "explanationCN": "蹶、跌"
+    "explanationCN": "蹶跌"
   },
   {
     "character": "𗭎",
     "GX": "nśi²",
     "GHC": "śji̱²",
     "explanationEN": "to fall; to tumble",
-    "explanationCN": "蹶、跌（详见4012392224）"
+    "explanationCN": "蹶跌（详见4012392224）"
   },
   {
     "character": "𘕅",
     "GX": "ta̱ṃ¹",
     "GHC": "tã¹",
     "explanationEN": "scabies",
-    "explanationCN": "疥、癩"
+    "explanationCN": "疥癩"
   },
   {
     "character": "𘛂",
     "GX": "mbe²",
     "GHC": "bji̱j²",
     "explanationEN": "roadside stop; to travel",
-    "explanationCN": "1.驛、馹、行、逝2.客驾"
+    "explanationCN": "1.驛馹行逝2.客驾"
   },
   {
     "character": "𘊯",
     "GX": "twi¹",
     "GHC": "tjwi¹",
     "explanationEN": "to be choked",
-    "explanationCN": "噎、塞"
+    "explanationCN": "噎塞"
   },
   {
     "character": "𗺋",
@@ -28159,14 +28159,14 @@ const DICTIONARY_DATA = [
     "GX": "tśhi²",
     "GHC": "tśhji²",
     "explanationEN": "base; origin",
-    "explanationCN": "1.根、本、典2.【尺】（珠 244）、【齿】（珠 346）、【滞】（珠 291）、【痴】（珠 355）、【治】（珠 293）、【持】（珠 311）3.【池】、【直】（音 200）"
+    "explanationCN": "1.根本典2.【尺】（珠 244）【齿】（珠 346）【滞】（珠 291）【痴】（珠 355）【治】（珠 293）【持】（珠 311）3.【池】【直】（音 200）"
   },
   {
     "character": "𗢌",
     "GX": "pi̱ṃ¹",
     "GHC": "pẽ¹",
     "explanationEN": "dung; excrement",
-    "explanationCN": "粪、屎"
+    "explanationCN": "粪屎"
   },
   {
     "character": "𗢍",
@@ -28187,7 +28187,7 @@ const DICTIONARY_DATA = [
     "GX": "re̱r²",
     "GHC": "rejr²",
     "explanationEN": "to stop; to stagnate",
-    "explanationCN": "停止、停滞"
+    "explanationCN": "停止停滞"
   },
   {
     "character": "𗎶",
@@ -28201,7 +28201,7 @@ const DICTIONARY_DATA = [
     "GX": "zəh²",
     "GHC": "zjɨ̣²",
     "explanationEN": "two",
-    "explanationCN": "二、俱"
+    "explanationCN": "二俱"
   },
   {
     "character": "𗎵",
@@ -28250,7 +28250,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋgu²",
     "GHC": "gju̱²",
     "explanationEN": "lucky",
-    "explanationCN": "1.吉2.瑞3.庆4.接5.【于】、【玉】"
+    "explanationCN": "1.吉2.瑞3.庆4.接5.【于】【玉】"
   },
   {
     "character": "𗎑",
@@ -28285,7 +28285,7 @@ const DICTIONARY_DATA = [
     "GX": "dẓwaə̱¹",
     "GHC": "dźiwə¹",
     "explanationEN": "to pull; to draw; to tug",
-    "explanationCN": "1.拉扯、卷曲2.拳"
+    "explanationCN": "1.拉扯卷曲2.拳"
   },
   {
     "character": "𗢈",
@@ -28306,7 +28306,7 @@ const DICTIONARY_DATA = [
     "GX": "poh²",
     "GHC": "pjọ²",
     "explanationEN": "to ride",
-    "explanationCN": "乘、骑"
+    "explanationCN": "乘骑"
   },
   {
     "character": "𘔯",
@@ -28334,21 +28334,21 @@ const DICTIONARY_DATA = [
     "GX": "kəh²",
     "GHC": "kjɨ̣²",
     "explanationEN": "harm; danger",
-    "explanationCN": "危害、损害、伤害"
+    "explanationCN": "危害损害伤害"
   },
   {
     "character": "𗢊",
     "GX": "vuh²",
     "GHC": "wjụ²",
     "explanationEN": "dung; excrement",
-    "explanationCN": "粪、屎"
+    "explanationCN": "粪屎"
   },
   {
     "character": "𗢀",
     "GX": "swa̱¹",
     "GHC": "swa¹",
     "explanationEN": "hair",
-    "explanationCN": "1.髮、帘2.【莎】、【索】、【锁】、【酸】"
+    "explanationCN": "1.髮帘2.【莎】【索】【锁】【酸】"
   },
   {
     "character": "𗎖",
@@ -28362,7 +28362,7 @@ const DICTIONARY_DATA = [
     "GX": "ri̱wr²",
     "GHC": "rewr²",
     "explanationEN": "foot",
-    "explanationCN": "脚、足"
+    "explanationCN": "脚足"
   },
   {
     "character": "𗍬",
@@ -28425,14 +28425,14 @@ const DICTIONARY_DATA = [
     "GX": "rvwi̱r¹",
     "GHC": "wer¹",
     "explanationEN": "to meet; to see",
-    "explanationCN": "遇、逢、会"
+    "explanationCN": "遇逢会"
   },
   {
     "character": "𗢋",
     "GX": "dźe²",
     "GHC": "dźjij²",
     "explanationEN": "to give birth",
-    "explanationCN": "生、產"
+    "explanationCN": "生產"
   },
   {
     "character": "𗺏",
@@ -28446,7 +28446,7 @@ const DICTIONARY_DATA = [
     "GX": "ntśhə¹",
     "GHC": "tśhjɨ̱¹",
     "explanationEN": "to examine",
-    "explanationCN": "审核、考查"
+    "explanationCN": "审核考查"
   },
   {
     "character": "𗎹",
@@ -28488,7 +28488,7 @@ const DICTIONARY_DATA = [
     "GX": "kuh¹",
     "GHC": "kjụ¹",
     "explanationEN": "to live; strong; robust",
-    "explanationCN": "活、壮形容词"
+    "explanationCN": "活壮形容词"
   },
   {
     "character": "𗗏",
@@ -28509,7 +28509,7 @@ const DICTIONARY_DATA = [
     "GX": "me̱²",
     "GHC": "mej²",
     "explanationEN": "to fete; to present (a gift)",
-    "explanationCN": "赐筵、馈赠"
+    "explanationCN": "赐筵馈赠"
   },
   {
     "character": "𗗎",
@@ -28537,7 +28537,7 @@ const DICTIONARY_DATA = [
     "GX": "kuh¹",
     "GHC": "kjụ¹",
     "explanationEN": "land; soil",
-    "explanationCN": "土、地"
+    "explanationCN": "土地"
   },
   {
     "character": "𗗐",
@@ -28551,7 +28551,7 @@ const DICTIONARY_DATA = [
     "GX": "me̱²",
     "GHC": "mej²",
     "explanationEN": "soft",
-    "explanationCN": "绵、软"
+    "explanationCN": "绵软"
   },
   {
     "character": "𘇔",
@@ -28635,7 +28635,7 @@ const DICTIONARY_DATA = [
     "GX": "???",
     "GHC": "?",
     "explanationEN": "(tree) branch; twig",
-    "explanationCN": "杈、丫枝（丫杈）"
+    "explanationCN": "杈丫枝（丫杈）"
   },
   {
     "character": "𗍮",
@@ -28649,7 +28649,7 @@ const DICTIONARY_DATA = [
     "GX": "loṃ²",
     "GHC": "ljow²",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【凉】、【梁】、【粮】、【良】、【亮】汉语借词2.【陇】"
+    "explanationCN": "1.【凉】【梁】【粮】【良】【亮】】2.【陇】"
   },
   {
     "character": "𗎌",
@@ -28677,7 +28677,7 @@ const DICTIONARY_DATA = [
     "GX": "qhai̱¹",
     "GHC": "khie¹",
     "explanationEN": "to detest.ᴀ",
-    "explanationCN": "厌恶、憎、怠、苦"
+    "explanationCN": "厌恶憎怠苦"
   },
   {
     "character": "𗞯",
@@ -28698,14 +28698,14 @@ const DICTIONARY_DATA = [
     "GX": "si¹",
     "GHC": "sji¹",
     "explanationEN": "tail; backside",
-    "explanationCN": "尾、屁股"
+    "explanationCN": "尾屁股"
   },
   {
     "character": "𗚏",
     "GX": "ṣaa̱¹",
     "GHC": "śia¹",
     "explanationEN": "Chinese fir",
-    "explanationCN": "杉汉语借词"
+    "explanationCN": "杉】"
   },
   {
     "character": "𗝼",
@@ -28719,7 +28719,7 @@ const DICTIONARY_DATA = [
     "GX": "qhu̱²",
     "GHC": "khu²",
     "explanationEN": "basket",
-    "explanationCN": "筐、篮、笼、篋量词"
+    "explanationCN": "筐篮笼篋量词"
   },
   {
     "character": "𗚑",
@@ -28733,14 +28733,14 @@ const DICTIONARY_DATA = [
     "GX": "śeṃ²",
     "GHC": "śjɨj²",
     "explanationEN": "litre; a unit of measurement",
-    "explanationCN": "升、供量词"
+    "explanationCN": "升供量词"
   },
   {
     "character": "𗜹",
     "GX": "lhih¹",
     "GHC": "ljị¹",
     "explanationEN": "to enter",
-    "explanationCN": "进、入"
+    "explanationCN": "进入"
   },
   {
     "character": "𗜂",
@@ -28754,7 +28754,7 @@ const DICTIONARY_DATA = [
     "GX": "reṃ²",
     "GHC": "rjɨj²",
     "explanationEN": "circle; circumference",
-    "explanationCN": "周、匝、重"
+    "explanationCN": "周匝重"
   },
   {
     "character": "𗝻",
@@ -28768,7 +28768,7 @@ const DICTIONARY_DATA = [
     "GX": "do̱²",
     "GHC": "do²",
     "explanationEN": "to collapse; to cave in",
-    "explanationCN": "塌、陷"
+    "explanationCN": "塌陷"
   },
   {
     "character": "𗛃",
@@ -28796,28 +28796,28 @@ const DICTIONARY_DATA = [
     "GX": "rvwa̱r²",
     "GHC": "war²",
     "explanationEN": "branch; twig",
-    "explanationCN": "1.枝、支、条（弯枝）2.体、轮"
+    "explanationCN": "1.枝支条（弯枝）2.体轮"
   },
   {
     "character": "𗛤",
     "GX": "rpa̱r²",
     "GHC": "par²",
     "explanationEN": "awning; shed",
-    "explanationCN": "蓬、棚"
+    "explanationCN": "蓬棚"
   },
   {
     "character": "𗝉",
     "GX": "vwa̱h²",
     "GHC": "wạ²",
     "explanationEN": "a place name",
-    "explanationCN": "1.【窝】、【屋】（地名）汉语借词2.负担动词"
+    "explanationCN": "1.【窝】【屋】（地名）】2.负担动词"
   },
   {
     "character": "𗝄",
     "GX": "swaṃ²",
     "GHC": "sjwã²",
     "explanationEN": "to revolve",
-    "explanationCN": "旋汉语借词"
+    "explanationCN": "旋】"
   },
   {
     "character": "𗝒",
@@ -28831,7 +28831,7 @@ const DICTIONARY_DATA = [
     "GX": "qaə̱²",
     "GHC": "kiə²",
     "explanationEN": "earthen bowl",
-    "explanationCN": "鉢、盂"
+    "explanationCN": "鉢盂"
   },
   {
     "character": "𗞝",
@@ -28852,7 +28852,7 @@ const DICTIONARY_DATA = [
     "GX": "rmu̱r¹",
     "GHC": "mur¹",
     "explanationEN": "tree; wood",
-    "explanationCN": "木汉语借词"
+    "explanationCN": "木】"
   },
   {
     "character": "𗞌",
@@ -28866,7 +28866,7 @@ const DICTIONARY_DATA = [
     "GX": "pai̱¹",
     "GHC": "pie¹",
     "explanationEN": "cypress",
-    "explanationCN": "柏汉语借词"
+    "explanationCN": "柏】"
   },
   {
     "character": "𗞭",
@@ -28887,14 +28887,14 @@ const DICTIONARY_DATA = [
     "GX": "lwuh¹",
     "GHC": "ljwụ¹",
     "explanationEN": "rafter",
-    "explanationCN": "栿、梁"
+    "explanationCN": "栿梁"
   },
   {
     "character": "𗛨",
     "GX": "rna̱r²",
     "GHC": "nar²",
     "explanationEN": "to move; to shift",
-    "explanationCN": "1.移、易、迁2.惊慌"
+    "explanationCN": "1.移易迁2.惊慌"
   },
   {
     "character": "𗛪",
@@ -28908,7 +28908,7 @@ const DICTIONARY_DATA = [
     "GX": "phaa̱¹",
     "GHC": "phia¹",
     "explanationEN": "rake",
-    "explanationCN": "扒、耙"
+    "explanationCN": "扒耙"
   },
   {
     "character": "𗜚",
@@ -28929,7 +28929,7 @@ const DICTIONARY_DATA = [
     "GX": "qaə̱²",
     "GHC": "kiə²",
     "explanationEN": "jaw",
-    "explanationCN": "頜（頦、下巴）"
+    "explanationCN": "頜（頦下巴）"
   },
   {
     "character": "𗞫",
@@ -28985,7 +28985,7 @@ const DICTIONARY_DATA = [
     "GX": "rvor¹",
     "GHC": "wjor¹",
     "explanationEN": "roof beam",
-    "explanationCN": "檩、梁"
+    "explanationCN": "檩梁"
   },
   {
     "character": "𗞱",
@@ -29020,14 +29020,14 @@ const DICTIONARY_DATA = [
     "GX": "hae̱ṃ²",
     "GHC": "xiəj²",
     "explanationEN": "apricot",
-    "explanationCN": "杏汉语借词"
+    "explanationCN": "杏】"
   },
   {
     "character": "𗚭",
     "GX": "dẓaa̱ṃ²",
     "GHC": "dźiar²",
     "explanationEN": "to chop",
-    "explanationCN": "1.铡、剁2.馅"
+    "explanationCN": "1.铡剁2.馅"
   },
   {
     "character": "𗚃",
@@ -29062,14 +29062,14 @@ const DICTIONARY_DATA = [
     "GX": "pae̱ṃ²",
     "GHC": "piəj²",
     "explanationEN": "bowl",
-    "explanationCN": "鉢、盔"
+    "explanationCN": "鉢盔"
   },
   {
     "character": "𗚡",
     "GX": "nnə²",
     "GHC": "njɨ̱²",
     "explanationEN": "man; people; person",
-    "explanationCN": "人、庶民、人民"
+    "explanationCN": "人庶民人民"
   },
   {
     "character": "𗚎",
@@ -29090,28 +29090,28 @@ const DICTIONARY_DATA = [
     "GX": "ṣao̱²",
     "GHC": "śio²",
     "explanationEN": "pointed; sharp",
-    "explanationCN": "尖、细、纤"
+    "explanationCN": "尖细纤"
   },
   {
     "character": "𗛑",
     "GX": "rlho̱ṃr²",
     "GHC": "lhowr²",
     "explanationEN": "happiness; ease",
-    "explanationCN": "乐汉语借词"
+    "explanationCN": "乐】"
   },
   {
     "character": "𗚿",
     "GX": "liw²",
     "GHC": "ljiw²",
     "explanationEN": "to gather; to assemble",
-    "explanationCN": "1.集结2.【六】、【略】、【柳】、【陆】3.【绿】、【录】（音 254）"
+    "explanationCN": "1.集结2.【六】【略】【柳】【陆】3.【绿】【录】（音 254）"
   },
   {
     "character": "𗜆",
     "GX": "lheh¹",
     "GHC": "lhjịj¹",
     "explanationEN": "bowl",
-    "explanationCN": "鉢、盔"
+    "explanationCN": "鉢盔"
   },
   {
     "character": "𗚺",
@@ -29146,7 +29146,7 @@ const DICTIONARY_DATA = [
     "GX": "tshwa̱¹",
     "GHC": "¹",
     "explanationEN": "to invade and harass; to impale",
-    "explanationCN": "刺、穿"
+    "explanationCN": "刺穿"
   },
   {
     "character": "𗛀",
@@ -29160,7 +29160,7 @@ const DICTIONARY_DATA = [
     "GX": "lluh¹",
     "GHC": "ljụ¹",
     "explanationEN": "to flow; to drift; to float",
-    "explanationCN": "漂、流"
+    "explanationCN": "漂流"
   },
   {
     "character": "𗚤",
@@ -29181,7 +29181,7 @@ const DICTIONARY_DATA = [
     "GX": "rγo̱r¹",
     "GHC": "ɣor¹",
     "explanationEN": "ailanthus",
-    "explanationCN": "樗汉语借词"
+    "explanationCN": "樗】"
   },
   {
     "character": "𗚫",
@@ -29195,7 +29195,7 @@ const DICTIONARY_DATA = [
     "GX": "paa̱¹",
     "GHC": "pia¹",
     "explanationEN": "a skilled workman",
-    "explanationCN": "技、巧匠"
+    "explanationCN": "技巧匠"
   },
   {
     "character": "𗛙",
@@ -29216,14 +29216,14 @@ const DICTIONARY_DATA = [
     "GX": "tsho̱ṃ¹",
     "GHC": "tshow¹",
     "explanationEN": "desolate and boundless",
-    "explanationCN": "1.荒漠、苍茫2.【苍】族姓"
+    "explanationCN": "1.荒漠苍茫2.【苍】"
   },
   {
     "character": "𗛥",
     "GX": "dza̱¹",
     "GHC": "dza¹",
     "explanationEN": "to chisel",
-    "explanationCN": "凿名词汉语借词"
+    "explanationCN": "凿名词】"
   },
   {
     "character": "𗚽",
@@ -29237,14 +29237,14 @@ const DICTIONARY_DATA = [
     "GX": "yu²",
     "GHC": "ˑju²",
     "explanationEN": "people; person; man",
-    "explanationCN": "民、凡民、庶民、人民"
+    "explanationCN": "民凡民庶民人民"
   },
   {
     "character": "𗚔",
     "GX": "dzwə²",
     "GHC": "dzjwɨ²",
     "explanationEN": "to bathe",
-    "explanationCN": "噪、浴、沐"
+    "explanationCN": "噪浴沐"
   },
   {
     "character": "𗚛",
@@ -29258,7 +29258,7 @@ const DICTIONARY_DATA = [
     "GX": "tu¹",
     "GHC": "tju¹",
     "explanationEN": "a surname",
-    "explanationCN": "【篤】、【督】族姓（族姓）"
+    "explanationCN": "【篤】【督】（）"
   },
   {
     "character": "𗚦",
@@ -29272,28 +29272,28 @@ const DICTIONARY_DATA = [
     "GX": "du̱h²",
     "GHC": "dụ²",
     "explanationEN": "tub; bucket",
-    "explanationCN": "桶、筒"
+    "explanationCN": "桶筒"
   },
   {
     "character": "𗜁",
     "GX": "dźoh²",
     "GHC": "dźjọ²",
     "explanationEN": "Chinese ink; coal",
-    "explanationCN": "墨、煤"
+    "explanationCN": "墨煤"
   },
   {
     "character": "𗛚",
     "GX": "dzeh¹",
     "GHC": "dzjịj¹",
     "explanationEN": "boat; ship",
-    "explanationCN": "船、舟"
+    "explanationCN": "船舟"
   },
   {
     "character": "𗚹",
     "GX": "ṣwaa̱ṃ¹",
     "GHC": "śiwã¹",
     "explanationEN": "bolt",
-    "explanationCN": "栓动词汉语借词"
+    "explanationCN": "栓动词】"
   },
   {
     "character": "𗛘",
@@ -29321,21 +29321,21 @@ const DICTIONARY_DATA = [
     "GX": "śa²",
     "GHC": "śja²",
     "explanationEN": "to appear; to show; to sparkle",
-    "explanationCN": "1.显、现、耀2.誉、叹3.【单】、【单】、【陕】（音 199）"
+    "explanationCN": "1.显现耀2.誉叹3.【单】【单】【陕】（音 199）"
   },
   {
     "character": "𗝌",
     "GX": "śa²",
     "GHC": "śja²",
     "explanationEN": "musk",
-    "explanationCN": "麝汉语借词"
+    "explanationCN": "麝】"
   },
   {
     "character": "𗝖",
     "GX": "qhe̱¹",
     "GHC": "khej¹",
     "explanationEN": "luxuriant; exuberant",
-    "explanationCN": "1.茂盛2.【凯】、【愷】（音 197）"
+    "explanationCN": "1.茂盛2.【凯】【愷】（音 197）"
   },
   {
     "character": "𗜋",
@@ -29377,7 +29377,7 @@ const DICTIONARY_DATA = [
     "GX": "kwa̱ṃ¹",
     "GHC": "kwã¹",
     "explanationEN": "jar; pot",
-    "explanationCN": "罐汉语借词"
+    "explanationCN": "罐】"
   },
   {
     "character": "𗝨",
@@ -29391,7 +29391,7 @@ const DICTIONARY_DATA = [
     "GX": "lu¹",
     "GHC": "lju¹",
     "explanationEN": "bamboo flute",
-    "explanationCN": "管、笛、萧"
+    "explanationCN": "管笛萧"
   },
   {
     "character": "𗞨",
@@ -29405,14 +29405,14 @@ const DICTIONARY_DATA = [
     "GX": "pao̱¹",
     "GHC": "pio¹",
     "explanationEN": "to burst; to crack",
-    "explanationCN": "1.爆（裂）汉语借词2.【苞】、【包】、【鲍】（音 193）"
+    "explanationCN": "1.爆（裂）】2.【苞】【包】【鲍】（音 193）"
   },
   {
     "character": "𗞼",
     "GX": "nu²",
     "GHC": "nju²",
     "explanationEN": "to light; to kindle; to ignite; temple attendant; (wax) candle",
-    "explanationCN": "香、蜡烛名词"
+    "explanationCN": "香蜡烛名词"
   },
   {
     "character": "𗟖",
@@ -29447,7 +29447,7 @@ const DICTIONARY_DATA = [
     "GX": "da̱h¹",
     "GHC": "dạ¹",
     "explanationEN": "hole; cavity",
-    "explanationCN": "孔、穴"
+    "explanationCN": "孔穴"
   },
   {
     "character": "𗜗",
@@ -29475,14 +29475,14 @@ const DICTIONARY_DATA = [
     "GX": "luh¹",
     "GHC": "¹",
     "explanationEN": "to ring; to make a sound",
-    "explanationCN": "鸣、响"
+    "explanationCN": "鸣响"
   },
   {
     "character": "𗚋",
     "GX": "tśi¹",
     "GHC": "tśji¹",
     "explanationEN": "branch; twig",
-    "explanationCN": "1.枝汉语借词2.末"
+    "explanationCN": "1.枝】2.末"
   },
   {
     "character": "𗚴",
@@ -29538,21 +29538,21 @@ const DICTIONARY_DATA = [
     "GX": "dziw¹",
     "GHC": "dzjiw¹",
     "explanationEN": "cupboard; cabinet",
-    "explanationCN": "柜、橱"
+    "explanationCN": "柜橱"
   },
   {
     "character": "𗛈",
     "GX": "świ¹",
     "GHC": "śjwi¹",
     "explanationEN": "to rise.ʙ",
-    "explanationCN": "生、起、趋"
+    "explanationCN": "生起趋"
   },
   {
     "character": "𗛯",
     "GX": "nvu¹",
     "GHC": "wju̱¹",
     "explanationEN": "old; rotten; withered",
-    "explanationCN": "老、朽、枯"
+    "explanationCN": "老朽枯"
   },
   {
     "character": "𗛶",
@@ -29594,28 +29594,28 @@ const DICTIONARY_DATA = [
     "GX": "leṃh²",
     "GHC": "ljɨ̣j²",
     "explanationEN": "ghost; spirit",
-    "explanationCN": "鬼、蜮"
+    "explanationCN": "鬼蜮"
   },
   {
     "character": "𗚰",
     "GX": "le̱¹",
     "GHC": "¹",
     "explanationEN": "to close; to shut",
-    "explanationCN": "关、闭"
+    "explanationCN": "关闭"
   },
   {
     "character": "𗜍",
     "GX": "sa¹",
     "GHC": "sja¹",
     "explanationEN": "to kill; to slaughter",
-    "explanationCN": "杀、屠"
+    "explanationCN": "杀屠"
   },
   {
     "character": "𗜦",
     "GX": "llwih¹",
     "GHC": "ljwị¹",
     "explanationEN": "to fall in; to sink; to enter",
-    "explanationCN": "1.入、堕入、陷入2.置3.系、贯"
+    "explanationCN": "1.入堕入陷入2.置3.系贯"
   },
   {
     "character": "𗜅",
@@ -29643,14 +29643,14 @@ const DICTIONARY_DATA = [
     "GX": "tśo²",
     "GHC": "tśjo²",
     "explanationEN": "to hold; to have",
-    "explanationCN": "执、持汉语借词"
+    "explanationCN": "执持】"
   },
   {
     "character": "𗞙",
     "GX": "twe¹",
     "GHC": "tjwij¹",
     "explanationEN": "small cup; ancient wine vessel",
-    "explanationCN": "卮、盏、斛量词"
+    "explanationCN": "卮盏斛量词"
   },
   {
     "character": "𗞉",
@@ -29664,7 +29664,7 @@ const DICTIONARY_DATA = [
     "GX": "qo̱¹",
     "GHC": "ko¹",
     "explanationEN": "vehicle; carriage",
-    "explanationCN": "1.车汉语借词2.輜、軫、輅"
+    "explanationCN": "1.车】2.輜軫輅"
   },
   {
     "character": "𗛟",
@@ -29685,7 +29685,7 @@ const DICTIONARY_DATA = [
     "GX": "γa̱²",
     "GHC": "ɣa²",
     "explanationEN": "to gather; to concentrate",
-    "explanationCN": "1.集结2.荫、蔽、垂、布"
+    "explanationCN": "1.集结2.荫蔽垂布"
   },
   {
     "character": "𗝏",
@@ -29755,21 +29755,21 @@ const DICTIONARY_DATA = [
     "GX": "re̱r²",
     "GHC": "lhejr²",
     "explanationEN": "plum; woods; garden",
-    "explanationCN": "梅、林（森林）、丛、苑"
+    "explanationCN": "梅林（森林）丛苑"
   },
   {
     "character": "𗚖",
     "GX": "lhoṃ²",
     "GHC": "lhjo̱r²",
     "explanationEN": "a unit of measurement",
-    "explanationCN": "1.庹2.箏、案"
+    "explanationCN": "1.庹2.箏案"
   },
   {
     "character": "𗜬",
     "GX": "nlo¹",
     "GHC": "ljo̱¹",
     "explanationEN": "to fight for; to gamble",
-    "explanationCN": "争夺、赌"
+    "explanationCN": "争夺赌"
   },
   {
     "character": "𗝦",
@@ -29783,7 +29783,7 @@ const DICTIONARY_DATA = [
     "GX": "si¹",
     "GHC": "sji¹",
     "explanationEN": "tree; wood",
-    "explanationCN": "1.树、木、薪2.与（颈）连用，具有“枷”之义"
+    "explanationCN": "1.树木薪2.与（颈）连用，具有“枷”之义"
   },
   {
     "character": "𗞴",
@@ -29818,7 +29818,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋġae̱¹",
     "GHC": "gie̱j¹",
     "explanationEN": "skeleton",
-    "explanationCN": "骼、骨架"
+    "explanationCN": "骼骨架"
   },
   {
     "character": "𗛾",
@@ -29832,14 +29832,14 @@ const DICTIONARY_DATA = [
     "GX": "rtso̱ṃr¹",
     "GHC": "tsowr¹",
     "explanationEN": "thorn; splinter",
-    "explanationCN": "1.刺、棘2.短、段"
+    "explanationCN": "1.刺棘2.短段"
   },
   {
     "character": "𗞂",
     "GX": "lu̱²",
     "GHC": "lu²",
     "explanationEN": "calabash",
-    "explanationCN": "芦汉语借词"
+    "explanationCN": "芦】"
   },
   {
     "character": "𗞃",
@@ -29853,7 +29853,7 @@ const DICTIONARY_DATA = [
     "GX": "lhoṃ¹",
     "GHC": "lhjow¹",
     "explanationEN": "broom; to sweep",
-    "explanationCN": "扫帚、扫动词"
+    "explanationCN": "扫帚扫动词"
   },
   {
     "character": "𗟆",
@@ -29881,7 +29881,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋġae̱¹",
     "GHC": "gie̱j¹",
     "explanationEN": "thin; emaciated",
-    "explanationCN": "瘦、憔悴"
+    "explanationCN": "瘦憔悴"
   },
   {
     "character": "𗞾",
@@ -29916,7 +29916,7 @@ const DICTIONARY_DATA = [
     "GX": "tśhe¹",
     "GHC": "tśhjij¹",
     "explanationEN": "to hold.ᴀ; to grasp.ᴀ",
-    "explanationCN": "1.执、持、拏汉语借词2.载3.吞、吸4.入5.吹6.【政】、【郑】、【程】"
+    "explanationCN": "1.执持拏】2.载3.吞吸4.入5.吹6.【政】【郑】【程】"
   },
   {
     "character": "𗞄",
@@ -29951,7 +29951,7 @@ const DICTIONARY_DATA = [
     "GX": "so̱ṃ¹",
     "GHC": "sow¹",
     "explanationEN": "white mulberry; mulberry",
-    "explanationCN": "桑汉语借词"
+    "explanationCN": "桑】"
   },
   {
     "character": "𗚘",
@@ -29993,35 +29993,35 @@ const DICTIONARY_DATA = [
     "GX": "ŋwi̱²",
     "GHC": "ŋwe²",
     "explanationEN": "to do",
-    "explanationCN": "做、作、為"
+    "explanationCN": "做作為"
   },
   {
     "character": "𗚕",
     "GX": "li²",
     "GHC": "lji²",
     "explanationEN": "a kind of tree",
-    "explanationCN": "【梨】、【藜】树名"
+    "explanationCN": "【梨】【藜】树名"
   },
   {
     "character": "𗛿",
     "GX": "qao̱h¹",
     "GHC": "kiọ¹",
     "explanationEN": "song",
-    "explanationCN": "歌汉语借词"
+    "explanationCN": "歌】"
   },
   {
     "character": "𗜽",
     "GX": "rər¹",
     "GHC": "rjɨr¹",
     "explanationEN": "to flog; to torture; to beat",
-    "explanationCN": "杖、拷、打"
+    "explanationCN": "杖拷打"
   },
   {
     "character": "𗝽",
     "GX": "mpho²",
     "GHC": "phjo̱²",
     "explanationEN": "table; frame",
-    "explanationCN": "桌、架"
+    "explanationCN": "桌架"
   },
   {
     "character": "𗜛",
@@ -30035,7 +30035,7 @@ const DICTIONARY_DATA = [
     "GX": "ri̱r²",
     "GHC": "rer²",
     "explanationEN": "plate; board",
-    "explanationCN": "板、版"
+    "explanationCN": "板版"
   },
   {
     "character": "𗝮",
@@ -30063,7 +30063,7 @@ const DICTIONARY_DATA = [
     "GX": "thwo̱²",
     "GHC": "thwo²",
     "explanationEN": "to hold; to contain; to sink; to get stuck",
-    "explanationCN": "容、入、陷"
+    "explanationCN": "容入陷"
   },
   {
     "character": "𗛺",
@@ -30077,28 +30077,28 @@ const DICTIONARY_DATA = [
     "GX": "lluh¹",
     "GHC": "ljụ¹",
     "explanationEN": "night; evening",
-    "explanationCN": "1.夜、晚2.闲"
+    "explanationCN": "1.夜晚2.闲"
   },
   {
     "character": "𗜫",
     "GX": "si¹",
     "GHC": "sji¹",
     "explanationEN": "west",
-    "explanationCN": "1.西汉语借词2.【锡】3.【细】（珠 332）、【膝】（珠 191）、【析】（珠 314）、【夕】（珠 346）、【息】（珠 214）"
+    "explanationCN": "1.西】2.【锡】3.【细】（珠 332）【膝】（珠 191）【析】（珠 314）【夕】（珠 346）【息】（珠 214）"
   },
   {
     "character": "𗞅",
     "GX": "tśwaṃ¹",
     "GHC": "tśjwã¹",
     "explanationEN": "to turn; to rotate",
-    "explanationCN": "转汉语借词"
+    "explanationCN": "转】"
   },
   {
     "character": "𗜧",
     "GX": "me̱¹",
     "GHC": "mej¹",
     "explanationEN": "hole; cavity; tube",
-    "explanationCN": "1.孔、筒2.量"
+    "explanationCN": "1.孔筒2.量"
   },
   {
     "character": "𗚶",
@@ -30119,7 +30119,7 @@ const DICTIONARY_DATA = [
     "GX": "le̱²",
     "GHC": "lej²",
     "explanationEN": "to sing",
-    "explanationCN": "咏、唱、歌"
+    "explanationCN": "咏唱歌"
   },
   {
     "character": "𗝢",
@@ -30133,7 +30133,7 @@ const DICTIONARY_DATA = [
     "GX": "qao̱h¹",
     "GHC": "kiọ¹",
     "explanationEN": "fruit",
-    "explanationCN": "果汉语借词"
+    "explanationCN": "果】"
   },
   {
     "character": "𗛴",
@@ -30147,7 +30147,7 @@ const DICTIONARY_DATA = [
     "GX": "bi̱¹",
     "GHC": "be¹",
     "explanationEN": "to dispatch; to send",
-    "explanationCN": "遣、送"
+    "explanationCN": "遣送"
   },
   {
     "character": "𗜥",
@@ -30168,7 +30168,7 @@ const DICTIONARY_DATA = [
     "GX": "tsu̱ṃ¹",
     "GHC": "tsũ¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【宗】族姓2.【骏】、【总】"
+    "explanationCN": "1.【宗】2.【骏】【总】"
   },
   {
     "character": "𗝫",
@@ -30231,7 +30231,7 @@ const DICTIONARY_DATA = [
     "GX": "baa̱¹",
     "GHC": "bia¹",
     "explanationEN": "to burst; to break; to crack",
-    "explanationCN": "裂、破"
+    "explanationCN": "裂破"
   },
   {
     "character": "𗚐",
@@ -30266,7 +30266,7 @@ const DICTIONARY_DATA = [
     "GX": "loṃ²",
     "GHC": "ljow²",
     "explanationEN": "border; boundary",
-    "explanationCN": "1.边界、边际2.旁"
+    "explanationCN": "1.边界边际2.旁"
   },
   {
     "character": "𗜩",
@@ -30280,7 +30280,7 @@ const DICTIONARY_DATA = [
     "GX": "nla̱¹",
     "GHC": "la¹",
     "explanationEN": "to pollute",
-    "explanationCN": "1.污、染2.耽、著、秽、构"
+    "explanationCN": "1.污染2.耽著秽构"
   },
   {
     "character": "𗞢",
@@ -30301,7 +30301,7 @@ const DICTIONARY_DATA = [
     "GX": "tsi̱w¹",
     "GHC": "tsew¹",
     "explanationEN": "alcoholic drink; wine",
-    "explanationCN": "1.酒汉语借词2.【椒】、【枣】3.鷦"
+    "explanationCN": "1.酒】2.【椒】【枣】3.鷦"
   },
   {
     "character": "𗜷",
@@ -30315,7 +30315,7 @@ const DICTIONARY_DATA = [
     "GX": "ġu̱²",
     "GHC": "gu²",
     "explanationEN": "a classifier",
-    "explanationCN": "具、张、乘（辆）"
+    "explanationCN": "具张乘（辆）"
   },
   {
     "character": "𗟊",
@@ -30336,7 +30336,7 @@ const DICTIONARY_DATA = [
     "GX": "fiṃ¹",
     "GHC": "xjwĩ¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【分】动词汉语借词2.【训】3.辆、所4.【风】（珠 165）、【峰】（珠 244）、【缝】（珠 244）、【粉】（珠 255）、【奉】（珠 341）、【汾】（音 194）"
+    "explanationCN": "1.【分】动词】2.【训】3.辆所4.【风】（珠 165）【峰】（珠 244）【缝】（珠 244）【粉】（珠 255）【奉】（珠 341）【汾】（音 194）"
   },
   {
     "character": "𗜾",
@@ -30350,7 +30350,7 @@ const DICTIONARY_DATA = [
     "GX": "qi̱w²",
     "GHC": "kew²",
     "explanationEN": "the fruit of Chinese wolfberry",
-    "explanationCN": "枸汉语借词"
+    "explanationCN": "枸】"
   },
   {
     "character": "𗛢",
@@ -30364,7 +30364,7 @@ const DICTIONARY_DATA = [
     "GX": "śwu²",
     "GHC": "śjwu²",
     "explanationEN": "able and virtuous",
-    "explanationCN": "贤、惠"
+    "explanationCN": "贤惠"
   },
   {
     "character": "𗛁",
@@ -30385,7 +30385,7 @@ const DICTIONARY_DATA = [
     "GX": "kuh¹",
     "GHC": "kjụ¹",
     "explanationEN": "tangerine",
-    "explanationCN": "橘汉语借词"
+    "explanationCN": "橘】"
   },
   {
     "character": "𗟁",
@@ -30406,7 +30406,7 @@ const DICTIONARY_DATA = [
     "GX": "γiw²",
     "GHC": "ɣjiw²",
     "explanationEN": "to play; to make fun of",
-    "explanationCN": "玩、戏、闹"
+    "explanationCN": "玩戏闹"
   },
   {
     "character": "𗟅",
@@ -30469,7 +30469,7 @@ const DICTIONARY_DATA = [
     "GX": "li̱w¹",
     "GHC": "lew¹",
     "explanationEN": "building",
-    "explanationCN": "1.楼汉语借词2.耬3.【娄】、【陋】、【路】、【牢】"
+    "explanationCN": "1.楼】2.耬3.【娄】【陋】【路】【牢】"
   },
   {
     "character": "𗜜",
@@ -30483,7 +30483,7 @@ const DICTIONARY_DATA = [
     "GX": "dzi̱²",
     "GHC": "dze²",
     "explanationEN": "thistles and thorns; brambles",
-    "explanationCN": "1.棘、蒺汉语借词2.枣"
+    "explanationCN": "1.棘蒺】2.枣"
   },
   {
     "character": "𗛔",
@@ -30504,7 +30504,7 @@ const DICTIONARY_DATA = [
     "GX": "ni²",
     "GHC": "nji²",
     "explanationEN": "bag; pocket",
-    "explanationCN": "袋、囊"
+    "explanationCN": "袋囊"
   },
   {
     "character": "𗜼",
@@ -30518,7 +30518,7 @@ const DICTIONARY_DATA = [
     "GX": "ndi²",
     "GHC": "dji̱²",
     "explanationEN": "furniture; board",
-    "explanationCN": "家俱、隔板"
+    "explanationCN": "家俱隔板"
   },
   {
     "character": "𗝈",
@@ -30532,7 +30532,7 @@ const DICTIONARY_DATA = [
     "GX": "dzo̱²",
     "GHC": "dzjo²",
     "explanationEN": "trough",
-    "explanationCN": "槽汉语借词"
+    "explanationCN": "槽】"
   },
   {
     "character": "𗞧",
@@ -30560,7 +30560,7 @@ const DICTIONARY_DATA = [
     "GX": "tśhə¹",
     "GHC": "tśhjɨ¹",
     "explanationEN": "a surname",
-    "explanationCN": "【契】族姓"
+    "explanationCN": "【契】"
   },
   {
     "character": "𗝝",
@@ -30588,7 +30588,7 @@ const DICTIONARY_DATA = [
     "GX": "tśe²",
     "GHC": "tśjij²",
     "explanationEN": "to hold; to grasp",
-    "explanationCN": "执汉语借词"
+    "explanationCN": "执】"
   },
   {
     "character": "𗝛",
@@ -30616,14 +30616,14 @@ const DICTIONARY_DATA = [
     "GX": "vwe̱²",
     "GHC": "wej²",
     "explanationEN": "stake; pile",
-    "explanationCN": "杙、桩"
+    "explanationCN": "杙桩"
   },
   {
     "character": "𗜮",
     "GX": "nllu¹",
     "GHC": "lju̱¹",
     "explanationEN": "to gamble; to fight for",
-    "explanationCN": "赌、争夺"
+    "explanationCN": "赌争夺"
   },
   {
     "character": "𗜭",
@@ -30637,7 +30637,7 @@ const DICTIONARY_DATA = [
     "GX": "to̱²",
     "GHC": "to²",
     "explanationEN": "to borrow money; to raise a loan",
-    "explanationCN": "借债、负债"
+    "explanationCN": "借债负债"
   },
   {
     "character": "𗛬",
@@ -30665,7 +30665,7 @@ const DICTIONARY_DATA = [
     "GX": "da̱h¹",
     "GHC": "dạ¹",
     "explanationEN": "to break; to snap",
-    "explanationCN": "折、断"
+    "explanationCN": "折断"
   },
   {
     "character": "𗞆",
@@ -30679,14 +30679,14 @@ const DICTIONARY_DATA = [
     "GX": "mma̱r¹",
     "GHC": "ma̱r¹",
     "explanationEN": "luxuriant; exuberant",
-    "explanationCN": "茂汉语借词"
+    "explanationCN": "茂】"
   },
   {
     "character": "𗝚",
     "GX": "sə¹",
     "GHC": "sjɨ¹",
     "explanationEN": "firewood",
-    "explanationCN": "1.薪、柴、木2.蔬"
+    "explanationCN": "1.薪柴木2.蔬"
   },
   {
     "character": "𗜨",
@@ -30714,14 +30714,14 @@ const DICTIONARY_DATA = [
     "GX": "lluh¹",
     "GHC": "ljụ¹",
     "explanationEN": "to ring; to make a sound",
-    "explanationCN": "鸣、响"
+    "explanationCN": "鸣响"
   },
   {
     "character": "𗚯",
     "GX": "le̱¹",
     "GHC": "lej¹",
     "explanationEN": "to close; to shut",
-    "explanationCN": "1.关、闭"
+    "explanationCN": "1.关闭"
   },
   {
     "character": "𗟀",
@@ -30742,7 +30742,7 @@ const DICTIONARY_DATA = [
     "GX": "ẓwaə̱¹",
     "GHC": "źiwə¹",
     "explanationEN": "difference; disparity",
-    "explanationCN": "差别、差异"
+    "explanationCN": "差别差异"
   },
   {
     "character": "𗟉",
@@ -30756,7 +30756,7 @@ const DICTIONARY_DATA = [
     "GX": "ta̱ṃ¹",
     "GHC": "tã¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【丹】、【旦】、【郸】（族姓）"
+    "explanationCN": "【丹】【旦】【郸】（）"
   },
   {
     "character": "𗝑",
@@ -30784,7 +30784,7 @@ const DICTIONARY_DATA = [
     "GX": "ror²",
     "GHC": "rjor²",
     "explanationEN": "to bind; to tie up",
-    "explanationCN": "束、缚"
+    "explanationCN": "束缚"
   },
   {
     "character": "𗞘",
@@ -30798,14 +30798,14 @@ const DICTIONARY_DATA = [
     "GX": "dẓaa̱²",
     "GHC": "dźia²",
     "explanationEN": "disorderly; coarse",
-    "explanationCN": "1.杂、乱、粗2.竖3.胡"
+    "explanationCN": "1.杂乱粗2.竖3.胡"
   },
   {
     "character": "𗝂",
     "GX": "rər²",
     "GHC": "rjɨr²",
     "explanationEN": "central room",
-    "explanationCN": "庭、堂、屋"
+    "explanationCN": "庭堂屋"
   },
   {
     "character": "𗝶",
@@ -30819,7 +30819,7 @@ const DICTIONARY_DATA = [
     "GX": "teṃh¹",
     "GHC": "tjɨ̣j¹",
     "explanationEN": "to advance; to strive",
-    "explanationCN": "强、进"
+    "explanationCN": "强进"
   },
   {
     "character": "𗞁",
@@ -30833,7 +30833,7 @@ const DICTIONARY_DATA = [
     "GX": "zo̱ṃ²",
     "GHC": "zow²",
     "explanationEN": "eulogy; praise",
-    "explanationCN": "颂汉语借词"
+    "explanationCN": "颂】"
   },
   {
     "character": "𗜈",
@@ -30847,14 +30847,14 @@ const DICTIONARY_DATA = [
     "GX": "ge²",
     "GHC": "gjij²",
     "explanationEN": "human skeleton; ghost",
-    "explanationCN": "骷髏、鬼怪"
+    "explanationCN": "骷髏鬼怪"
   },
   {
     "character": "𗝇",
     "GX": "zo̱ṃ²",
     "GHC": "zow²",
     "explanationEN": "confidence; trust; faith",
-    "explanationCN": "信任、信实"
+    "explanationCN": "信任信实"
   },
   {
     "character": "𗛫",
@@ -30882,7 +30882,7 @@ const DICTIONARY_DATA = [
     "GX": "tho̱ṃh¹",
     "GHC": "thọ¹",
     "explanationEN": "general name for certain musical instruments",
-    "explanationCN": "琴、瑟、乐器"
+    "explanationCN": "琴瑟乐器"
   },
   {
     "character": "𗜐",
@@ -30903,14 +30903,14 @@ const DICTIONARY_DATA = [
     "GX": "ŋga²",
     "GHC": "gja̱²",
     "explanationEN": "pole; staff",
-    "explanationCN": "杆、桅"
+    "explanationCN": "杆桅"
   },
   {
     "character": "𗚍",
     "GX": "dzwaṃ¹",
     "GHC": "dźjwã¹",
     "explanationEN": "rafter",
-    "explanationCN": "椽汉语借词"
+    "explanationCN": "椽】"
   },
   {
     "character": "𗚸",
@@ -30952,14 +30952,14 @@ const DICTIONARY_DATA = [
     "GX": "qhau̱¹",
     "GHC": "khu¹",
     "explanationEN": "crooked; hollow",
-    "explanationCN": "弯曲、坑洼"
+    "explanationCN": "弯曲坑洼"
   },
   {
     "character": "𗝪",
     "GX": "ka̱ṃ¹",
     "GHC": "kã¹",
     "explanationEN": "pole; rod",
-    "explanationCN": "杆、竿汉语借词"
+    "explanationCN": "杆竿】"
   },
   {
     "character": "𗜳",
@@ -30987,7 +30987,7 @@ const DICTIONARY_DATA = [
     "GX": "dźə¹",
     "GHC": "dźjɨ̣¹",
     "explanationEN": "to burst apart; to collapse",
-    "explanationCN": "崩裂、毁圮"
+    "explanationCN": "崩裂毁圮"
   },
   {
     "character": "𘜭",
@@ -31008,7 +31008,7 @@ const DICTIONARY_DATA = [
     "GX": "śu¹",
     "GHC": "śju¹",
     "explanationEN": "cool; cold",
-    "explanationCN": "1.凉2.【叔】、【蜀】（音 200）"
+    "explanationCN": "1.凉2.【叔】【蜀】（音 200）"
   },
   {
     "character": "𗚲",
@@ -31036,7 +31036,7 @@ const DICTIONARY_DATA = [
     "GX": "twi̱h²",
     "GHC": "twẹ²",
     "explanationEN": "roof beam",
-    "explanationCN": "檩、梁"
+    "explanationCN": "檩梁"
   },
   {
     "character": "𘚍",
@@ -31071,7 +31071,7 @@ const DICTIONARY_DATA = [
     "GX": "dźu²",
     "GHC": "dźju²",
     "explanationEN": "seed; race",
-    "explanationCN": "种、根"
+    "explanationCN": "种根"
   },
   {
     "character": "𘓂",
@@ -31092,21 +31092,21 @@ const DICTIONARY_DATA = [
     "GX": "rur¹",
     "GHC": "rjur¹",
     "explanationEN": "auspicious",
-    "explanationCN": "祥、瑞"
+    "explanationCN": "祥瑞"
   },
   {
     "character": "𘓃",
     "GX": "lləh¹",
     "GHC": "ljɨ̣¹",
     "explanationEN": "murderer; homicide; to kill",
-    "explanationCN": "凶手、凶杀动词"
+    "explanationCN": "凶手凶杀动词"
   },
   {
     "character": "𘜵",
     "GX": "śu¹",
     "GHC": "śju¹",
     "explanationEN": "to swear; to abuse",
-    "explanationCN": "駡、喻、告"
+    "explanationCN": "駡喻告"
   },
   {
     "character": "𗘲",
@@ -31127,14 +31127,14 @@ const DICTIONARY_DATA = [
     "GX": "nsi̱w²",
     "GHC": "se̱w²",
     "explanationEN": "to demand; to ask for",
-    "explanationCN": "索取、索求"
+    "explanationCN": "索取索求"
   },
   {
     "character": "𗴌",
     "GX": "zo̱ṃ²",
     "GHC": "zow²",
     "explanationEN": "that; it; he",
-    "explanationCN": "彼、它、其"
+    "explanationCN": "彼它其"
   },
   {
     "character": "𘓁",
@@ -31155,7 +31155,7 @@ const DICTIONARY_DATA = [
     "GX": "so̱ṃ¹",
     "GHC": "sow¹",
     "explanationEN": "broken",
-    "explanationCN": "破、粒动词"
+    "explanationCN": "破粒动词"
   },
   {
     "character": "𘜹",
@@ -31169,21 +31169,21 @@ const DICTIONARY_DATA = [
     "GX": "kwaṃ¹",
     "GHC": "kjwã¹",
     "explanationEN": "chapter; volume",
-    "explanationCN": "1.卷汉语借词2.【捐】、【决】、【绢】（音 197）"
+    "explanationCN": "1.卷】2.【捐】【决】【绢】（音 197）"
   },
   {
     "character": "𘜴",
     "GX": "mma²",
     "GHC": "mja̱²",
     "explanationEN": "big; large",
-    "explanationCN": "1.大2.素、事"
+    "explanationCN": "1.大2.素事"
   },
   {
     "character": "𗘴",
     "GX": "mmu²",
     "GHC": "mju̱²",
     "explanationEN": "to move; to stir",
-    "explanationCN": "动、摇"
+    "explanationCN": "动摇"
   },
   {
     "character": "𗵺",
@@ -31204,7 +31204,7 @@ const DICTIONARY_DATA = [
     "GX": "dźiw¹",
     "GHC": "dzjiw¹",
     "explanationEN": "to wash; to bathe",
-    "explanationCN": "洗、濯、涤"
+    "explanationCN": "洗濯涤"
   },
   {
     "character": "𘜺",
@@ -31218,7 +31218,7 @@ const DICTIONARY_DATA = [
     "GX": "tha̱²",
     "GHC": "tha²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【道】、【佗】、【大】、【陶】、【桃】"
+    "explanationCN": "【道】【佗】【大】【陶】【桃】"
   },
   {
     "character": "𘴈",
@@ -31232,14 +31232,14 @@ const DICTIONARY_DATA = [
     "GX": "lleh²",
     "GHC": "ljịj²",
     "explanationEN": "big; great; large",
-    "explanationCN": "大、太、弘、巨、宏、奘、简"
+    "explanationCN": "大太弘巨宏奘简"
   },
   {
     "character": "𗘵",
     "GX": "khi²",
     "GHC": "khji²",
     "explanationEN": "to butcher; to cut",
-    "explanationCN": "宰、割"
+    "explanationCN": "宰割"
   },
   {
     "character": "𗍣",
@@ -31253,14 +31253,14 @@ const DICTIONARY_DATA = [
     "GX": "ndu²",
     "GHC": "dju̱²",
     "explanationEN": "to stab; to penetrate",
-    "explanationCN": "刺、穿"
+    "explanationCN": "刺穿"
   },
   {
     "character": "𘚒",
     "GX": "so̱ṃ¹",
     "GHC": "sow¹",
     "explanationEN": "fresh; clean",
-    "explanationCN": "鲜洁、清净"
+    "explanationCN": "鲜洁清净"
   },
   {
     "character": "𘞔",
@@ -31288,7 +31288,7 @@ const DICTIONARY_DATA = [
     "GX": "lləh¹",
     "GHC": "ljɨ̣¹",
     "explanationEN": "toil; hard work",
-    "explanationCN": "劳累、劳苦"
+    "explanationCN": "劳累劳苦"
   },
   {
     "character": "𘜮",
@@ -31302,14 +31302,14 @@ const DICTIONARY_DATA = [
     "GX": "tshə̱¹",
     "GHC": "tshə¹",
     "explanationEN": "temple",
-    "explanationCN": "1.寺汉语借词2.【次】3.【刺】、【慈】（音 198）"
+    "explanationCN": "1.寺】2.【次】3.【刺】【慈】（音 198）"
   },
   {
     "character": "𘜱",
     "GX": "thəh²",
     "GHC": "thjɨ̣²",
     "explanationEN": "belt; band",
-    "explanationCN": "带（腹带、攀带）"
+    "explanationCN": "带（腹带攀带）"
   },
   {
     "character": "𗶹",
@@ -31337,14 +31337,14 @@ const DICTIONARY_DATA = [
     "GX": "ṣai̱²",
     "GHC": "śie²",
     "explanationEN": "to mate",
-    "explanationCN": "交配、淫"
+    "explanationCN": "交配淫"
   },
   {
     "character": "𗶳",
     "GX": "ŋkho²",
     "GHC": "khjo̱²",
     "explanationEN": "to look; to see",
-    "explanationCN": "瞧、见、显现"
+    "explanationCN": "瞧见显现"
   },
   {
     "character": "𗶾",
@@ -31358,7 +31358,7 @@ const DICTIONARY_DATA = [
     "GX": "ha̱?",
     "GHC": "xa?",
     "explanationEN": "to puff; to blow",
-    "explanationCN": "1.吹、除2.【哈】、【訶】、【贺】、【汉】、【韩】"
+    "explanationCN": "1.吹除2.【哈】【訶】【贺】【汉】【韩】"
   },
   {
     "character": "𗷕",
@@ -31393,21 +31393,21 @@ const DICTIONARY_DATA = [
     "GX": "rqa̱r²",
     "GHC": "kar²",
     "explanationEN": "to separate; to distinguish",
-    "explanationCN": "分离、分别、区分"
+    "explanationCN": "分离分别区分"
   },
   {
     "character": "𗶷",
     "GX": "śə¹",
     "GHC": "śjɨ¹",
     "explanationEN": "to go toward; to depart",
-    "explanationCN": "往、去"
+    "explanationCN": "往去"
   },
   {
     "character": "𗶻",
     "GX": "śwəh²",
     "GHC": "śjwiw²",
     "explanationEN": "to accompany; to attend",
-    "explanationCN": "随从、伴随"
+    "explanationCN": "随从伴随"
   },
   {
     "character": "𗷈",
@@ -31428,35 +31428,35 @@ const DICTIONARY_DATA = [
     "GX": "tshwi̱w¹",
     "GHC": "tshwew¹",
     "explanationEN": "to give alms; to give as a present",
-    "explanationCN": "1.施、赠2.趣3.向4.去"
+    "explanationCN": "1.施赠2.趣3.向4.去"
   },
   {
     "character": "𗷑",
     "GX": "mphi²",
     "GHC": "phji̱²",
     "explanationEN": "sensitive; dexterous",
-    "explanationCN": "1.灵巧、灵敏2.批"
+    "explanationCN": "1.灵巧灵敏2.批"
   },
   {
     "character": "𗷔",
     "GX": "twu̱¹",
     "GHC": "twu¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【都】、【覩】、【杜】、【咄】"
+    "explanationCN": "【都】【覩】【杜】【咄】"
   },
   {
     "character": "𗶽",
     "GX": "śə²",
     "GHC": "śjɨ²",
     "explanationEN": "slight; tiny; rare",
-    "explanationCN": "微、少许"
+    "explanationCN": "微少许"
   },
   {
     "character": "𗷆",
     "GX": "mphi¹",
     "GHC": "phji̱¹",
     "explanationEN": "to make; to enable; to cause",
-    "explanationCN": "1.使、令2.用3.检校"
+    "explanationCN": "1.使令2.用3.检校"
   },
   {
     "character": "𗷇",
@@ -31470,7 +31470,7 @@ const DICTIONARY_DATA = [
     "GX": "dźeh²",
     "GHC": "dźjịj²",
     "explanationEN": "to fight; to struggle",
-    "explanationCN": "1.争夺、争斗2.敌、搏3.报"
+    "explanationCN": "1.争夺争斗2.敌搏3.报"
   },
   {
     "character": "𗶼",
@@ -31498,7 +31498,7 @@ const DICTIONARY_DATA = [
     "GX": "bu¹",
     "GHC": "bju¹",
     "explanationEN": "to offer; to send back",
-    "explanationCN": "奉送、遣送"
+    "explanationCN": "奉送遣送"
   },
   {
     "character": "𗶶",
@@ -31512,14 +31512,14 @@ const DICTIONARY_DATA = [
     "GX": "ndza̱¹",
     "GHC": "dza̱¹",
     "explanationEN": "far",
-    "explanationCN": "1.远2.过、失3.衰"
+    "explanationCN": "1.远2.过失3.衰"
   },
   {
     "character": "𗶸",
     "GX": "zo²",
     "GHC": "źjo²",
     "explanationEN": "to sell",
-    "explanationCN": "售、卖汉语借词"
+    "explanationCN": "售卖】"
   },
   {
     "character": "𗷐",
@@ -31547,14 +31547,14 @@ const DICTIONARY_DATA = [
     "GX": "śə²",
     "GHC": "śjɨ²",
     "explanationEN": "curtain; screen",
-    "explanationCN": "1.幔2.【释】、【式】、【势】"
+    "explanationCN": "1.幔2.【释】【式】【势】"
   },
   {
     "character": "𘜬",
     "GX": "qae̱²",
     "GHC": "kiej²",
     "explanationEN": "to send; to tell somebody to do",
-    "explanationCN": "使、驱使"
+    "explanationCN": "使驱使"
   },
   {
     "character": "𘜫",
@@ -31575,28 +31575,28 @@ const DICTIONARY_DATA = [
     "GX": "lu̱²",
     "GHC": "lu²",
     "explanationEN": "to burn; to ignite; to light",
-    "explanationCN": "1.燃、烧、焚2.烤"
+    "explanationCN": "1.燃烧焚2.烤"
   },
   {
     "character": "𗀚",
     "GX": "ṣao̱¹",
     "GHC": "śio¹",
     "explanationEN": "to guide; to lead",
-    "explanationCN": "1.引导2.诱、将、鼗（鞉）"
+    "explanationCN": "1.引导2.诱将鼗（鞉）"
   },
   {
     "character": "𗠇",
     "GX": "tih¹",
     "GHC": "tjị¹",
     "explanationEN": "to eat; food",
-    "explanationCN": "食、厨名词"
+    "explanationCN": "食厨名词"
   },
   {
     "character": "𗠎",
     "GX": "qhə̱¹",
     "GHC": "khə¹",
     "explanationEN": "meat stuffing; sausage",
-    "explanationCN": "肉馅、香肠"
+    "explanationCN": "肉馅香肠"
   },
   {
     "character": "𗸢",
@@ -31610,7 +31610,7 @@ const DICTIONARY_DATA = [
     "GX": "bə¹",
     "GHC": "bjɨ¹",
     "explanationEN": "tall; high",
-    "explanationCN": "高、上"
+    "explanationCN": "高上"
   },
   {
     "character": "𗡐",
@@ -31624,7 +31624,7 @@ const DICTIONARY_DATA = [
     "GX": "dzi²",
     "GHC": "dzji²",
     "explanationEN": "to drink; to eat; food",
-    "explanationCN": "饮、食、服动词"
+    "explanationCN": "饮食服动词"
   },
   {
     "character": "𗠬",
@@ -31666,35 +31666,35 @@ const DICTIONARY_DATA = [
     "GX": "bi²",
     "GHC": "bji²",
     "explanationEN": "to shout; to cry; to yell",
-    "explanationCN": "叫、喊、鸣"
+    "explanationCN": "叫喊鸣"
   },
   {
     "character": "𗠪",
     "GX": "bi²",
     "GHC": "bji²",
     "explanationEN": "to command; to direct",
-    "explanationCN": "指挥、指示"
+    "explanationCN": "指挥指示"
   },
   {
     "character": "𗡈",
     "GX": "ryawr²",
     "GHC": "ˑja̱r²",
     "explanationEN": "to cry; to shout",
-    "explanationCN": "叫、喊"
+    "explanationCN": "叫喊"
   },
   {
     "character": "𘉜",
     "GX": "tsho̱ṃh²",
     "GHC": "tshọ²",
     "explanationEN": "to fear; to terrify",
-    "explanationCN": "惊慌、惊恐"
+    "explanationCN": "惊慌惊恐"
   },
   {
     "character": "𗡃",
     "GX": "tshe̱²",
     "GHC": "tshej²",
     "explanationEN": "incomplete; imperfect",
-    "explanationCN": "缺、豁"
+    "explanationCN": "缺豁"
   },
   {
     "character": "𗄠",
@@ -31708,7 +31708,7 @@ const DICTIONARY_DATA = [
     "GX": "ni²",
     "GHC": "nji²",
     "explanationEN": "clean; spotless",
-    "explanationCN": "洁、净"
+    "explanationCN": "洁净"
   },
   {
     "character": "𗺄",
@@ -31729,7 +31729,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋwu̱²",
     "GHC": "ŋwu²",
     "explanationEN": "a kind of official position",
-    "explanationCN": "1.勾管2.【兀】（族姓）"
+    "explanationCN": "1.勾管2.【兀】（）"
   },
   {
     "character": "𗄡",
@@ -31750,7 +31750,7 @@ const DICTIONARY_DATA = [
     "GX": "yo̱ṃ²",
     "GHC": "ˑjow²",
     "explanationEN": "to extol; to praise",
-    "explanationCN": "讚颂、讚叹"
+    "explanationCN": "讚颂讚叹"
   },
   {
     "character": "𗠵",
@@ -31764,14 +31764,14 @@ const DICTIONARY_DATA = [
     "GX": "qai̱¹",
     "GHC": "kie¹",
     "explanationEN": "to shout; to call out",
-    "explanationCN": "呼、唤、喊"
+    "explanationCN": "呼唤喊"
   },
   {
     "character": "𗠫",
     "GX": "dźwiw²",
     "GHC": "dźjwiw²",
     "explanationEN": "hungry",
-    "explanationCN": "饥、饿"
+    "explanationCN": "饥饿"
   },
   {
     "character": "𗡉",
@@ -31785,7 +31785,7 @@ const DICTIONARY_DATA = [
     "GX": "ror²",
     "GHC": "rjor²",
     "explanationEN": "wizard; witch; sorcerer",
-    "explanationCN": "巫、驱鬼者"
+    "explanationCN": "巫驱鬼者"
   },
   {
     "character": "𗀛",
@@ -31806,7 +31806,7 @@ const DICTIONARY_DATA = [
     "GX": "vəh¹",
     "GHC": "wjɨ̣¹",
     "explanationEN": "witch; wizard; sorcerer",
-    "explanationCN": "巫、驱鬼者"
+    "explanationCN": "巫驱鬼者"
   },
   {
     "character": "𗡊",
@@ -31827,7 +31827,7 @@ const DICTIONARY_DATA = [
     "GX": "mi¹",
     "GHC": "mji¹",
     "explanationEN": "to feed",
-    "explanationCN": "喂、使饮、食"
+    "explanationCN": "喂使饮食"
   },
   {
     "character": "𗠉",
@@ -31841,14 +31841,14 @@ const DICTIONARY_DATA = [
     "GX": "rə̱h¹",
     "GHC": "¹",
     "explanationEN": "to distend",
-    "explanationCN": "胀、寛"
+    "explanationCN": "胀寛"
   },
   {
     "character": "𗠨",
     "GX": "dźwu²",
     "GHC": "dźjwu²",
     "explanationEN": "saliva",
-    "explanationCN": "涎、唾沫"
+    "explanationCN": "涎唾沫"
   },
   {
     "character": "𗡗",
@@ -31883,21 +31883,21 @@ const DICTIONARY_DATA = [
     "GX": "lheh¹",
     "GHC": "lhjịj¹",
     "explanationEN": "wizard; sorcerer",
-    "explanationCN": "巫、驱鬼者"
+    "explanationCN": "巫驱鬼者"
   },
   {
     "character": "𗠐",
     "GX": "ndu̱²",
     "GHC": "du̱²",
     "explanationEN": "to expand; to swallow",
-    "explanationCN": "胀、吞"
+    "explanationCN": "胀吞"
   },
   {
     "character": "𗠑",
     "GX": "rqa̱r²",
     "GHC": "kar²",
     "explanationEN": "to bite; to chew",
-    "explanationCN": "咬、嚼"
+    "explanationCN": "咬嚼"
   },
   {
     "character": "𗡀",
@@ -31918,7 +31918,7 @@ const DICTIONARY_DATA = [
     "GX": "pə̱¹",
     "GHC": "pə¹",
     "explanationEN": "fire",
-    "explanationCN": "火、离"
+    "explanationCN": "火离"
   },
   {
     "character": "𘓽",
@@ -31946,7 +31946,7 @@ const DICTIONARY_DATA = [
     "GX": "mi̱h²",
     "GHC": "mẹ²",
     "explanationEN": "to sprinkle; to spread; to break",
-    "explanationCN": "撒、洒、折"
+    "explanationCN": "撒洒折"
   },
   {
     "character": "𗇅",
@@ -31960,28 +31960,28 @@ const DICTIONARY_DATA = [
     "GX": "ba²",
     "GHC": "bja²",
     "explanationEN": "a surname",
-    "explanationCN": "【跋】族姓"
+    "explanationCN": "【跋】"
   },
   {
     "character": "𘉘",
     "GX": "rzə̱r²",
     "GHC": "zər²",
     "explanationEN": "a surname",
-    "explanationCN": "【徐】、【叙】族姓"
+    "explanationCN": "【徐】【叙】"
   },
   {
     "character": "𗠓",
     "GX": "bah²",
     "GHC": "bjạ²",
     "explanationEN": "binder; barrier",
-    "explanationCN": "障碍、噎"
+    "explanationCN": "障碍噎"
   },
   {
     "character": "𗠿",
     "GX": "mo¹",
     "GHC": "mjo¹",
     "explanationEN": "to feed",
-    "explanationCN": "喂、使饮、食"
+    "explanationCN": "喂使饮食"
   },
   {
     "character": "𘚡",
@@ -32044,35 +32044,35 @@ const DICTIONARY_DATA = [
     "GX": "bi¹",
     "GHC": "bji¹",
     "explanationEN": "light; brightness",
-    "explanationCN": "光、明"
+    "explanationCN": "光明"
   },
   {
     "character": "𘉑",
     "GX": "mə¹",
     "GHC": "mjɨ¹",
     "explanationEN": "indeterminative other",
-    "explanationCN": "他、彼"
+    "explanationCN": "他彼"
   },
   {
     "character": "𘉒",
     "GX": "mo̱²",
     "GHC": "mo²",
     "explanationEN": "HYP: hypothetic; a transliteration; shame",
-    "explanationCN": "HYP；羞愧；【慕】、【牟】、【毛】、【謨】3.【摩】、【蒙】、【莽】（音 193）"
+    "explanationCN": "HYP；羞愧；【慕】【牟】【毛】【謨】3.【摩】【蒙】【莽】（音 193）"
   },
   {
     "character": "𗡏",
     "GX": "mmi̱¹",
     "GHC": "me̱¹",
     "explanationEN": "fragrant",
-    "explanationCN": "馥、芬、芳"
+    "explanationCN": "馥芬芳"
   },
   {
     "character": "𗡑",
     "GX": "mmi̱¹",
     "GHC": "me̱¹",
     "explanationEN": "to scatter; to sprinkle",
-    "explanationCN": "洒、撒、散"
+    "explanationCN": "洒撒散"
   },
   {
     "character": "𗺅",
@@ -32086,7 +32086,7 @@ const DICTIONARY_DATA = [
     "GX": "lu²",
     "GHC": "lju²",
     "explanationEN": "a surname",
-    "explanationCN": "【吕】、【閭】、【驴】、【卢】族姓"
+    "explanationCN": "【吕】【閭】【驴】【卢】"
   },
   {
     "character": "𗠍",
@@ -32107,14 +32107,14 @@ const DICTIONARY_DATA = [
     "GX": "tih¹",
     "GHC": "tjị¹",
     "explanationEN": "to feed",
-    "explanationCN": "喂、使饮"
+    "explanationCN": "喂使饮"
   },
   {
     "character": "𗠲",
     "GX": "ndo̱¹",
     "GHC": "do̱¹",
     "explanationEN": "to mix",
-    "explanationCN": "调汉语借词"
+    "explanationCN": "调】"
   },
   {
     "character": "𗠹",
@@ -32156,28 +32156,28 @@ const DICTIONARY_DATA = [
     "GX": "kəh²",
     "GHC": "kjɨ̣²",
     "explanationEN": "a surname",
-    "explanationCN": "【契】族姓"
+    "explanationCN": "【契】"
   },
   {
     "character": "𘉗",
     "GX": "γuo¹",
     "GHC": "ˑio̱w¹",
     "explanationEN": "a surname",
-    "explanationCN": "【药合】族姓"
+    "explanationCN": "【药合】"
   },
   {
     "character": "𗢆",
     "GX": "śwə¹",
     "GHC": "śjwɨ¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【舜】族姓2.【说】"
+    "explanationCN": "1.【舜】2.【说】"
   },
   {
     "character": "𗠷",
     "GX": "pho²",
     "GHC": "phjo²",
     "explanationEN": "to distinguish; to differentiate",
-    "explanationCN": "区分、分别"
+    "explanationCN": "区分分别"
   },
   {
     "character": "𗡋",
@@ -32191,14 +32191,14 @@ const DICTIONARY_DATA = [
     "GX": "kiw¹",
     "GHC": "kjiw¹",
     "explanationEN": "ditch; gully",
-    "explanationCN": "沟汉语借词"
+    "explanationCN": "沟】"
   },
   {
     "character": "𘉝",
     "GX": "na²",
     "GHC": "nja²",
     "explanationEN": "to drive; to expel",
-    "explanationCN": "1.驱赶、驱驰2.走3.寇4.催"
+    "explanationCN": "1.驱赶驱驰2.走3.寇4.催"
   },
   {
     "character": "𗠅",
@@ -32261,14 +32261,14 @@ const DICTIONARY_DATA = [
     "GX": "thae̱h²",
     "GHC": "thẹj²",
     "explanationEN": "big; extreme",
-    "explanationCN": "太、大副词汉语借词"
+    "explanationCN": "太大副词】"
   },
   {
     "character": "𗠺",
     "GX": "nli²",
     "GHC": "lji̱²",
     "explanationEN": "hobby",
-    "explanationCN": "嗜好、可口"
+    "explanationCN": "嗜好可口"
   },
   {
     "character": "𗠳",
@@ -32289,28 +32289,28 @@ const DICTIONARY_DATA = [
     "GX": "ŋqo̱²",
     "GHC": "ko̱²",
     "explanationEN": "throat; to swallow",
-    "explanationCN": "（喉咙）咽喉、嚥动词"
+    "explanationCN": "（喉咙）咽喉嚥动词"
   },
   {
     "character": "𗢄",
     "GX": "śwaṃ²",
     "GHC": "śjwã²",
     "explanationEN": "side",
-    "explanationCN": "1.侧2.【鶉】（珠 172）、【逊】（珠 074）、【唇】（珠 183）3.【舜】、【宣】、【说】、【顺】（音 201）"
+    "explanationCN": "1.侧2.【鶉】（珠 172）【逊】（珠 074）【唇】（珠 183）3.【舜】【宣】【说】【顺】（音 201）"
   },
   {
     "character": "𗡇",
     "GX": "dźe²",
     "GHC": "²",
     "explanationEN": "food; bait",
-    "explanationCN": "食、饵"
+    "explanationCN": "食饵"
   },
   {
     "character": "𗠮",
     "GX": "yaw²",
     "GHC": "ˑja̱²",
     "explanationEN": "entertaimnent",
-    "explanationCN": "唱歌、娱乐"
+    "explanationCN": "唱歌娱乐"
   },
   {
     "character": "𗠸",
@@ -32324,7 +32324,7 @@ const DICTIONARY_DATA = [
     "GX": "qa̱¹",
     "GHC": "ka¹",
     "explanationEN": "elder brother",
-    "explanationCN": "1.哥汉语借词2.【歌】3.【葛】"
+    "explanationCN": "1.哥】2.【歌】3.【葛】"
   },
   {
     "character": "𗡕",
@@ -32345,21 +32345,21 @@ const DICTIONARY_DATA = [
     "GX": "nlle²",
     "GHC": "lji̱j²",
     "explanationEN": "tasty; delicious",
-    "explanationCN": "可口、嗜好"
+    "explanationCN": "可口嗜好"
   },
   {
     "character": "𗠛",
     "GX": "lhuh²",
     "GHC": "ljụ²",
     "explanationEN": "to swallow; to eat; to drink",
-    "explanationCN": "1.食、吃、吞、饮2.浆、汁"
+    "explanationCN": "1.食吃吞饮2.浆汁"
   },
   {
     "character": "𗡂",
     "GX": "thwo̱²",
     "GHC": "thwo²",
     "explanationEN": "to rear; to howl",
-    "explanationCN": "1.吼2.何、谁"
+    "explanationCN": "1.吼2.何谁"
   },
   {
     "character": "𗡁",
@@ -32373,7 +32373,7 @@ const DICTIONARY_DATA = [
     "GX": "ka¹",
     "GHC": "kja¹",
     "explanationEN": "how about",
-    "explanationCN": "1.何如2.【吉】、【建】、【蹇】、【伽】、【揭】、【坚】、【迦】、【汲】"
+    "explanationCN": "1.何如2.【吉】【建】【蹇】【伽】【揭】【坚】【迦】【汲】"
   },
   {
     "character": "𗠋",
@@ -32401,14 +32401,14 @@ const DICTIONARY_DATA = [
     "GX": "ti̱ṃ¹",
     "GHC": "¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "鐙、等"
+    "explanationCN": "鐙等"
   },
   {
     "character": "𘚔",
     "GX": "mme²",
     "GHC": "mji̱j²",
     "explanationEN": "below; down; tip; end",
-    "explanationCN": "1.下、末、尾、终名词2.二字重迭為“渐渐”之义"
+    "explanationCN": "1.下末尾终名词2.二字重迭為“渐渐”之义"
   },
   {
     "character": "𘉔",
@@ -32436,21 +32436,21 @@ const DICTIONARY_DATA = [
     "GX": "ŋγi¹",
     "GHC": "ɣji̱¹",
     "explanationEN": "to cook; to boil",
-    "explanationCN": "煮、熬"
+    "explanationCN": "煮熬"
   },
   {
     "character": "𘚻",
     "GX": "di̱²",
     "GHC": "de²",
     "explanationEN": "happy; to like; to love",
-    "explanationCN": "喜、喜欢动词"
+    "explanationCN": "喜喜欢动词"
   },
   {
     "character": "𘔀",
     "GX": "vu¹",
     "GHC": "wju¹",
     "explanationEN": "pot; pan",
-    "explanationCN": "锅、罐"
+    "explanationCN": "锅罐"
   },
   {
     "character": "𘔈",
@@ -32464,7 +32464,7 @@ const DICTIONARY_DATA = [
     "GX": "rthwə̱r¹",
     "GHC": "thwər¹",
     "explanationEN": "to burn",
-    "explanationCN": "1.烧2.柴、薪3.【盾】"
+    "explanationCN": "1.烧2.柴薪3.【盾】"
   },
   {
     "character": "𘟎",
@@ -32499,14 +32499,14 @@ const DICTIONARY_DATA = [
     "GX": "nźə¹",
     "GHC": "źjɨ̱¹",
     "explanationEN": "to pierce through; to penetrate",
-    "explanationCN": "穿、刺"
+    "explanationCN": "穿刺"
   },
   {
     "character": "𗡘",
     "GX": "ndə¹",
     "GHC": "djɨ̱¹",
     "explanationEN": "frivolous",
-    "explanationCN": "佻薄、轻浮"
+    "explanationCN": "佻薄轻浮"
   },
   {
     "character": "𘉎",
@@ -32555,7 +32555,7 @@ const DICTIONARY_DATA = [
     "GX": "rpwər¹",
     "GHC": "pjwɨ̱r¹",
     "explanationEN": "to cheat; to deceive; to change",
-    "explanationCN": "骗、变"
+    "explanationCN": "骗变"
   },
   {
     "character": "𗡛",
@@ -32569,7 +32569,7 @@ const DICTIONARY_DATA = [
     "GX": "hwa̱²",
     "GHC": "xwa²",
     "explanationEN": "trench",
-    "explanationCN": "1.壕、井2.【哈】"
+    "explanationCN": "1.壕井2.【哈】"
   },
   {
     "character": "𗠕",
@@ -32583,28 +32583,28 @@ const DICTIONARY_DATA = [
     "GX": "rbaə̱r¹",
     "GHC": "biər¹",
     "explanationEN": "a kind of disease in nose",
-    "explanationCN": "瘜、鼻竇"
+    "explanationCN": "瘜鼻竇"
   },
   {
     "character": "𗠥",
     "GX": "ndo¹",
     "GHC": "djo̱¹",
     "explanationEN": "to pick out; to select",
-    "explanationCN": "拣、捨、持"
+    "explanationCN": "拣捨持"
   },
   {
     "character": "𗡆",
     "GX": "rphə̱r¹",
     "GHC": "phər¹",
     "explanationEN": "to sprinkle",
-    "explanationCN": "泼汉语借词"
+    "explanationCN": "泼】"
   },
   {
     "character": "𗠯",
     "GX": "rtshar¹",
     "GHC": "tshjar¹",
     "explanationEN": "to instigate; to calumniate",
-    "explanationCN": "唆、谗、谤"
+    "explanationCN": "唆谗谤"
   },
   {
     "character": "𘚧",
@@ -32618,42 +32618,42 @@ const DICTIONARY_DATA = [
     "GX": "bya²",
     "GHC": "bja²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【埋】、【别】"
+    "explanationCN": "【埋】【别】"
   },
   {
     "character": "𗡓",
     "GX": "thaw²",
     "GHC": "thja̱²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【条】、【銚】"
+    "explanationCN": "【条】【銚】"
   },
   {
     "character": "𗠱",
     "GX": "the¹",
     "GHC": "thjij¹",
     "explanationEN": "to call out; to shout",
-    "explanationCN": "呼喊、呼唤"
+    "explanationCN": "呼喊呼唤"
   },
   {
     "character": "𗠰",
     "GX": "thi¹",
     "GHC": "thji¹",
     "explanationEN": "to drink; to eat",
-    "explanationCN": "饮、服、喝"
+    "explanationCN": "饮服喝"
   },
   {
     "character": "𘓿",
     "GX": "vwai̱²",
     "GHC": "wie²",
     "explanationEN": "to stew",
-    "explanationCN": "煨汉语借词"
+    "explanationCN": "煨】"
   },
   {
     "character": "𘓾",
     "GX": "yaṃ¹",
     "GHC": "ˑjã¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【淹】、【延】、【焉】、【严】、【燕】、【閆】族姓、2.【筵】（珠 335）、【烟】（珠 086）、【焰】（珠 075）、【演】（珠 365）、【燕】（珠 126）3.【厌】、【淹】、【阎】、【盐】（音 203）"
+    "explanationCN": "1.【淹】【延】【焉】【严】【燕】【閆】2.【筵】（珠 335）【烟】（珠 086）【焰】（珠 075）【演】（珠 365）【燕】（珠 126）3.【厌】【淹】【阎】【盐】（音 203）"
   },
   {
     "character": "𘔁",
@@ -32674,7 +32674,7 @@ const DICTIONARY_DATA = [
     "GX": "lha̱¹",
     "GHC": "lha¹",
     "explanationEN": "to extinguish; to put out",
-    "explanationCN": "1.熄、灭2.删3.蔑"
+    "explanationCN": "1.熄灭2.删3.蔑"
   },
   {
     "character": "𗟞",
@@ -32688,7 +32688,7 @@ const DICTIONARY_DATA = [
     "GX": "ẓai̱²",
     "GHC": "źie²",
     "explanationEN": "to cook; to boil",
-    "explanationCN": "煮、熬"
+    "explanationCN": "煮熬"
   },
   {
     "character": "𘉊",
@@ -32716,7 +32716,7 @@ const DICTIONARY_DATA = [
     "GX": "bə¹",
     "GHC": "bjɨ¹",
     "explanationEN": "below; down",
-    "explanationCN": "下、以下"
+    "explanationCN": "下以下"
   },
   {
     "character": "𘔃",
@@ -32751,7 +32751,7 @@ const DICTIONARY_DATA = [
     "GX": "nwu̱¹",
     "GHC": "nwu¹",
     "explanationEN": "baby; infant",
-    "explanationCN": "婴儿、柔软"
+    "explanationCN": "婴儿柔软"
   },
   {
     "character": "𘍐",
@@ -32779,7 +32779,7 @@ const DICTIONARY_DATA = [
     "GX": "khiw¹",
     "GHC": "khjiw¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【求】、【蕎】"
+    "explanationCN": "【求】【蕎】"
   },
   {
     "character": "𘖞",
@@ -32807,35 +32807,35 @@ const DICTIONARY_DATA = [
     "GX": "ŋkhə²",
     "GHC": "khjɨ̱²",
     "explanationEN": "chimney; window; hole",
-    "explanationCN": "1.窗、窗、孔2.间、……之间介词"
+    "explanationCN": "1.窗窗孔2.间……之间介词"
   },
   {
     "character": "𗑷",
     "GX": "to̱²",
     "GHC": "to²",
     "explanationEN": "all",
-    "explanationCN": "皆、悉、尽、总"
+    "explanationCN": "皆悉尽总"
   },
   {
     "character": "𗑉",
     "GX": "me̱¹",
     "GHC": "mej¹",
     "explanationEN": "eyes",
-    "explanationCN": "眼、目"
+    "explanationCN": "眼目"
   },
   {
     "character": "𗑹",
     "GX": "γa̱ṃ¹",
     "GHC": "ˑã¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【安】、【庵】"
+    "explanationCN": "【安】【庵】"
   },
   {
     "character": "𗓷",
     "GX": "khwaṃ¹",
     "GHC": "khjwã¹",
     "explanationEN": "a surname",
-    "explanationCN": "【群】、【郡】、【权】"
+    "explanationCN": "【群】【郡】【权】"
   },
   {
     "character": "𗓻",
@@ -32849,14 +32849,14 @@ const DICTIONARY_DATA = [
     "GX": "mah¹",
     "GHC": "mjạ¹",
     "explanationEN": "to dig; to gnaw; to bite",
-    "explanationCN": "掘、凿、嚙"
+    "explanationCN": "掘凿嚙"
   },
   {
     "character": "𗇝",
     "GX": "rywar¹",
     "GHC": "ˑjwar¹",
     "explanationEN": "light; glittering",
-    "explanationCN": "1.亮、闪耀2.【越】"
+    "explanationCN": "1.亮闪耀2.【越】"
   },
   {
     "character": "𗑜",
@@ -32870,7 +32870,7 @@ const DICTIONARY_DATA = [
     "GX": "γəh¹",
     "GHC": "ɣjɨ̣¹",
     "explanationEN": "to rumor",
-    "explanationCN": "1.流言2.【頡】族姓"
+    "explanationCN": "1.流言2.【頡】"
   },
   {
     "character": "𗓃",
@@ -32884,14 +32884,14 @@ const DICTIONARY_DATA = [
     "GX": "na̱¹",
     "GHC": "na¹",
     "explanationEN": "deep",
-    "explanationCN": "深、玄、绝、幽"
+    "explanationCN": "深玄绝幽"
   },
   {
     "character": "𗑘",
     "GX": "swe̱¹",
     "GHC": "swej¹",
     "explanationEN": "clean; spotless",
-    "explanationCN": "洁、净"
+    "explanationCN": "洁净"
   },
   {
     "character": "𗒫",
@@ -32905,7 +32905,7 @@ const DICTIONARY_DATA = [
     "GX": "ba̱h¹",
     "GHC": "bạ¹",
     "explanationEN": "cymbals",
-    "explanationCN": "鈸汉语借词"
+    "explanationCN": "鈸】"
   },
   {
     "character": "𗔥",
@@ -32919,28 +32919,28 @@ const DICTIONARY_DATA = [
     "GX": "reṃ²",
     "GHC": "rjɨj²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【令】、【林】、【陵】"
+    "explanationCN": "【令】【林】【陵】"
   },
   {
     "character": "𗔸",
     "GX": "ba̱h²",
     "GHC": "bạ²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【跋】族姓2.头髮名词"
+    "explanationCN": "1.【跋】2.头髮名词"
   },
   {
     "character": "𗔫",
     "GX": "duh¹",
     "GHC": "djụ¹",
     "explanationEN": "to meet; to encounter",
-    "explanationCN": "遇、值"
+    "explanationCN": "遇值"
   },
   {
     "character": "𗔟",
     "GX": "rṇar¹",
     "GHC": "njar¹",
     "explanationEN": "a surname",
-    "explanationCN": "【纽】、【寧】族姓"
+    "explanationCN": "【纽】【寧】"
   },
   {
     "character": "𗔳",
@@ -32968,14 +32968,14 @@ const DICTIONARY_DATA = [
     "GX": "tswa̱ṃ¹",
     "GHC": "tswã¹",
     "explanationEN": "to drill; to bore",
-    "explanationCN": "1.钻汉语借词2.【纂】地名"
+    "explanationCN": "1.钻】2.【纂】地名"
   },
   {
     "character": "𗓗",
     "GX": "ndźu²",
     "GHC": "dźju̱²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【女】汉语借词"
+    "explanationCN": "【女】】"
   },
   {
     "character": "𗒈",
@@ -32996,35 +32996,35 @@ const DICTIONARY_DATA = [
     "GX": "ne¹",
     "GHC": "njij¹",
     "explanationEN": "end; east",
-    "explanationCN": "末尾、东方"
+    "explanationCN": "末尾东方"
   },
   {
     "character": "𗓽",
     "GX": "lo̱¹",
     "GHC": "lo¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【郎】、【罗】2.【萝】（珠 146）、【饠】（珠 344）、【糯】（珠 155）、【骡】（珠 164）、【骆】（珠 163）、【珞】（珠 211）、【乐】（珠 323）、【螺】（珠 212）、【狼】（珠 164）、【廊】（珠 221）"
+    "explanationCN": "1.【郎】【罗】2.【萝】（珠 146）【饠】（珠 344）【糯】（珠 155）【骡】（珠 164）【骆】（珠 163）【珞】（珠 211）【乐】（珠 323）【螺】（珠 212）【狼】（珠 164）【廊】（珠 221）"
   },
   {
     "character": "𗔖",
     "GX": "rtsi̱wr¹",
     "GHC": "tsewr¹",
     "explanationEN": "to slaughter; to butcher",
-    "explanationCN": "宰汉语借词"
+    "explanationCN": "宰】"
   },
   {
     "character": "𗔴",
     "GX": "ryur²",
     "GHC": "ˑjur²",
     "explanationEN": "a surname",
-    "explanationCN": "【育】、【域】族姓"
+    "explanationCN": "【育】【域】"
   },
   {
     "character": "𗯨",
     "GX": "rur¹",
     "GHC": "rjur¹",
     "explanationEN": "world; capital city",
-    "explanationCN": "世界、京城"
+    "explanationCN": "世界京城"
   },
   {
     "character": "𘎏",
@@ -33045,7 +33045,7 @@ const DICTIONARY_DATA = [
     "GX": "tṣhwaa̱¹",
     "GHC": "tśhiwa¹",
     "explanationEN": "to suppress; to stifle",
-    "explanationCN": "压、制"
+    "explanationCN": "压制"
   },
   {
     "character": "𘖱",
@@ -33066,14 +33066,14 @@ const DICTIONARY_DATA = [
     "GX": "qae̱h²",
     "GHC": "kiẹj²",
     "explanationEN": "boundary",
-    "explanationCN": "1.界汉语借词2.潮3.朝4.京师"
+    "explanationCN": "1.界】2.潮3.朝4.京师"
   },
   {
     "character": "𗐶",
     "GX": "la̱h¹",
     "GHC": "¹",
     "explanationEN": "to estimate",
-    "explanationCN": "量、目测"
+    "explanationCN": "量目测"
   },
   {
     "character": "𗑋",
@@ -33087,14 +33087,14 @@ const DICTIONARY_DATA = [
     "GX": "lə̱¹",
     "GHC": "¹",
     "explanationEN": "neck",
-    "explanationCN": "脛、项"
+    "explanationCN": "脛项"
   },
   {
     "character": "𗑓",
     "GX": "di¹",
     "GHC": "dji¹",
     "explanationEN": "to shift; to move",
-    "explanationCN": "移、徒、迁、动"
+    "explanationCN": "移徒迁动"
   },
   {
     "character": "𗒠",
@@ -33108,7 +33108,7 @@ const DICTIONARY_DATA = [
     "GX": "γa̱h¹",
     "GHC": "ɣạ¹",
     "explanationEN": "joint; very close relative",
-    "explanationCN": "关节、至亲"
+    "explanationCN": "关节至亲"
   },
   {
     "character": "𗔔",
@@ -33129,7 +33129,7 @@ const DICTIONARY_DATA = [
     "GX": "gəh²",
     "GHC": "gjɨ̣²",
     "explanationEN": "ancestor; forebear",
-    "explanationCN": "祖、先"
+    "explanationCN": "祖先"
   },
   {
     "character": "𗓈",
@@ -33143,7 +33143,7 @@ const DICTIONARY_DATA = [
     "GX": "γu̱h²",
     "GHC": "ˑụ²",
     "explanationEN": "storehouse; warehouse",
-    "explanationCN": "仓、库、藏、府、当"
+    "explanationCN": "仓库藏府当"
   },
   {
     "character": "𗒭",
@@ -33157,28 +33157,28 @@ const DICTIONARY_DATA = [
     "GX": "tsu¹",
     "GHC": "sju¹",
     "explanationEN": "to store; to save",
-    "explanationCN": "藏、怀、贮"
+    "explanationCN": "藏怀贮"
   },
   {
     "character": "𗓖",
     "GX": "ŋga²",
     "GHC": "gja̱²",
     "explanationEN": "dexterous; nimble",
-    "explanationCN": "灵巧、刚、勇"
+    "explanationCN": "灵巧刚勇"
   },
   {
     "character": "𘎎",
     "GX": "swu̱²",
     "GHC": "swu²",
     "explanationEN": "full; filled",
-    "explanationCN": "满、盈"
+    "explanationCN": "满盈"
   },
   {
     "character": "𘗁",
     "GX": "dźa²",
     "GHC": "dźja²",
     "explanationEN": "sharp; firm",
-    "explanationCN": "刚、利、明、快、锋"
+    "explanationCN": "刚利明快锋"
   },
   {
     "character": "𗓳",
@@ -33192,7 +33192,7 @@ const DICTIONARY_DATA = [
     "GX": "ma̱²",
     "GHC": "ma²",
     "explanationEN": "to apply; to daub",
-    "explanationCN": "抹汉语借词"
+    "explanationCN": "抹】"
   },
   {
     "character": "𘖣",
@@ -33206,14 +33206,14 @@ const DICTIONARY_DATA = [
     "GX": "rtsi̱wr¹",
     "GHC": "tsewr¹",
     "explanationEN": "joint",
-    "explanationCN": "1.节汉语借词2.辈3.重4.数"
+    "explanationCN": "1.节】2.辈3.重4.数"
   },
   {
     "character": "𗑱",
     "GX": "ka²",
     "GHC": "kja²",
     "explanationEN": "rob; steps",
-    "explanationCN": "劫、阶汉语借词"
+    "explanationCN": "劫阶】"
   },
   {
     "character": "𘃙",
@@ -33241,7 +33241,7 @@ const DICTIONARY_DATA = [
     "GX": "yo̱ṃ²",
     "GHC": "ˑjow²",
     "explanationEN": "appearance; shape",
-    "explanationCN": "1.样汉语借词2.【邕】、【融】、【雍】、【容】、【应】、【雄】、【阳】"
+    "explanationCN": "1.样】2.【邕】【融】【雍】【容】【应】【雄】【阳】"
   },
   {
     "character": "𘖾",
@@ -33269,14 +33269,14 @@ const DICTIONARY_DATA = [
     "GX": "ŋġo̱r¹",
     "GHC": "ko̱r¹",
     "explanationEN": "brocade",
-    "explanationCN": "锦、紈"
+    "explanationCN": "锦紈"
   },
   {
     "character": "𗭀",
     "GX": "reṃ²",
     "GHC": "rjɨj²",
     "explanationEN": "silk; satin",
-    "explanationCN": "綾、罗"
+    "explanationCN": "綾罗"
   },
   {
     "character": "𗑈",
@@ -33290,7 +33290,7 @@ const DICTIONARY_DATA = [
     "GX": "se̱¹",
     "GHC": "sej¹",
     "explanationEN": "clean; quiet",
-    "explanationCN": "1.清净2.静、书"
+    "explanationCN": "1.清净2.静书"
   },
   {
     "character": "𗒪",
@@ -33353,7 +33353,7 @@ const DICTIONARY_DATA = [
     "GX": "γa̱ṃ¹",
     "GHC": "ˑã¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【安】、【奄】族姓、"
+    "explanationCN": "【安】【奄】"
   },
   {
     "character": "𗐭",
@@ -33374,14 +33374,14 @@ const DICTIONARY_DATA = [
     "GX": "ṣao̱ṃ¹",
     "GHC": "śiow¹",
     "explanationEN": "to gather; to collect",
-    "explanationCN": "集、聚"
+    "explanationCN": "集聚"
   },
   {
     "character": "𘖟",
     "GX": "bi̱h¹",
     "GHC": "bẹ¹",
     "explanationEN": "lance; spear",
-    "explanationCN": "枪、矛、戟"
+    "explanationCN": "枪矛戟"
   },
   {
     "character": "𗬸",
@@ -33402,7 +33402,7 @@ const DICTIONARY_DATA = [
     "GX": "γwe̱¹",
     "GHC": "ɣwej¹",
     "explanationEN": "to fight; to struggle",
-    "explanationCN": "争、鬭"
+    "explanationCN": "争鬭"
   },
   {
     "character": "𗑒",
@@ -33416,7 +33416,7 @@ const DICTIONARY_DATA = [
     "GX": "tshe̱¹",
     "GHC": "tshej¹",
     "explanationEN": "property; wealth",
-    "explanationCN": "1.财汉语借词2.【菜】（珠 144）、【裁】（珠 244）、【在】（珠 316）、【蔡】、【才】（音 198）"
+    "explanationCN": "1.财】2.【菜】（珠 144）【裁】（珠 244）【在】（珠 316）【蔡】【才】（音 198）"
   },
   {
     "character": "𗬷",
@@ -33437,7 +33437,7 @@ const DICTIONARY_DATA = [
     "GX": "ryər²",
     "GHC": "ˑjɨr²",
     "explanationEN": "silk",
-    "explanationCN": "绢、帛、縞、彩"
+    "explanationCN": "绢帛縞彩"
   },
   {
     "character": "𗬾",
@@ -33458,14 +33458,14 @@ const DICTIONARY_DATA = [
     "GX": "qhao̱ṃ²",
     "GHC": "khjow²",
     "explanationEN": "respectability",
-    "explanationCN": "1.恪2.【可】（珠 314）、【空】（珠 041）、【箜】（珠 324）、【坤】（珠 102）、【眶】（珠 185）3.【康】、【羌】、【軻】、【广】、【颗】、【旷】、【孔】、【共】（音 196）"
+    "explanationCN": "1.恪2.【可】（珠 314）【空】（珠 041）【箜】（珠 324）【坤】（珠 102）【眶】（珠 185）3.【康】【羌】【軻】【广】【颗】【旷】【孔】【共】（音 196）"
   },
   {
     "character": "𗓙",
     "GX": "pə̱h¹",
     "GHC": "pə¹",
     "explanationEN": "to hit; to fix exactly",
-    "explanationCN": "著、着、中"
+    "explanationCN": "著着中"
   },
   {
     "character": "𘞧",
@@ -33486,7 +33486,7 @@ const DICTIONARY_DATA = [
     "GX": "leṃ²",
     "GHC": "ljɨj²",
     "explanationEN": "skill ability",
-    "explanationCN": "领汉语借词"
+    "explanationCN": "领】"
   },
   {
     "character": "𘖠",
@@ -33521,7 +33521,7 @@ const DICTIONARY_DATA = [
     "GX": "nheṃ¹",
     "GHC": "xjɨj¹",
     "explanationEN": "wide; broad",
-    "explanationCN": "宽、阔"
+    "explanationCN": "宽阔"
   },
   {
     "character": "𗔐",
@@ -33535,7 +33535,7 @@ const DICTIONARY_DATA = [
     "GX": "lwu̱h²",
     "GHC": "lwụ²",
     "explanationEN": "to stir; to agitate; to mix",
-    "explanationCN": "搅、拌"
+    "explanationCN": "搅拌"
   },
   {
     "character": "𘖩",
@@ -33549,7 +33549,7 @@ const DICTIONARY_DATA = [
     "GX": "li̱w²",
     "GHC": "lew²",
     "explanationEN": "a surname",
-    "explanationCN": "【鲁】、【炉】、【路】族姓"
+    "explanationCN": "【鲁】【炉】【路】"
   },
   {
     "character": "𗑺",
@@ -33563,7 +33563,7 @@ const DICTIONARY_DATA = [
     "GX": "bo̱¹",
     "GHC": "bo¹",
     "explanationEN": "robe; gown",
-    "explanationCN": "袍汉语借词"
+    "explanationCN": "袍】"
   },
   {
     "character": "𗒻",
@@ -33577,7 +33577,7 @@ const DICTIONARY_DATA = [
     "GX": "swiṃ¹",
     "GHC": "sjwĩ¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【旬】汉语借词2.【荀】、【询】、【孙】、【巡】"
+    "explanationCN": "1.【旬】】2.【荀】【询】【孙】【巡】"
   },
   {
     "character": "𗬺",
@@ -33591,7 +33591,7 @@ const DICTIONARY_DATA = [
     "GX": "mi̱ṃ¹",
     "GHC": "mẽ¹",
     "explanationEN": "door; entrance",
-    "explanationCN": "门汉语借词"
+    "explanationCN": "门】"
   },
   {
     "character": "𗐫",
@@ -33619,21 +33619,21 @@ const DICTIONARY_DATA = [
     "GX": "rmao̱r¹",
     "GHC": "mior¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【妙】、【卯】、【貌】"
+    "explanationCN": "【妙】【卯】【貌】"
   },
   {
     "character": "𗑬",
     "GX": "dzu̱¹",
     "GHC": "dzu¹",
     "explanationEN": "dregs; residue",
-    "explanationCN": "渣、滓"
+    "explanationCN": "渣滓"
   },
   {
     "character": "𗔑",
     "GX": "qa̱h²",
     "GHC": "kạ²",
     "explanationEN": "clothes for cattle; leather",
-    "explanationCN": "牛衣、革"
+    "explanationCN": "牛衣革"
   },
   {
     "character": "𗒺",
@@ -33661,7 +33661,7 @@ const DICTIONARY_DATA = [
     "GX": "se̱¹",
     "GHC": "sej¹",
     "explanationEN": "a surname",
-    "explanationCN": "【塞】、【腮】族姓"
+    "explanationCN": "【塞】【腮】"
   },
   {
     "character": "𗑶",
@@ -33675,35 +33675,35 @@ const DICTIONARY_DATA = [
     "GX": "khya²",
     "GHC": "kha²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【讫】、【契】"
+    "explanationCN": "【讫】【契】"
   },
   {
     "character": "𗒯",
     "GX": "khi¹",
     "GHC": "khji¹",
     "explanationEN": "to lose",
-    "explanationCN": "1.丢失、落、弃2.【奇】、【錡】、【起】、【骑】、【祗】、【耆】、【企】、【崎】、【却】、【杞】、【忌】、【靳】、【岐】"
+    "explanationCN": "1.丢失落弃2.【奇】【錡】【起】【骑】【祗】【耆】【企】【崎】【却】【杞】【忌】【靳】【岐】"
   },
   {
     "character": "𗒼",
     "GX": "qhwae̱h¹",
     "GHC": "khwẹj¹",
     "explanationEN": "to expand; to enlarge",
-    "explanationCN": "1.扩、拓2.骄慢"
+    "explanationCN": "1.扩拓2.骄慢"
   },
   {
     "character": "𗓩",
     "GX": "be̱ṃ¹",
     "GHC": "bəj¹",
     "explanationEN": "wide; vast; flat",
-    "explanationCN": "广、平"
+    "explanationCN": "广平"
   },
   {
     "character": "𗓏",
     "GX": "dźi?",
     "GHC": "dźji?",
     "explanationEN": "to look; to see",
-    "explanationCN": "1.览、瞻2.缨縵"
+    "explanationCN": "1.览瞻2.缨縵"
   },
   {
     "character": "𗒛",
@@ -33717,21 +33717,21 @@ const DICTIONARY_DATA = [
     "GX": "ror²",
     "GHC": "rjor²",
     "explanationEN": "to brush; to wipe; to whisk",
-    "explanationCN": "拂、搔"
+    "explanationCN": "拂搔"
   },
   {
     "character": "𘖪",
     "GX": "rqaə̱r¹",
     "GHC": "kiər¹",
     "explanationEN": "thick; saw",
-    "explanationCN": "粗、锯名词"
+    "explanationCN": "粗锯名词"
   },
   {
     "character": "𘖯",
     "GX": "rər²",
     "GHC": "rjɨr²",
     "explanationEN": "a kind of container to cook",
-    "explanationCN": "鐺、釜、鑊、缶"
+    "explanationCN": "鐺釜鑊缶"
   },
   {
     "character": "𘖼",
@@ -33780,21 +33780,21 @@ const DICTIONARY_DATA = [
     "GX": "lwe̱ṃ¹",
     "GHC": "lwəj¹",
     "explanationEN": "fast; rapid",
-    "explanationCN": "快、速"
+    "explanationCN": "快速"
   },
   {
     "character": "𗒡",
     "GX": "dzwə²",
     "GHC": "dzjwɨ²",
     "explanationEN": "to go; to walk",
-    "explanationCN": "行、走"
+    "explanationCN": "行走"
   },
   {
     "character": "𗒮",
     "GX": "khaw¹",
     "GHC": "khja̱¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【恰】、【卡】"
+    "explanationCN": "【恰】【卡】"
   },
   {
     "character": "𗓭",
@@ -33808,56 +33808,56 @@ const DICTIONARY_DATA = [
     "GX": "mi̱²",
     "GHC": "me²",
     "explanationEN": "to sleep",
-    "explanationCN": "睡、眠、卧寝"
+    "explanationCN": "睡眠卧寝"
   },
   {
     "character": "𗓍",
     "GX": "nṣaa̱²",
     "GHC": "śia̱²",
     "explanationEN": "turbulent (current)",
-    "explanationCN": "激流、急流"
+    "explanationCN": "激流急流"
   },
   {
     "character": "𘎐",
     "GX": "tṣae̱h²",
     "GHC": "tśiẹj²",
     "explanationEN": "to continue; to mend",
-    "explanationCN": "1.续、补2.遍3.与?同义：换、免、罢4.繫、帮、守"
+    "explanationCN": "1.续补2.遍3.与?同义：换免罢4.繫帮守"
   },
   {
     "character": "𗒔",
     "GX": "ŋao̱ṃ²",
     "GHC": "ŋjow²",
     "explanationEN": "a surname",
-    "explanationCN": "【鄂】、【峨】族姓"
+    "explanationCN": "【鄂】【峨】"
   },
   {
     "character": "𗔯",
     "GX": "dzi¹",
     "GHC": "dzji¹",
     "explanationEN": "to fight; to struggle",
-    "explanationCN": "争、"
+    "explanationCN": "争"
   },
   {
     "character": "𗔗",
     "GX": "śaw²",
     "GHC": "śja̱²",
     "explanationEN": "stinking; smelly",
-    "explanationCN": "1.臭味2.【少】、【邵】、【绍】"
+    "explanationCN": "1.臭味2.【少】【邵】【绍】"
   },
   {
     "character": "𗑔",
     "GX": "mə̱²",
     "GHC": "mə²",
     "explanationEN": "honest; sincere",
-    "explanationCN": "诚实、果然"
+    "explanationCN": "诚实果然"
   },
   {
     "character": "𗓔",
     "GX": "tshe¹",
     "GHC": "tshjij¹",
     "explanationEN": "a surname",
-    "explanationCN": "【清】、【青】族姓"
+    "explanationCN": "【清】【青】"
   },
   {
     "character": "𗔚",
@@ -33871,21 +33871,21 @@ const DICTIONARY_DATA = [
     "GX": "nuh²",
     "GHC": "njụ²",
     "explanationEN": "milk",
-    "explanationCN": "奶、喂"
+    "explanationCN": "奶喂"
   },
   {
     "character": "𗔹",
     "GX": "ryer¹",
     "GHC": "ˑjijr¹",
     "explanationEN": "a surname",
-    "explanationCN": "【夷】、【依】族姓"
+    "explanationCN": "【夷】【依】"
   },
   {
     "character": "𗒧",
     "GX": "γa̱h¹",
     "GHC": "ɣạ¹",
     "explanationEN": "to cut off; to take off",
-    "explanationCN": "脱、断"
+    "explanationCN": "脱断"
   },
   {
     "character": "𗒓",
@@ -33906,7 +33906,7 @@ const DICTIONARY_DATA = [
     "GX": "so¹",
     "GHC": "sjo¹",
     "explanationEN": "to store; to lay in",
-    "explanationCN": "贮、藏"
+    "explanationCN": "贮藏"
   },
   {
     "character": "𗔧",
@@ -33941,14 +33941,14 @@ const DICTIONARY_DATA = [
     "GX": "miṃ¹",
     "GHC": "mjĩ¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【旻】、【民】、【名】、【閔】、【愍】、【泯】"
+    "explanationCN": "【旻】【民】【名】【閔】【愍】【泯】"
   },
   {
     "character": "𗒿",
     "GX": "lu̱¹",
     "GHC": "lu¹",
     "explanationEN": "storehouse; warehouse",
-    "explanationCN": "1.仓、库2.【路】、【论】"
+    "explanationCN": "1.仓库2.【路】【论】"
   },
   {
     "character": "𘖮",
@@ -33969,21 +33969,21 @@ const DICTIONARY_DATA = [
     "GX": "γa̱ṃ¹",
     "GHC": "ɣã¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【安】族姓2.【案】（珠 285）、【鞍】（珠 062）、【鵪】（珠 172）"
+    "explanationCN": "1.【安】2.【案】（珠 285）【鞍】（珠 062）【鵪】（珠 172）"
   },
   {
     "character": "𗒩",
     "GX": "nu¹",
     "GHC": "nju¹",
     "explanationEN": "a surname",
-    "explanationCN": "【纽】族姓"
+    "explanationCN": "【纽】"
   },
   {
     "character": "𗓎",
     "GX": "llwu̱h¹",
     "GHC": "lwụ¹",
     "explanationEN": "to mix; to blend",
-    "explanationCN": "和、混合"
+    "explanationCN": "和混合"
   },
   {
     "character": "𗔄",
@@ -33997,28 +33997,28 @@ const DICTIONARY_DATA = [
     "GX": "qhaə̱¹",
     "GHC": "khjə¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【乞】族姓2.刚形容词"
+    "explanationCN": "1.【乞】2.刚形容词"
   },
   {
     "character": "𗑚",
     "GX": "ŋġa̱r¹",
     "GHC": "ga̱r¹",
     "explanationEN": "to play",
-    "explanationCN": "玩、顽汉语借词"
+    "explanationCN": "玩顽】"
   },
   {
     "character": "𗑭",
     "GX": "nwə²",
     "GHC": "njwɨ²",
     "explanationEN": "fat; grease",
-    "explanationCN": "肥、膏腴"
+    "explanationCN": "肥膏腴"
   },
   {
     "character": "𘂪",
     "GX": "dze²",
     "GHC": "dzjij²",
     "explanationEN": "one",
-    "explanationCN": "一、单"
+    "explanationCN": "一单"
   },
   {
     "character": "𗇛",
@@ -34032,7 +34032,7 @@ const DICTIONARY_DATA = [
     "GX": "yə²",
     "GHC": "ˑjɨr²",
     "explanationEN": "clothing",
-    "explanationCN": "衣汉语借词"
+    "explanationCN": "衣】"
   },
   {
     "character": "𗐼",
@@ -34046,7 +34046,7 @@ const DICTIONARY_DATA = [
     "GX": "to̱²",
     "GHC": "to²",
     "explanationEN": "end",
-    "explanationCN": "完、终、毕"
+    "explanationCN": "完终毕"
   },
   {
     "character": "𘑘",
@@ -34088,70 +34088,70 @@ const DICTIONARY_DATA = [
     "GX": "tśe¹",
     "GHC": "tśjij¹",
     "explanationEN": "fort; stronghold",
-    "explanationCN": "堡垒、城邑"
+    "explanationCN": "堡垒城邑"
   },
   {
     "character": "𗑌",
     "GX": "qae̱¹",
     "GHC": "kiej¹",
     "explanationEN": "incomplete; fragmentary",
-    "explanationCN": "1.缺、残、差2.【界】（珠 356）、【芥】（珠 145）、【更】（珠 264）、【粳】（珠 155）、【庚】（珠 096）、【耕】（珠 271）、【谐】、【介】（音 196）"
+    "explanationCN": "1.缺残差2.【界】（珠 356）【芥】（珠 145）【更】（珠 264）【粳】（珠 155）【庚】（珠 096）【耕】（珠 271）【谐】【介】（音 196）"
   },
   {
     "character": "𗒅",
     "GX": "rśər¹",
     "GHC": "śjɨr¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【什】族姓2.【实】（珠 304）、【十】（珠 363）、【失】（珠 291）、【室】（珠 343）、【涉】（音 201）"
+    "explanationCN": "1.【什】2.【实】（珠 304）【十】（珠 363）【失】（珠 291）【室】（珠 343）【涉】（音 201）"
   },
   {
     "character": "𗑩",
     "GX": "ŋgi²",
     "GHC": "gji̱²",
     "explanationEN": "hope",
-    "explanationCN": "希、求、望、约、贿"
+    "explanationCN": "希求望约贿"
   },
   {
     "character": "𗓉",
     "GX": "kə¹",
     "GHC": "kjɨ¹",
     "explanationEN": "father-in-law",
-    "explanationCN": "公公、岳父"
+    "explanationCN": "公公岳父"
   },
   {
     "character": "𗒒",
     "GX": "mi̱²",
     "GHC": "me²",
     "explanationEN": "arrogant; squeamish",
-    "explanationCN": "骄、娇"
+    "explanationCN": "骄娇"
   },
   {
     "character": "𘑗",
     "GX": "rŋə̱r¹",
     "GHC": "ŋər¹",
     "explanationEN": "hill; mountain",
-    "explanationCN": "1.山2.峰、岳、丘"
+    "explanationCN": "1.山2.峰岳丘"
   },
   {
     "character": "𗯦",
     "GX": "leṃ²",
     "GHC": "ljɨj²",
     "explanationEN": "a surname",
-    "explanationCN": "【令】、【勒】族姓"
+    "explanationCN": "【令】【勒】"
   },
   {
     "character": "𘖇",
     "GX": "leṃ²",
     "GHC": "ljɨj²",
     "explanationEN": "manners; rites",
-    "explanationCN": "礼、仪"
+    "explanationCN": "礼仪"
   },
   {
     "character": "𘞤",
     "GX": "lo̱ṃ²",
     "GHC": "low²",
     "explanationEN": "wide; vast",
-    "explanationCN": "广、阔"
+    "explanationCN": "广阔"
   },
   {
     "character": "𘁐",
@@ -34165,7 +34165,7 @@ const DICTIONARY_DATA = [
     "GX": "dźə¹",
     "GHC": "dźjɨ¹",
     "explanationEN": "to brush; to wipe; to whisk",
-    "explanationCN": "掸、拂"
+    "explanationCN": "掸拂"
   },
   {
     "character": "𘖥",
@@ -34200,14 +34200,14 @@ const DICTIONARY_DATA = [
     "GX": "rźər¹",
     "GHC": "źjɨr¹",
     "explanationEN": "a surname",
-    "explanationCN": "【社】、【佘】、【涉】族姓"
+    "explanationCN": "【社】【佘】【涉】"
   },
   {
     "character": "𘟛",
     "GX": "rźər¹",
     "GHC": "źjɨr¹",
     "explanationEN": "wisdom; intelligence",
-    "explanationCN": "慧、智慧"
+    "explanationCN": "慧智慧"
   },
   {
     "character": "𗔻",
@@ -34263,7 +34263,7 @@ const DICTIONARY_DATA = [
     "GX": "tśhwiw²",
     "GHC": "tśhjwiw²",
     "explanationEN": "to attend; to follow",
-    "explanationCN": "随、从"
+    "explanationCN": "随从"
   },
   {
     "character": "𘖦",
@@ -34284,7 +34284,7 @@ const DICTIONARY_DATA = [
     "GX": "və¹",
     "GHC": "wjɨ¹",
     "explanationEN": "mother-in-law",
-    "explanationCN": "1.婆婆、岳母2.祖母"
+    "explanationCN": "1.婆婆岳母2.祖母"
   },
   {
     "character": "𗔘",
@@ -34298,35 +34298,35 @@ const DICTIONARY_DATA = [
     "GX": "lweh¹",
     "GHC": "ljwịj¹",
     "explanationEN": "neck",
-    "explanationCN": "1.颈、项2.咽3.枷"
+    "explanationCN": "1.颈项2.咽3.枷"
   },
   {
     "character": "𗔨",
     "GX": "tṣaə̱²",
     "GHC": "tśiə²",
     "explanationEN": "to twine",
-    "explanationCN": "1.缠、绕2.釧3.【芝】、【邹】、【淄】、【徵】、【挚】、【脂】（音 207）"
+    "explanationCN": "1.缠绕2.釧3.【芝】【邹】【淄】【徵】【挚】【脂】（音 207）"
   },
   {
     "character": "𘖨",
     "GX": "loṃ¹",
     "GHC": "ljow¹",
     "explanationEN": "dragon",
-    "explanationCN": "龙汉语借词"
+    "explanationCN": "龙】"
   },
   {
     "character": "𘗌",
     "GX": "rzir²",
     "GHC": "zjir²",
     "explanationEN": "armor",
-    "explanationCN": "甲、胄、鎧"
+    "explanationCN": "甲胄鎧"
   },
   {
     "character": "𗔤",
     "GX": "qwai̱¹",
     "GHC": "kiwe¹",
     "explanationEN": "dark",
-    "explanationCN": "黑（洞洞、漆漆）"
+    "explanationCN": "黑（洞洞漆漆）"
   },
   {
     "character": "𗔩",
@@ -34340,14 +34340,14 @@ const DICTIONARY_DATA = [
     "GX": "də²",
     "GHC": "djɨ²",
     "explanationEN": "small dish",
-    "explanationCN": "碟汉语借词"
+    "explanationCN": "碟】"
   },
   {
     "character": "𗑾",
     "GX": "ŋŋwu̱¹",
     "GHC": "ŋwu̱¹",
     "explanationEN": "speech; word",
-    "explanationCN": "言、论、諭、语"
+    "explanationCN": "言论諭语"
   },
   {
     "character": "𗒳",
@@ -34361,14 +34361,14 @@ const DICTIONARY_DATA = [
     "GX": "rmer²",
     "GHC": "mjijr²",
     "explanationEN": "a surname",
-    "explanationCN": "【名】、【弥】族姓"
+    "explanationCN": "【名】【弥】"
   },
   {
     "character": "𗒷",
     "GX": "rar²",
     "GHC": "rjar²",
     "explanationEN": "parents",
-    "explanationCN": "亲（父亲、母亲、本源）"
+    "explanationCN": "亲（父亲母亲本源）"
   },
   {
     "character": "𗔛",
@@ -34431,21 +34431,21 @@ const DICTIONARY_DATA = [
     "GX": "lweh¹",
     "GHC": "ljwịj¹",
     "explanationEN": "a surname",
-    "explanationCN": "【令】族姓"
+    "explanationCN": "【令】"
   },
   {
     "character": "𗔡",
     "GX": "ləh¹",
     "GHC": "ljɨ̣¹",
     "explanationEN": "to mend; to patch; to explain",
-    "explanationCN": "补、疏"
+    "explanationCN": "补疏"
   },
   {
     "character": "𗔼",
     "GX": "γwe̱¹",
     "GHC": "ɣwej¹",
     "explanationEN": "to struggle; to fight",
-    "explanationCN": "1.鬭、争、战2.击"
+    "explanationCN": "1.鬭争战2.击"
   },
   {
     "character": "𘗆",
@@ -34473,28 +34473,28 @@ const DICTIONARY_DATA = [
     "GX": "qwa̱¹",
     "GHC": "kwa¹",
     "explanationEN": "to tie; to bind",
-    "explanationCN": "繫、扎、捆"
+    "explanationCN": "繫扎捆"
   },
   {
     "character": "𗐾",
     "GX": "swi̱ṃ¹",
     "GHC": "swẽ¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【宋】、【孙】、【荀】、【逊】族姓2.【送】（珠 341 ）、【巡】（珠 282）、【选】（珠 102）、【鬆】（珠 144）"
+    "explanationCN": "1.【宋】【孙】【荀】【逊】2.【送】（珠 341 ）【巡】（珠 282）【选】（珠 102）【鬆】（珠 144）"
   },
   {
     "character": "𗓦",
     "GX": "ndwu̱²",
     "GHC": "dwu̱²",
     "explanationEN": "secret; clandestine",
-    "explanationCN": "1.秘、密2.韜"
+    "explanationCN": "1.秘密2.韜"
   },
   {
     "character": "𗒥",
     "GX": "yoṃ²",
     "GHC": "ˑjow²",
     "explanationEN": "to respect; to revere",
-    "explanationCN": "敬、重（歌颂）"
+    "explanationCN": "敬重（歌颂）"
   },
   {
     "character": "𗑿",
@@ -34522,14 +34522,14 @@ const DICTIONARY_DATA = [
     "GX": "ryer²",
     "GHC": "ˑjijr²",
     "explanationEN": "a surname",
-    "explanationCN": "【夜】、【叶】、【耶】、【页】族姓"
+    "explanationCN": "【夜】【叶】【耶】【页】"
   },
   {
     "character": "𘎇",
     "GX": "po̱ṃ¹",
     "GHC": "pow¹",
     "explanationEN": "to help; to assist",
-    "explanationCN": "帮汉语借词"
+    "explanationCN": "帮】"
   },
   {
     "character": "𘎈",
@@ -34543,14 +34543,14 @@ const DICTIONARY_DATA = [
     "GX": "gi¹",
     "GHC": "gji¹",
     "explanationEN": "to lose",
-    "explanationCN": "失落、遗失、失掉"
+    "explanationCN": "失落遗失失掉"
   },
   {
     "character": "𗑀",
     "GX": "dźih²",
     "GHC": "dźji²",
     "explanationEN": "to unfold; to uphold",
-    "explanationCN": "1.伸、展、张、仰2.抬"
+    "explanationCN": "1.伸展张仰2.抬"
   },
   {
     "character": "𗒰",
@@ -34564,7 +34564,7 @@ const DICTIONARY_DATA = [
     "GX": "qə̱²",
     "GHC": "kə²",
     "explanationEN": "to sew; to put together",
-    "explanationCN": "娺、结合"
+    "explanationCN": "娺结合"
   },
   {
     "character": "𗓟",
@@ -34585,7 +34585,7 @@ const DICTIONARY_DATA = [
     "GX": "tṣaa̱ṃ¹",
     "GHC": "tśiã¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【占】、【盏】"
+    "explanationCN": "【占】【盏】"
   },
   {
     "character": "𗓥",
@@ -34599,21 +34599,21 @@ const DICTIONARY_DATA = [
     "GX": "γa̱¹",
     "GHC": "ɣa¹",
     "explanationEN": "a surname",
-    "explanationCN": "【侠】、【罨】、【夏】族姓"
+    "explanationCN": "【侠】【罨】【夏】"
   },
   {
     "character": "𗐿",
     "GX": "ŋwi̱²",
     "GHC": "ŋwe²",
     "explanationEN": "relatives",
-    "explanationCN": "亲、亲属"
+    "explanationCN": "亲亲属"
   },
   {
     "character": "𗒑",
     "GX": "yə²",
     "GHC": "ˑjɨ²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【夷】、【邑】、【挹】、【益】、【野】、【一】族姓、"
+    "explanationCN": "【夷】【邑】【挹】【益】【野】【一】"
   },
   {
     "character": "𗑧",
@@ -34627,21 +34627,21 @@ const DICTIONARY_DATA = [
     "GX": "nsə²",
     "GHC": "sjɨ̱²",
     "explanationEN": "to speak softly; to whisper",
-    "explanationCN": "细语汉语借词"
+    "explanationCN": "细语】"
   },
   {
     "character": "𗑣",
     "GX": "γwa̱¹",
     "GHC": "ɣwa¹",
     "explanationEN": "harmonious",
-    "explanationCN": "和汉语借词"
+    "explanationCN": "和】"
   },
   {
     "character": "𗓣",
     "GX": "dźe²",
     "GHC": "dźjij²",
     "explanationEN": "honest; upright; calm",
-    "explanationCN": "心直、心安"
+    "explanationCN": "心直心安"
   },
   {
     "character": "𗔒",
@@ -34683,28 +34683,28 @@ const DICTIONARY_DATA = [
     "GX": "rir²",
     "GHC": "rjir²",
     "explanationEN": "and",
-    "explanationCN": "与、相、跟、同"
+    "explanationCN": "与相跟同"
   },
   {
     "character": "𗒃",
     "GX": "law²",
     "GHC": "lja̱²",
     "explanationEN": "frontier; border",
-    "explanationCN": "1.边界2.【鷯】、【辽】（音 204）"
+    "explanationCN": "1.边界2.【鷯】【辽】（音 204）"
   },
   {
     "character": "𗔙",
     "GX": "ntśhi¹",
     "GHC": "tśhji̱¹",
     "explanationEN": "to screen; to observe",
-    "explanationCN": "审察、观察"
+    "explanationCN": "审察观察"
   },
   {
     "character": "𗔁",
     "GX": "si²",
     "GHC": "sji²",
     "explanationEN": "god; deity",
-    "explanationCN": "神、祇"
+    "explanationCN": "神祇"
   },
   {
     "character": "𗑕",
@@ -34718,14 +34718,14 @@ const DICTIONARY_DATA = [
     "GX": "nlə¹",
     "GHC": "ljɨ̱¹",
     "explanationEN": "a surname",
-    "explanationCN": "【仂】、【勒】、【祠】族姓"
+    "explanationCN": "【仂】【勒】【祠】"
   },
   {
     "character": "𗔌",
     "GX": "zih²",
     "GHC": "zjị²",
     "explanationEN": "shoes; boots",
-    "explanationCN": "鞋、靴动词"
+    "explanationCN": "鞋靴动词"
   },
   {
     "character": "𗓺",
@@ -34746,14 +34746,14 @@ const DICTIONARY_DATA = [
     "GX": "tśi²",
     "GHC": "tśji²",
     "explanationEN": "rouge",
-    "explanationCN": "脂（胭脂）汉语借词"
+    "explanationCN": "脂（胭脂）】"
   },
   {
     "character": "𗓫",
     "GX": "phu̱¹",
     "GHC": "phu¹",
     "explanationEN": "robe; gown",
-    "explanationCN": "袍汉语借词"
+    "explanationCN": "袍】"
   },
   {
     "character": "𗔓",
@@ -34767,21 +34767,21 @@ const DICTIONARY_DATA = [
     "GX": "vwi̱²",
     "GHC": "we²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【魏】、【韦】族姓2.【卫】、【渭】（音 194）"
+    "explanationCN": "1.【魏】【韦】2.【卫】【渭】（音 194）"
   },
   {
     "character": "𗔵",
     "GX": "kuh¹",
     "GHC": "kjụ¹",
     "explanationEN": "a surname",
-    "explanationCN": "【菊】、【矩】族姓"
+    "explanationCN": "【菊】【矩】"
   },
   {
     "character": "𘁑",
     "GX": "mbao̱¹",
     "GHC": "bio̱¹",
     "explanationEN": "cat",
-    "explanationCN": "猫汉语借词"
+    "explanationCN": "猫】"
   },
   {
     "character": "𘁓",
@@ -34795,7 +34795,7 @@ const DICTIONARY_DATA = [
     "GX": "vi̱h¹",
     "GHC": "wẹ¹",
     "explanationEN": "filthy; dirty; rusty",
-    "explanationCN": "污、銹"
+    "explanationCN": "污銹"
   },
   {
     "character": "𘗉",
@@ -34816,7 +34816,7 @@ const DICTIONARY_DATA = [
     "GX": "khi¹",
     "GHC": "¹",
     "explanationEN": "to lose",
-    "explanationCN": "弃、丢失"
+    "explanationCN": "弃丢失"
   },
   {
     "character": "𗒜",
@@ -34830,14 +34830,14 @@ const DICTIONARY_DATA = [
     "GX": "świ¹",
     "GHC": "śjwi¹",
     "explanationEN": "year; age",
-    "explanationCN": "年、岁"
+    "explanationCN": "年岁"
   },
   {
     "character": "𗒲",
     "GX": "tṣai̱¹",
     "GHC": "tśie¹",
     "explanationEN": "to amuse; to play games",
-    "explanationCN": "娱乐、游戏"
+    "explanationCN": "娱乐游戏"
   },
   {
     "character": "𗒁",
@@ -34858,7 +34858,7 @@ const DICTIONARY_DATA = [
     "GX": "nna̱²",
     "GHC": "na̱²",
     "explanationEN": "to seek; to search; to look for",
-    "explanationCN": "寻、觅、找"
+    "explanationCN": "寻觅找"
   },
   {
     "character": "𗓑",
@@ -34872,28 +34872,28 @@ const DICTIONARY_DATA = [
     "GX": "dzu¹",
     "GHC": "dzju¹",
     "explanationEN": "father-in-law; uncle",
-    "explanationCN": "岳父、舅父"
+    "explanationCN": "岳父舅父"
   },
   {
     "character": "𗓱",
     "GX": "te¹",
     "GHC": "tjij¹",
     "explanationEN": "if; maybe; perhaps",
-    "explanationCN": "假若、或者"
+    "explanationCN": "假若或者"
   },
   {
     "character": "𗔋",
     "GX": "bo̱ṃ¹",
     "GHC": "bow¹",
     "explanationEN": "a surname",
-    "explanationCN": "【庞】族姓"
+    "explanationCN": "【庞】"
   },
   {
     "character": "𗑲",
     "GX": "ntśhiw¹",
     "GHC": "tśhji̱w¹",
     "explanationEN": "to speak; to say",
-    "explanationCN": "说、讲、宣"
+    "explanationCN": "说讲宣"
   },
   {
     "character": "𗔉",
@@ -34914,7 +34914,7 @@ const DICTIONARY_DATA = [
     "GX": "źa²",
     "GHC": "rja²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【然】、【冉】、【若】族姓、"
+    "explanationCN": "【然】【冉】【若】"
   },
   {
     "character": "𗔲",
@@ -34928,21 +34928,21 @@ const DICTIONARY_DATA = [
     "GX": "tha̱²",
     "GHC": "tha²",
     "explanationEN": "a surname",
-    "explanationCN": "【闥】、【炭】族姓"
+    "explanationCN": "【闥】【炭】"
   },
   {
     "character": "𗔍",
     "GX": "ŋao̱ṃ²",
     "GHC": "ŋjow²",
     "explanationEN": "industrious",
-    "explanationCN": "勒奋、勤快"
+    "explanationCN": "勒奋勤快"
   },
   {
     "character": "𗓕",
     "GX": "vao̱ṃ¹",
     "GHC": "wiow¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【旺】、【汪】"
+    "explanationCN": "【旺】【汪】"
   },
   {
     "character": "𗒴",
@@ -34984,14 +34984,14 @@ const DICTIONARY_DATA = [
     "GX": "sə²",
     "GHC": "sjɨ²",
     "explanationEN": "to know; to understand",
-    "explanationCN": "知、识"
+    "explanationCN": "知识"
   },
   {
     "character": "𗔷",
     "GX": "tṣao̱ṃ²",
     "GHC": "tśiow²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【章】、【张】"
+    "explanationCN": "【章】【张】"
   },
   {
     "character": "𘟪",
@@ -35019,21 +35019,21 @@ const DICTIONARY_DATA = [
     "GX": "rqo̱ṃr¹",
     "GHC": "kowr¹",
     "explanationEN": "a surname",
-    "explanationCN": "【高】族姓"
+    "explanationCN": "【高】"
   },
   {
     "character": "𘗋",
     "GX": "geh¹",
     "GHC": "gjịj¹",
     "explanationEN": "to cut; to clip; to shave",
-    "explanationCN": "1.剪、割2.剃"
+    "explanationCN": "1.剪割2.剃"
   },
   {
     "character": "𘖳",
     "GX": "gi¹",
     "GHC": "gji¹",
     "explanationEN": "to realize; to wake up",
-    "explanationCN": "悟、醒"
+    "explanationCN": "悟醒"
   },
   {
     "character": "𗑍",
@@ -35054,7 +35054,7 @@ const DICTIONARY_DATA = [
     "GX": "hwaa̱²",
     "GHC": "xiwa²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【华】、【花】、【反】族姓、"
+    "explanationCN": "【华】【花】【反】"
   },
   {
     "character": "𗒤",
@@ -35096,7 +35096,7 @@ const DICTIONARY_DATA = [
     "GX": "nllo̱¹",
     "GHC": "lho̱¹",
     "explanationEN": "to rely on",
-    "explanationCN": "恃、依靠"
+    "explanationCN": "恃依靠"
   },
   {
     "character": "𘗂",
@@ -35110,14 +35110,14 @@ const DICTIONARY_DATA = [
     "GX": "qhao̱ṃ²",
     "GHC": "khiow²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【羌】、【騫】族姓2.强形容词"
+    "explanationCN": "1.【羌】【騫】2.强形容词"
   },
   {
     "character": "𗓞",
     "GX": "tśu¹",
     "GHC": "tśju¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【朱】、【竺】、【烛】族姓、2.做、办动词"
+    "explanationCN": "1.【朱】【竺】【烛】2.做办动词"
   },
   {
     "character": "𘖻",
@@ -35145,7 +35145,7 @@ const DICTIONARY_DATA = [
     "GX": "nna̱²",
     "GHC": "na̱²",
     "explanationEN": "oath; vow",
-    "explanationCN": "誓、发誓、誓约"
+    "explanationCN": "誓发誓誓约"
   },
   {
     "character": "𘗈",
@@ -35173,21 +35173,21 @@ const DICTIONARY_DATA = [
     "GX": "qai̱w²",
     "GHC": "kiew²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【耿】、【埂】族姓"
+    "explanationCN": "【耿】【埂】"
   },
   {
     "character": "𗔅",
     "GX": "qai̱w²",
     "GHC": "kiew²",
     "explanationEN": "corner",
-    "explanationCN": "界汉语借词"
+    "explanationCN": "界】"
   },
   {
     "character": "𗔱",
     "GX": "lə¹",
     "GHC": "ljɨ¹",
     "explanationEN": "power and prestige; impressive and dignified manners",
-    "explanationCN": "威风、威仪"
+    "explanationCN": "威风威仪"
   },
   {
     "character": "𘎌",
@@ -35201,14 +35201,14 @@ const DICTIONARY_DATA = [
     "GX": "le¹",
     "GHC": "ljij¹",
     "explanationEN": "to vary; to change",
-    "explanationCN": "1.变、换、易、改2.终、脱3.罢"
+    "explanationCN": "1.变换易改2.终脱3.罢"
   },
   {
     "character": "𗓮",
     "GX": "mya²",
     "GHC": "mja²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【羊】、【绵】"
+    "explanationCN": "【羊】【绵】"
   },
   {
     "character": "𗓁",
@@ -35236,21 +35236,21 @@ const DICTIONARY_DATA = [
     "GX": "qwo̱ṃ²",
     "GHC": "kwow²",
     "explanationEN": "anger; rage; fury",
-    "explanationCN": "怒、嗔、忿、恚"
+    "explanationCN": "怒嗔忿恚"
   },
   {
     "character": "𗒐",
     "GX": "γwae̱¹",
     "GHC": "ɣiwej¹",
     "explanationEN": "to receive; to accept",
-    "explanationCN": "受、授"
+    "explanationCN": "受授"
   },
   {
     "character": "𗑫",
     "GX": "bə̱¹",
     "GHC": "bə¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【婆】、【泊】、【跋】"
+    "explanationCN": "【婆】【泊】【跋】"
   },
   {
     "character": "𗓌",
@@ -35264,28 +35264,28 @@ const DICTIONARY_DATA = [
     "GX": "ŋgwi¹",
     "GHC": "gjwi̱¹",
     "explanationEN": "banner; flag; spear",
-    "explanationCN": "旌旗、枪矛"
+    "explanationCN": "旌旗枪矛"
   },
   {
     "character": "𗐽",
     "GX": "tsho̱ṃ¹",
     "GHC": "tshow¹",
     "explanationEN": "singer; actor",
-    "explanationCN": "乐、伎、伶"
+    "explanationCN": "乐伎伶"
   },
   {
     "character": "𗒚",
     "GX": "bə̱¹",
     "GHC": "bə¹",
     "explanationEN": "to present (a gift); to entertain (to dinner)",
-    "explanationCN": "馈赠、筵请"
+    "explanationCN": "馈赠筵请"
   },
   {
     "character": "𘛜",
     "GX": "zi̱¹",
     "GHC": "ze¹",
     "explanationEN": "baby; infant; seedling",
-    "explanationCN": "婴儿、幼苗"
+    "explanationCN": "婴儿幼苗"
   },
   {
     "character": "𘟞",
@@ -35299,21 +35299,21 @@ const DICTIONARY_DATA = [
     "GX": "rvwə̱r²",
     "GHC": "wər²",
     "explanationEN": "membrane",
-    "explanationCN": "膜、翳"
+    "explanationCN": "膜翳"
   },
   {
     "character": "𗓄",
     "GX": "ŋwe̱²",
     "GHC": "ŋwej²",
     "explanationEN": "harmonious; peaceful",
-    "explanationCN": "和、"
+    "explanationCN": "和"
   },
   {
     "character": "𗓅",
     "GX": "ŋqaa̱²",
     "GHC": "kia̱²",
     "explanationEN": "to patch; to mend",
-    "explanationCN": "补、衲"
+    "explanationCN": "补衲"
   },
   {
     "character": "𘖰",
@@ -35341,14 +35341,14 @@ const DICTIONARY_DATA = [
     "GX": "la̱¹",
     "GHC": "la¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【老】、【娄】、【拉】族姓、"
+    "explanationCN": "【老】【娄】【拉】"
   },
   {
     "character": "𗑪",
     "GX": "kwiṃ¹",
     "GHC": "kjwĩ¹",
     "explanationEN": "a man of noble character; a man of virtue; gentleman",
-    "explanationCN": "1.君汉语借词2.【军】、【郡】、【究】"
+    "explanationCN": "1.君】2.【军】【郡】【究】"
   },
   {
     "character": "𘖬",
@@ -35362,14 +35362,14 @@ const DICTIONARY_DATA = [
     "GX": "nwo̱ṃ²",
     "GHC": "nwə²",
     "explanationEN": "wisdom; suggestion",
-    "explanationCN": "上、慧"
+    "explanationCN": "上慧"
   },
   {
     "character": "𗒎",
     "GX": "yo̱ṃ²",
     "GHC": "ˑjow²",
     "explanationEN": "song; to sing",
-    "explanationCN": "歌、唱名词"
+    "explanationCN": "歌唱名词"
   },
   {
     "character": "𗔀",
@@ -35383,7 +35383,7 @@ const DICTIONARY_DATA = [
     "GX": "rir²",
     "GHC": "rjir²",
     "explanationEN": "wealth; official's salary in feudal China; emolument",
-    "explanationCN": "财、禄"
+    "explanationCN": "财禄"
   },
   {
     "character": "𗒂",
@@ -35397,28 +35397,28 @@ const DICTIONARY_DATA = [
     "GX": "deh¹",
     "GHC": "djịj¹",
     "explanationEN": "mixed blood",
-    "explanationCN": "杂种、混血儿"
+    "explanationCN": "杂种混血儿"
   },
   {
     "character": "𘗤",
     "GX": "rtsər¹",
     "GHC": "tsjɨ̱r¹",
     "explanationEN": "five; the fifth",
-    "explanationCN": "五、第五、行五"
+    "explanationCN": "五第五行五"
   },
   {
     "character": "𗑄",
     "GX": "tśu¹",
     "GHC": "tśju¹",
     "explanationEN": "have to",
-    "explanationCN": "不得已、只能、只好……"
+    "explanationCN": "不得已只能只好……"
   },
   {
     "character": "𗑃",
     "GX": "tśiṃ¹",
     "GHC": "tśjĩ¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【真】、【证】、【正】2.【枕】（珠 243）、【蒸】（珠 333）、【震】（珠 102）、【针】（珠 254）3.【徵】、【镇】、【珍】"
+    "explanationCN": "1.【真】【证】【正】2.【枕】（珠 243）【蒸】（珠 333）【震】（珠 102）【针】（珠 254）3.【徵】【镇】【珍】"
   },
   {
     "character": "𗒗",
@@ -35432,21 +35432,21 @@ const DICTIONARY_DATA = [
     "GX": "γae̱¹",
     "GHC": "ɣiej¹",
     "explanationEN": "true; real; pure",
-    "explanationCN": "1.真实、纯真2.正、良、諦"
+    "explanationCN": "1.真实纯真2.正良諦"
   },
   {
     "character": "𗒙",
     "GX": "γae̱¹",
     "GHC": "ɣiej¹",
     "explanationEN": "multitudinous; numerous",
-    "explanationCN": "众多、甚多"
+    "explanationCN": "众多甚多"
   },
   {
     "character": "𗑴",
     "GX": "lwa̱ṃ¹",
     "GHC": "lwã¹",
     "explanationEN": "a surname",
-    "explanationCN": "【鸞】、【乐】族姓"
+    "explanationCN": "【鸞】【乐】"
   },
   {
     "character": "𗓋",
@@ -35495,21 +35495,21 @@ const DICTIONARY_DATA = [
     "GX": "pho̱ṃ²",
     "GHC": "phow²",
     "explanationEN": "to ask",
-    "explanationCN": "1.问2.【朋】族姓译音"
+    "explanationCN": "1.问2.【朋】译音"
   },
   {
     "character": "𘃤",
     "GX": "vo¹",
     "GHC": "wjo¹",
     "explanationEN": "to send; to dispatch",
-    "explanationCN": "遣、送行、派遣"
+    "explanationCN": "遣送行派遣"
   },
   {
     "character": "𗕁",
     "GX": "tśi¹",
     "GHC": "tśji¹",
     "explanationEN": "to grow; to luxuriate",
-    "explanationCN": "成长、茂盛"
+    "explanationCN": "成长茂盛"
   },
   {
     "character": "𘁠",
@@ -35530,28 +35530,28 @@ const DICTIONARY_DATA = [
     "GX": "vi¹",
     "GHC": "wji¹",
     "explanationEN": "to send; to dispatch; to benefit from",
-    "explanationCN": "遣送、送行、受用"
+    "explanationCN": "遣送送行受用"
   },
   {
     "character": "𘃨",
     "GX": "rγər¹",
     "GHC": "ɣjɨr¹",
     "explanationEN": "to make; to create",
-    "explanationCN": "做、作、造作、巧"
+    "explanationCN": "做作造作巧"
   },
   {
     "character": "𘍶",
     "GX": "rγwə̱r¹",
     "GHC": "ɣwər¹",
     "explanationEN": "crane",
-    "explanationCN": "鹤汉语借词"
+    "explanationCN": "鹤】"
   },
   {
     "character": "𘍷",
     "GX": "teh¹",
     "GHC": "tjịj¹",
     "explanationEN": "reverence",
-    "explanationCN": "尊、至尊"
+    "explanationCN": "尊至尊"
   },
   {
     "character": "𗮌",
@@ -35565,21 +35565,21 @@ const DICTIONARY_DATA = [
     "GX": "rdźər¹",
     "GHC": "dźjɨ̱r¹",
     "explanationEN": "banquet; feast",
-    "explanationCN": "筵、宴、佳餚"
+    "explanationCN": "筵宴佳餚"
   },
   {
     "character": "𗮒",
     "GX": "mə¹",
     "GHC": "mjɨ¹",
     "explanationEN": "to puzzle;to confuse; to have no idea",
-    "explanationCN": "迷惑、不知"
+    "explanationCN": "迷惑不知"
   },
   {
     "character": "𗮕",
     "GX": "mmə¹",
     "GHC": "mjɨ̱¹",
     "explanationEN": "night; evening",
-    "explanationCN": "夜、晚"
+    "explanationCN": "夜晚"
   },
   {
     "character": "𘁭",
@@ -35600,7 +35600,7 @@ const DICTIONARY_DATA = [
     "GX": "vwi̱¹",
     "GHC": "we¹",
     "explanationEN": "six; the sixth",
-    "explanationCN": "六、第六名词"
+    "explanationCN": "六第六名词"
   },
   {
     "character": "𘍽",
@@ -35614,7 +35614,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋġu̱¹",
     "GHC": "gu̱¹",
     "explanationEN": "to patrol; to make a detour",
-    "explanationCN": "巡、绕行"
+    "explanationCN": "巡绕行"
   },
   {
     "character": "𗮃",
@@ -35635,14 +35635,14 @@ const DICTIONARY_DATA = [
     "GX": "ŋgo¹",
     "GHC": "gio̱¹",
     "explanationEN": "stupid; foolish",
-    "explanationCN": "傻、呆、愣、愚"
+    "explanationCN": "傻呆愣愚"
   },
   {
     "character": "𗭴",
     "GX": "yoṃ¹",
     "GHC": "ˑjow¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【杨】族姓2.【王】、【容】、【融】3.【羊】（珠 073）、【阳】（珠 075）、【扬】（珠 273）、【鸯】（珠 171）"
+    "explanationCN": "1.【杨】2.【王】【容】【融】3.【羊】（珠 073）【阳】（珠 075）【扬】（珠 273）【鸯】（珠 171）"
   },
   {
     "character": "𘌩",
@@ -35663,35 +35663,35 @@ const DICTIONARY_DATA = [
     "GX": "tshi̱²",
     "GHC": "tshe²",
     "explanationEN": "ball; fully round",
-    "explanationCN": "圆球、圆滚形容词"
+    "explanationCN": "圆球圆滚形容词"
   },
   {
     "character": "𘕜",
     "GX": "ga²",
     "GHC": "gia²",
     "explanationEN": "I; me",
-    "explanationCN": "1.我、吾、余2.汝等、对方"
+    "explanationCN": "1.我吾余2.汝等对方"
   },
   {
     "character": "𘍊",
     "GX": "nti̱w²",
     "GHC": "te̱w²",
     "explanationEN": "to rein in; to break",
-    "explanationCN": "勒繄、断"
+    "explanationCN": "勒繄断"
   },
   {
     "character": "𘕹",
     "GX": "tśhiw¹",
     "GHC": "tśhjiw¹",
     "explanationEN": "a surname",
-    "explanationCN": "【赵】、【兆】"
+    "explanationCN": "【赵】【兆】"
   },
   {
     "character": "𘛡",
     "GX": "dźih¹",
     "GHC": "dźjị¹",
     "explanationEN": "feast; banquet",
-    "explanationCN": "筵、宴"
+    "explanationCN": "筵宴"
   },
   {
     "character": "𗭷",
@@ -35712,14 +35712,14 @@ const DICTIONARY_DATA = [
     "GX": "dzwe̱¹",
     "GHC": "dzwej¹",
     "explanationEN": "guilt; suffering; patient",
-    "explanationCN": "罪、受罪、病患汉语借词"
+    "explanationCN": "罪受罪病患】"
   },
   {
     "character": "𘗜",
     "GX": "ŋao̱ṃ²",
     "GHC": "ŋjow²",
     "explanationEN": "file; filing room",
-    "explanationCN": "案、档案室"
+    "explanationCN": "案档案室"
   },
   {
     "character": "𗮞",
@@ -35733,35 +35733,35 @@ const DICTIONARY_DATA = [
     "GX": "tshwi̱¹",
     "GHC": "tshwe¹",
     "explanationEN": "dirty; filthy",
-    "explanationCN": "脏、骯脏、弄脏"
+    "explanationCN": "脏骯脏弄脏"
   },
   {
     "character": "𗮨",
     "GX": "khi²",
     "GHC": "khji²",
     "explanationEN": "bottom; backside",
-    "explanationCN": "屁股、臀部"
+    "explanationCN": "屁股臀部"
   },
   {
     "character": "𗮳",
     "GX": "rgur¹",
     "GHC": "gjur¹",
     "explanationEN": "kidney",
-    "explanationCN": "腰子、肾"
+    "explanationCN": "腰子肾"
   },
   {
     "character": "𗮲",
     "GX": "geh²",
     "GHC": "gjịj²",
     "explanationEN": "to fry in shallow oil without stirring",
-    "explanationCN": "煨、煎"
+    "explanationCN": "煨煎"
   },
   {
     "character": "𗮩",
     "GX": "llih²",
     "GHC": "ljị²",
     "explanationEN": "rib",
-    "explanationCN": "肋汉语借词"
+    "explanationCN": "肋】"
   },
   {
     "character": "𗮺",
@@ -35782,14 +35782,14 @@ const DICTIONARY_DATA = [
     "GX": "kwəh¹",
     "GHC": "kjwɨ̣¹",
     "explanationEN": "to combine; to associate",
-    "explanationCN": "1.结合、交合2.谋计、商议"
+    "explanationCN": "1.结合交合2.谋计商议"
   },
   {
     "character": "𗮹",
     "GX": "so²",
     "GHC": "sjo²",
     "explanationEN": "crop (of a bird); bladder",
-    "explanationCN": "嗉囊、膀胱"
+    "explanationCN": "嗉囊膀胱"
   },
   {
     "character": "𗯂",
@@ -35803,14 +35803,14 @@ const DICTIONARY_DATA = [
     "GX": "khaṃ²",
     "GHC": "khjã²",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【乾】、【健】、【犍】2.癤、痂"
+    "explanationCN": "1.【乾】【健】【犍】2.癤痂"
   },
   {
     "character": "𗯅",
     "GX": "swu̱¹",
     "GHC": "swu¹",
     "explanationEN": "dried meat",
-    "explanationCN": "脩、束脩"
+    "explanationCN": "脩束脩"
   },
   {
     "character": "𗭿",
@@ -35852,7 +35852,7 @@ const DICTIONARY_DATA = [
     "GX": "rgiwr²",
     "GHC": "gjiwr²",
     "explanationEN": "to seek; to look for",
-    "explanationCN": "寻觅、寻找"
+    "explanationCN": "寻觅寻找"
   },
   {
     "character": "𘍧",
@@ -35873,14 +35873,14 @@ const DICTIONARY_DATA = [
     "GX": "swi̱w¹",
     "GHC": "swew¹",
     "explanationEN": "bright; brilliant; light",
-    "explanationCN": "明、照、曜、辰"
+    "explanationCN": "明照曜辰"
   },
   {
     "character": "𘃋",
     "GX": "dzu¹",
     "GHC": "dzju¹",
     "explanationEN": "dream",
-    "explanationCN": "梦、梦幻"
+    "explanationCN": "梦梦幻"
   },
   {
     "character": "𘃩",
@@ -35901,7 +35901,7 @@ const DICTIONARY_DATA = [
     "GX": "ra̱r²",
     "GHC": "rar²",
     "explanationEN": "tomorrow",
-    "explanationCN": "明日、明天"
+    "explanationCN": "明日明天"
   },
   {
     "character": "𘌵",
@@ -35929,7 +35929,7 @@ const DICTIONARY_DATA = [
     "GX": "twu̱h¹",
     "GHC": "twụ¹",
     "explanationEN": "straight; honest; upright",
-    "explanationCN": "直、正"
+    "explanationCN": "直正"
   },
   {
     "character": "𘌭",
@@ -35943,7 +35943,7 @@ const DICTIONARY_DATA = [
     "GX": "rur¹",
     "GHC": "rjur¹",
     "explanationEN": "to subdue; to vanquish",
-    "explanationCN": "降伏、调御"
+    "explanationCN": "降伏调御"
   },
   {
     "character": "𘗓",
@@ -35957,7 +35957,7 @@ const DICTIONARY_DATA = [
     "GX": "mpu̱¹",
     "GHC": "pu̱¹",
     "explanationEN": "slack; lax; impoverished",
-    "explanationCN": "懈、贫困"
+    "explanationCN": "懈贫困"
   },
   {
     "character": "𗭵",
@@ -35971,7 +35971,7 @@ const DICTIONARY_DATA = [
     "GX": "vwi̱¹",
     "GHC": "we¹",
     "explanationEN": "bird",
-    "explanationCN": "鸟、禽"
+    "explanationCN": "鸟禽"
   },
   {
     "character": "𘛎",
@@ -35992,14 +35992,14 @@ const DICTIONARY_DATA = [
     "GX": "la̱²",
     "GHC": "la²",
     "explanationEN": "happiness; amusement",
-    "explanationCN": "1.乐、娱乐汉语借词2.户"
+    "explanationCN": "1.乐娱乐】2.户"
   },
   {
     "character": "𘛴",
     "GX": "ŋġu̱¹",
     "GHC": "gu̱¹",
     "explanationEN": "name of a god",
-    "explanationCN": "神、巫"
+    "explanationCN": "神巫"
   },
   {
     "character": "𘖃",
@@ -36013,7 +36013,7 @@ const DICTIONARY_DATA = [
     "GX": "nne¹",
     "GHC": "nji̱j¹",
     "explanationEN": "pearl",
-    "explanationCN": "碧珠、碑磲、珂贝"
+    "explanationCN": "碧珠碑磲珂贝"
   },
   {
     "character": "𘌳",
@@ -36034,49 +36034,49 @@ const DICTIONARY_DATA = [
     "GX": "qae̱¹",
     "GHC": "kiej¹",
     "explanationEN": "to abuse; to swear; to curse",
-    "explanationCN": "駡、詈"
+    "explanationCN": "駡詈"
   },
   {
     "character": "𘋾",
     "GX": "ṣuo¹",
     "GHC": "śio̱w¹",
     "explanationEN": "god; patron saint",
-    "explanationCN": "神、守护神"
+    "explanationCN": "神守护神"
   },
   {
     "character": "𘍘",
     "GX": "be̱ṃ¹",
     "GHC": "bəj¹",
     "explanationEN": "pain; suffering; hardship",
-    "explanationCN": "苦、受苦、苦难"
+    "explanationCN": "苦受苦苦难"
   },
   {
     "character": "𘗒",
     "GX": "bu²",
     "GHC": "bju²",
     "explanationEN": "to call; to summon; to invite",
-    "explanationCN": "召唤、邀请"
+    "explanationCN": "召唤邀请"
   },
   {
     "character": "𘋿",
     "GX": "ne²",
     "GHC": "njij²",
     "explanationEN": "dog",
-    "explanationCN": "犬、狗"
+    "explanationCN": "犬狗"
   },
   {
     "character": "𘕋",
     "GX": "dźih²",
     "GHC": "dźjar²",
     "explanationEN": "fault; crime; guilt",
-    "explanationCN": "罪、过"
+    "explanationCN": "罪过"
   },
   {
     "character": "𘃠",
     "GX": "ndu̱¹",
     "GHC": "du̱¹",
     "explanationEN": "to save; to store up",
-    "explanationCN": "1.积、积存、贮藏2.癸"
+    "explanationCN": "1.积积存贮藏2.癸"
   },
   {
     "character": "𗮐",
@@ -36097,7 +36097,7 @@ const DICTIONARY_DATA = [
     "GX": "hwae̱ṃ¹",
     "GHC": "xiwəj¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【怀】、【获】、【横】、【淮】、【愧】"
+    "explanationCN": "【怀】【获】【横】【淮】【愧】"
   },
   {
     "character": "𘌺",
@@ -36118,28 +36118,28 @@ const DICTIONARY_DATA = [
     "GX": "khwə²",
     "GHC": "khjwɨ²",
     "explanationEN": "prison; jail",
-    "explanationCN": "监狱、牢"
+    "explanationCN": "监狱牢"
   },
   {
     "character": "𘁱",
     "GX": "qa̱h¹",
     "GHC": "kạ¹",
     "explanationEN": "pole; axis",
-    "explanationCN": "干、柱、轴、轂"
+    "explanationCN": "干柱轴轂"
   },
   {
     "character": "𘎧",
     "GX": "vwa̱¹",
     "GHC": "wa¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【哇】、【伐】、【跋】"
+    "explanationCN": "【哇】【伐】【跋】"
   },
   {
     "character": "𘎫",
     "GX": "ki¹",
     "GHC": "kji¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【记】、【纪】、【嵇】族姓汉语借词2.【己】（珠 355）、【撃】（珠 326）、【蟣】（珠 174）、【计】（珠 342）、【急】（珠 234）、【箕】（珠 265）3.【姬】、【冀】、【棘】、【寄】、【机】、【基】（音 197）"
+    "explanationCN": "1.【记】【纪】【嵇】】2.【己】（珠 355）【撃】（珠 326）【蟣】（珠 174）【计】（珠 342）【急】（珠 234）【箕】（珠 265）3.【姬】【冀】【棘】【寄】【机】【基】（音 197）"
   },
   {
     "character": "𘏆",
@@ -36174,7 +36174,7 @@ const DICTIONARY_DATA = [
     "GX": "mə¹",
     "GHC": "mjɨ¹",
     "explanationEN": "mother",
-    "explanationCN": "母、妈、娘"
+    "explanationCN": "母妈娘"
   },
   {
     "character": "𘝪",
@@ -36188,21 +36188,21 @@ const DICTIONARY_DATA = [
     "GX": "dzo̱ṃ¹",
     "GHC": "dzow¹",
     "explanationEN": "a surname",
-    "explanationCN": "【奘】、【藏】族姓（族姓）"
+    "explanationCN": "【奘】【藏】（）"
   },
   {
     "character": "𗯩",
     "GX": "twu̱h¹",
     "GHC": "twụ¹",
     "explanationEN": "each; place",
-    "explanationCN": "各、处代词"
+    "explanationCN": "各处代词"
   },
   {
     "character": "𗯪",
     "GX": "tu¹",
     "GHC": "tju¹",
     "explanationEN": "clumsy; dull; unskillful",
-    "explanationCN": "拙、笨"
+    "explanationCN": "拙笨"
   },
   {
     "character": "𗰆",
@@ -36216,7 +36216,7 @@ const DICTIONARY_DATA = [
     "GX": "yə²",
     "GHC": "ˑjɨ²",
     "explanationEN": "past; last",
-    "explanationCN": "1.昨、去2.【邑】"
+    "explanationCN": "1.昨去2.【邑】"
   },
   {
     "character": "𘎭",
@@ -36237,7 +36237,7 @@ const DICTIONARY_DATA = [
     "GX": "sə̱¹",
     "GHC": "sə¹",
     "explanationEN": "full; filled; packed",
-    "explanationCN": "满、足、盈、充"
+    "explanationCN": "满足盈充"
   },
   {
     "character": "𘑉",
@@ -36251,7 +36251,7 @@ const DICTIONARY_DATA = [
     "GX": "dźə¹",
     "GHC": "dźjɨ̣¹",
     "explanationEN": "to pull up; to rescue",
-    "explanationCN": "1.拔、救2.拉、牵、拽3.伏4.消除5.招6.抽"
+    "explanationCN": "1.拔救2.拉牵拽3.伏4.消除5.招6.抽"
   },
   {
     "character": "𗯡",
@@ -36272,7 +36272,7 @@ const DICTIONARY_DATA = [
     "GX": "dźuo²",
     "GHC": "dźio̱w²",
     "explanationEN": "can; may",
-    "explanationCN": "堪、胜、能、可"
+    "explanationCN": "堪胜能可"
   },
   {
     "character": "𘏢",
@@ -36314,28 +36314,28 @@ const DICTIONARY_DATA = [
     "GX": "rtər¹",
     "GHC": "tjɨr¹",
     "explanationEN": "filled; packed; full",
-    "explanationCN": "满、盈"
+    "explanationCN": "满盈"
   },
   {
     "character": "𘏦",
     "GX": "teṃh¹",
     "GHC": "tjɨj¹",
     "explanationEN": "to obstruct; to block; to stuff",
-    "explanationCN": "堵、塞、闭"
+    "explanationCN": "堵塞闭"
   },
   {
     "character": "𘐕",
     "GX": "tśiw²",
     "GHC": "tśjiw²",
     "explanationEN": "circumference; circuit",
-    "explanationCN": "周汉语借词"
+    "explanationCN": "周】"
   },
   {
     "character": "𗯼",
     "GX": "dźaw¹",
     "GHC": "dźja̱¹",
     "explanationEN": "to burn; to kindle",
-    "explanationCN": "燃、烧"
+    "explanationCN": "燃烧"
   },
   {
     "character": "𗰃",
@@ -36349,7 +36349,7 @@ const DICTIONARY_DATA = [
     "GX": "gwe¹",
     "GHC": "gjwij¹",
     "explanationEN": "a surname",
-    "explanationCN": "【极】、【杰】族姓"
+    "explanationCN": "【极】【杰】"
   },
   {
     "character": "𘑈",
@@ -36363,14 +36363,14 @@ const DICTIONARY_DATA = [
     "GX": "bo̱ṃh²",
     "GHC": "bọ²",
     "explanationEN": "a surname",
-    "explanationCN": "【勃】族姓"
+    "explanationCN": "【勃】"
   },
   {
     "character": "𘋵",
     "GX": "bo̱ṃh²",
     "GHC": "bọ²",
     "explanationEN": "vulture",
-    "explanationCN": "雕、鷲"
+    "explanationCN": "雕鷲"
   },
   {
     "character": "𘃖",
@@ -36384,7 +36384,7 @@ const DICTIONARY_DATA = [
     "GX": "nwəh²",
     "GHC": "njwɨ̣²",
     "explanationEN": "to burn; to kindle",
-    "explanationCN": "烧、燃"
+    "explanationCN": "烧燃"
   },
   {
     "character": "𘖐",
@@ -36405,7 +36405,7 @@ const DICTIONARY_DATA = [
     "GX": "khe¹",
     "GHC": "khjij¹",
     "explanationEN": "west",
-    "explanationCN": "西、西方"
+    "explanationCN": "西西方"
   },
   {
     "character": "𘛧",
@@ -36426,7 +36426,7 @@ const DICTIONARY_DATA = [
     "GX": "lhe̱²",
     "GHC": "²",
     "explanationEN": "to translate; to vary",
-    "explanationCN": "译、易"
+    "explanationCN": "译易"
   },
   {
     "character": "𘏄",
@@ -36447,7 +36447,7 @@ const DICTIONARY_DATA = [
     "GX": "dzu̱²",
     "GHC": "dzu²",
     "explanationEN": "tail; end; east",
-    "explanationCN": "尾、末、东"
+    "explanationCN": "尾末东"
   },
   {
     "character": "𘛚",
@@ -36461,7 +36461,7 @@ const DICTIONARY_DATA = [
     "GX": "vih¹",
     "GHC": "wjị¹",
     "explanationEN": "axe; hatchet",
-    "explanationCN": "斧、鉞"
+    "explanationCN": "斧鉞"
   },
   {
     "character": "𘎜",
@@ -36475,35 +36475,35 @@ const DICTIONARY_DATA = [
     "GX": "γa̱h¹",
     "GHC": "ɣạ¹",
     "explanationEN": "sword; saber; weapon",
-    "explanationCN": "剑、戟、武器"
+    "explanationCN": "剑戟武器"
   },
   {
     "character": "𘐲",
     "GX": "lhoh²",
     "GHC": "lhjọ²",
     "explanationEN": "tattered; ragged; broken",
-    "explanationCN": "破烂、破碎"
+    "explanationCN": "破烂破碎"
   },
   {
     "character": "𘂹",
     "GX": "ne²",
     "GHC": "njij²",
     "explanationEN": "end; tail; east",
-    "explanationCN": "末、尾、东"
+    "explanationCN": "末尾东"
   },
   {
     "character": "𘐅",
     "GX": "ŋġai̱¹",
     "GHC": "gie̱¹",
     "explanationEN": "stupid; dull; inferior",
-    "explanationCN": "傻、呆、次"
+    "explanationCN": "傻呆次"
   },
   {
     "character": "𘑇",
     "GX": "yih²",
     "GHC": "ˑjị²",
     "explanationEN": "to uphold; to stretch",
-    "explanationCN": "伸、张"
+    "explanationCN": "伸张"
   },
   {
     "character": "𘛞",
@@ -36538,7 +36538,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋgə¹",
     "GHC": "gjɨ̱¹",
     "explanationEN": "to encourage oneself",
-    "explanationCN": "自励、追求"
+    "explanationCN": "自励追求"
   },
   {
     "character": "𘂫",
@@ -36552,14 +36552,14 @@ const DICTIONARY_DATA = [
     "GX": "lu²",
     "GHC": "lju²",
     "explanationEN": "chess; to gamble",
-    "explanationCN": "弈、棋、赌动词"
+    "explanationCN": "弈棋赌动词"
   },
   {
     "character": "𘐘",
     "GX": "ŋqu̱¹",
     "GHC": "ku̱¹",
     "explanationEN": "to carve; to engrave; to pick",
-    "explanationCN": "雕、刻、挑"
+    "explanationCN": "雕刻挑"
   },
   {
     "character": "𘏉",
@@ -36587,14 +36587,14 @@ const DICTIONARY_DATA = [
     "GX": "rllər¹",
     "GHC": "ljɨr¹",
     "explanationEN": "a surname",
-    "explanationCN": "【利】、【勒】族姓"
+    "explanationCN": "【利】【勒】"
   },
   {
     "character": "𘍨",
     "GX": "hi¹",
     "GHC": "xji¹",
     "explanationEN": "happy; pleased",
-    "explanationCN": "1.喜汉语借词2.【奚】、【希】、【稀】、【呬】、【醘】、【頡】3.【晞】、【熙】、【羲】（音 202）"
+    "explanationCN": "1.喜】2.【奚】【希】【稀】【呬】【醘】【頡】3.【晞】【熙】【羲】（音 202）"
   },
   {
     "character": "𘛶",
@@ -36615,14 +36615,14 @@ const DICTIONARY_DATA = [
     "GX": "ṣai̱w²",
     "GHC": "śiew²",
     "explanationEN": "color",
-    "explanationCN": "色汉语借词"
+    "explanationCN": "色】"
   },
   {
     "character": "𘐄",
     "GX": "lhwa¹",
     "GHC": "lhwa¹",
     "explanationEN": "to tie; to weave; to plait",
-    "explanationCN": "结、络、编"
+    "explanationCN": "结络编"
   },
   {
     "character": "𘋛",
@@ -36664,35 +36664,35 @@ const DICTIONARY_DATA = [
     "GX": "dźə¹",
     "GHC": "¹",
     "explanationEN": "to pull up; to rescue",
-    "explanationCN": "拔、拉、抽"
+    "explanationCN": "拔拉抽"
   },
   {
     "character": "𘐀",
     "GX": "phə̱¹",
     "GHC": "phə¹",
     "explanationEN": "Tibetan",
-    "explanationCN": "1.羌、藏、吐藩2.【渤】（音 193）"
+    "explanationCN": "1.羌藏吐藩2.【渤】（音 193）"
   },
   {
     "character": "𘍭",
     "GX": "swi²",
     "GHC": "sjwi²",
     "explanationEN": "cleverness; skillful artisan",
-    "explanationCN": "1.巧、工匠2.【岁】"
+    "explanationCN": "1.巧工匠2.【岁】"
   },
   {
     "character": "𘋴",
     "GX": "yeṃ²",
     "GHC": "ˑjɨj²",
     "explanationEN": "Tibetan",
-    "explanationCN": "羌、戎、吐藩"
+    "explanationCN": "羌戎吐藩"
   },
   {
     "character": "𘎯",
     "GX": "rkawr²",
     "GHC": "kja̱r²",
     "explanationEN": "to cut",
-    "explanationCN": "割汉语借词"
+    "explanationCN": "割】"
   },
   {
     "character": "𘎱",
@@ -36713,7 +36713,7 @@ const DICTIONARY_DATA = [
     "GX": "lloh²",
     "GHC": "ljọ²",
     "explanationEN": "to catch.ʙ; to arrest.ʙ",
-    "explanationCN": "捕捉、捉拉"
+    "explanationCN": "捕捉捉拉"
   },
   {
     "character": "𗯻",
@@ -36727,21 +36727,21 @@ const DICTIONARY_DATA = [
     "GX": "kwih²",
     "GHC": "kjwị²",
     "explanationEN": "to harvest; to collect; to reap",
-    "explanationCN": "採、收、芟、割"
+    "explanationCN": "採收芟割"
   },
   {
     "character": "𘎘",
     "GX": "nli¹",
     "GHC": "lji̱¹",
     "explanationEN": "to smell",
-    "explanationCN": "嗅、闻"
+    "explanationCN": "嗅闻"
   },
   {
     "character": "𘂀",
     "GX": "se²",
     "GHC": "sjij²",
     "explanationEN": "man; person; people",
-    "explanationCN": "人、民、庶"
+    "explanationCN": "人民庶"
   },
   {
     "character": "𘋸",
@@ -36769,35 +36769,35 @@ const DICTIONARY_DATA = [
     "GX": "ŋqhae̱¹",
     "GHC": "khie̱j¹",
     "explanationEN": "fruit",
-    "explanationCN": "1.果实、结果2.辛"
+    "explanationCN": "1.果实结果2.辛"
   },
   {
     "character": "𘍫",
     "GX": "qhwai̱¹",
     "GHC": "khiwe¹",
     "explanationEN": "a surname; vigorous",
-    "explanationCN": "1.【契】族姓2.刚健形容词"
+    "explanationCN": "1.【契】2.刚健形容词"
   },
   {
     "character": "𘖙",
     "GX": "no̱²",
     "GHC": "no²",
     "explanationEN": "a unit of measurement for rolls of cloth or silk",
-    "explanationCN": "疋、匹、段"
+    "explanationCN": "疋匹段"
   },
   {
     "character": "𘕧",
     "GX": "nda̱²",
     "GHC": "da̱²",
     "explanationEN": "to tour; to walk; to patrol",
-    "explanationCN": "游、行、巡"
+    "explanationCN": "游行巡"
   },
   {
     "character": "𘗢",
     "GX": "γa̱¹",
     "GHC": "ɣa¹",
     "explanationEN": "husband and wife",
-    "explanationCN": "夫妻、夫妇"
+    "explanationCN": "夫妻夫妇"
   },
   {
     "character": "𘗝",
@@ -36811,7 +36811,7 @@ const DICTIONARY_DATA = [
     "GX": "γi̱w¹",
     "GHC": "ɣew¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【沤】、【嚎】、【哀】、【欧】"
+    "explanationCN": "【沤】【嚎】【哀】【欧】"
   },
   {
     "character": "𘁸",
@@ -36825,7 +36825,7 @@ const DICTIONARY_DATA = [
     "GX": "dẓaə̱¹",
     "GHC": "dźiə¹",
     "explanationEN": "a surname",
-    "explanationCN": "【示】、【射】族姓"
+    "explanationCN": "【示】【射】"
   },
   {
     "character": "𗭶",
@@ -36846,35 +36846,35 @@ const DICTIONARY_DATA = [
     "GX": "γao̱h¹",
     "GHC": "ˑiọ¹",
     "explanationEN": "round; ring; courtyard; all",
-    "explanationCN": "1.园、圆、圈、围、院、国、堂、郭、方、盖、凡2.徽、轮、回3.洲"
+    "explanationCN": "1.园圆圈围院国堂郭方盖凡2.徽轮回3.洲"
   },
   {
     "character": "𘛫",
     "GX": "liw¹",
     "GHC": "ljiw¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【刘】、【柳】、【榴】、【流】、【留】、【琉】、【娄】、【繚】"
+    "explanationCN": "【刘】【柳】【榴】【流】【留】【琉】【娄】【繚】"
   },
   {
     "character": "𗮍",
     "GX": "dzi²",
     "GHC": "dzji²",
     "explanationEN": "to tattoo the face (as a punishment); to brand",
-    "explanationCN": "黥、烙、刺字"
+    "explanationCN": "黥烙刺字"
   },
   {
     "character": "𘃫",
     "GX": "qwə̱h¹",
     "GHC": "kwə̣¹",
     "explanationEN": "unfired brick",
-    "explanationCN": "墼（砖坯）汉语借词"
+    "explanationCN": "墼（砖坯）】"
   },
   {
     "character": "𘛒",
     "GX": "rŋi̱wr¹",
     "GHC": "ŋewr¹",
     "explanationEN": "mixed; in a mess; in a jumble",
-    "explanationCN": "杂、乱"
+    "explanationCN": "杂乱"
   },
   {
     "character": "𘍇",
@@ -36888,14 +36888,14 @@ const DICTIONARY_DATA = [
     "GX": "rmer¹",
     "GHC": "mjijr¹",
     "explanationEN": "soldier; person",
-    "explanationCN": "1.兵、卒、士、人2.庸"
+    "explanationCN": "1.兵卒士人2.庸"
   },
   {
     "character": "𘌮",
     "GX": "qhaa̱²",
     "GHC": "khia²",
     "explanationEN": "ghost; spirit; demon",
-    "explanationCN": "鬼、魅、蜮"
+    "explanationCN": "鬼魅蜮"
   },
   {
     "character": "𘍌",
@@ -36909,14 +36909,14 @@ const DICTIONARY_DATA = [
     "GX": "leṃ¹",
     "GHC": "ljɨj¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.音【灵】、【林】、【菱】、【廉】2.【令】（珠 366）、【凌】（珠 296）、【䔖】（珠 145）、【綾】（珠 256）、【连】（珠 291）、【莲】（珠 136）、【廉】（珠 232）、【镰】（珠 266）3.【陵】、【零】、【领】、【伶】（音 204）"
+    "explanationCN": "1.音【灵】【林】【菱】【廉】2.【令】（珠 366）【凌】（珠 296）【䔖】（珠 145）【綾】（珠 256）【连】（珠 291）【莲】（珠 136）【廉】（珠 232）【镰】（珠 266）3.【陵】【零】【领】【伶】（音 204）"
   },
   {
     "character": "𗮤",
     "GX": "thu̱²",
     "GHC": "thu²",
     "explanationEN": "penis",
-    "explanationCN": "阴根、生殖器"
+    "explanationCN": "阴根生殖器"
   },
   {
     "character": "𗮬",
@@ -36965,7 +36965,7 @@ const DICTIONARY_DATA = [
     "GX": "rni̱r²",
     "GHC": "ner²",
     "explanationEN": "breast",
-    "explanationCN": "奶、乳房汉语借词"
+    "explanationCN": "奶乳房】"
   },
   {
     "character": "𗯃",
@@ -37007,21 +37007,21 @@ const DICTIONARY_DATA = [
     "GX": "hi¹",
     "GHC": "xji¹",
     "explanationEN": "surprised; amazed; stunned",
-    "explanationCN": "惊讶、惊愕、稀奇形容词"
+    "explanationCN": "惊讶惊愕稀奇形容词"
   },
   {
     "character": "𘕬",
     "GX": "bi¹",
     "GHC": "bji¹",
     "explanationEN": "to grow; to develop",
-    "explanationCN": "生、壮"
+    "explanationCN": "生壮"
   },
   {
     "character": "𗭽",
     "GX": "di̱h²",
     "GHC": "dẹ²",
     "explanationEN": "to know; to dispel doubts",
-    "explanationCN": "识、知、解惑"
+    "explanationCN": "识知解惑"
   },
   {
     "character": "𘁘",
@@ -37042,28 +37042,28 @@ const DICTIONARY_DATA = [
     "GX": "vwi̱¹",
     "GHC": "we¹",
     "explanationEN": "to realize; to clever",
-    "explanationCN": "悟、觉、聪、慧形容词"
+    "explanationCN": "悟觉聪慧形容词"
   },
   {
     "character": "𘖅",
     "GX": "vwi̱¹",
     "GHC": "we¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【韦】、【嵬】族姓、2.【威】、【伟】（音 194）"
+    "explanationCN": "1.【韦】【嵬】2.【威】【伟】（音 194）"
   },
   {
     "character": "𘛮",
     "GX": "khe²",
     "GHC": "khjij²",
     "explanationEN": "happy; cheerful",
-    "explanationCN": "1.乐、娱、快乐2.【庆】、【警】、【吉】"
+    "explanationCN": "1.乐娱快乐2.【庆】【警】【吉】"
   },
   {
     "character": "𘁵",
     "GX": "tse²",
     "GHC": "tsjij²",
     "explanationEN": "to slander; to defame",
-    "explanationCN": "诽谤、毁訾"
+    "explanationCN": "诽谤毁訾"
   },
   {
     "character": "𘍹",
@@ -37084,7 +37084,7 @@ const DICTIONARY_DATA = [
     "GX": "dzə¹",
     "GHC": "dzjɨ¹",
     "explanationEN": "complete",
-    "explanationCN": "齐、全汉语借词"
+    "explanationCN": "齐全】"
   },
   {
     "character": "𗮉",
@@ -37112,14 +37112,14 @@ const DICTIONARY_DATA = [
     "GX": "tśheṃ¹",
     "GHC": "tśhjɨj¹",
     "explanationEN": "a surname",
-    "explanationCN": "【称】族姓"
+    "explanationCN": "【称】"
   },
   {
     "character": "𘋺",
     "GX": "ṣuo¹",
     "GHC": "śio̱w¹",
     "explanationEN": "a surname",
-    "explanationCN": "【蜀】、【叔】、【秀】族姓"
+    "explanationCN": "【蜀】【叔】【秀】"
   },
   {
     "character": "𘃍",
@@ -37133,7 +37133,7 @@ const DICTIONARY_DATA = [
     "GX": "ta̱¹",
     "GHC": "ta¹",
     "explanationEN": "to strike; to beat",
-    "explanationCN": "1.打汉语借词2.【靼】、【打】、【妲】"
+    "explanationCN": "1.打】2.【靼】【打】【妲】"
   },
   {
     "character": "𘎤",
@@ -37161,42 +37161,42 @@ const DICTIONARY_DATA = [
     "GX": "vih¹",
     "GHC": "wjị¹",
     "explanationEN": "monkey; beast; animal",
-    "explanationCN": "猴、申、晡、兽"
+    "explanationCN": "猴申晡兽"
   },
   {
     "character": "𘏀",
     "GX": "deh¹",
     "GHC": "djịj¹",
     "explanationEN": "to cut; to chop",
-    "explanationCN": "切、割、斫、斩、截"
+    "explanationCN": "切割斫斩截"
   },
   {
     "character": "𘛟",
     "GX": "ve²",
     "GHC": "wjij²",
     "explanationEN": "uncle",
-    "explanationCN": "伯、叔"
+    "explanationCN": "伯叔"
   },
   {
     "character": "𘋨",
     "GX": "dzwə¹",
     "GHC": "dzjwɨ¹",
     "explanationEN": "emperor",
-    "explanationCN": "帝、君"
+    "explanationCN": "帝君"
   },
   {
     "character": "𘏐",
     "GX": "γwai̱¹",
     "GHC": "ɣwie¹",
     "explanationEN": "power; force",
-    "explanationCN": "势力、权贵、胜"
+    "explanationCN": "势力权贵胜"
   },
   {
     "character": "𘎶",
     "GX": "qwə̱²",
     "GHC": "kwə²",
     "explanationEN": "convulsion; spasm; lame; bent",
-    "explanationCN": "痉挛、跛、曲名词"
+    "explanationCN": "痉挛跛曲名词"
   },
   {
     "character": "𘟝",
@@ -37217,28 +37217,28 @@ const DICTIONARY_DATA = [
     "GX": "tṣhaa̱¹",
     "GHC": "tśhia¹",
     "explanationEN": "surprised; astonished",
-    "explanationCN": "诧汉语借词"
+    "explanationCN": "诧】"
   },
   {
     "character": "𘐰",
     "GX": "qwaə̱¹",
     "GHC": "kiwə¹",
     "explanationEN": "to step on; to burst; to split",
-    "explanationCN": "踩压、踏、破裂"
+    "explanationCN": "踩压踏破裂"
   },
   {
     "character": "𘎴",
     "GX": "qa̱h¹",
     "GHC": "kạ¹",
     "explanationEN": "to drag; to put out",
-    "explanationCN": "拔、拉扯"
+    "explanationCN": "拔拉扯"
   },
   {
     "character": "𘁂",
     "GX": "ya²",
     "GHC": "ˑja²",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【耶】、【也】、【野】、【夜】、【叶】、【閆】、【琰】族姓、2.【邪】、【邑】、【衍】、【逸】、【阴】（音 210）"
+    "explanationCN": "1.【耶】【也】【野】【夜】【叶】【閆】【琰】2.【邪】【邑】【衍】【逸】【阴】（音 210）"
   },
   {
     "character": "𘁻",
@@ -37280,35 +37280,35 @@ const DICTIONARY_DATA = [
     "GX": "dźwu¹",
     "GHC": "dźjwu¹",
     "explanationEN": "meteorite; lightning; thunderbolt",
-    "explanationCN": "陨石、闪电、霹靂"
+    "explanationCN": "陨石闪电霹靂"
   },
   {
     "character": "𘏮",
     "GX": "nne̱²",
     "GHC": "ne̱j²",
     "explanationEN": "to knead; to press",
-    "explanationCN": "揉、捏、压"
+    "explanationCN": "揉捏压"
   },
   {
     "character": "𘏧",
     "GX": "yaw²",
     "GHC": "ˑja̱²",
     "explanationEN": "gold",
-    "explanationCN": "1.金2.【瑶】、【陶】"
+    "explanationCN": "1.金2.【瑶】【陶】"
   },
   {
     "character": "𘏽",
     "GX": "swi¹",
     "GHC": "sjwi¹",
     "explanationEN": "auspicious; lucky",
-    "explanationCN": "1.瑞、吉祥2.【隋】、【遂】、【随】"
+    "explanationCN": "1.瑞吉祥2.【隋】【遂】【随】"
   },
   {
     "character": "𘝱",
     "GX": "ŋkho¹",
     "GHC": "khjo̱¹",
     "explanationEN": "to open eyes",
-    "explanationCN": "睁、张、瞪"
+    "explanationCN": "睁张瞪"
   },
   {
     "character": "𗯬",
@@ -37322,7 +37322,7 @@ const DICTIONARY_DATA = [
     "GX": "tśə¹",
     "GHC": "tśjɨ¹",
     "explanationEN": "to destroy; to damage",
-    "explanationCN": "毁坏、毁损、破坏"
+    "explanationCN": "毁坏毁损破坏"
   },
   {
     "character": "𗯰",
@@ -37343,14 +37343,14 @@ const DICTIONARY_DATA = [
     "GX": "vəh¹",
     "GHC": "wjɨ̣¹",
     "explanationEN": "skill",
-    "explanationCN": "伎、技"
+    "explanationCN": "伎技"
   },
   {
     "character": "𘏥",
     "GX": "du¹",
     "GHC": "dju¹",
     "explanationEN": "to ban; to prohibit",
-    "explanationCN": "禁止、拒"
+    "explanationCN": "禁止拒"
   },
   {
     "character": "𗰌",
@@ -37364,7 +37364,7 @@ const DICTIONARY_DATA = [
     "GX": "nthwu̱¹",
     "GHC": "thwu̱¹",
     "explanationEN": "open; through",
-    "explanationCN": "通汉语借词"
+    "explanationCN": "通】"
   },
   {
     "character": "𘏎",
@@ -37378,7 +37378,7 @@ const DICTIONARY_DATA = [
     "GX": "dzwə̱¹",
     "GHC": "dzwə¹",
     "explanationEN": "to arrest; to catch",
-    "explanationCN": "捉、拏"
+    "explanationCN": "捉拏"
   },
   {
     "character": "𘐱",
@@ -37392,14 +37392,14 @@ const DICTIONARY_DATA = [
     "GX": "dau̱¹",
     "GHC": "du¹",
     "explanationEN": "to prohibit; to ban; to resist",
-    "explanationCN": "1.拒绝、禁止、推卸2.沉、溺、坑陷"
+    "explanationCN": "1.拒绝禁止推卸2.沉溺坑陷"
   },
   {
     "character": "𘎖",
     "GX": "dziw²",
     "GHC": "dzjiw²",
     "explanationEN": "to link; to continue",
-    "explanationCN": "连接、连续、粘连动词"
+    "explanationCN": "连接连续粘连动词"
   },
   {
     "character": "𘎕",
@@ -37413,21 +37413,21 @@ const DICTIONARY_DATA = [
     "GX": "ṣae̱ṃ¹",
     "GHC": "śiəj¹",
     "explanationEN": "to give birth; to bear",
-    "explanationCN": "生、產汉语借词"
+    "explanationCN": "生產】"
   },
   {
     "character": "𘎛",
     "GX": "nṣai̱¹",
     "GHC": "śie̱¹",
     "explanationEN": "target; meaning",
-    "explanationCN": "的、意"
+    "explanationCN": "的意"
   },
   {
     "character": "𘐯",
     "GX": "rir²",
     "GHC": "rjir²",
     "explanationEN": "to prohibit; to ban",
-    "explanationCN": "制止、禁止、遏制"
+    "explanationCN": "制止禁止遏制"
   },
   {
     "character": "𘋹",
@@ -37441,21 +37441,21 @@ const DICTIONARY_DATA = [
     "GX": "tśə¹",
     "GHC": "tśjɨ¹",
     "explanationEN": "to drag; to pull",
-    "explanationCN": "拉、扯"
+    "explanationCN": "拉扯"
   },
   {
     "character": "𘂸",
     "GX": "keṃ¹",
     "GHC": "kjɨj¹",
     "explanationEN": "to surprise; to shock; to alarm",
-    "explanationCN": "惊汉语借词"
+    "explanationCN": "惊】"
   },
   {
     "character": "𘖛",
     "GX": "śoṃ¹",
     "GHC": "śjow¹",
     "explanationEN": "kind; benevolent",
-    "explanationCN": "慈悲、慈善"
+    "explanationCN": "慈悲慈善"
   },
   {
     "character": "𘕤",
@@ -37469,28 +37469,28 @@ const DICTIONARY_DATA = [
     "GX": "bi²",
     "GHC": "bji²",
     "explanationEN": "to be surprised; to be amazed",
-    "explanationCN": "惊愕、惊讶"
+    "explanationCN": "惊愕惊讶"
   },
   {
     "character": "𘕨",
     "GX": "nsi¹",
     "GHC": "sji̱¹",
     "explanationEN": "to cry bitterly; to wail; to condole",
-    "explanationCN": "痛苦、吊唁"
+    "explanationCN": "痛苦吊唁"
   },
   {
     "character": "𘗞",
     "GX": "rvor²",
     "GHC": "wjor²",
     "explanationEN": "nest",
-    "explanationCN": "窝、巢汉语借词"
+    "explanationCN": "窝巢】"
   },
   {
     "character": "𘁹",
     "GX": "rdza̱r¹",
     "GHC": "dzar¹",
     "explanationEN": "to vary; to change; to be magic",
-    "explanationCN": "魔术、变幻"
+    "explanationCN": "魔术变幻"
   },
   {
     "character": "𗮏",
@@ -37504,14 +37504,14 @@ const DICTIONARY_DATA = [
     "GX": "γo̱²",
     "GHC": "ˑo²",
     "explanationEN": "thread; string",
-    "explanationCN": "线、绳"
+    "explanationCN": "线绳"
   },
   {
     "character": "𘃭",
     "GX": "qhao̱²",
     "GHC": "khio²",
     "explanationEN": "skillful; ingenious",
-    "explanationCN": "巧汉语借词"
+    "explanationCN": "巧】"
   },
   {
     "character": "𘌽",
@@ -37532,28 +37532,28 @@ const DICTIONARY_DATA = [
     "GX": "teh¹",
     "GHC": "tjịj¹",
     "explanationEN": "only; unique",
-    "explanationCN": "1.独、一2.专印"
+    "explanationCN": "1.独一2.专印"
   },
   {
     "character": "𗮦",
     "GX": "ntśi¹",
     "GHC": "tśji̱¹",
     "explanationEN": "to make love; to rape",
-    "explanationCN": "交构、姦淫"
+    "explanationCN": "交构姦淫"
   },
   {
     "character": "𗮥",
     "GX": "mə²",
     "GHC": "mjɨ²",
     "explanationEN": "bottom; backside",
-    "explanationCN": "屁股、臀部"
+    "explanationCN": "屁股臀部"
   },
   {
     "character": "𗮝",
     "GX": "lhao̱ṃ²",
     "GHC": "lhiow²",
     "explanationEN": "meat chopped into small pieces; minced meat",
-    "explanationCN": "块、膾"
+    "explanationCN": "块膾"
   },
   {
     "character": "𗮪",
@@ -37602,7 +37602,7 @@ const DICTIONARY_DATA = [
     "GX": "nlu¹",
     "GHC": "lju̱¹",
     "explanationEN": "to cross",
-    "explanationCN": "渡、度、过"
+    "explanationCN": "渡度过"
   },
   {
     "character": "𘕞",
@@ -37616,7 +37616,7 @@ const DICTIONARY_DATA = [
     "GX": "rgiwr²",
     "GHC": "gjiwr²",
     "explanationEN": "a bit of; a drop of",
-    "explanationCN": "点、滴、丸形容词"
+    "explanationCN": "点滴丸形容词"
   },
   {
     "character": "𘗚",
@@ -37630,7 +37630,7 @@ const DICTIONARY_DATA = [
     "GX": "pah¹",
     "GHC": "pjạ¹",
     "explanationEN": "palm; handful of",
-    "explanationCN": "1.掌、巴、合量词2.掩"
+    "explanationCN": "1.掌巴合量词2.掩"
   },
   {
     "character": "𘎸",
@@ -37651,56 +37651,56 @@ const DICTIONARY_DATA = [
     "GX": "la̱¹",
     "GHC": "¹",
     "explanationEN": "to record; to write; stele",
-    "explanationCN": "记、传、碑"
+    "explanationCN": "记传碑"
   },
   {
     "character": "𘖏",
     "GX": "mə¹",
     "GHC": "mjɨ¹",
     "explanationEN": "right now; this time",
-    "explanationCN": "此刻、倾刻"
+    "explanationCN": "此刻倾刻"
   },
   {
     "character": "𘋫",
     "GX": "tśa¹",
     "GHC": "tśja¹",
     "explanationEN": "to bend; to inverse; to topple and fall",
-    "explanationCN": "倾、倒、伏、躄"
+    "explanationCN": "倾倒伏躄"
   },
   {
     "character": "𘖕",
     "GX": "tso¹",
     "GHC": "tsjo¹",
     "explanationEN": "restless; impetuous",
-    "explanationCN": "躁汉语借词"
+    "explanationCN": "躁】"
   },
   {
     "character": "𘐠",
     "GX": "ŋwo̱²",
     "GHC": "ŋjwo²",
     "explanationEN": "to damage; to injure; to harm",
-    "explanationCN": "1.损伤、损坏、损害2.破裂"
+    "explanationCN": "1.损伤损坏损害2.破裂"
   },
   {
     "character": "𘑀",
     "GX": "təh²",
     "GHC": "tjɨ̣²",
     "explanationEN": "to damage; to break",
-    "explanationCN": "破烂、破碎、破坏"
+    "explanationCN": "破烂破碎破坏"
   },
   {
     "character": "𘐡",
     "GX": "ntśə¹",
     "GHC": "tśjɨ¹",
     "explanationEN": "order; sequence",
-    "explanationCN": "1.次、序2.续、绪3.至"
+    "explanationCN": "1.次序2.续绪3.至"
   },
   {
     "character": "𘎩",
     "GX": "swe̱¹",
     "GHC": "swej¹",
     "explanationEN": "fragmentary; broken",
-    "explanationCN": "碎汉语借词"
+    "explanationCN": "碎】"
   },
   {
     "character": "𘋧",
@@ -37749,56 +37749,56 @@ const DICTIONARY_DATA = [
     "GX": "nświ²",
     "GHC": "śjwi̱²",
     "explanationEN": "puckery; astringent",
-    "explanationCN": "1.涩汉语借词2.柿子"
+    "explanationCN": "1.涩】2.柿子"
   },
   {
     "character": "𘂯",
     "GX": "mbo̱²",
     "GHC": "bo̱²",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【慕】、【茂】、【目】、【帽】、【补】、【满】族姓、2.【谋】（珠 316）、【牡】（珠 133）、【墨】（珠 272）、【木】（珠 136）、【目】（珠 183）、【牧】（珠 285）、【毛】（珠 231 ）3.【穆】、【莽】、【摩】（音 193）"
+    "explanationCN": "1.【慕】【茂】【目】【帽】【补】【满】2.【谋】（珠 316）【牡】（珠 133）【墨】（珠 272）【木】（珠 136）【目】（珠 183）【牧】（珠 285）【毛】（珠 231 ）3.【穆】【莽】【摩】（音 193）"
   },
   {
     "character": "𘏕",
     "GX": "rvwai̱r¹",
     "GHC": "wier¹",
     "explanationEN": "to throw; to cast",
-    "explanationCN": "投、抛、掷"
+    "explanationCN": "投抛掷"
   },
   {
     "character": "𘏒",
     "GX": "phai̱²",
     "GHC": "phie²",
     "explanationEN": "to untie; to relieve",
-    "explanationCN": "解、开、张、放"
+    "explanationCN": "解开张放"
   },
   {
     "character": "𘏱",
     "GX": "si̱w²",
     "GHC": "sew²",
     "explanationEN": "piebald; stripe",
-    "explanationCN": "1.花斑、斑纹2.【簫】、【修】、【秀】、【锈】、【苏】"
+    "explanationCN": "1.花斑斑纹2.【簫】【修】【秀】【锈】【苏】"
   },
   {
     "character": "𘏰",
     "GX": "və²",
     "GHC": "wjɨ²",
     "explanationEN": "right now; this time",
-    "explanationCN": "此刻、顷刻"
+    "explanationCN": "此刻顷刻"
   },
   {
     "character": "𘏑",
     "GX": "phu̱¹",
     "GHC": "phu¹",
     "explanationEN": "general; universal",
-    "explanationCN": "普汉语借词"
+    "explanationCN": "普】"
   },
   {
     "character": "𘃑",
     "GX": "mi̱h²",
     "GHC": "mẹ²",
     "explanationEN": "to abandon",
-    "explanationCN": "抛弃、免除"
+    "explanationCN": "抛弃免除"
   },
   {
     "character": "𘖎",
@@ -37819,7 +37819,7 @@ const DICTIONARY_DATA = [
     "GX": "feṃh²",
     "GHC": "xjwɨ̣j²",
     "explanationEN": "to hang; to suspend",
-    "explanationCN": "悬、垂"
+    "explanationCN": "悬垂"
   },
   {
     "character": "𗰎",
@@ -37847,14 +37847,14 @@ const DICTIONARY_DATA = [
     "GX": "qao̱²",
     "GHC": "kio²",
     "explanationEN": "to call; to make somebody do",
-    "explanationCN": "1.教、叫汉语借词2.来到"
+    "explanationCN": "1.教叫】2.来到"
   },
   {
     "character": "𘖉",
     "GX": "khe²",
     "GHC": "khjij²",
     "explanationEN": "to reach; to arrive",
-    "explanationCN": "到、至"
+    "explanationCN": "到至"
   },
   {
     "character": "𘃓",
@@ -37868,21 +37868,21 @@ const DICTIONARY_DATA = [
     "GX": "la̱¹",
     "GHC": "la¹",
     "explanationEN": "to record; to write; stele",
-    "explanationCN": "记、传、碑名词"
+    "explanationCN": "记传碑名词"
   },
   {
     "character": "𗯶",
     "GX": "rma̱r²",
     "GHC": "ma²",
     "explanationEN": "a surname",
-    "explanationCN": "【苗】、【麻】、【卯】族姓"
+    "explanationCN": "【苗】【麻】【卯】"
   },
   {
     "character": "𗯽",
     "GX": "mma̱r¹",
     "GHC": "ma̱r¹",
     "explanationEN": "wonderful; excellent",
-    "explanationCN": "妙汉语借词"
+    "explanationCN": "妙】"
   },
   {
     "character": "𘗣",
@@ -37917,7 +37917,7 @@ const DICTIONARY_DATA = [
     "GX": "dzwə²",
     "GHC": "dzjwɨ²",
     "explanationEN": "to make; to build",
-    "explanationCN": "修造、製作"
+    "explanationCN": "修造製作"
   },
   {
     "character": "𗔿",
@@ -37931,21 +37931,21 @@ const DICTIONARY_DATA = [
     "GX": "źoṃ¹",
     "GHC": "źjow¹",
     "explanationEN": "down; cloth with soft nap",
-    "explanationCN": "戎、绒、氄汉语借词"
+    "explanationCN": "戎绒氄】"
   },
   {
     "character": "𗮅",
     "GX": "re̱r²",
     "GHC": "rejr²",
     "explanationEN": "many; much; more",
-    "explanationCN": "多、久、餘"
+    "explanationCN": "多久餘"
   },
   {
     "character": "𗮀",
     "GX": "bu¹",
     "GHC": "bju¹",
     "explanationEN": "intelligent; bright; clever",
-    "explanationCN": "聪、明"
+    "explanationCN": "聪明"
   },
   {
     "character": "𘁞",
@@ -37959,7 +37959,7 @@ const DICTIONARY_DATA = [
     "GX": "rar²",
     "GHC": "rjar²",
     "explanationEN": "immediate; rapid",
-    "explanationCN": "立即、迅速、忽然"
+    "explanationCN": "立即迅速忽然"
   },
   {
     "character": "𘃥",
@@ -37973,7 +37973,7 @@ const DICTIONARY_DATA = [
     "GX": "do̱²",
     "GHC": "do²",
     "explanationEN": "uneven; irregular; different",
-    "explanationCN": "异、差异、参差"
+    "explanationCN": "异差异参差"
   },
   {
     "character": "𘍿",
@@ -37987,7 +37987,7 @@ const DICTIONARY_DATA = [
     "GX": "pho¹",
     "GHC": "phjo¹",
     "explanationEN": "dexterous; nimble; skillful",
-    "explanationCN": "灵、巧"
+    "explanationCN": "灵巧"
   },
   {
     "character": "𘁯",
@@ -38001,28 +38001,28 @@ const DICTIONARY_DATA = [
     "GX": "tah¹",
     "GHC": "tjạ¹",
     "explanationEN": "all; whole",
-    "explanationCN": "全、都、总"
+    "explanationCN": "全都总"
   },
   {
     "character": "𘝟",
     "GX": "śwə¹",
     "GHC": "śjwɨ¹",
     "explanationEN": "to contact; to pass through",
-    "explanationCN": "来往、通过、出入"
+    "explanationCN": "来往通过出入"
   },
   {
     "character": "𘞨",
     "GX": "źeh²",
     "GHC": "źjịj²",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【佘】、【社】、【涉】、【日】2.独"
+    "explanationCN": "1.【佘】【社】【涉】【日】2.独"
   },
   {
     "character": "𘌾",
     "GX": "rbaa̱r¹",
     "GHC": "biar¹",
     "explanationEN": "to make a profit; to gallop",
-    "explanationCN": "1.盈利2.奔、急驰"
+    "explanationCN": "1.盈利2.奔急驰"
   },
   {
     "character": "𘕽",
@@ -38043,7 +38043,7 @@ const DICTIONARY_DATA = [
     "GX": "po̱¹",
     "GHC": "po¹",
     "explanationEN": "a surname",
-    "explanationCN": "【播】、【波】族姓"
+    "explanationCN": "【播】【波】"
   },
   {
     "character": "𘗛",
@@ -38057,7 +38057,7 @@ const DICTIONARY_DATA = [
     "GX": "???",
     "GHC": "?",
     "explanationEN": "to meet",
-    "explanationCN": "1.遇2.拥挤、拥堵"
+    "explanationCN": "1.遇2.拥挤拥堵"
   },
   {
     "character": "𗮣",
@@ -38071,21 +38071,21 @@ const DICTIONARY_DATA = [
     "GX": "be¹",
     "GHC": "bjij¹",
     "explanationEN": "to ring",
-    "explanationCN": "鸣汉语借词"
+    "explanationCN": "鸣】"
   },
   {
     "character": "𘎦",
     "GX": "rvwə̱r¹",
     "GHC": "wər¹",
     "explanationEN": "to gallop",
-    "explanationCN": "急驰、速往"
+    "explanationCN": "急驰速往"
   },
   {
     "character": "𘎳",
     "GX": "nvwi̱¹",
     "GHC": "we̱¹",
     "explanationEN": "to give birth; to bear",
-    "explanationCN": "生、產"
+    "explanationCN": "生產"
   },
   {
     "character": "𘞯",
@@ -38106,35 +38106,35 @@ const DICTIONARY_DATA = [
     "GX": "rtsa̱r¹",
     "GHC": "tsar¹",
     "explanationEN": "a kind of silk",
-    "explanationCN": "繒汉语借词"
+    "explanationCN": "繒】"
   },
   {
     "character": "𘋐",
     "GX": "γa̱¹",
     "GHC": "ɣa¹",
     "explanationEN": "dawn; daybreak",
-    "explanationCN": "晨、拂晓、黎明"
+    "explanationCN": "晨拂晓黎明"
   },
   {
     "character": "𘋭",
     "GX": "tśha¹",
     "GHC": "tśhja¹",
     "explanationEN": "to destroy; to wreck",
-    "explanationCN": "摧毁、破坏"
+    "explanationCN": "摧毁破坏"
   },
   {
     "character": "𘍯",
     "GX": "swi²",
     "GHC": "sjwi²",
     "explanationEN": "mother-in-law; aunt",
-    "explanationCN": "1.岳母、舅母、尊2.工匠"
+    "explanationCN": "1.岳母舅母尊2.工匠"
   },
   {
     "character": "𘏸",
     "GX": "ṣaə̱¹",
     "GHC": "śiə¹",
     "explanationEN": "to send; to let somebody do",
-    "explanationCN": "1.使汉语借词2.【史】、【诗】、【始】、【瑟】、【师】、【尸】、【式】3.【示】（珠 366）、【事】（珠 304）、【匙】（珠 232）、【恃】（珠 296）、【柿】（珠 143）、【狮】（珠 161）4.【侍】、【诗】、【謚】、【士】、【施】、【世】（音 199）"
+    "explanationCN": "1.使】2.【史】【诗】【始】【瑟】【师】【尸】【式】3.【示】（珠 366）【事】（珠 304）【匙】（珠 232）【恃】（珠 296）【柿】（珠 143）【狮】（珠 161）4.【侍】【诗】【謚】【士】【施】【世】（音 199）"
   },
   {
     "character": "𘐓",
@@ -38155,14 +38155,14 @@ const DICTIONARY_DATA = [
     "GX": "rer¹",
     "GHC": "rjijr¹",
     "explanationEN": "to play chess",
-    "explanationCN": "弈、棋"
+    "explanationCN": "弈棋"
   },
   {
     "character": "𗯤",
     "GX": "kwə¹",
     "GHC": "kjwɨ¹",
     "explanationEN": "to cut; to break",
-    "explanationCN": "砍、折"
+    "explanationCN": "砍折"
   },
   {
     "character": "𘋩",
@@ -38183,14 +38183,14 @@ const DICTIONARY_DATA = [
     "GX": "tih¹",
     "GHC": "tjị¹",
     "explanationEN": "to place; to put; to set up",
-    "explanationCN": "1.置、放、设、安2.始、扣、专3.戴"
+    "explanationCN": "1.置放设安2.始扣专3.戴"
   },
   {
     "character": "𘐟",
     "GX": "nah²",
     "GHC": "njạ²",
     "explanationEN": "handkerchief",
-    "explanationCN": "1.帕（手帕、护手）2.补3.帔"
+    "explanationCN": "1.帕（手帕护手）2.补3.帔"
   },
   {
     "character": "𘝲",
@@ -38204,28 +38204,28 @@ const DICTIONARY_DATA = [
     "GX": "ri̱r²",
     "GHC": "rer²",
     "explanationEN": "curtain; screen; tassel",
-    "explanationCN": "鬘、缨、网"
+    "explanationCN": "鬘缨网"
   },
   {
     "character": "𘛺",
     "GX": "be²",
     "GHC": "bjij²",
     "explanationEN": "dawn",
-    "explanationCN": "1.拂晓、黎明2.旦"
+    "explanationCN": "1.拂晓黎明2.旦"
   },
   {
     "character": "𘎙",
     "GX": "qhai̱w²",
     "GHC": "khiew²",
     "explanationEN": "a surname",
-    "explanationCN": "【祁】族姓"
+    "explanationCN": "【祁】"
   },
   {
     "character": "𘏣",
     "GX": "lwih²",
     "GHC": "ljwị²",
     "explanationEN": "to fetch; to strive for",
-    "explanationCN": "取、拏、争取"
+    "explanationCN": "取拏争取"
   },
   {
     "character": "𘐎",
@@ -38239,7 +38239,7 @@ const DICTIONARY_DATA = [
     "GX": "tsoh²",
     "GHC": "tsjọ²",
     "explanationEN": "to penetrate; to pass through",
-    "explanationCN": "贯、穿、串"
+    "explanationCN": "贯穿串"
   },
   {
     "character": "𘝭",
@@ -38260,14 +38260,14 @@ const DICTIONARY_DATA = [
     "GX": "qa̱h¹",
     "GHC": "kạ¹",
     "explanationEN": "to supervise; to preside",
-    "explanationCN": "监汉语借词"
+    "explanationCN": "监】"
   },
   {
     "character": "𘐺",
     "GX": "llo̱ṃh¹",
     "GHC": "lhọ¹",
     "explanationEN": "to force; to intimidate",
-    "explanationCN": "逼迫、威逼"
+    "explanationCN": "逼迫威逼"
   },
   {
     "character": "𘁡",
@@ -38309,21 +38309,21 @@ const DICTIONARY_DATA = [
     "GX": "ywaṃ¹",
     "GHC": "ˑjwã¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【渊】、【完】、【元】2.【苑】、【宛】（音 203）"
+    "explanationCN": "1.【渊】【完】【元】2.【苑】【宛】（音 203）"
   },
   {
     "character": "𘁴",
     "GX": "γwə̱²",
     "GHC": "ɣwə²",
     "explanationEN": "calabash",
-    "explanationCN": "葫汉语借词"
+    "explanationCN": "葫】"
   },
   {
     "character": "𘕼",
     "GX": "gu²",
     "GHC": "gju²",
     "explanationEN": "a surname",
-    "explanationCN": "【俱】、【玉】族姓、"
+    "explanationCN": "【俱】【玉】"
   },
   {
     "character": "𘍖",
@@ -38337,14 +38337,14 @@ const DICTIONARY_DATA = [
     "GX": "yoṃ¹",
     "GHC": "ˑjow¹",
     "explanationEN": "a surname",
-    "explanationCN": "【羊】、【杨】族姓"
+    "explanationCN": "【羊】【杨】"
   },
   {
     "character": "𘏛",
     "GX": "be̱²",
     "GHC": "bej²",
     "explanationEN": "rope; string",
-    "explanationCN": "绑索、绳索"
+    "explanationCN": "绑索绳索"
   },
   {
     "character": "𘑕",
@@ -38386,7 +38386,7 @@ const DICTIONARY_DATA = [
     "GX": "tse̱¹",
     "GHC": "tsej¹",
     "explanationEN": "to plant; to grow",
-    "explanationCN": "1.栽汉语借词2.【灾】、【宰】"
+    "explanationCN": "1.栽】2.【灾】【宰】"
   },
   {
     "character": "𘋜",
@@ -38400,7 +38400,7 @@ const DICTIONARY_DATA = [
     "GX": "rzi̱wr²",
     "GHC": "zewr²",
     "explanationEN": "east",
-    "explanationCN": "旭、东方"
+    "explanationCN": "旭东方"
   },
   {
     "character": "𘐬",
@@ -38414,14 +38414,14 @@ const DICTIONARY_DATA = [
     "GX": "qa̱¹",
     "GHC": "ka¹",
     "explanationEN": "to stir; to mix; to twist",
-    "explanationCN": "搅、绞汉语借词"
+    "explanationCN": "搅绞】"
   },
   {
     "character": "𘐸",
     "GX": "rzə̱r²",
     "GHC": "zər²",
     "explanationEN": "to continue",
-    "explanationCN": "续汉语借词"
+    "explanationCN": "续】"
   },
   {
     "character": "𘐼",
@@ -38435,14 +38435,14 @@ const DICTIONARY_DATA = [
     "GX": "rtśhawr²",
     "GHC": "tśja̱r²",
     "explanationEN": "zhang, a unit of length",
-    "explanationCN": "丈动词名词汉语借词"
+    "explanationCN": "丈动词名词】"
   },
   {
     "character": "𘐗",
     "GX": "tə̱h¹",
     "GHC": "tə̣¹",
     "explanationEN": "to hold; to grasp",
-    "explanationCN": "握、执"
+    "explanationCN": "握执"
   },
   {
     "character": "𘐭",
@@ -38456,14 +38456,14 @@ const DICTIONARY_DATA = [
     "GX": "khiṃ¹",
     "GHC": "khjwĩ¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【戚】、【秋】、【仇】族姓2.末、尾名词"
+    "explanationCN": "1.【戚】【秋】【仇】2.末尾名词"
   },
   {
     "character": "𘏻",
     "GX": "rur²",
     "GHC": "rjur²",
     "explanationEN": "a surname",
-    "explanationCN": "【汝】族姓"
+    "explanationCN": "【汝】"
   },
   {
     "character": "𗶞",
@@ -38477,35 +38477,35 @@ const DICTIONARY_DATA = [
     "GX": "hau̱¹",
     "GHC": "xu¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【胡】、【虎】、【蝴】、【壶】、【霍】族姓、2.【瑚】（珠 126）、【胡】（珠 331）、【葫】（珠 142）、【虎】（珠 165）、【琥】（珠 126）、【乎】（珠 314）、【斛】（珠 154）、【狐】（珠 162）、【】（珠 146）3.【湖】、【鹤】、【鵠】、【户】（音 203）"
+    "explanationCN": "1.【胡】【虎】【蝴】【壶】【霍】2.【瑚】（珠 126）【胡】（珠 331）【葫】（珠 142）【虎】（珠 165）【琥】（珠 126）【乎】（珠 314）【斛】（珠 154）【狐】（珠 162）【】（珠 146）3.【湖】【鹤】【鵠】【户】（音 203）"
   },
   {
     "character": "𗶯",
     "GX": "śa¹",
     "GHC": "śja¹",
     "explanationEN": "imperial carriage; carriage",
-    "explanationCN": "輦、舆"
+    "explanationCN": "輦舆"
   },
   {
     "character": "𘟑",
     "GX": "ha̱ṃ²",
     "GHC": "xã²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【汉】汉语借词"
+    "explanationCN": "【汉】】"
   },
   {
     "character": "𘟒",
     "GX": "hwi̱²",
     "GHC": "xwe²",
     "explanationEN": "a surname",
-    "explanationCN": "【暉】族姓"
+    "explanationCN": "【暉】"
   },
   {
     "character": "𘟐",
     "GX": "rhə̱r²",
     "GHC": "xər²",
     "explanationEN": "to hum",
-    "explanationCN": "哼汉语借词"
+    "explanationCN": "哼】"
   },
   {
     "character": "𗮗",
@@ -38526,28 +38526,28 @@ const DICTIONARY_DATA = [
     "GX": "ye¹",
     "GHC": "ˑjij¹",
     "explanationEN": "look; appearance",
-    "explanationCN": "1.相、像、形2.兆3.瑞象"
+    "explanationCN": "1.相像形2.兆3.瑞象"
   },
   {
     "character": "𘍺",
     "GX": "vwi̱¹",
     "GHC": "we¹",
     "explanationEN": "dawn; daybreak",
-    "explanationCN": "早晨、拂晓、黎明"
+    "explanationCN": "早晨拂晓黎明"
   },
   {
     "character": "𘛦",
     "GX": "se¹",
     "GHC": "sjij¹",
     "explanationEN": "next year",
-    "explanationCN": "来年、明年"
+    "explanationCN": "来年明年"
   },
   {
     "character": "𗕂",
     "GX": "gu²",
     "GHC": "giu²",
     "explanationEN": "tool; utensil",
-    "explanationCN": "具、器汉语借词"
+    "explanationCN": "具器】"
   },
   {
     "character": "𘍄",
@@ -38561,21 +38561,21 @@ const DICTIONARY_DATA = [
     "GX": "gu¹",
     "GHC": "gju¹",
     "explanationEN": "canal; ditch",
-    "explanationCN": "渠汉语借词"
+    "explanationCN": "渠】"
   },
   {
     "character": "𘍂",
     "GX": "mo²",
     "GHC": "mjo²",
     "explanationEN": "sheep",
-    "explanationCN": "羊、未"
+    "explanationCN": "羊未"
   },
   {
     "character": "𘛣",
     "GX": "śa¹",
     "GHC": "śja¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【捨】、【奢】、【闍】、【苫】、【叉】、【缮】"
+    "explanationCN": "【捨】【奢】【闍】【苫】【叉】【缮】"
   },
   {
     "character": "𘍍",
@@ -38589,14 +38589,14 @@ const DICTIONARY_DATA = [
     "GX": "γa̱¹",
     "GHC": "ɣa¹",
     "explanationEN": "dog",
-    "explanationCN": "犬、狗"
+    "explanationCN": "犬狗"
   },
   {
     "character": "𘌀",
     "GX": "rγae̱r²",
     "GHC": "ˑiejr²",
     "explanationEN": "curved; crooked",
-    "explanationCN": "1.缩、屈、曲、褰2.昂"
+    "explanationCN": "1.缩屈曲褰2.昂"
   },
   {
     "character": "𗮚",
@@ -38631,7 +38631,7 @@ const DICTIONARY_DATA = [
     "GX": "γu̱²",
     "GHC": "ɣu²",
     "explanationEN": "to combine; to integrate",
-    "explanationCN": "1.合汉语借词2.谋"
+    "explanationCN": "1.合】2.谋"
   },
   {
     "character": "𗮽",
@@ -38652,7 +38652,7 @@ const DICTIONARY_DATA = [
     "GX": "vih¹",
     "GHC": "wjị¹",
     "explanationEN": "trace; mark; scar",
-    "explanationCN": "踪跡、疤痕"
+    "explanationCN": "踪跡疤痕"
   },
   {
     "character": "𗯄",
@@ -38743,21 +38743,21 @@ const DICTIONARY_DATA = [
     "GX": "świ²",
     "GHC": "śjwi²",
     "explanationEN": "a surname",
-    "explanationCN": "【施】族姓"
+    "explanationCN": "【施】"
   },
   {
     "character": "𗮙",
     "GX": "świ¹",
     "GHC": "śjwi¹",
     "explanationEN": "in a soft low voice",
-    "explanationCN": "低声、细语"
+    "explanationCN": "低声细语"
   },
   {
     "character": "𘍳",
     "GX": "ge¹",
     "GHC": "gjij¹",
     "explanationEN": "special; particular; peculiar",
-    "explanationCN": "1.特、殊、奇、超2.倍、最、甚、多"
+    "explanationCN": "1.特殊奇超2.倍最甚多"
   },
   {
     "character": "𗮁",
@@ -38792,14 +38792,14 @@ const DICTIONARY_DATA = [
     "GX": "rdi̱wr¹",
     "GHC": "dewr¹",
     "explanationEN": "to manage; to dominate",
-    "explanationCN": "主、主持、主宰"
+    "explanationCN": "主主持主宰"
   },
   {
     "character": "𘌧",
     "GX": "ti¹",
     "GHC": "tji¹",
     "explanationEN": "to drip",
-    "explanationCN": "滴汉语借词"
+    "explanationCN": "滴】"
   },
   {
     "character": "𘌪",
@@ -38813,7 +38813,7 @@ const DICTIONARY_DATA = [
     "GX": "dzih¹",
     "GHC": "dzjị¹",
     "explanationEN": "to cross",
-    "explanationCN": "渡、度、往"
+    "explanationCN": "渡度往"
   },
   {
     "character": "𘍃",
@@ -38834,7 +38834,7 @@ const DICTIONARY_DATA = [
     "GX": "ṣwaə̱²",
     "GHC": "śiwə²",
     "explanationEN": "gorgeous; splendid",
-    "explanationCN": "绚丽、斑斕"
+    "explanationCN": "绚丽斑斕"
   },
   {
     "character": "𘕫",
@@ -38848,14 +38848,14 @@ const DICTIONARY_DATA = [
     "GX": "rur¹",
     "GHC": "rjur¹",
     "explanationEN": "crucible",
-    "explanationCN": "熔、坩锅"
+    "explanationCN": "熔坩锅"
   },
   {
     "character": "𘋼",
     "GX": "rkur²",
     "GHC": "kjur²",
     "explanationEN": "will; ideal; aspiration",
-    "explanationCN": "1.誌、记2.忠烈、烈士3.贞"
+    "explanationCN": "1.誌记2.忠烈烈士3.贞"
   },
   {
     "character": "𗮘",
@@ -38883,35 +38883,35 @@ const DICTIONARY_DATA = [
     "GX": "tśhiw²",
     "GHC": "tśhjiw²",
     "explanationEN": "woman; girl; daughter",
-    "explanationCN": "女、女儿"
+    "explanationCN": "女女儿"
   },
   {
     "character": "𘃮",
     "GX": "lə¹",
     "GHC": "ljɨ¹",
     "explanationEN": "to leave; to depart from",
-    "explanationCN": "离汉语借词"
+    "explanationCN": "离】"
   },
   {
     "character": "𘛯",
     "GX": "ŋġu̱¹",
     "GHC": "gu̱¹",
     "explanationEN": "a surname",
-    "explanationCN": "【吴】、【兀】族姓"
+    "explanationCN": "【吴】【兀】"
   },
   {
     "character": "𘛰",
     "GX": "khe²",
     "GHC": "khjij²",
     "explanationEN": "wizard; shaman",
-    "explanationCN": "巫、巫师"
+    "explanationCN": "巫巫师"
   },
   {
     "character": "𘍾",
     "GX": "gi²",
     "GHC": "gji²",
     "explanationEN": "a conjunction",
-    "explanationCN": "或、时、乃、而、一、各（连）"
+    "explanationCN": "或时乃而一各（连）"
   },
   {
     "character": "𘕎",
@@ -38925,7 +38925,7 @@ const DICTIONARY_DATA = [
     "GX": "nne¹",
     "GHC": "nji̱j¹",
     "explanationEN": "centre; middle",
-    "explanationCN": "中心、中央"
+    "explanationCN": "中心中央"
   },
   {
     "character": "𘁥",
@@ -38967,7 +38967,7 @@ const DICTIONARY_DATA = [
     "GX": "ra̱r²",
     "GHC": "rar²",
     "explanationEN": "narrow; cramped",
-    "explanationCN": "狭、窄"
+    "explanationCN": "狭窄"
   },
   {
     "character": "𘍆",
@@ -38988,7 +38988,7 @@ const DICTIONARY_DATA = [
     "GX": "rzi̱wr¹",
     "GHC": "zewr¹",
     "explanationEN": "graceful; elegant; gorgeous",
-    "explanationCN": "秀美、斑烂"
+    "explanationCN": "秀美斑烂"
   },
   {
     "character": "𘕻",
@@ -39009,7 +39009,7 @@ const DICTIONARY_DATA = [
     "GX": "bi¹",
     "GHC": "bji¹",
     "explanationEN": "abundant",
-    "explanationCN": "丰、稔"
+    "explanationCN": "丰稔"
   },
   {
     "character": "𘗙",
@@ -39058,7 +39058,7 @@ const DICTIONARY_DATA = [
     "GX": "vi²",
     "GHC": "wji²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【韦】、【尉】、【未】、【威】、【维】、【倭】、【尾】、【卫】、【微】族姓2.【魏】、【围】（音 194）"
+    "explanationCN": "1.【韦】【尉】【未】【威】【维】【倭】【尾】【卫】【微】2.【魏】【围】（音 194）"
   },
   {
     "character": "𘌹",
@@ -39107,7 +39107,7 @@ const DICTIONARY_DATA = [
     "GX": "śə¹",
     "GHC": "śjɨ¹",
     "explanationEN": "to wipe off; to whisk",
-    "explanationCN": "1.拭汉语借词2.装饰3.里"
+    "explanationCN": "1.拭】2.装饰3.里"
   },
   {
     "character": "𘏙",
@@ -39121,7 +39121,7 @@ const DICTIONARY_DATA = [
     "GX": "tsə̱h¹",
     "GHC": "tsə̣¹",
     "explanationEN": "chopsticks",
-    "explanationCN": "箸、筷子"
+    "explanationCN": "箸筷子"
   },
   {
     "character": "𘐨",
@@ -39135,14 +39135,14 @@ const DICTIONARY_DATA = [
     "GX": "rŋər²",
     "GHC": "ŋjɨr²",
     "explanationEN": "to beat; to pound",
-    "explanationCN": "椎、捶、蹋"
+    "explanationCN": "椎捶蹋"
   },
   {
     "character": "𘐶",
     "GX": "dźwo²",
     "GHC": "dźjwo²",
     "explanationEN": "to throw; to fling",
-    "explanationCN": "掷、投、弃"
+    "explanationCN": "掷投弃"
   },
   {
     "character": "𘂻",
@@ -39156,7 +39156,7 @@ const DICTIONARY_DATA = [
     "GX": "te²",
     "GHC": "tjij²",
     "explanationEN": "clumsy; dull; unskillful",
-    "explanationCN": "拙笨、俗愚、呆"
+    "explanationCN": "拙笨俗愚呆"
   },
   {
     "character": "𘃅",
@@ -39191,28 +39191,28 @@ const DICTIONARY_DATA = [
     "GX": "mbao̱¹",
     "GHC": "bjo̱¹",
     "explanationEN": "to look; to watch; to observe",
-    "explanationCN": "观、瞻、看"
+    "explanationCN": "观瞻看"
   },
   {
     "character": "𘝧",
     "GX": "mbao̱¹",
     "GHC": "bio̱¹",
     "explanationEN": "to patrol",
-    "explanationCN": "巡、检"
+    "explanationCN": "巡检"
   },
   {
     "character": "𗰂",
     "GX": "hwo̱²",
     "GHC": "xwo²",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【活】汉语借词2.【河】（珠 074）、【荷】（珠 145）、【和】（珠 084）、【祸】（珠 095）、【火】（珠 234）、【黄】（珠 171）、【皇】（珠 381）、【凰】（珠 165）、【贺】、【何】（音 203）"
+    "explanationCN": "1.【活】】2.【河】（珠 074）【荷】（珠 145）【和】（珠 084）【祸】（珠 095）【火】（珠 234）【黄】（珠 171）【皇】（珠 381）【凰】（珠 165）【贺】【何】（音 203）"
   },
   {
     "character": "𘋓",
     "GX": "ŋgə²",
     "GHC": "gjɨ̱²",
     "explanationEN": "note; remark; explanation",
-    "explanationCN": "注、疏、评"
+    "explanationCN": "注疏评"
   },
   {
     "character": "𗰅",
@@ -39233,14 +39233,14 @@ const DICTIONARY_DATA = [
     "GX": "mbo̱¹",
     "GHC": "bo̱¹",
     "explanationEN": "color",
-    "explanationCN": "顏色、容貌"
+    "explanationCN": "顏色容貌"
   },
   {
     "character": "𘂼",
     "GX": "da̱h¹",
     "GHC": "dạ¹",
     "explanationEN": "imperial edict",
-    "explanationCN": "圣、諭"
+    "explanationCN": "圣諭"
   },
   {
     "character": "𘐍",
@@ -39289,7 +39289,7 @@ const DICTIONARY_DATA = [
     "GX": "phə¹",
     "GHC": "phjɨ¹",
     "explanationEN": "to lose; to discard; to abandon",
-    "explanationCN": "失、弃、捨、出、亏"
+    "explanationCN": "失弃捨出亏"
   },
   {
     "character": "𘐢",
@@ -39303,14 +39303,14 @@ const DICTIONARY_DATA = [
     "GX": "di̱w²",
     "GHC": "dew²",
     "explanationEN": "motto",
-    "explanationCN": "格言、谚言、辞"
+    "explanationCN": "格言谚言辞"
   },
   {
     "character": "𘋬",
     "GX": "tshə¹",
     "GHC": "tshjɨ¹",
     "explanationEN": "to love; to like; clothing",
-    "explanationCN": "1.喜、爱2.衣服"
+    "explanationCN": "1.喜爱2.衣服"
   },
   {
     "character": "𘎣",
@@ -39331,14 +39331,14 @@ const DICTIONARY_DATA = [
     "GX": "zeh²",
     "GHC": "zjịj²",
     "explanationEN": "tax; duty",
-    "explanationCN": "赋、税"
+    "explanationCN": "赋税"
   },
   {
     "character": "𘝮",
     "GX": "llwu̱h¹",
     "GHC": "lwụ¹",
     "explanationEN": "to cry; to weep",
-    "explanationCN": "哭、泣"
+    "explanationCN": "哭泣"
   },
   {
     "character": "𘝥",
@@ -39352,7 +39352,7 @@ const DICTIONARY_DATA = [
     "GX": "nświ²",
     "GHC": "śjwi̱²",
     "explanationEN": "color; to plaster",
-    "explanationCN": "色彩、涂、抹"
+    "explanationCN": "色彩涂抹"
   },
   {
     "character": "𘋦",
@@ -39366,7 +39366,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋgi¹",
     "GHC": "gji̱¹",
     "explanationEN": "to beg",
-    "explanationCN": "乞讨汉语借词"
+    "explanationCN": "乞讨】"
   },
   {
     "character": "𘖌",
@@ -39380,14 +39380,14 @@ const DICTIONARY_DATA = [
     "GX": "γa̱¹",
     "GHC": ".a¹",
     "explanationEN": "full; content",
-    "explanationCN": "满、足"
+    "explanationCN": "满足"
   },
   {
     "character": "𘎲",
     "GX": "lhu̱¹",
     "GHC": "lhu¹",
     "explanationEN": "to increase; to raise; to add",
-    "explanationCN": "增、加、添、益"
+    "explanationCN": "增加添益"
   },
   {
     "character": "𘝰",
@@ -39415,14 +39415,14 @@ const DICTIONARY_DATA = [
     "GX": "nthwu̱¹",
     "GHC": "thwu̱¹",
     "explanationEN": "same; alike",
-    "explanationCN": "同、通汉语借词"
+    "explanationCN": "同通】"
   },
   {
     "character": "𗯲",
     "GX": "lu²",
     "GHC": "lju²",
     "explanationEN": "to invade; to touch",
-    "explanationCN": "侵、触"
+    "explanationCN": "侵触"
   },
   {
     "character": "𘋲",
@@ -39436,14 +39436,14 @@ const DICTIONARY_DATA = [
     "GX": "mah¹",
     "GHC": "mjạ¹",
     "explanationEN": "to injure; to scratch",
-    "explanationCN": "伤、搔"
+    "explanationCN": "伤搔"
   },
   {
     "character": "𗰈",
     "GX": "dźwaw²",
     "GHC": "dźjwa̱²",
     "explanationEN": "a surname",
-    "explanationCN": "【赭】族姓"
+    "explanationCN": "【赭】"
   },
   {
     "character": "𗰍",
@@ -39457,28 +39457,28 @@ const DICTIONARY_DATA = [
     "GX": "ŋkə¹",
     "GHC": "kjɨ̱¹",
     "explanationEN": "to wrestle; to struggle",
-    "explanationCN": "摔跤、搏鬭"
+    "explanationCN": "摔跤搏鬭"
   },
   {
     "character": "𘋱",
     "GX": "tshə¹",
     "GHC": "tshjɨ¹",
     "explanationEN": "maxim; motto; aphorism",
-    "explanationCN": "格言、妙语"
+    "explanationCN": "格言妙语"
   },
   {
     "character": "𘎥",
     "GX": "toh¹",
     "GHC": "tjọ¹",
     "explanationEN": "to put; to arrange for",
-    "explanationCN": "安、置"
+    "explanationCN": "安置"
   },
   {
     "character": "𘍰",
     "GX": "tṣhaa̱¹",
     "GHC": "tśhia¹",
     "explanationEN": "difference",
-    "explanationCN": "差（参差）汉语借词"
+    "explanationCN": "差（参差）】"
   },
   {
     "character": "𘋗",
@@ -39506,21 +39506,21 @@ const DICTIONARY_DATA = [
     "GX": "nti̱w²",
     "GHC": "te̱w²",
     "explanationEN": "to pound with a pestle",
-    "explanationCN": "捣、春"
+    "explanationCN": "捣春"
   },
   {
     "character": "𘐞",
     "GX": "ŋwi̱²",
     "GHC": "ŋwe²",
     "explanationEN": "bridle",
-    "explanationCN": "轡、羈、繮"
+    "explanationCN": "轡羈繮"
   },
   {
     "character": "𘁃",
     "GX": "ya²",
     "GHC": "ˑja²",
     "explanationEN": "a kind of bird",
-    "explanationCN": "【鸦】、【鹰】鸟名"
+    "explanationCN": "【鸦】【鹰】鸟名"
   },
   {
     "character": "𘃏",
@@ -39562,14 +39562,14 @@ const DICTIONARY_DATA = [
     "GX": "tśhiw²",
     "GHC": "tśhjiw²",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【丑】、【紂】、【畴】族姓、2.【超】、【兆】（音 200）"
+    "explanationCN": "1.【丑】【紂】【畴】2.【超】【兆】（音 200）"
   },
   {
     "character": "𘐧",
     "GX": "pih¹",
     "GHC": "pjị¹",
     "explanationEN": "Qiang and Rong people",
-    "explanationCN": "羌、戎"
+    "explanationCN": "羌戎"
   },
   {
     "character": "𘐵",
@@ -39590,14 +39590,14 @@ const DICTIONARY_DATA = [
     "GX": "yeṃ²",
     "GHC": "ˑjɨj²",
     "explanationEN": "bag; sack",
-    "explanationCN": "1.袋、囊2.函、鞘、茧"
+    "explanationCN": "1.袋囊2.函鞘茧"
   },
   {
     "character": "𘋷",
     "GX": "???",
     "GHC": "?",
     "explanationEN": "to squeeze; to press; to force",
-    "explanationCN": "挤、逼"
+    "explanationCN": "挤逼"
   },
   {
     "character": "𘂮",
@@ -39611,14 +39611,14 @@ const DICTIONARY_DATA = [
     "GX": "γa̱¹",
     "GHC": "ɣa¹",
     "explanationEN": "to butcher; to chop",
-    "explanationCN": "斩、宰"
+    "explanationCN": "斩宰"
   },
   {
     "character": "𘏪",
     "GX": "nae̱h²",
     "GHC": "dẹj²",
     "explanationEN": "a surname",
-    "explanationCN": "【逎】、【奈】族姓"
+    "explanationCN": "【逎】【奈】"
   },
   {
     "character": "𘏨",
@@ -39632,14 +39632,14 @@ const DICTIONARY_DATA = [
     "GX": "se¹",
     "GHC": "sjij¹",
     "explanationEN": "stars",
-    "explanationCN": "星汉语借词"
+    "explanationCN": "星】"
   },
   {
     "character": "𗯳",
     "GX": "nwə¹",
     "GHC": "njwɨ¹",
     "explanationEN": "luxuriant; majestic",
-    "explanationCN": "茂盛、壮丽"
+    "explanationCN": "茂盛壮丽"
   },
   {
     "character": "𗯺",
@@ -39653,7 +39653,7 @@ const DICTIONARY_DATA = [
     "GX": "rvwe̱r¹",
     "GHC": "wejr¹",
     "explanationEN": "flourishing; luxuriant",
-    "explanationCN": "茂、兴、盛、昌、隆、炽、增"
+    "explanationCN": "茂兴盛昌隆炽增"
   },
   {
     "character": "𘁿",
@@ -39667,14 +39667,14 @@ const DICTIONARY_DATA = [
     "GX": "ho̱¹",
     "GHC": "xo¹",
     "explanationEN": "he; it; that",
-    "explanationCN": "彼、伊、其"
+    "explanationCN": "彼伊其"
   },
   {
     "character": "𘑒",
     "GX": "qə̱¹",
     "GHC": "kə¹",
     "explanationEN": "bag; sack",
-    "explanationCN": "袋、囊"
+    "explanationCN": "袋囊"
   },
   {
     "character": "𘑑",
@@ -39695,35 +39695,35 @@ const DICTIONARY_DATA = [
     "GX": "śəh¹",
     "GHC": "śjɨ̣¹",
     "explanationEN": "down; lower; under",
-    "explanationCN": "下、低、底副词"
+    "explanationCN": "下低底副词"
   },
   {
     "character": "𘂃",
     "GX": "li²",
     "GHC": "lji²",
     "explanationEN": "color; appearance",
-    "explanationCN": "色、顏"
+    "explanationCN": "色顏"
   },
   {
     "character": "𘎗",
     "GX": "lhəh¹",
     "GHC": "lhjɨ̣¹",
     "explanationEN": "bow; crossbow",
-    "explanationCN": "弓、弩"
+    "explanationCN": "弓弩"
   },
   {
     "character": "𘎡",
     "GX": "no̱²",
     "GHC": "no²",
     "explanationEN": "sweet smell; flavor",
-    "explanationCN": "香味、气味"
+    "explanationCN": "香味气味"
   },
   {
     "character": "𘃄",
     "GX": "dzwəh¹",
     "GHC": "dzjwɨ̣¹",
     "explanationEN": "grip; handle",
-    "explanationCN": "把、柄"
+    "explanationCN": "把柄"
   },
   {
     "character": "𘂬",
@@ -39737,14 +39737,14 @@ const DICTIONARY_DATA = [
     "GX": "thə¹",
     "GHC": "thjɨ¹",
     "explanationEN": "to abandon; to distinguish; to expel",
-    "explanationCN": "1.释、放、弃、判明、驱逐2.断、剜3.脱"
+    "explanationCN": "1.释放弃判明驱逐2.断剜3.脱"
   },
   {
     "character": "𘏝",
     "GX": "phao̱ṃ¹",
     "GHC": "phiow¹",
     "explanationEN": "bow; crossbow",
-    "explanationCN": "弓、弩"
+    "explanationCN": "弓弩"
   },
   {
     "character": "𘛘",
@@ -39772,21 +39772,21 @@ const DICTIONARY_DATA = [
     "GX": "qa̱h¹",
     "GHC": "kạ¹",
     "explanationEN": "to hold; to grip; to grasp",
-    "explanationCN": "1.握、攥2.勺"
+    "explanationCN": "1.握攥2.勺"
   },
   {
     "character": "𘂴",
     "GX": "mme¹",
     "GHC": "mji̱j¹",
     "explanationEN": "tail; end; back",
-    "explanationCN": "尾、末、后、垂"
+    "explanationCN": "尾末后垂"
   },
   {
     "character": "𘂾",
     "GX": "qa̱h¹",
     "GHC": "kạ¹",
     "explanationEN": "tail; end; east",
-    "explanationCN": "末、尾、东"
+    "explanationCN": "末尾东"
   },
   {
     "character": "𘋑",
@@ -39807,21 +39807,21 @@ const DICTIONARY_DATA = [
     "GX": "ndə¹",
     "GHC": "djɨ̱¹",
     "explanationEN": "to estimate",
-    "explanationCN": "估量、测"
+    "explanationCN": "估量测"
   },
   {
     "character": "𘐷",
     "GX": "ŋqa̱r¹",
     "GHC": "ka̱r¹",
     "explanationEN": "to measure; to examine",
-    "explanationCN": "计、量、审、察、验、窥"
+    "explanationCN": "计量审察验窥"
   },
   {
     "character": "𘐒",
     "GX": "ryer²",
     "GHC": "ˑji̱r²",
     "explanationEN": "to spread; to uphold",
-    "explanationCN": "伸张、伸展"
+    "explanationCN": "伸张伸展"
   },
   {
     "character": "𘂲",
@@ -39835,14 +39835,14 @@ const DICTIONARY_DATA = [
     "GX": "po̱¹",
     "GHC": "po¹",
     "explanationEN": "to report; to reply",
-    "explanationCN": "1.报汉语借词2.【保】、【褒】、【宝】、【菠】、【簸】、【菩】、【波】"
+    "explanationCN": "1.报】2.【保】【褒】【宝】【菠】【簸】【菩】【波】"
   },
   {
     "character": "𘎽",
     "GX": "qhai̱w¹",
     "GHC": "khiew¹",
     "explanationEN": "to demolish; to destroy",
-    "explanationCN": "拆毁、摧毁"
+    "explanationCN": "拆毁摧毁"
   },
   {
     "character": "𘛬",
@@ -39863,21 +39863,21 @@ const DICTIONARY_DATA = [
     "GX": "γa̱¹",
     "GHC": "ɣa¹",
     "explanationEN": "door; gate; room",
-    "explanationCN": "门、室、屋、宅、计"
+    "explanationCN": "门室屋宅计"
   },
   {
     "character": "𘁺",
     "GX": "lheṃ¹",
     "GHC": "lhjɨj¹",
     "explanationEN": "magic",
-    "explanationCN": "1.魔法、巫术、妖术2.代受"
+    "explanationCN": "1.魔法巫术妖术2.代受"
   },
   {
     "character": "𘁷",
     "GX": "rdza̱r¹",
     "GHC": "dzar¹",
     "explanationEN": "to survey; to measure",
-    "explanationCN": "1.测量名词2.卑、极"
+    "explanationCN": "1.测量名词2.卑极"
   },
   {
     "character": "𗮔",
@@ -39891,21 +39891,21 @@ const DICTIONARY_DATA = [
     "GX": "rvwi̱r¹",
     "GHC": "wer¹",
     "explanationEN": "to listen; to hear",
-    "explanationCN": "听、闻"
+    "explanationCN": "听闻"
   },
   {
     "character": "𘃦",
     "GX": "nllə¹",
     "GHC": "ljɨ̱¹",
     "explanationEN": "to do; to be able",
-    "explanationCN": "做、办、能"
+    "explanationCN": "做办能"
   },
   {
     "character": "𘍁",
     "GX": "rtṣaə̱r¹",
     "GHC": "tśiər¹",
     "explanationEN": "crack noise",
-    "explanationCN": "爆裂、裂音"
+    "explanationCN": "爆裂裂音"
   },
   {
     "character": "𘕝",
@@ -39919,7 +39919,7 @@ const DICTIONARY_DATA = [
     "GX": "rtṣao̱r¹",
     "GHC": "tśior¹",
     "explanationEN": "dirty; filthy",
-    "explanationCN": "脏、垢、污、秽、辱、淤"
+    "explanationCN": "脏垢污秽辱淤"
   },
   {
     "character": "𘞬",
@@ -39933,7 +39933,7 @@ const DICTIONARY_DATA = [
     "GX": "guh²",
     "GHC": "gjụ²",
     "explanationEN": "tired; weary",
-    "explanationCN": "疲、倦"
+    "explanationCN": "疲倦"
   },
   {
     "character": "𗮮",
@@ -39954,7 +39954,7 @@ const DICTIONARY_DATA = [
     "GX": "mma¹",
     "GHC": "mja̱¹",
     "explanationEN": "sore",
-    "explanationCN": "疮、疤"
+    "explanationCN": "疮疤"
   },
   {
     "character": "𗮼",
@@ -39968,7 +39968,7 @@ const DICTIONARY_DATA = [
     "GX": "sa²",
     "GHC": "sja²",
     "explanationEN": "to make love; rape",
-    "explanationCN": "交构、奸淫"
+    "explanationCN": "交构奸淫"
   },
   {
     "character": "𗯁",
@@ -39996,21 +39996,21 @@ const DICTIONARY_DATA = [
     "GX": "źu²",
     "GHC": "źju²",
     "explanationEN": "difference",
-    "explanationCN": "1.差、异2.分3.【如】、【儒】、【孺】、【汝】4.乎"
+    "explanationCN": "1.差异2.分3.【如】【儒】【孺】【汝】4.乎"
   },
   {
     "character": "𘛏",
     "GX": "na̱¹",
     "GHC": "na¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【娜】、【那】"
+    "explanationCN": "【娜】【那】"
   },
   {
     "character": "𗮆",
     "GX": "llih¹",
     "GHC": "ljị¹",
     "explanationEN": "arrow",
-    "explanationCN": "箭、矢"
+    "explanationCN": "箭矢"
   },
   {
     "character": "𘃌",
@@ -40024,21 +40024,21 @@ const DICTIONARY_DATA = [
     "GX": "dźwa¹",
     "GHC": "dźjwa¹",
     "explanationEN": "end",
-    "explanationCN": "终、竟、毕、极、了、已、讫"
+    "explanationCN": "终竟毕极了已讫"
   },
   {
     "character": "𘁩",
     "GX": "rqo̱ṃr²",
     "GHC": "kowr²",
     "explanationEN": "slanting; inclined",
-    "explanationCN": "偏、斜"
+    "explanationCN": "偏斜"
   },
   {
     "character": "𘍻",
     "GX": "la¹",
     "GHC": "lja¹",
     "explanationEN": "special; peculiar",
-    "explanationCN": "特殊、超、迥"
+    "explanationCN": "特殊超迥"
   },
   {
     "character": "𘍣",
@@ -40073,14 +40073,14 @@ const DICTIONARY_DATA = [
     "GX": "dya²",
     "GHC": "dja²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【低】、【甸】"
+    "explanationCN": "【低】【甸】"
   },
   {
     "character": "𘍗",
     "GX": "gu²",
     "GHC": "gju²",
     "explanationEN": "toil; hard labor; penal servitude",
-    "explanationCN": "劳苦、劳累、苦役"
+    "explanationCN": "劳苦劳累苦役"
   },
   {
     "character": "𘁪",
@@ -40115,7 +40115,7 @@ const DICTIONARY_DATA = [
     "GX": "vəh²",
     "GHC": "wjɨ̣²",
     "explanationEN": "tail; end; east",
-    "explanationCN": "尾、东"
+    "explanationCN": "尾东"
   },
   {
     "character": "𘑌",
@@ -40129,7 +40129,7 @@ const DICTIONARY_DATA = [
     "GX": "lləh¹",
     "GHC": "ljɨ̣¹",
     "explanationEN": "to transport.ʙ",
-    "explanationCN": "1.运输2.来、賚"
+    "explanationCN": "1.运输2.来賚"
   },
   {
     "character": "𘏶",
@@ -40157,35 +40157,35 @@ const DICTIONARY_DATA = [
     "GX": "na̱h¹",
     "GHC": "nạ¹",
     "explanationEN": "nasal mucus",
-    "explanationCN": "鼻涕、涕"
+    "explanationCN": "鼻涕涕"
   },
   {
     "character": "𘑔",
     "GX": "tśaw¹",
     "GHC": "tśja̱¹",
     "explanationEN": "to chop; to cut; to butcher",
-    "explanationCN": "剁、砍、斩、斫、屠"
+    "explanationCN": "剁砍斩斫屠"
   },
   {
     "character": "𘖒",
     "GX": "məh²",
     "GHC": "mjɨ̣²",
     "explanationEN": "to investigate; to follow the trail of",
-    "explanationCN": "追查、追踪"
+    "explanationCN": "追查追踪"
   },
   {
     "character": "𘂽",
     "GX": "ne²",
     "GHC": "njij²",
     "explanationEN": "tail; bottom",
-    "explanationCN": "尾巴、臀部、屁股"
+    "explanationCN": "尾巴臀部屁股"
   },
   {
     "character": "𘎹",
     "GX": "ndu̱¹",
     "GHC": "du̱¹",
     "explanationEN": "part; portion",
-    "explanationCN": "份、分"
+    "explanationCN": "份分"
   },
   {
     "character": "𘏘",
@@ -40199,21 +40199,21 @@ const DICTIONARY_DATA = [
     "GX": "tshwe̱¹",
     "GHC": "tshwej¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【崔】、【摧】、【罪】、【翟】族姓、"
+    "explanationCN": "【崔】【摧】【罪】【翟】"
   },
   {
     "character": "𗯸",
     "GX": "pa̱ṃ¹",
     "GHC": "pã¹",
     "explanationEN": "stunned; astonished",
-    "explanationCN": "惊愕、惊诧"
+    "explanationCN": "惊愕惊诧"
   },
   {
     "character": "𗯭",
     "GX": "vwe̱¹",
     "GHC": "wej¹",
     "explanationEN": "peaceful and happy; auspicious",
-    "explanationCN": "安乐、瑞象"
+    "explanationCN": "安乐瑞象"
   },
   {
     "character": "𘂵",
@@ -40227,14 +40227,14 @@ const DICTIONARY_DATA = [
     "GX": "haṃ¹",
     "GHC": "xjã¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "1.【献】2.【险】（珠 124）、【贤】（珠 176）、【掀】（珠 241）、【见】（珠 303）、【弦】（珠 323）、【轩】（珠 211）"
+    "explanationCN": "1.【献】2.【险】（珠 124）【贤】（珠 176）【掀】（珠 241）【见】（珠 303）【弦】（珠 323）【轩】（珠 211）"
   },
   {
     "character": "𘏲",
     "GX": "rtser¹",
     "GHC": "tsji̱r¹",
     "explanationEN": "to select; to choose",
-    "explanationCN": "选、择、举、决、简"
+    "explanationCN": "选择举决简"
   },
   {
     "character": "𘞮",
@@ -40255,28 +40255,28 @@ const DICTIONARY_DATA = [
     "GX": "nli²",
     "GHC": "lji̱²",
     "explanationEN": "to break; to break",
-    "explanationCN": "1.破、损、毁、丧2.累"
+    "explanationCN": "1.破损毁丧2.累"
   },
   {
     "character": "𗯢",
     "GX": "gwə¹",
     "GHC": "gjwɨ¹",
     "explanationEN": "to cut; to break; to snap",
-    "explanationCN": "1.割、折2.堕3.流"
+    "explanationCN": "1.割折2.堕3.流"
   },
   {
     "character": "𘂰",
     "GX": "nṣao̱²",
     "GHC": "śio̱²",
     "explanationEN": "twin; a pair of",
-    "explanationCN": "双汉语借词"
+    "explanationCN": "双】"
   },
   {
     "character": "𘍬",
     "GX": "ha²",
     "GHC": "xja²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【哈】、【献】"
+    "explanationCN": "【哈】【献】"
   },
   {
     "character": "𘍮",
@@ -40290,14 +40290,14 @@ const DICTIONARY_DATA = [
     "GX": "ntśi²",
     "GHC": "tśji̱²",
     "explanationEN": "finger",
-    "explanationCN": "指汉语借词"
+    "explanationCN": "指】"
   },
   {
     "character": "𘏷",
     "GX": "ndi¹",
     "GHC": "dji̱¹",
     "explanationEN": "to divide; to distribute",
-    "explanationCN": "分、区分、分配"
+    "explanationCN": "分区分分配"
   },
   {
     "character": "𘖋",
@@ -40339,7 +40339,7 @@ const DICTIONARY_DATA = [
     "GX": "źah¹",
     "GHC": "źjạ¹",
     "explanationEN": "between; middle",
-    "explanationCN": "间、中间、之间"
+    "explanationCN": "间中间之间"
   },
   {
     "character": "𘐈",
@@ -40360,21 +40360,21 @@ const DICTIONARY_DATA = [
     "GX": "tshu̱¹",
     "GHC": "tshu¹",
     "explanationEN": "rough",
-    "explanationCN": "粗汉语借词"
+    "explanationCN": "粗】"
   },
   {
     "character": "𘞰",
     "GX": "li²",
     "GHC": "lji²",
     "explanationEN": "a surname",
-    "explanationCN": "【里】、【利】族姓"
+    "explanationCN": "【里】【利】"
   },
   {
     "character": "𗯷",
     "GX": "kweṃh¹",
     "GHC": "kjwɨ̣j¹",
     "explanationEN": "emperor; king",
-    "explanationCN": "君、皇、天子"
+    "explanationCN": "君皇天子"
   },
   {
     "character": "𘐌",
@@ -40388,28 +40388,28 @@ const DICTIONARY_DATA = [
     "GX": "vwuh¹",
     "GHC": "wjụ¹",
     "explanationEN": "bottle; jar",
-    "explanationCN": "瓶、瓮、罐"
+    "explanationCN": "瓶瓮罐"
   },
   {
     "character": "𘐖",
     "GX": "lu²",
     "GHC": "lju²",
     "explanationEN": "house; room",
-    "explanationCN": "屋、室"
+    "explanationCN": "屋室"
   },
   {
     "character": "𘎟",
     "GX": "nṣaa̱²",
     "GHC": "śia̱²",
     "explanationEN": "at will; causally",
-    "explanationCN": "1.随意2.矢、的、靶3.发"
+    "explanationCN": "1.随意2.矢的靶3.发"
   },
   {
     "character": "𘎝",
     "GX": "sih¹",
     "GHC": "sjị¹",
     "explanationEN": "nasal sore",
-    "explanationCN": "瘜汉语借词"
+    "explanationCN": "瘜】"
   },
   {
     "character": "𘃃",
@@ -40423,7 +40423,7 @@ const DICTIONARY_DATA = [
     "GX": "khi¹",
     "GHC": "khji¹",
     "explanationEN": "dagger; knife",
-    "explanationCN": "匕首、砍刀"
+    "explanationCN": "匕首砍刀"
   },
   {
     "character": "𘑍",
@@ -40437,14 +40437,14 @@ const DICTIONARY_DATA = [
     "GX": "tshwi̱w¹",
     "GHC": "tshwew¹",
     "explanationEN": "to salute; to bow",
-    "explanationCN": "敬礼、拜动词"
+    "explanationCN": "敬礼拜动词"
   },
   {
     "character": "𘑏",
     "GX": "tah¹",
     "GHC": "tjạ¹",
     "explanationEN": "to rely on; to depend on",
-    "explanationCN": "恃、依靠"
+    "explanationCN": "恃依靠"
   },
   {
     "character": "𘕥",
@@ -40465,35 +40465,35 @@ const DICTIONARY_DATA = [
     "GX": "rkur²",
     "GHC": "kjur²",
     "explanationEN": "house; room",
-    "explanationCN": "屋、室"
+    "explanationCN": "屋室"
   },
   {
     "character": "𘗟",
     "GX": "nne¹",
     "GHC": "nji̱j¹",
     "explanationEN": "to enter; to open",
-    "explanationCN": "通、入"
+    "explanationCN": "通入"
   },
   {
     "character": "𘕩",
     "GX": "nsi¹",
     "GHC": "sji̱¹",
     "explanationEN": "to cry bitterly; to wail; to condole",
-    "explanationCN": "哭、吊唁"
+    "explanationCN": "哭吊唁"
   },
   {
     "character": "𘟟",
     "GX": "khe¹",
     "GHC": "khjij¹",
     "explanationEN": "to cut; to chop",
-    "explanationCN": "割、砍"
+    "explanationCN": "割砍"
   },
   {
     "character": "𘟩",
     "GX": "teṃh²",
     "GHC": "tjɨ̣j²",
     "explanationEN": "seal; stamp; brand",
-    "explanationCN": "印、信、烙动词"
+    "explanationCN": "印信烙动词"
   },
   {
     "character": "𗮧",
@@ -40514,14 +40514,14 @@ const DICTIONARY_DATA = [
     "GX": "dźwa¹",
     "GHC": "dźjwa¹",
     "explanationEN": "peak; top; peak",
-    "explanationCN": "1.头、尖、梢、端、峰2.鏃"
+    "explanationCN": "1.头尖梢端峰2.鏃"
   },
   {
     "character": "𘁳",
     "GX": "ndi̱w²",
     "GHC": "de̱w²",
     "explanationEN": "frivolous",
-    "explanationCN": "1.轻浮、佻易、诺、敬2.【奴】"
+    "explanationCN": "1.轻浮佻易诺敬2.【奴】"
   },
   {
     "character": "𘍢",
@@ -40549,7 +40549,7 @@ const DICTIONARY_DATA = [
     "GX": "rnoṃr²",
     "GHC": "njowr²",
     "explanationEN": "to roll up; to contract; to crease",
-    "explanationCN": "卷、缩、皱"
+    "explanationCN": "卷缩皱"
   },
   {
     "character": "𘏴",
@@ -40577,14 +40577,14 @@ const DICTIONARY_DATA = [
     "GX": "vah²",
     "GHC": "wjạ²",
     "explanationEN": "to send; to release; to remit",
-    "explanationCN": "1.遣、放、释、赦2.让3.披4.休5.灌"
+    "explanationCN": "1.遣放释赦2.让3.披4.休5.灌"
   },
   {
     "character": "𘃕",
     "GX": "nda¹",
     "GHC": "dja̱¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【达】、【荼】、【答】"
+    "explanationCN": "【达】【荼】【答】"
   },
   {
     "character": "𗯱",
@@ -40598,28 +40598,28 @@ const DICTIONARY_DATA = [
     "GX": "rnoṃr²",
     "GHC": "njowr²",
     "explanationEN": "to roll up; to contract; to crease",
-    "explanationCN": "皱、卷、缩"
+    "explanationCN": "皱卷缩"
   },
   {
     "character": "𘝳",
     "GX": "mə²",
     "GHC": "mjɨ²",
     "explanationEN": "silent; closed",
-    "explanationCN": "闭、默、默然"
+    "explanationCN": "闭默默然"
   },
   {
     "character": "𘏺",
     "GX": "rta̱r¹",
     "GHC": "tar¹",
     "explanationEN": "to trample; to step up; to tread",
-    "explanationCN": "踩、踏、践"
+    "explanationCN": "踩踏践"
   },
   {
     "character": "𘑁",
     "GX": "ror²",
     "GHC": "rjor²",
     "explanationEN": "to prohibit; to forbid; to cover",
-    "explanationCN": "禁止、遮蔽、镇摄"
+    "explanationCN": "禁止遮蔽镇摄"
   },
   {
     "character": "𘁄",
@@ -40640,14 +40640,14 @@ const DICTIONARY_DATA = [
     "GX": "teṃh²",
     "GHC": "tjɨ̣j²",
     "explanationEN": "to choke; to block",
-    "explanationCN": "噎、塞"
+    "explanationCN": "噎塞"
   },
   {
     "character": "𘝬",
     "GX": "le̱²",
     "GHC": "lej²",
     "explanationEN": "to burst; to split",
-    "explanationCN": "1.破裂汉语借词2.瑕"
+    "explanationCN": "1.破裂】2.瑕"
   },
   {
     "character": "𘎺",
@@ -40703,7 +40703,7 @@ const DICTIONARY_DATA = [
     "GX": "lu̱¹",
     "GHC": "lu¹",
     "explanationEN": "moist; smooth; juice",
-    "explanationCN": "润、酪名词"
+    "explanationCN": "润酪名词"
   },
   {
     "character": "𘌢",
@@ -40717,14 +40717,14 @@ const DICTIONARY_DATA = [
     "GX": "rir²",
     "GHC": "rjir²",
     "explanationEN": "juice; soup",
-    "explanationCN": "1.汁、汤2.膏"
+    "explanationCN": "1.汁汤2.膏"
   },
   {
     "character": "𗕅",
     "GX": "mae̱¹",
     "GHC": "miej¹",
     "explanationEN": "cheese; skin on boiled milk",
-    "explanationCN": "奶皮、酪"
+    "explanationCN": "奶皮酪"
   },
   {
     "character": "𗕃",
@@ -40738,7 +40738,7 @@ const DICTIONARY_DATA = [
     "GX": "phu̱²",
     "GHC": "phu²",
     "explanationEN": "tree",
-    "explanationCN": "1.树木2.棵、株"
+    "explanationCN": "1.树木2.棵株"
   },
   {
     "character": "𘂆",
@@ -40759,7 +40759,7 @@ const DICTIONARY_DATA = [
     "GX": "rkwər¹",
     "GHC": "kjwir¹",
     "explanationEN": "to steal; to pilfer",
-    "explanationCN": "偷、盗名词"
+    "explanationCN": "偷盗名词"
   },
   {
     "character": "𘌃",
@@ -40773,21 +40773,21 @@ const DICTIONARY_DATA = [
     "GX": "lwi¹",
     "GHC": "ljwi¹",
     "explanationEN": "seed",
-    "explanationCN": "种子、籽"
+    "explanationCN": "种子籽"
   },
   {
     "character": "𘕑",
     "GX": "γu̱h¹",
     "GHC": ".u¹",
     "explanationEN": "to cover; shelter; to rely on",
-    "explanationCN": "蔽、依"
+    "explanationCN": "蔽依"
   },
   {
     "character": "𘌈",
     "GX": "yu¹",
     "GHC": "ˑju̱¹",
     "explanationEN": "level; even; smooth",
-    "explanationCN": "1.平坦2.【余】、【餘】、【逾】、【庾】、【瑜】、【由】"
+    "explanationCN": "1.平坦2.【余】【餘】【逾】【庾】【瑜】【由】"
   },
   {
     "character": "𘌕",
@@ -40801,7 +40801,7 @@ const DICTIONARY_DATA = [
     "GX": "rkiwr²",
     "GHC": "kjiwr²",
     "explanationEN": "mould stuffing in shoes or hats",
-    "explanationCN": "楦头、楦子"
+    "explanationCN": "楦头楦子"
   },
   {
     "character": "𘌖",
@@ -40815,7 +40815,7 @@ const DICTIONARY_DATA = [
     "GX": "ri̱wr²",
     "GHC": "rewr²",
     "explanationEN": "bank; shore; limit",
-    "explanationCN": "1.岸、阶、限2.贿赂3.模样"
+    "explanationCN": "1.岸阶限2.贿赂3.模样"
   },
   {
     "character": "𘌡",
@@ -40829,7 +40829,7 @@ const DICTIONARY_DATA = [
     "GX": "so̱²",
     "GHC": "so²",
     "explanationEN": "maize",
-    "explanationCN": "粟汉语借词"
+    "explanationCN": "粟】"
   },
   {
     "character": "𘌞",
@@ -40843,21 +40843,21 @@ const DICTIONARY_DATA = [
     "GX": "dwu̱²",
     "GHC": "dwu²",
     "explanationEN": "beans",
-    "explanationCN": "豆汉语借词"
+    "explanationCN": "豆】"
   },
   {
     "character": "𘛓",
     "GX": "mbe¹",
     "GHC": "bji̱j¹",
     "explanationEN": "to disobey; to violate",
-    "explanationCN": "禁、违"
+    "explanationCN": "禁违"
   },
   {
     "character": "𘂅",
     "GX": "yiw¹",
     "GHC": "ˑjiw¹",
     "explanationEN": "stove; oven; furnace",
-    "explanationCN": "炉、灶"
+    "explanationCN": "炉灶"
   },
   {
     "character": "𘆜",
@@ -40899,7 +40899,7 @@ const DICTIONARY_DATA = [
     "GX": "rγai̱r¹",
     "GHC": "ɣier¹",
     "explanationEN": "to die",
-    "explanationCN": "死、亡"
+    "explanationCN": "死亡"
   },
   {
     "character": "𗈵",
@@ -40920,21 +40920,21 @@ const DICTIONARY_DATA = [
     "GX": "ŋki¹",
     "GHC": "kji̱¹",
     "explanationEN": "commerce; trade; business",
-    "explanationCN": "贸易、买卖"
+    "explanationCN": "贸易买卖"
   },
   {
     "character": "𗯖",
     "GX": "qhwu̱h²",
     "GHC": "khwụ²",
     "explanationEN": "to cut; to slice",
-    "explanationCN": "切、割"
+    "explanationCN": "切割"
   },
   {
     "character": "𗯝",
     "GX": "lhe̱²",
     "GHC": "lhej²",
     "explanationEN": "to translate; to vary",
-    "explanationCN": "1.译、变换2.易3.革4.迂5.假6.反7.庚"
+    "explanationCN": "1.译变换2.易3.革4.迂5.假6.反7.庚"
   },
   {
     "character": "𘕱",
@@ -40962,14 +40962,14 @@ const DICTIONARY_DATA = [
     "GX": "rγai̱r¹",
     "GHC": "ɣier¹",
     "explanationEN": "to die",
-    "explanationCN": "死、亡"
+    "explanationCN": "死亡"
   },
   {
     "character": "𗗩",
     "GX": "pha¹",
     "GHC": "phja¹",
     "explanationEN": "to sell; to traffic; to peddle",
-    "explanationCN": "贩、卖"
+    "explanationCN": "贩卖"
   },
   {
     "character": "𗯑",
@@ -40983,7 +40983,7 @@ const DICTIONARY_DATA = [
     "GX": "zi̱²",
     "GHC": "ze²",
     "explanationEN": "a surname",
-    "explanationCN": "【记】、【祀】、【祠】族姓"
+    "explanationCN": "【记】【祀】【祠】"
   },
   {
     "character": "𘂣",
@@ -40997,7 +40997,7 @@ const DICTIONARY_DATA = [
     "GX": "rner²",
     "GHC": "njijr²",
     "explanationEN": "all; various",
-    "explanationCN": "诸、诸种、种种"
+    "explanationCN": "诸诸种种种"
   },
   {
     "character": "𘂩",
@@ -41011,7 +41011,7 @@ const DICTIONARY_DATA = [
     "GX": "tswo¹",
     "GHC": "tsjwo¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【将】、【奏】"
+    "explanationCN": "【将】【奏】"
   },
   {
     "character": "𗯓",
@@ -41025,7 +41025,7 @@ const DICTIONARY_DATA = [
     "GX": "lo̱ṃh²",
     "GHC": "lọ²",
     "explanationEN": "two; twin; both; double",
-    "explanationCN": "双、两、二形容词"
+    "explanationCN": "双两二形容词"
   },
   {
     "character": "𘕿",
@@ -41046,7 +41046,7 @@ const DICTIONARY_DATA = [
     "GX": "γaə̱¹",
     "GHC": "ɣiə¹",
     "explanationEN": "few; scant; rare",
-    "explanationCN": "稀、少、寡、薄"
+    "explanationCN": "稀少寡薄"
   },
   {
     "character": "𗳑",
@@ -41067,7 +41067,7 @@ const DICTIONARY_DATA = [
     "GX": "ŋwu̱²",
     "GHC": "ŋwu²",
     "explanationEN": "vulture",
-    "explanationCN": "雕、鷲"
+    "explanationCN": "雕鷲"
   },
   {
     "character": "𗶪",
@@ -41088,7 +41088,7 @@ const DICTIONARY_DATA = [
     "GX": "ze¹",
     "GHC": "zjij¹",
     "explanationEN": "extensive; wide; vast",
-    "explanationCN": "1.广、博、阔2.惇3.楦"
+    "explanationCN": "1.广博阔2.惇3.楦"
   },
   {
     "character": "𘕕",
@@ -41102,14 +41102,14 @@ const DICTIONARY_DATA = [
     "GX": "qwo̱¹",
     "GHC": "kwo¹",
     "explanationEN": "millet",
-    "explanationCN": "糜、黍"
+    "explanationCN": "糜黍"
   },
   {
     "character": "𘌘",
     "GX": "γo̱ṃ¹",
     "GHC": "ɣow¹",
     "explanationEN": "a kind of grass",
-    "explanationCN": "【讹合】、【菡】草名"
+    "explanationCN": "【讹合】【菡】草名"
   },
   {
     "character": "𘌐",
@@ -41123,28 +41123,28 @@ const DICTIONARY_DATA = [
     "GX": "nzi̱w²",
     "GHC": "ze̱w²",
     "explanationEN": "to supervise",
-    "explanationCN": "1.监督2.镇、压3.忍"
+    "explanationCN": "1.监督2.镇压3.忍"
   },
   {
     "character": "𘆖",
     "GX": "ntshə¹",
     "GHC": "tshjɨ̱¹",
     "explanationEN": "rank; line",
-    "explanationCN": "1.行、列2.诵3.閤门4.号5.簫"
+    "explanationCN": "1.行列2.诵3.閤门4.号5.簫"
   },
   {
     "character": "𘒫",
     "GX": "nzi̱w²",
     "GHC": "ze̱w²",
     "explanationEN": "to send; to dispatch",
-    "explanationCN": "1.遣送2.御、任3.聘"
+    "explanationCN": "1.遣送2.御任3.聘"
   },
   {
     "character": "𘙫",
     "GX": "śoh²",
     "GHC": "śjọ²",
     "explanationEN": "to obstruct; to block; to cover",
-    "explanationCN": "1.遮蔽、依避2.倾慕"
+    "explanationCN": "1.遮蔽依避2.倾慕"
   },
   {
     "character": "𘕳",
@@ -41158,21 +41158,21 @@ const DICTIONARY_DATA = [
     "GX": "le̱²",
     "GHC": "lej²",
     "explanationEN": "vexed; flustered",
-    "explanationCN": "闷乱、心烦、心慌"
+    "explanationCN": "闷乱心烦心慌"
   },
   {
     "character": "𗗥",
     "GX": "źih²",
     "GHC": "źji²",
     "explanationEN": "to sell and buy",
-    "explanationCN": "1.市汉语借词2.商3.沽4.卖5.货6.榷场7.嫁8.店"
+    "explanationCN": "1.市】2.商3.沽4.卖5.货6.榷场7.嫁8.店"
   },
   {
     "character": "𘕲",
     "GX": "qu̱h²",
     "GHC": "kụ²",
     "explanationEN": "to tie up; to bind; to bundle up",
-    "explanationCN": "1.捆、绑、繫、扎2.线"
+    "explanationCN": "1.捆绑繫扎2.线"
   },
   {
     "character": "𘂓",
@@ -41186,14 +41186,14 @@ const DICTIONARY_DATA = [
     "GX": "bae̱h²",
     "GHC": "biẹj²",
     "explanationEN": "a unit of measurement",
-    "explanationCN": "1.枚、厘、条、枝、株2.竿、弦"
+    "explanationCN": "1.枚厘条枝株2.竿弦"
   },
   {
     "character": "𘖀",
     "GX": "si²",
     "GHC": "sji²",
     "explanationEN": "year",
-    "explanationCN": "岁汉语借词"
+    "explanationCN": "岁】"
   },
   {
     "character": "𗳒",
@@ -41235,42 +41235,42 @@ const DICTIONARY_DATA = [
     "GX": "llo̱ṃ¹",
     "GHC": "low¹",
     "explanationEN": "to exchange",
-    "explanationCN": "1.换、交换2.【郎】"
+    "explanationCN": "1.换交换2.【郎】"
   },
   {
     "character": "𘝛",
     "GX": "tṣhuo¹",
     "GHC": "tśhio̱w¹",
     "explanationEN": "to steal; to rob",
-    "explanationCN": "盗、窃、偷"
+    "explanationCN": "盗窃偷"
   },
   {
     "character": "𘕚",
     "GX": "nne̱²",
     "GHC": "ne̱j²",
     "explanationEN": "to post; to bring to somebody",
-    "explanationCN": "寄、捎带"
+    "explanationCN": "寄捎带"
   },
   {
     "character": "𘌊",
     "GX": "giw¹",
     "GHC": "gjiw¹",
     "explanationEN": "broad; wide; extensive",
-    "explanationCN": "宽、广"
+    "explanationCN": "宽广"
   },
   {
     "character": "𘕐",
     "GX": "lə̱²",
     "GHC": "lə²",
     "explanationEN": "to steal; to rob; to pilfer",
-    "explanationCN": "盗、窃、偷"
+    "explanationCN": "盗窃偷"
   },
   {
     "character": "𘕒",
     "GX": "qau̱¹",
     "GHC": "ku¹",
     "explanationEN": "loose; wide",
-    "explanationCN": "鬆、寛"
+    "explanationCN": "鬆寛"
   },
   {
     "character": "𘌒",
@@ -41291,7 +41291,7 @@ const DICTIONARY_DATA = [
     "GX": "lhe̱²",
     "GHC": "lhej²",
     "explanationEN": "to translate; to vary",
-    "explanationCN": "译、变"
+    "explanationCN": "译变"
   },
   {
     "character": "𘕴",
@@ -41305,14 +41305,14 @@ const DICTIONARY_DATA = [
     "GX": "lo̱²",
     "GHC": "lo²",
     "explanationEN": "to tread; to stamp",
-    "explanationCN": "践、踏"
+    "explanationCN": "践踏"
   },
   {
     "character": "𗈸",
     "GX": "tśhoṃ¹",
     "GHC": "tśhjow¹",
     "explanationEN": "to combine; to unite",
-    "explanationCN": "1.结合、缀2.【昌】、【虫】、【重】、【长】"
+    "explanationCN": "1.结合缀2.【昌】【虫】【重】【长】"
   },
   {
     "character": "𘕵",
@@ -41326,7 +41326,7 @@ const DICTIONARY_DATA = [
     "GX": "mphu¹",
     "GHC": "phiu̱¹",
     "explanationEN": "to cover; to shelter",
-    "explanationCN": "1.掩蔽、遮蔽、覆盖2.被"
+    "explanationCN": "1.掩蔽遮蔽覆盖2.被"
   },
   {
     "character": "𘂐",
@@ -41347,14 +41347,14 @@ const DICTIONARY_DATA = [
     "GX": "lo̱²",
     "GHC": "lo²",
     "explanationEN": "hole; concave",
-    "explanationCN": "坑、洼（凹）形容词"
+    "explanationCN": "坑洼（凹）形容词"
   },
   {
     "character": "𘂝",
     "GX": "dze̱ṃ¹",
     "GHC": "dzəj¹",
     "explanationEN": "to reduce; to decrease",
-    "explanationCN": "减、短、衰、隋"
+    "explanationCN": "减短衰隋"
   },
   {
     "character": "𘌍",
@@ -41368,14 +41368,14 @@ const DICTIONARY_DATA = [
     "GX": "rkur²",
     "GHC": "kjur²",
     "explanationEN": "to steal; to pilfer; to rob",
-    "explanationCN": "盗、窃"
+    "explanationCN": "盗窃"
   },
   {
     "character": "𘌎",
     "GX": "śi²",
     "GHC": "śji²",
     "explanationEN": "corn; grain",
-    "explanationCN": "穀物、斛豆"
+    "explanationCN": "穀物斛豆"
   },
   {
     "character": "𘋢",
@@ -41410,7 +41410,7 @@ const DICTIONARY_DATA = [
     "GX": "qaa̱¹",
     "GHC": "kia¹",
     "explanationEN": "price",
-    "explanationCN": "1.价2.【加】（珠 275）、【家】（珠 216）、【嫁】（珠 344）、【贾】（珠 305）、【间】（珠 273）、【监】（珠 286）3.【交】、【嘉】、【简】、【胶】、【校】、【驾】（音 195）"
+    "explanationCN": "1.价2.【加】（珠 275）【家】（珠 216）【嫁】（珠 344）【贾】（珠 305）【间】（珠 273）【监】（珠 286）3.【交】【嘉】【简】【胶】【校】【驾】（音 195）"
   },
   {
     "character": "𗈲",
@@ -41424,7 +41424,7 @@ const DICTIONARY_DATA = [
     "GX": "kwə¹",
     "GHC": "kjwɨ¹",
     "explanationEN": "to cut",
-    "explanationCN": "砍、折"
+    "explanationCN": "砍折"
   },
   {
     "character": "𗈱",
@@ -41438,7 +41438,7 @@ const DICTIONARY_DATA = [
     "GX": "lo̱ṃh²",
     "GHC": "lọ²",
     "explanationEN": "two; second",
-    "explanationCN": "二、第二"
+    "explanationCN": "二第二"
   },
   {
     "character": "𘂇",
@@ -41452,14 +41452,14 @@ const DICTIONARY_DATA = [
     "GX": "ha̱ṃ¹",
     "GHC": "xã¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【汉】、【邯】、【韩】"
+    "explanationCN": "【汉】【邯】【韩】"
   },
   {
     "character": "𘌏",
     "GX": "rkhur¹",
     "GHC": "khjur¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【曲】、【屈】族姓2.麯"
+    "explanationCN": "1.【曲】【屈】2.麯"
   },
   {
     "character": "𗈶",
@@ -41480,7 +41480,7 @@ const DICTIONARY_DATA = [
     "GX": "tsə̱¹",
     "GHC": "tsə¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "【子】、【兹】……"
+    "explanationCN": "【子】【兹】……"
   },
   {
     "character": "𘋞",
@@ -41508,7 +41508,7 @@ const DICTIONARY_DATA = [
     "GX": "qa̱²",
     "GHC": "ka²",
     "explanationEN": "pod",
-    "explanationCN": "荚、夹汉语借词"
+    "explanationCN": "荚夹】"
   },
   {
     "character": "𘕘",
@@ -41529,7 +41529,7 @@ const DICTIONARY_DATA = [
     "GX": "qho̱ṃ²",
     "GHC": "khow²",
     "explanationEN": "chaff; bran; husk",
-    "explanationCN": "糠汉语借词"
+    "explanationCN": "糠】"
   },
   {
     "character": "𘌔",
@@ -41557,7 +41557,7 @@ const DICTIONARY_DATA = [
     "GX": "nno̱²",
     "GHC": "no̱²",
     "explanationEN": "to send; to bring to somebody",
-    "explanationCN": "寄、捎带"
+    "explanationCN": "寄捎带"
   },
   {
     "character": "𘋠",
@@ -41571,7 +41571,7 @@ const DICTIONARY_DATA = [
     "GX": "swi̱ṃ¹",
     "GHC": "swẽ¹",
     "explanationEN": "macaque",
-    "explanationCN": "1.猻汉语借词2.猴3.猿"
+    "explanationCN": "1.猻】2.猴3.猿"
   },
   {
     "character": "𘆙",
@@ -41585,7 +41585,7 @@ const DICTIONARY_DATA = [
     "GX": "yuo²",
     "GHC": "ˑjo̱w²",
     "explanationEN": "stove; oven",
-    "explanationCN": "炉、灶"
+    "explanationCN": "炉灶"
   },
   {
     "character": "𘒴",
@@ -41648,7 +41648,7 @@ const DICTIONARY_DATA = [
     "GX": "nllo̱r¹",
     "GHC": "ljo̱r¹",
     "explanationEN": "flame",
-    "explanationCN": "焰、炎"
+    "explanationCN": "焰炎"
   },
   {
     "character": "𗰑",
@@ -41690,7 +41690,7 @@ const DICTIONARY_DATA = [
     "GX": "phə̱¹",
     "GHC": "phə¹",
     "explanationEN": "price; value",
-    "explanationCN": "价、格价、价值"
+    "explanationCN": "价格价价值"
   },
   {
     "character": "𗈬",
@@ -41711,7 +41711,7 @@ const DICTIONARY_DATA = [
     "GX": "lwu¹",
     "GHC": "ljwu¹",
     "explanationEN": "to traffic; to peddle",
-    "explanationCN": "贩、掮"
+    "explanationCN": "贩掮"
   },
   {
     "character": "𘕷",
@@ -41732,7 +41732,7 @@ const DICTIONARY_DATA = [
     "GX": "rŋi̱wr²",
     "GHC": "ŋewr²",
     "explanationEN": "exercise evil influence; ghost",
-    "explanationCN": "作崇、骷髏、鬼怪"
+    "explanationCN": "作崇骷髏鬼怪"
   },
   {
     "character": "𗗫",
@@ -41767,7 +41767,7 @@ const DICTIONARY_DATA = [
     "GX": "mbe̱¹",
     "GHC": "be̱j¹",
     "explanationEN": "a surname",
-    "explanationCN": "【】、【闽】族姓"
+    "explanationCN": "【】【闽】"
   },
   {
     "character": "𗯐",
@@ -41781,14 +41781,14 @@ const DICTIONARY_DATA = [
     "GX": "pa̱h¹",
     "GHC": "pạ¹",
     "explanationEN": "even; well-distributed",
-    "explanationCN": "均匀、匀称"
+    "explanationCN": "均匀匀称"
   },
   {
     "character": "𗯒",
     "GX": "tsha̱²",
     "GHC": "tsha²",
     "explanationEN": "a transliteration",
-    "explanationCN": "【操】、【粲】、【朝】、【参】族姓、"
+    "explanationCN": "【操】【粲】【朝】【参】"
   },
   {
     "character": "𘂘",
@@ -41809,7 +41809,7 @@ const DICTIONARY_DATA = [
     "GX": "pe¹",
     "GHC": "pjịj¹",
     "explanationEN": "crooked; askew",
-    "explanationCN": "歪、斜"
+    "explanationCN": "歪斜"
   },
   {
     "character": "𘂥",
@@ -41830,14 +41830,14 @@ const DICTIONARY_DATA = [
     "GX": "pai̱¹",
     "GHC": "pie¹",
     "explanationEN": "wide; broad",
-    "explanationCN": "1.阔2.蓽、毕3.韭4.【伯】、【柏】"
+    "explanationCN": "1.阔2.蓽毕3.韭4.【伯】【柏】"
   },
   {
     "character": "𘋡",
     "GX": "phi¹",
     "GHC": "phji¹",
     "explanationEN": "chopsticks",
-    "explanationCN": "1.箸2.办、做、得"
+    "explanationCN": "1.箸2.办做得"
   },
   {
     "character": "𘋣",
@@ -41851,7 +41851,7 @@ const DICTIONARY_DATA = [
     "GX": "śeṃ²",
     "GHC": "śjɨj²",
     "explanationEN": "house; shed; storehouse",
-    "explanationCN": "捨、仓汉语借词"
+    "explanationCN": "捨仓】"
   },
   {
     "character": "𘕖",
@@ -41886,21 +41886,21 @@ const DICTIONARY_DATA = [
     "GX": "rtə̱r¹",
     "GHC": "tər¹",
     "explanationEN": "to tread; to stamp; to press",
-    "explanationCN": "践、踏、压迫"
+    "explanationCN": "践踏压迫"
   },
   {
     "character": "𘌥",
     "GX": "be̱¹",
     "GHC": "bej¹",
     "explanationEN": "to tie up; to arrest",
-    "explanationCN": "缚、繫、拘"
+    "explanationCN": "缚繫拘"
   },
   {
     "character": "𗯚",
     "GX": "ŋġu̱²",
     "GHC": "gu̱²",
     "explanationEN": "to do forced labor",
-    "explanationCN": "役、劳役"
+    "explanationCN": "役劳役"
   },
   {
     "character": "𗈪",
@@ -41928,14 +41928,14 @@ const DICTIONARY_DATA = [
     "GX": "tśuo²",
     "GHC": "tśjo̱w²",
     "explanationEN": "to attend; to wait upon",
-    "explanationCN": "奉、随"
+    "explanationCN": "奉随"
   },
   {
     "character": "𗈹",
     "GX": "nsi¹",
     "GHC": "sji̱¹",
     "explanationEN": "to inspect; to spy",
-    "explanationCN": "1.检查2.间谍、奸细"
+    "explanationCN": "1.检查2.间谍奸细"
   },
   {
     "character": "𘂖",
@@ -41956,14 +41956,14 @@ const DICTIONARY_DATA = [
     "GX": "dźwa¹",
     "GHC": "dźjwa¹",
     "explanationEN": "hairpin",
-    "explanationCN": "叉、釵"
+    "explanationCN": "叉釵"
   },
   {
     "character": "𘂟",
     "GX": "di̱w¹",
     "GHC": "dew¹",
     "explanationEN": "to carve; to engrave; to dig",
-    "explanationCN": "1.雕、刻、凿、掘2.碎"
+    "explanationCN": "1.雕刻凿掘2.碎"
   },
   {
     "character": "𘌇",
@@ -41991,7 +41991,7 @@ const DICTIONARY_DATA = [
     "GX": "ror²",
     "GHC": "rjor²",
     "explanationEN": "presently; in a moment",
-    "explanationCN": "俄顷、一会儿"
+    "explanationCN": "俄顷一会儿"
   },
   {
     "character": "𘂤",
@@ -42110,7 +42110,7 @@ const DICTIONARY_DATA = [
     "GX": "mpai̱¹",
     "GHC": "pie̱¹",
     "explanationEN": "a transliteration",
-    "explanationCN": "鞠躬、敬礼"
+    "explanationCN": "鞠躬敬礼"
   },
   {
     "character": "𘅛",
@@ -42243,14 +42243,14 @@ const DICTIONARY_DATA = [
     "GX": "rkwar¹",
     "GHC": "kjwar¹",
     "explanationEN": "immediately; at once; promptly",
-    "explanationCN": "驰、急速形容词"
+    "explanationCN": "驰急速形容词"
   },
   {
     "character": "𘜥",
     "GX": "rkwar¹",
     "GHC": "kjwar¹",
     "explanationEN": "to spread; very fast; rapid",
-    "explanationCN": "跑、驰（同甲 48A35）"
+    "explanationCN": "跑驰（同甲 48A35）"
   },
   {
     "character": "𘚼",
@@ -42306,7 +42306,7 @@ const DICTIONARY_DATA = [
     "GX": "qai̱w¹",
     "GHC": "kiew¹",
     "explanationEN": "to instruct",
-    "explanationCN": "誥、詔"
+    "explanationCN": "誥詔"
   },
   {
     "character": "𗌫",
@@ -42397,14 +42397,14 @@ const DICTIONARY_DATA = [
     "GX": "ṣai̱w¹",
     "GHC": "śiew¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【世】族姓2.勺"
+    "explanationCN": "1.【世】2.勺"
   },
   {
     "character": "𘞕",
     "GX": "vwa̱ṃ²",
     "GHC": "wã²",
     "explanationEN": "a surname",
-    "explanationCN": "1.【旺】、【汪】族姓2.抚摸"
+    "explanationCN": "1.【旺】【汪】2.抚摸"
   },
   {
     "character": "𗷗",
@@ -42432,7 +42432,7 @@ const DICTIONARY_DATA = [
     "GX": "ġao̱¹",
     "GHC": "gio¹",
     "explanationEN": "a surname",
-    "explanationCN": "1.【鄂】族姓2.乐"
+    "explanationCN": "1.【鄂】2.乐"
   },
   {
     "character": "𘍜",
@@ -42446,7 +42446,7 @@ const DICTIONARY_DATA = [
     "GX": "vw?¹",
     "GHC": "w-¹",
     "explanationEN": "to call; to shout; to yell",
-    "explanationCN": "呼唤、叫喊"
+    "explanationCN": "呼唤叫喊"
   },
   {
     "character": "𘍕",
@@ -42460,7 +42460,7 @@ const DICTIONARY_DATA = [
     "GX": "ke¹",
     "GHC": "kjij¹",
     "explanationEN": "to pull out; to move or adjust; to pinch",
-    "explanationCN": "拔、拨、捏"
+    "explanationCN": "拔拨捏"
   },
   {
     "character": "𘍅",
