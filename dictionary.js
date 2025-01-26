@@ -1,5 +1,323 @@
+// 定义词典数据
+const WORD_DATA = [
+  {
+    "word": "𘝵𗯩",
+    "GX": "ye¹.twu̱h¹",
+    "GHC": "ˑjij¹.twụ¹",
+    "explanationEN": "each",
+    "explanationCN": "各自"
+  },
+  {
+    "word": "𘕜𗣊",
+    "GX": "ga².mi²",
+    "GHC": "gia².mji²",
+    "explanationEN": "we(inclusive)",
+    "explanationCN": "咱们(包括式)"
+  },
+  {
+    "word": "𗧦𗣊",
+    "GX": "gə².mi²",
+    "GHC": "gjɨ².mji²",
+    "explanationEN": "we(exclusive)",
+    "explanationCN": "我们(排除式)"
+  },
+  {
+    "word": "𘕜𘉑",
+    "GX": "ga².mə¹",
+    "GHC": "gia².mjɨ¹",
+    "explanationEN": "we.two(inclusive)",
+    "explanationCN": "咱俩(包括式)"
+  },
+  {
+    "word": "𗧦𘉑",
+    "GX": "gə².mə¹",
+    "GHC": "gjɨ².mjɨ¹",
+    "explanationEN": "we.two(exclusive)",
+    "explanationCN": "我俩(排除式)"
+  },
+  {
+    "word": "𘀍𗣊",
+    "GX": "na².mi²",
+    "GHC": "nja².mji²",
+    "explanationEN": "you.PL",
+    "explanationCN": "你们"
+  },
+  {
+    "word": "𘀍𘉑",
+    "GX": "na².mə¹",
+    "GHC": "nja².mjɨ¹",
+    "explanationEN": "you.PL",
+    "explanationCN": "你们"
+  },
+  {
+    "word": "𗳱𗐱",
+    "GX": "tha².ni²",
+    "GHC": "thja².nji²",
+    "explanationEN": "they(anaphoric)",
+    "explanationCN": "他们(回指)"
+  },
+  {
+    "word": "𘝵𗐱",
+    "GX": "ye¹.ni²",
+    "GHC": "ˑjij¹.nji²",
+    "explanationEN": "self.PL",
+    "explanationCN": "己(复数)"
+  },
+  {
+    "word": "𘑶𗐱",
+    "GX": "tse¹.ni²",
+    "GHC": "tsjij¹.nji²",
+    "explanationEN": "not.self.PL",
+    "explanationCN": "非己(复数)"
+  },
+  {
+    "word": "𘓂𘙌",
+    "GX": "ləh¹.kə¹",
+    "GHC": "ljɨ̣¹.kjɨ¹",
+    "explanationEN": "what;who;which",
+    "explanationCN": "什么；谁；哪个"
+  },
+  {
+    "word": "𘝶𗦜",
+    "GX": "the².so²",
+    "GHC": "thjij².sjo²",
+    "explanationEN": "why(reason);how",
+    "explanationCN": "怎么会(理由);怎么"
+  },
+  {
+    "word": "𘕣𘔼",
+    "GX": "vwa̱².nuo¹",
+    "GHC": "wa².nio̱w¹",
+    "explanationEN": "why(cause)",
+    "explanationCN": "为什么(原因）"
+  },
+  {
+    "word": "𘕣𗍊",
+    "GX": "vwa̱².su²",
+    "GHC": "wa².sju²",
+    "explanationEN": "what kind",
+    "explanationCN": "什么样"
+  },
+  {
+    "word": "𗴂𗹭𗂧𘜶",
+    "GX": "phao̱ṃ¹.be².lheh².lleh²",
+    "GHC": "phiow¹.bjij².lhjịj².ljịj²",
+    "explanationEN": "The.Great.White.High.State",
+    "explanationCN": "大白高国"
+  },
+  {
+    "word": "𘛴𗤂",
+    "GX": "ŋġu̱¹.di²",
+    "GHC": "gu̱¹.dji²",
+    "explanationEN": "dispel",
+    "explanationCN": "祛除"
+  },
+  {
+    "word": "𗃞𗗿",
+    "GX": "qə̱¹.ta̱¹",
+    "GHC": "kə¹.ta¹",
+    "explanationEN": "dog",
+    "explanationCN": "狗"
+  },
+  {
+    "word": "𘔏𗃞𗘄",
+    "GX": "bi̱h¹.qə̱¹.ta̱¹",
+    "GHC": "bẹ¹.kə¹.ta¹",
+    "explanationEN": "sand.dog(mole.cricket)",
+    "explanationCN": "沙.狗(蝼蛄)"
+  },
+  {
+    "word": "𘝦𘃡",
+    "GX": "dźə¹.vi¹",
+    "GHC": "dźjɨ¹.wji¹",
+    "explanationEN": "ERG",
+    "explanationCN": "ERG"
+  },
+  {
+    "word": "𗠒𗹭",
+    "GX": "bə¹.be²",
+    "GHC": "bjɨ¹.bjij²",
+    "explanationEN": "above",
+    "explanationCN": "上面"
+  },
+  {
+    "word": "𗠡𗤢",
+    "GX": "bə¹.bi²",
+    "GHC": "bjɨ¹.bji̱²",
+    "explanationEN": "below",
+    "explanationCN": "下面"
+  },
+  {
+    "word": "𗾞𗾞",
+    "GX": "nnə².nnə²",
+    "GHC": "njɨ̱².njɨ̱²",
+    "explanationEN": "everyday",
+    "explanationCN": "每天"
+  },
+  {
+    "word": "𗉮𘃛",
+    "GX": "tśhə².rar²",
+    "GHC": "tśhjɨ².rjar²",
+    "explanationEN": "immediately",
+    "explanationCN": "立刻"
+  },
+  {
+    "word": "𗅋𗿳",
+    "GX": "mi¹.dzeṃ¹",
+    "GHC": "mji¹.dzjɨj¹",
+    "explanationEN": "unexpectedly",
+    "explanationCN": "临时"
+  },
+  {
+    "word": "𗩾𘂤",
+    "GX": "zi².qha̱¹",
+    "GHC": "źji².kha¹",
+    "explanationEN": "the most",
+    "explanationCN": "最"
+  },
+  {
+    "word": "𘄽𘄽",
+    "GX": "ŋa̱h².ŋa̱h²",
+    "GHC": "ŋạ².ŋạ²",
+    "explanationEN": "really;very;well",
+    "explanationCN": "甚"
+  },
+  {
+    "word": "𗑔𗅐",
+    "GX": "mə̱².la̱²",
+    "GHC": "mə².la²",
+    "explanationEN": "indeed",
+    "explanationCN": "确实"
+  },
+  {
+    "word": "𘝶𗳒",
+    "GX": "the².ŋwu̱²",
+    "GHC": "thjij².ŋwu²",
+    "explanationEN": "how",
+    "explanationCN": "怎么会(理由)"
+  },
+  {
+    "word": "𘝶𗒘",
+    "GX": "the².γae̱¹",
+    "GHC": "thjij².ɣiej¹",
+    "explanationEN": "how.real(really?)",
+    "explanationCN": "真的吗"
+  },
+  {
+    "word": "𗦜𗥸",
+    "GX": "so².ŋwu̱²",
+    "GHC": "sjo².ŋwu²",
+    "explanationEN": "cry",
+    "explanationCN": "哭泣"
+  },
+  {
+    "word": "𘙊𘙊",
+    "GX": "lwi̱h².lwi̱h²",
+    "GHC": "lwẹ².lwẹ²",
+    "explanationEN": "slowly",
+    "explanationCN": "慢慢"
+  },
+  {
+    "word": "𗼇𘂜𗟲𗿳𗖵𘃎𘇂𗊏",
+    "GX": "mi².rza̱r¹.ŋŋwu̱¹.dzeṃ¹.bu¹.pah¹.ġu̱².nih²",
+    "GHC": "mji².zar¹.ŋwu̱¹.dzjɨj¹.bju¹.pjạ¹.gu².njị²",
+    "explanationEN": "",
+    "explanationCN": "番汉合时掌中珠"
+  },
+  {
+    "word": "𗴮𘊳",
+    "GX": "deh¹.bo̱¹",
+    "GHC": "djịj¹.bo¹",
+    "explanationEN": "",
+    "explanationCN": "类林"
+  },
+  {
+    "word": "𘓺𘃸𗫿𗓆𗆧𗅆𗬩𘞂",
+    "GX": "rŋwə̱r¹.leh¹.kwi¹.le¹.siw¹.deṃ².qai̱¹.ndzə²",
+    "GHC": "ŋwər¹.ljịj¹.kjwi¹.ljij¹.sjiw¹.djɨj².kie¹.dzjɨ̱²",
+    "explanationEN": "",
+    "explanationCN": "天盛改旧新定律令"
+  },
+  {
+    "word": "𘝞𗗚",
+    "GX": "rywər².ŋao̱ṃ²",
+    "GHC": "ˑjwɨr².ŋjow²",
+    "explanationEN": "",
+    "explanationCN": "文海"
+  },
+  {
+    "word": "𘝞𗗚𘏨𗖵",
+    "GX": "rywər².ŋao̱ṃ².lləh¹.bu¹",
+    "GHC": "ˑjwɨr².ŋjow².ljɨ̣¹.bju¹",
+    "explanationEN": "",
+    "explanationCN": "文海宝韵"
+  },
+  {
+    "word": "𗰗𗍫𗂧",
+    "GX": "γa̱h².nnə¹.lheh²",
+    "GHC": "ɣạ².njɨ̱¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "十二国"
+  },
+  {
+    "word": "𗙏𘙰",
+    "GX": "γai̱h².li̱w²",
+    "GHC": "ɣiẹ².ləw²",
+    "explanationEN": "",
+    "explanationCN": "同音"
+  },
+  {
+    "word": "𗏁𗙏𘈖𗖵",
+    "GX": "ŋwə̱¹.γai̱h².vwi̱².bu¹",
+    "GHC": "ŋwə¹.ɣiẹ².we².bju¹",
+    "explanationEN": "",
+    "explanationCN": "五音切韵"
+  },
+  {
+    "word": "𗆧𗰖𗕿𘓓𘐆",
+    "GX": "siw¹.nṣao¹.ne².nvwə̱¹.la̱¹",
+    "GHC": "sjiw¹.śio̱¹.njij².wə̱¹.la¹",
+    "explanationEN": "",
+    "explanationCN": "新集慈孝记"
+  },
+  {
+    "word": "𗉢𗉔",
+    "GX": "śwa¹.tśiw¹",
+    "GHC": "śjwa¹.tśjiw¹",
+    "explanationEN": "",
+    "explanationCN": "绥州"
+  },
+  {
+    "word": "𘝰𗉔",
+    "GX": "giṃ¹.tśiw¹",
+    "GHC": "gjĩ¹.tśjiw¹",
+    "explanationEN": "",
+    "explanationCN": "银州"
+  },
+  {
+    "word": "𗷲𗉔",
+    "GX": "giṃ¹.tśiw¹",
+    "GHC": "gjĩ¹.tśjiw¹",
+    "explanationEN": "",
+    "explanationCN": "银州"
+  },
+  {
+    "word": "𘒂𗉔",
+    "GX": "haa̱¹.tśiw¹",
+    "GHC": "xia¹.tśjiw¹",
+    "explanationEN": "",
+    "explanationCN": "夏州"
+  },
+  {
+    "word": "𗊛𗵘𗴴",
+    "GX": "tshi̱w¹.tśa¹.re̱r²",
+    "GHC": "tshew¹.tśja¹.lhejr²",
+    "explanationEN": "",
+    "explanationCN": "曹道乐"
+  }
+]
 // 定义字典数据
-const DICTIONARY_DATA = [
+const CHARACTER_DATA = [
   {
     "character": "𘞗",
     "GX": "swə¹",
@@ -42590,8 +42908,14 @@ const DICTIONARY_DATA = [
   }
 ];
 
+// 初始化词典对象
+const wordDictionary = WORD_DATA.reduce((acc, entry) => {
+  acc[entry.word] = entry;
+  return acc;
+}, {});
+
 // 初始化字典对象
-const dictionary = DICTIONARY_DATA.reduce((acc, entry) => {
-    acc[entry.character] = entry;
-    return acc;
+const dictionary = CHARACTER_DATA.reduce((acc, entry) => {
+  acc[entry.character] = entry;
+  return acc;
 }, {});
