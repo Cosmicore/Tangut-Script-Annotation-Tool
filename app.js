@@ -22,7 +22,9 @@ async function loadDictionary() {
 
 // 检查是否在词典中存在该词
 function checkWordInDictionary(chars) {
-    return wordDictionary[chars] ? true : false;
+    // 如果输入是数组，将其合并为字符串
+    const word = Array.isArray(chars) ? chars.join('') : chars;
+    return wordDictionary[word] ? true : false;
 }
 
 // 获取词的解释
@@ -212,11 +214,10 @@ function processCombination(items) {
     const result = [];
     let i = 0;
 
-
     while (i < items.length) {
         const currentItem = items[i];
 
-        // 如果是标点符号，直接添加到结果中并继续
+        // 如果是标点符号，直接处理
         if (/[\p{P}\s]/u.test(currentItem)) {
             result.push(currentItem);
             i++;
@@ -226,95 +227,87 @@ function processCombination(items) {
         let handled = false;
         const rules = EXPANDED_COMBINE_RULES.characters;
 
-        // 首先检查词组（多字符组合）
-        let maxLength = 8; // 根据需要调整
-        let bestMatch = null;
-        let bestLength = 0;
-
-        for (let len = maxLength; len > 1; len--) {
-            if (i + len > items.length) continue;
-            const possibleWord = items.slice(i, i + len).join('');
-            if (checkWordInDictionary(possibleWord)) {
-                bestMatch = possibleWord;
-                bestLength = len;
-                break;
-            }
-        }
-
-        if (bestMatch) {
-            // 获取词组的格式信息
-            const wordEntry = wordDictionary[bestMatch];
-            let formattedWord = bestMatch;
-            if (wordEntry && wordEntry.format && wordEntry.format.prefix) {
-                formattedWord = wordEntry.format.prefix + formattedWord;
-            }
-
-            // 检查是否需要与前一个字符组合
-            if (result.length > 0 && rules[bestMatch[0]]?.combineWithPrevious) {
-                const connector = rules[bestMatch[0]].connector;
-                result[result.length - 1] = `${result[result.length - 1]}${connector}${formattedWord}`;
-            } else {
-                result.push(formattedWord);
-            }
-            i += bestLength;
-            handled = true;
-            continue;
-        }
-
-        // 处理与下一个字符组合的规则
-        if (rules[currentItem]?.combineWithNext) {
-            const connector = rules[currentItem].connector;
-            if (i + 1 < items.length) {
-                let combinedStr = currentItem;
-                let nextIndex = i + 1;
-                let canContinue = true;
+        // 查找所有以当前字符开头的词组
+        const possibleWords = findWordsStartingWith(currentItem);
         
-                // 连续处理所有可以向后组合的字符
-                while (canContinue && nextIndex < items.length) {
-                    const nextItem = items[nextIndex];
-                    combinedStr += `${connector}${nextItem}`;
-                    
-                    // 检查下一个字符是否也需要向后组合
-                    if (rules[nextItem]?.combineWithNext && nextIndex + 1 < items.length) {
-                        nextIndex++;
-                    } else {
-                        canContinue = false;
+        // 如果找到词组，检查是否完全匹配
+        if (possibleWords.length > 0) {
+            const matchedWord = findExactMatch(items, i, possibleWords);
+            if (matchedWord) {
+                // 获取词组的格式信息
+                const wordEntry = wordDictionary[matchedWord.word];
+                let formattedWord = matchedWord.word;
+                if (wordEntry && wordEntry.format && wordEntry.format.prefix) {
+                    formattedWord = wordEntry.format.prefix + formattedWord;
+                }
+
+                // 检查是否需要与前一个字符组合
+                if (result.length > 0 && rules[matchedWord.word[0]]?.combineWithPrevious) {
+                    const connector = rules[matchedWord.word[0]].connector;
+                    result[result.length - 1] = `${result[result.length - 1]}${connector}${formattedWord}`;
+                } else {
+                    result.push(formattedWord);
+                }
+                i += matchedWord.length;
+                handled = true;
+                continue;
+            }
+        }
+
+        // 如果没有找到词组匹配，处理单字的组合规则
+        if (!handled) {
+            // 处理向后组合的规则
+            if (rules[currentItem]?.combineWithNext) {
+                const connector = rules[currentItem].connector;
+                if (i + 1 < items.length) {
+                    let combinedStr = currentItem;
+                    let nextIndex = i + 1;
+                    let canContinue = true;
+            
+                    while (canContinue && nextIndex < items.length) {
+                        const nextItem = items[nextIndex];
+                        combinedStr += `${connector}${nextItem}`;
+                        
+                        if (rules[nextItem]?.combineWithNext && nextIndex + 1 < items.length) {
+                            nextIndex++;
+                        } else {
+                            canContinue = false;
+                        }
                     }
+            
+                    result.push(combinedStr);
+                    i = nextIndex + 1;
+                    handled = true;
+                    continue;
                 }
-        
-                result.push(combinedStr);
-                i = nextIndex + 1;
-                handled = true;
-                continue;
             }
-        }
 
-        // 处理与前一个字符组合的规则
-        if (result.length > 0) {            
-            let shouldCombine = false;
-            let connector = '';
+            // 处理与前一个字符组合的规则
+            if (result.length > 0) {            
+                let shouldCombine = false;
+                let connector = '';
 
-            // 检查变体规则
-            if (rules[currentItem]?.variants) {
-                const variant = rules[currentItem].variants.find(v => {
-                    return v.type === 'combineWithPrevious' && 
-                        v.condition(result[result.length - 1], items[i + 1]);
-                });
-                
-                if (variant) {
+                if (rules[currentItem]?.variants) {
+                    const variant = rules[currentItem].variants.find(v => {
+                        return v.type === 'combineWithPrevious' && 
+                            v.condition(result[result.length - 1], items[i + 1]);
+                    });
+                    
+                    if (variant) {
+                        shouldCombine = true;
+                        connector = variant.connector;
+                    }
+                } else if (rules[currentItem]?.combineWithPrevious) {
                     shouldCombine = true;
-                    connector = variant.connector;
+                    connector = rules[currentItem].connector;
                 }
-            } else if (rules[currentItem]?.combineWithPrevious) {
-                shouldCombine = true;
-                connector = rules[currentItem].connector;
-            }
 
-            if (shouldCombine) {
-                result[result.length - 1] = `${result[result.length - 1]}${connector}${currentItem}`;
-                i++;
-                handled = true;
-                continue;
+                if (shouldCombine) {
+                    result[result.length - 1] = `${result[result.length - 1]}${connector}${currentItem}`;
+                    i++;
+                    handled = true;
+                    continue;
+                }
             }
         }
 
@@ -326,6 +319,45 @@ function processCombination(items) {
     }
 
     return result;
+}
+
+// 查找以指定字符开头的所有词组
+function findWordsStartingWith(char) {
+    const matches = [];
+    for (const word in wordDictionary) {
+        // 将词组转换为字符数组进行比较
+        if ([...word][0] === char) {  // 使用数组解构来正确处理 Unicode 字符
+            matches.push({
+                word,
+                length: [...word].length,  // 使用数组长度来获取正确的字符数
+                priority: wordDictionary[word].priority || 0
+            });
+        }
+    }
+    
+    // 按优先级和长度排序
+    return matches.sort((a, b) => {
+        if (a.priority !== b.priority) {
+            return b.priority - a.priority;
+        }
+        return b.length - a.length;
+    });
+}
+
+
+// 检查是否完全匹配
+function findExactMatch(items, startIndex, possibleWords) {
+    for (const wordInfo of possibleWords) {
+        const { word, length } = wordInfo;
+        if (startIndex + length > items.length) continue;
+        
+        // 直接比较字符串
+        const candidate = items.slice(startIndex, startIndex + length).join('');
+        if (candidate === word) {
+            return wordInfo;
+        }
+    }
+    return null;
 }
 
 
@@ -344,6 +376,9 @@ function processTypstBrackets(text) {
 }
 
 function generate() {
+    // 添加开始时间记录
+    const startTime = performance.now();
+
     const inputText = document.getElementById('output').value.trim();
     if (!inputText) {
         alert('请输入要查询的字符！');
@@ -361,6 +396,11 @@ function generate() {
         .map(line => generateFormattedOutput(line, lang, readingSystem, outputFormat));
 
     document.getElementById('output-text').value = outputs.join('\n\n');
+
+    // 计算并输出总用时
+    const endTime = performance.now();
+    const totalTime = endTime - startTime;
+    console.log(`处理完成，总用时: ${totalTime.toFixed(2)}ms`);
 }
 
 function generateFormattedOutput(chars, lang, readingSystem, outputFormat) {
