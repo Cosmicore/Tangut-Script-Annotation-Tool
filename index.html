@@ -1,6 +1,8 @@
 <!DOCTYPE html>
-<html lang="zh">
+<html lang="txg">
 <head>
+    <meta name="author" content="DING Ding">
+    <meta name="keywords" content="tangut, tangut script, тангутский, 西夏, 西夏語, 西夏文, 西夏文字">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -230,6 +232,7 @@
             min-width: 40px;
             min-height: 40px;
             padding: 8px;
+            font-family: Noto serif Tangut, Noto serif SC;
             font-size: clamp(14px, 1.6vw, 16px);
         }
 
@@ -307,6 +310,11 @@
             color: white;
         }
 
+        .results-viewport,
+        .explanation {
+            font-size: 18px; /* Default font size */
+        }
+
         @media (max-width: 767px) {
             .container {
                 padding: 15px;
@@ -335,7 +343,7 @@
         
         <div class="input-section">
             <label for="output">输入字符：</label>
-            <textarea id="output" placeholder="𘉰𘟀𘅇𘉪" rows="3"></textarea>
+            <textarea id="output" placeholder="𘉰𘟀𘅇𘉪" rows="3" style="font-size: 24px; line-height: 1.4;"></textarea>
             <div class="button-group">
                 <button onclick="handleGenerate()">生成</button>
                 <button onclick="clearAll()">清除</button>
@@ -418,8 +426,7 @@
 
         <div class="output-section">
             <label for="output-text">格式输出：</label>
-            <textarea id="output-text" readonly></textarea>
-            <button onclick="copyOutput()" id="copy-btn">复制到剪贴板</button>
+            <textarea id="output-text" readonly="" style="font-family: Fira Sans, Noto Serif Tangut, Noto Serif SC, sans-serif;"></textarea>            <button onclick="copyOutput()" id="copy-btn">复制到剪贴板</button>
     </div>
     </div>
     <div class="footer" style="text-align: center; margin: 20px auto;">
