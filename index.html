@@ -320,8 +320,21 @@
             min-width: 40px;
             min-height: 40px;
             padding: 8px;
-            font-family: 'Noto Serif SC', 'Noto Serif Tangut';
+            font-family: "Noto Serif Tangut", "Noto Serif SC", system-ui, -apple-system, sans-serif;
             font-size: clamp(14px, 1.6vw, 16px);
+            font-weight: normal;
+            line-height: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* 确保按钮内容居中 */
+            text-align: center;
+            /* 添加边框和背景 */
+            border: 1px solid #e1e4e8;
+            border-radius: var(--border-radius);
+            /* 改善触摸体验 */
+            -webkit-tap-highlight-color: transparent;
+            touch-action: manipulation;
         }
 
         .stroke-button:hover {
