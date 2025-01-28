@@ -1,4 +1,5 @@
-# 西夏文自动标注工具 α [中文](#西夏文自动标注工具-α) | [English](#tangut-annotation-tool-α)
+# 西夏文自动标注工具 α 
+[中文](#西夏文自动标注工具-α) | [English](#tangut-annotation-tool-α)
 这是一个用于西夏文标注的在线工具,可以帮助研究者和学习者快速生成西夏文的语言学标注。
 
 ## 功能特点
@@ -83,7 +84,8 @@
 - 字典/词典数据持续更新中
 - 某些复杂组合可能需要手动调整
 
-# Tangut Annotation Tool α [中文](#西夏文自动标注工具-α) | [English](#tangut-annotation-tool-α)
+# Tangut Annotation Tool α 
+[中文](#西夏文自动标注工具-α) | [English](#tangut-annotation-tool-α)
 This is an online tool for annotating Tangut text that helps researchers and learners quickly generate linguistic annotations for Tangut characters.
 
 ## Features
