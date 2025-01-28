@@ -1,25 +1,87 @@
 <!DOCTYPE html>
-<html lang="zh">
+<html lang="zh-CN">
+<head>
+<!-- 替换head部分的meta标签区域 -->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="DING Ding">
-    <meta name="description" content="西夏文自动标注工具是一个在线工具，帮助用户处理和研究西夏文字。支持西夏文字的笔画检索、注音标注，并提供中英双语界面。">
-    <meta name="keywords" content="tangut, tangut script, тангутский, 西夏, 西夏語, 西夏文, 西夏文字, 西夏文标注, 西夏文检索, 西夏文输入, tangut input, tangut annotation">
+    <meta name="author" content="DING DING">
+    <meta name="theme-color" content="#4a90e2">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="西夏文标注工具">
+    
+    <!-- 中文描述 -->
+    <meta name="description" content="西夏文自动标注工具是一个在线工具，帮助用户处理和研究西夏文字。支持西夏文字的笔画输入、语音语法标注，并提供中英双语输出。" lang="zh">
+    <!-- 英文描述 -->
+    <meta name="description" content="The Tangut Script Annotation Tool is an online platform for processing and studying Tangut characters. Features stroke-based input, phonetic and grammatical annotation, with bilingual output support." lang="en">
+    <!-- 日文描述 -->
+    <meta name="description" content="西夏文字注釈ツールは、西夏文字の処理と研究をサポートするオンラインツールです。筆画入力、音声文法注釈に対応し、中国語と英語の出力を提供します。" lang="ja">
+    <!-- 俄文描述 -->
+    <meta name="description" content="Инструмент аннотации тангутского письма - это онлайн-платформа для обработки и изучения тангутских символов. Поддерживает ввод по чертам, фонетическую и грамматическую аннотацию с двуязычным выводом." lang="ru">
+    
+    <meta name="keywords" content="tangut, tangut script, тангутский, 西夏, 西夏語, 西夏文, 西夏文字, 西夏文标注, 西夏文检索, 西夏文输入, tangut input, tangut annotation, 西夏文字入力, тангутское письмо">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="西夏文自动标注工具 α">
-    <meta property="og:description" content="在线西夏文处理工具，支持笔画检索和注音标注功能">
+    
+    <!-- Open Graph 标签 - 多语言 -->
+    <!-- 中文 -->
+    <meta property="og:title" content="西夏文自动标注工具 α" lang="zh">
+    <meta property="og:description" content="在线西夏文处理工具，支持笔画输入和语音语法标注功能" lang="zh">
+    <!-- 英文 -->
+    <meta property="og:title" content="Tangut Script Annotation Tool α" lang="en">
+    <meta property="og:description" content="Online Tangut script processing tool with stroke input and phonetic annotation features" lang="en">
+    <!-- 日文 -->
+    <meta property="og:title" content="西夏文字注釈ツール α" lang="ja">
+    <meta property="og:description" content="オンライン西夏文字処理ツール、筆画入力と音声文法注釈機能付き" lang="ja">
+    <!-- 俄文 -->
+    <meta property="og:title" content="Инструмент аннотации тангутского письма α" lang="ru">
+    <meta property="og:description" content="Онлайн-инструмент для обработки тангутского письма с функциями ввода черт и фонетической аннотации" lang="ru">
+    
     <meta property="og:type" content="website">
     <meta property="og:locale" content="zh_CN">
     <meta property="og:locale:alternate" content="en_US">
+    <meta property="og:locale:alternate" content="ja_JP">
+    <meta property="og:locale:alternate" content="ru_RU">
+    
+    <!-- Twitter Card 标签 - 多语言 -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="西夏文自动标注工具 α">
-    <meta name="twitter:description" content="在线西夏文处理工具，支持笔画检索和注音标注功能">
+    <!-- 中文 -->
+    <meta name="twitter:title" content="西夏文自动标注工具 α" lang="zh">
+    <meta name="twitter:description" content="在线西夏文处理工具，支持笔画输入和语音语法标注功能" lang="zh">
+    <!-- 英文 -->
+    <meta name="twitter:title" content="Tangut Script Annotation Tool α" lang="en">
+    <meta name="twitter:description" content="Online Tangut script processing tool with stroke input and phonetic annotation features" lang="en">
+    <!-- 日文 -->
+    <meta name="twitter:title" content="西夏文字注釈ツール α" lang="ja">
+    <meta name="twitter:description" content="オンライン西夏文字処理ツール、筆画入力と音声文法注釈機能付き" lang="ja">
+    <!-- 俄文 -->
+    <meta name="twitter:title" content="Инструмент аннотации тангутского письма α" lang="ru">
+    <meta name="twitter:description" content="Онлайн-инструмент для обработки тангутского письма с функциями ввода черт и фонетической аннотации" lang="ru">    
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Noto+Serif+SC:wght@200..900&family=Noto+Serif+Tangut&display=swap" rel="stylesheet">
-    
+    <link rel="canonical" href="https://tinbreaker.github.io/Tangut-Auto-Glossing-Tool/">
+    <link rel="manifest" href="manifest.json">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            "name": "西夏文自动标注工具",
+            "description": "西夏文自动标注工具是一个在线工具，帮助用户处理和研究西夏文字。",
+            "applicationCategory": "EducationalApplication",
+            "operatingSystem": "All",
+            "inLanguage": ["zh-CN", "en-US", "ja-JP", "ru-RU"],
+            "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+            }
+        }
+    </script>
+
     <title>西夏文自动标注工具 α | Tangut Script Annotation Tool</title>
 
     <style>
@@ -137,16 +199,20 @@
         }
 
         button {
-            padding: clamp(8px, 1.5vw, 10px) clamp(15px, 2vw, 20px);
+        padding: clamp(8px, 1.5vw, 10px) clamp(15px, 2vw, 20px);
         border: none;
         border-radius: var(--border-radius);
         background-color: var(--primary-color);
-            color: white;
-            font-weight: 500;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            font-size: clamp(14px, 1.6vw, 16px);
-            min-width: 80px;
+        color: white;
+        font-weight: 500;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        font-size: clamp(14px, 1.6vw, 16px);
+        height: 40px; /* 添加固定高度 */
+        line-height: 1; /* 确保文本垂直居中 */
+        display: flex; /* 使用 flex 布局 */
+        align-items: center; /* 垂直居中 */
+        justify-content: center; /* 水平居中 */
         }
 
         button:hover {
@@ -159,19 +225,21 @@
         }
 
         .button-group {
-            display: flex;
-            gap: 10px;
+        display: flex;
+        gap: 10px;
         }
 
         .button-group button {
-                flex: 1;
-            }
+            flex: 1;
+        }
 
         #copy-btn {
-        width: 100%;
-        max-width: 400px;
-        margin: 10px auto;
-        display: block;
+            width: 100%;
+            max-width: 400px;
+            margin: 10px auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
 
         #copy-btn:hover {
@@ -328,6 +396,36 @@
             font-size: 18px; /* Default font size */
         }
 
+        .language-selector {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .language-selector select {
+            padding: 5px 10px;
+            border-radius: var(--border-radius);
+            border: 2px solid #e1e4e8;
+            font-family: inherit;
+            cursor: pointer;
+        }
+
+        .language-selector select:focus {
+            outline: none;
+            border-color: var(--primary-color);
+        }
+
+        @media (max-width: 767px) {
+            .language-selector {
+                position: static;
+                justify-content: flex-end;
+                margin-bottom: 15px;
+            }
+        }
+
         @media (max-width: 767px) {
             .container {
                 padding: 15px;
@@ -352,19 +450,29 @@
 </head>
 <body>
     <div class="container">
-        <h1>西夏文<br>自动标注工具 α</h1>
+        <div class="language-selector">
+            <select id="languageSelect" onchange="changeLanguage()">
+                <option value="zh">中文</option>
+                <option value="en">English</option>
+                <option value="ja">日本語</option>
+                <option value="ru">Русский</option>
+            </select>
+        </div>
+
+        <h1 data-i18n="title">西夏文<br>自动标注工具 α</h1>
         
         <div class="input-section">
-            <label for="output">输入字符：</label>
+            <label for="output" data-i18n="input-label">输入字符：</label>
             <textarea id="output" placeholder="𘉰𘟀𘅇𘉪" rows="3" style="font-size: 24px; line-height: 1.4;"></textarea>
             <div class="button-group">
-                <button onclick="handleGenerate()">生成</button>
-                <button onclick="clearAll()">清除</button>
+                <button onclick="handleGenerate()" data-i18n="generate">生成</button>
+                <button onclick="clearAll()" data-i18n="clear">清除</button>
             </div>
         </div>
 
+
         <div class="explanation" id="rollover-info">
-            <!-- rollover info goes here -->
+            <!-- 通过JavaScript动态填充搜索结果 -->
         </div>
   
           <div id="search-results">
@@ -395,37 +503,40 @@
             <div id="stroke-buttons">
                 <!-- 使用 JavaScript 动态生成笔画按钮 -->  
             </div>
+            
         </div>
-        <button class="clear-strokes" onclick="clearStrokeEntryField();">
-            清除
+        <button onclick="clearStrokeEntryField();" aria-label="清除笔画输入">
+            <span data-i18n="clear">清除</span>
         </button>
+    </div>
+        
         <div class="controls">
             <div class="radio-group">
-                <label>语言选择：</label>
+                <label data-i18n="language-choice">语言选择：</label>
                 <label>
-                <input type="radio" name="lang" value="CN" id="lang-cn" checked>
-                    中文
+                    <input type="radio" name="lang" value="CN" id="lang-cn" checked>
+                    <span data-i18n="chinese">中文</span>
                 </label>
                 <label>
                     <input type="radio" name="lang" value="EN" id="lang-en">
-                    English
+                    <span data-i18n="english">English</span>
                 </label>
             </div>
 
             <div class="radio-group">
-                <label>读音系统：</label>
+                <label data-i18n="reading-system">读音系统：</label>
                 <label>
                     <input type="radio" name="reading" value="GX" id="reading-gx" checked>
-                    龚勋
+                    <span data-i18n="gongxun">龚勋</span>
                 </label>
                 <label>
                     <input type="radio" name="reading" value="GHC" id="reading-ghc">
-                    龚煌城
+                    <span data-i18n="gonghuangcheng">龚煌城</span>
                 </label>
-        </div>
+            </div>
 
             <div class="radio-group">
-                <label>输出格式：</label>
+                <label data-i18n="output-format">输出格式：</label>
                 <label>
                     <input type="radio" name="format" value="typst" id="format-typst" checked>
                     Typst
@@ -434,16 +545,18 @@
                     <input type="radio" name="format" value="obsidian" id="format-obsidian">
                     Obsidian
                 </label>
+            </div>
         </div>
-    </div>
 
         <div class="output-section">
-            <label for="output-text">格式输出：</label>
-            <textarea id="output-text" readonly="" style="font-family: Fira Sans, Noto Serif Tangut, Noto Serif SC, sans-serif;"></textarea>            <button onclick="copyOutput()" id="copy-btn">复制到剪贴板</button>
+            <label for="output-text" data-i18n="format-output">格式输出：</label>
+            <textarea id="output-text" style="font-family: Fira Sans, Noto Serif Tangut, Noto Serif SC, sans-serif;"></textarea>
+            <button onclick="copyOutput()" id="copy-btn" data-i18n="copy-clipboard">复制到剪贴板</button>
+        </div>
     </div>
     </div>
     <div class="footer" style="text-align: center; margin: 20px auto;">
-        © 𗼇𘝞𗫸𗯿𘍞 <br> <a href="https://github.com/adlpr/TXGlook">🙏 TXGlook</a>
+            <a href="https://github.com/tinbreaker/Tangut-Script-Annotation-Tool">© 𗼇𘝞𗫸𗯿𘍞</a>
     </div>
 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -458,7 +571,7 @@
             if (!input.value.trim() && input.placeholder) {
                 input.value = input.placeholder;
             }
-            generate(); // 调用原有的 generate 函数
+            generate();
         }
         const strokeData = [
             { code: 'A', alt: '一' },
@@ -483,20 +596,23 @@
         ];
 
         function createStrokeButtons() {
-            const container = document.getElementById('stroke-buttons');
-            strokeData.forEach(stroke => {
-                const button = document.createElement('button');
-                button.className = 'stroke-button';
-                button.onclick = () => insertStroke(stroke.code);
-                button.textContent = stroke.alt;
-                
-                const tooltip = document.createElement('span');
-                tooltip.className = 'tooltip';
-                tooltip.textContent = stroke.code;
-                button.appendChild(tooltip);
-                container.appendChild(button);
-            });
-        }
+        const container = document.getElementById('stroke-buttons');
+        // 清空容器,防止重复添加
+        container.innerHTML = '';
+        
+        strokeData.forEach(stroke => {
+            const button = document.createElement('button');
+            button.className = 'stroke-button';
+            button.onclick = () => insertStroke(stroke.code);
+            button.textContent = stroke.alt;
+            
+            const tooltip = document.createElement('span');
+            tooltip.className = 'tooltip';
+            tooltip.textContent = stroke.code;
+            button.appendChild(tooltip);
+            container.appendChild(button);
+        });
+    }
 
         // 监听笔画输入框的变化
         document.getElementById('stroke-entry-field').addEventListener('input', (e) => {
@@ -563,6 +679,122 @@
                     updateSearchResults(e.target.value);
                 });
             }
+        });
+
+        // 多语言文本数据
+        const i18nData = {
+            zh: {
+                "title": "西夏文<br>自动标注工具 α",
+                "input-label": "输入字符：",
+                "generate": "生成",
+                "clear": "清除",
+                "language-choice": "语言选择：",
+                "chinese": "中文",
+                "english": "English",
+                "reading-system": "读音系统：",
+                "gongxun": "龚勋",
+                "gonghuangcheng": "龚煌城",
+                "output-format": "输出格式：",
+                "format-output": "格式输出：",
+                "copy-clipboard": "复制到剪贴板"
+            },
+            en: {
+                "title": "Tangut Script<br>Annotation Tool α",
+                "input-label": "Input Characters:",
+                "generate": "Generate",
+                "clear": "Clear",
+                "language-choice": "Language:",
+                "chinese": "Chinese",
+                "english": "English",
+                "reading-system": "Reading System:",
+                "gongxun": "GX",
+                "gonghuangcheng": "GHC",
+                "output-format": "Output Format:",
+                "format-output": "Formatted Output:",
+                "copy-clipboard": "Copy to Clipboard"
+            },
+            ja: {
+                "title": "西夏文字<br>注釈ツール α",
+                "input-label": "入力：",
+                "generate": "生成",
+                "clear": "クリア",
+                "language-choice": "言語選択：",
+                "chinese": "中国語",
+                "english": "英語",
+                "reading-system": "読み方：",
+                "gongxun": "龔勋",
+                "gonghuangcheng": "龔煌城",
+                "output-format": "出力形式：",
+                "format-output": "出力：",
+                "copy-clipboard": "コピー"
+            },
+            ru: {
+                "title": "Тангутский скрипт<br>Инструмент аннотации α",
+                "input-label": "Ввод символов:",
+                "generate": "Создать",
+                "clear": "Очистить",
+                "language-choice": "Выбор языка:",
+                "chinese": "Китайский",
+                "english": "Английский",
+                "reading-system": "Система чтения:",
+                "gongxun": "GX",
+                "gonghuangcheng": "GHC",
+                "output-format": "Формат вывода:",
+                "format-output": "Форматированный вывод:",
+                "copy-clipboard": "Копировать в буфер"
+            }
+        };
+
+        // 更新页面文本的函数
+        function updatePageText(lang) {
+            const elements = document.querySelectorAll('[data-i18n]');
+            elements.forEach(element => {
+                const key = element.getAttribute('data-i18n');
+                if (i18nData[lang][key]) {
+                    if (element.tagName === 'BUTTON' || element.tagName === 'LABEL' || element.tagName === 'SPAN') {
+                        element.textContent = i18nData[lang][key];
+                    } else {
+                        element.innerHTML = i18nData[lang][key];
+                    }
+                }
+            });
+            // 更新文档语言
+            document.documentElement.lang = lang;
+        }
+
+        // 语言切换函数
+        function changeLanguage() {
+        const lang = document.getElementById('languageSelect').value;
+        const langMap = {
+            'zh': 'zh-CN',
+            'en': 'en-US',
+            'ja': 'ja-JP',
+            'ru': 'ru-RU'
+        };
+        document.documentElement.lang = langMap[lang];
+        updatePageText(lang);
+        }
+
+        // 页面加载时初始化语言
+        document.addEventListener('DOMContentLoaded', () => {
+        // 只调用一次 createStrokeButtons
+        createStrokeButtons();
+        
+        // 初始化笔画输入字段的事件监听器
+        const strokeEntryField = document.getElementById('stroke-entry-field');
+        if (strokeEntryField) {
+            strokeEntryField.addEventListener('input', (e) => {
+                updateSearchResults(e.target.value);
+            });
+        }
+
+        // 初始化语言
+        const userLang = navigator.language.split('-')[0];
+        const supportedLangs = ['zh', 'en', 'ja', 'ru'];
+        const defaultLang = supportedLangs.includes(userLang) ? userLang : 'zh';
+        
+        document.getElementById('languageSelect').value = defaultLang;
+        updatePageText(defaultLang);
         });
     </script>
 </body>

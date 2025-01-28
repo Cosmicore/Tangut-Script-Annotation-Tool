@@ -1,5 +1,4 @@
-# 西夏文自动标注工具 α
-
+# 西夏文自动标注工具 α [中文](#西夏文自动标注工具-α) | [English](#tangut-annotation-tool-α)
 这是一个用于西夏文标注的在线工具,可以帮助研究者和学习者快速生成西夏文的语言学标注。
 
 ## 功能特点
@@ -67,12 +66,12 @@
 
 ## 致谢
 
-输入法基于 [TXGlook](https://github.com/adlpr/TXGlook) 开发。
-语法标注基于：[Grammaire du tangoute. Phonologie et morphologie / Mathieu Beaudouin](https://theses.hal.science/tel-04711865)。
-龚勋拟音：[GX202409 transcription of Tangut](https://homepage.univie.ac.at/xun.gong/tangut/phonology-202409.html)。
-龚煌城拟音：[Module:txg/data/LFW2008](https://en.wiktionary.org/wiki/Module:txg/data/LFW2008)
-词表来自：[Module:txg/data/wordlist](https://en.wiktionary.org/wiki/Module:txg/data/wordlist)
-制作过程中使用了[古今文字集成](ccamc.org)部分数据，特此感谢。
+- 输入法基于 [TXGlook](https://github.com/adlpr/TXGlook) 开发。
+- 语法标注基于：[Grammaire du tangoute. Phonologie et morphologie / Mathieu Beaudouin](https://theses.hal.science/tel-04711865)。
+- 龚勋拟音：[GX202409 transcription of Tangut](https://homepage.univie.ac.at/xun.gong/tangut/phonology-202409.html)。
+- 龚煌城拟音：[Module:txg/data/LFW2008](https://en.wiktionary.org/wiki/Module:txg/data/LFW2008)
+- 词表来自：[Module:txg/data/wordlist](https://en.wiktionary.org/wiki/Module:txg/data/wordlist)
+- 制作过程中使用了[古今文字集成](ccamc.org)部分数据，特此感谢。
 
 ## 版权信息
 
@@ -84,8 +83,7 @@
 - 字典/词典数据持续更新中
 - 某些复杂组合可能需要手动调整
 
-# Tangut Annotation Tool α
-
+# Tangut Annotation Tool α [中文](#西夏文自动标注工具-α) | [English](#tangut-annotation-tool-α)
 This is an online tool for annotating Tangut text that helps researchers and learners quickly generate linguistic annotations for Tangut characters.
 
 ## Features
@@ -153,12 +151,12 @@ Available stroke codes:
 
 ## Acknowledgements
 
-Input method based on [TXGlook](https://github.com/adlpr/TXGlook).
-Grammar annotations based on: [Grammaire du tangoute. Phonologie et morphologie / Mathieu Beaudouin](https://theses.hal.science/tel-04711865).
-Gong Xun transcription: [GX202409 transcription of Tangut](https://homepage.univie.ac.at/xun.gong/tangut/phonology-202409.html).
-Gong Hwang-cherng transcription: [Module:txg/data/LFW2008](https://en.wiktionary.org/wiki/Module:txg/data/LFW2008)
-Word list from: [Module:txg/data/wordlist](https://en.wiktionary.org/wiki/Module:txg/data/wordlist)
-Some data from [CCAMC](ccamc.org) was used in development.
+- Input method based on [TXGlook](https://github.com/adlpr/TXGlook).
+-Grammar annotations based on: [Grammaire du tangoute. Phonologie et morphologie / Mathieu Beaudouin](https://theses.hal.science/tel-04711865).
+- Gong Xun transcription: [GX202409 transcription of Tangut](https://homepage.univie.ac.at/xun.gong/tangut/phonology-202409.html).
+- Gong Hwang-cherng transcription: [Module:txg/data/LFW2008](https://en.wiktionary.org/wiki/Module:txg/data/LFW2008)
+- Word list from: [Module:txg/data/wordlist](https://en.wiktionary.org/wiki/Module:txg/data/wordlist)
+- Some data from [CCAMC](ccamc.org) was used in development.
 
 ## Copyright
 

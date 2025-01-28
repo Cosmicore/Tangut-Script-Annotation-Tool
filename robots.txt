@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Sitemap: https://tinbreaker.github.io/Tangut-Auto-Glossing-Tool/sitemap.xml
+
+# Allow all web crawlers to access all content
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Yandexbot
+Allow: /
+
+# Prevent crawlers from accessing certain file types
+Disallow: *.js$
+Disallow: *.css$
+Disallow: *.json$
+
+# Crawl-delay for all bots
+Crawl-delay: 10
