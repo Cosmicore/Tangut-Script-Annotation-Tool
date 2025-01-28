@@ -2,7 +2,7 @@
   "name": "西夏文自动标注工具",
   "short_name": "西夏文标注",
   "description": "西夏文自动标注工具是一个在线工具，帮助用户处理和研究西夏文字。支持西夏文字的笔画输入、语音语法标注，并提供中英双语输出。",
-  "start_url": "./",
+  "start_url": "./Tangut-Script-Annotation-Tool",
   "display": "standalone",
   "background_color": "#f9fafb",
   "theme_color": "#4a90e2",
@@ -52,8 +52,31 @@
           "purpose": "apple-touch-icon"
       }
   ],
-  "screenshots": [],
-  "shortcuts": [],
+  "screenshots": [
+    {
+      "src": "screenshots/desktop.png",
+      "sizes": "1886×1294",
+      "type": "image/png",
+      "platform": "wide",
+      "label": "Desktop view of Tangut Script Annotation Tool"
+    },
+    {
+      "src": "screenshots/mobile.png",
+      "sizes": "428×926",
+      "type": "image/png",
+      "platform": "narrow",
+      "label": "Mobile view of Tangut Script Annotation Tool"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "西夏文标注",
+      "short_name": "西夏文标注",
+      "description": "打开西夏文标注工具",
+      "url": "./Tangut-Script-Annotation-Tool",
+      "icons": [{ "src": "icons/icon-192x192.png", "sizes": "192x192" }]
+    }
+  ],
   "share_target": {
       "action": "./Tangut-Script-Annotation-Tool",
       "method": "GET",
