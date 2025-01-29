@@ -1,186 +1,102 @@
 // 定义词典数据
 const WORD_DATA = [
   {
-    "word": "𗀀𗻊",
-    "GX": "do̱¹.do̱²",
-    "GHC": "do¹.do²",
+    "word": "𗂽𗰞𗱀",
+    "GX": "ye².naw¹.γo̱¹",
+    "GHC": "ꞏjij².nja̱¹.ꞏo¹",
     "explanationEN": "",
-    "explanationCN": "毒"
+    "explanationCN": " 黑羊主"
   },
   {
-    "word": "𗀀𘊄",
-    "GX": "do̱¹.ṇo̱ṃ²",
-    "GHC": "do¹.niow²",
+    "word": "𗿄𗚿𗭮𗂧",
+    "GX": "khu².liw².źoṃ¹.lheh²",
+    "GHC": "khju².ljiw².źjow¹.lhjịj²",
     "explanationEN": "",
-    "explanationCN": "恶毒"
+    "explanationCN": " 佉卢戎国"
   },
   {
-    "word": "𗀁𗍌",
-    "GX": "sa̱².dźwe¹",
-    "GHC": "sa².dźjwij¹",
+    "word": "𗴂𗹭𗂧𘜶𘝞𗗚𘏨𗖵",
+    "GX": "phao̱ṃ¹.be².lheh².lleh².rywər².ŋao̱ṃ².lləh¹.bu¹",
+    "GHC": "phiow¹.bjij².lhjịj².ljịj².ꞏjwɨr².ŋjow².ljɨ̣¹.bju¹",
     "explanationEN": "",
-    "explanationCN": "嘬食"
+    "explanationCN": "《大白高国文海宝韵》"
   },
   {
-    "word": "𗀁𗡕",
-    "GX": "sa̱².nu²",
-    "GHC": "sa².nju²",
+    "word": "𘜶𗁬𗛰𗔇𗣟𗺉",
+    "GX": "lleh².tho̱ṃ¹.re̱r².γu̱h².rver¹.tśhi²",
+    "GHC": "ljịj².thow¹.lhejr².ꞏụ².wjijr¹.tśhji²",
     "explanationEN": "",
-    "explanationCN": "吮吸"
+    "explanationCN": "《大唐三藏卦书》"
   },
   {
-    "word": "𗀂𗣙",
-    "GX": "tśhaw¹.thi̱w¹",
-    "GHC": "tśhja̱¹.thew¹",
+    "word": "𗼇𘂜𗟲𗿳𗖵𘃎𘇂𗊏",
+    "GX": "mi².rza̱r¹.ŋŋwu̱¹.dzeṃ¹.bu¹.pah¹.ġu̱².nih²",
+    "GHC": "mji².zar¹.ŋwu̱¹.dzjɨj¹.bju¹.pjạ¹.gu².njị²",
     "explanationEN": "",
-    "explanationCN": "刚正"
+    "explanationCN": "《番汉合时掌中珠》"
   },
   {
-    "word": "𗀄𗀣",
-    "GX": "ŋwu̱².rha̱r¹",
-    "GHC": "ŋwu².¹",
+    "word": "𗼵𗍏𗁬𘝞",
+    "GX": "hao̱².su².tho̱ṃ¹.rywər²",
+    "GHC": "xjow².sju².thow¹.ꞏjwɨr²",
     "explanationEN": "",
-    "explanationCN": "张开"
+    "explanationCN": "《风俗通》"
   },
   {
-    "word": "𗀄𗏇",
-    "GX": "ŋwu̱².di²",
-    "GHC": "ŋwu².dji²",
+    "word": "𗥑𗍏𗁬𘐆",
+    "GX": "hu̱¹.su².tho̱ṃ¹.la̱¹",
+    "GHC": "xu¹.sju².thow¹.la¹",
     "explanationEN": "",
-    "explanationCN": "头子"
+    "explanationCN": "《风俗通记》"
   },
   {
-    "word": "𗀄𗞲",
-    "GX": "ŋwu̱².do̱²",
-    "GHC": "ŋwu².do²",
+    "word": "𗁀𘍑𗆁",
+    "GX": "qo̱¹.leṃ¹.sa̱ṃ¹",
+    "GHC": "ko¹.ljɨj¹.sã¹",
     "explanationEN": "",
-    "explanationCN": "隐退"
+    "explanationCN": "《广陵散》"
   },
   {
-    "word": "𗀄𗧰",
-    "GX": "ŋwu̱².khe¹",
-    "GHC": "ŋwu².khjij¹",
+    "word": "𗁀𘍑𘋅",
+    "GX": "qo̱¹.leṃ¹.sa̱ṃ¹",
+    "GHC": "ko¹.ljɨj¹.sã¹",
     "explanationEN": "",
-    "explanationCN": "张开"
+    "explanationCN": "《广陵散》"
   },
   {
-    "word": "𗀄𗳓",
-    "GX": "ŋwu̱².rśar¹",
-    "GHC": "ŋwu².śjar¹",
+    "word": "𗂸𘈷𗗎𗧗𗨮",
+    "GX": "bi².gi².rpwər¹.tśhweṃ¹.kah²",
+    "GHC": "bji².gji².pjwɨ̱r¹.tśhjwɨj¹.kjạ²",
     "explanationEN": "",
-    "explanationCN": "尖头"
+    "explanationCN": "《规谏臣子歌》"
   },
   {
-    "word": "𗀄𗵘",
-    "GX": "ŋwu̱².tśa¹",
-    "GHC": "ŋwu².tśja¹",
+    "word": "𗂧𘑨𗫔𗎭𗨮",
+    "GX": "lheh².γwu̱h².yi¹.mmi¹.kah²",
+    "GHC": "lhjịj².ꞏwu².ꞏji¹.mji̱¹.kjạ²",
     "explanationEN": "",
-    "explanationCN": "路径"
+    "explanationCN": "《护国寺歌》"
   },
   {
-    "word": "𗀄𗵶",
-    "GX": "ŋwu̱².ŋhe²",
-    "GHC": "ŋwu².xjij²",
+    "word": "𘀺𗁬𘄒𘎑",
+    "GX": "kha².tho̱ṃ¹.pa̱².źa²",
+    "GHC": "khja².thow¹.pa².rja²",
     "explanationEN": "",
-    "explanationCN": "开阔"
+    "explanationCN": "《竭陀般若》"
   },
   {
-    "word": "𗀄𘃰",
-    "GX": "ŋwu̱².dzwi̱w¹",
-    "GHC": "ŋwu².dzwew¹",
+    "word": "𗁣𗄾",
+    "GX": "dzə¹.se̱¹",
+    "GHC": "dzjɨ¹.sej¹",
     "explanationEN": "",
-    "explanationCN": "领襟"
+    "explanationCN": "《谨算》"
   },
   {
-    "word": "𗀄𘈢",
-    "GX": "ŋwu̱².leṃh¹",
-    "GHC": "ŋwu².ljɨ̣j¹",
+    "word": "𗐪𗛹𘕘",
+    "GX": "qhao̱ṃ².tsho̱ṃ¹.tsə̱¹",
+    "GHC": "khjow².tshow¹.tsə¹",
     "explanationEN": "",
-    "explanationCN": "领襟"
-  },
-  {
-    "word": "𗀅𗄭",
-    "GX": "rza̱r².dzəh²",
-    "GHC": "zar².dzjɨ̣²",
-    "explanationEN": "",
-    "explanationCN": "集校"
-  },
-  {
-    "word": "𗀇𘏿",
-    "GX": "goṃ¹.qa̱h¹",
-    "GHC": "gjow¹.kạ¹",
-    "explanationEN": "",
-    "explanationCN": "娥葛（官名）"
-  },
-  {
-    "word": "𗀌𗐺",
-    "GX": "tśha¹.mi̱ṃ¹",
-    "GHC": "tśhja¹.mẽ¹",
-    "explanationEN": "",
-    "explanationCN": "车门（宫城的一重门）"
-  },
-  {
-    "word": "𗀌𘍞",
-    "GX": "tśha¹.γao̱h¹",
-    "GHC": "tśhja¹.ˑiọ¹",
-    "explanationEN": "",
-    "explanationCN": "车院（官署）"
-  },
-  {
-    "word": "𗀌𘐒",
-    "GX": "tśha¹.ryer²",
-    "GHC": "tśhja¹.ˑji̱r²",
-    "explanationEN": "",
-    "explanationCN": "出车"
-  },
-  {
-    "word": "𗀌𘐒𗔇",
-    "GX": "tśha¹.ryer².γu̱h²",
-    "GHC": "tśhja¹.ˑji̱r².ˑụ²",
-    "explanationEN": "",
-    "explanationCN": "出车库"
-  },
-  {
-    "word": "𗀌𘐒𘍞",
-    "GX": "tśha¹.ryer².γao̱h¹",
-    "GHC": "tśhja¹.ˑji̱r².ˑiọ¹",
-    "explanationEN": "",
-    "explanationCN": "出车院（末等司）"
-  },
-  {
-    "word": "𗀐𗮈",
-    "GX": "dźe¹.ṇah?",
-    "GHC": "dźjij¹.njạ?",
-    "explanationEN": "",
-    "explanationCN": "寒露"
-  },
-  {
-    "word": "𗀚𗭹",
-    "GX": "ṣao̱¹.rba̱r¹",
-    "GHC": "śio¹.bar¹",
-    "explanationEN": "",
-    "explanationCN": "行头鼓"
-  },
-  {
-    "word": "𗀚𗼵𗢩𘊴𘏸",
-    "GX": "ṣao̱¹.hao̱².tsa¹.thu̱¹.ṣaə̱¹",
-    "GHC": "śio¹.xjow².tsja¹.thu¹.śiə¹",
-    "explanationEN": "",
-    "explanationCN": "朔方节度使"
-  },
-  {
-    "word": "𗀝𗀥",
-    "GX": "rvwo̱r¹.ti̱w¹",
-    "GHC": "wor¹.tew¹",
-    "explanationEN": "",
-    "explanationCN": "鸡蛋"
-  },
-  {
-    "word": "𗀝𗀪",
-    "GX": "rvwo̱r¹.lli̱²",
-    "GHC": "wor¹.le²",
-    "explanationEN": "",
-    "explanationCN": "孔雀"
+    "explanationCN": "《亢仓子》"
   },
   {
     "word": "𗀝𗀪𗖰𗚩",
@@ -190,32 +106,326 @@ const WORD_DATA = [
     "explanationCN": "《孔雀经》"
   },
   {
-    "word": "𗀝𗡈",
-    "GX": "rvwo̱r¹.ryawr²",
-    "GHC": "wor¹.ˑja̱r²",
+    "word": "𗴮𘊳",
+    "GX": "deh¹.bo̱¹",
+    "GHC": "djịj¹.bo¹",
     "explanationEN": "",
-    "explanationCN": "公鸡"
+    "explanationCN": "《类林》"
   },
   {
-    "word": "𗀝𗡗",
-    "GX": "rvwo̱r¹.ryawr²",
-    "GHC": "wor¹.ˑja̱r²",
+    "word": "𘝾𗂎𘒏𘝞",
+    "GX": "li².tsheṃ².ga¹.rywər²",
+    "GHC": "lji².tshjɨj².gia¹.ꞏjwɨr²",
     "explanationEN": "",
-    "explanationCN": "鸡"
+    "explanationCN": "《李靖兵法》"
   },
   {
-    "word": "𗀝𗡗𗀥",
-    "GX": "rvwo̱r¹.ryawr².ti̱w¹",
-    "GHC": "wor¹.ˑja̱r².tew¹",
+    "word": "𗸯𘟙𗂧𗓑",
+    "GX": "dźwu¹.ne².lheh².rγwe̱r²",
+    "GHC": "dźjwu¹.njij².lhjịj².ꞏwejr²",
     "explanationEN": "",
-    "explanationCN": "鸡蛋"
+    "explanationCN": "《仁王护国》"
   },
   {
-    "word": "𗀰𗀰",
-    "GX": "lhəh¹.lhəh¹",
-    "GHC": "lhjɨ̣¹.lhjɨ̣¹",
+    "word": "𗰗𗍫𗂧",
+    "GX": "γa̱h².nnə¹.lheh²",
+    "GHC": "ɣạ².njɨ̱¹.lhjịj²",
     "explanationEN": "",
-    "explanationCN": "闪闪"
+    "explanationCN": "《十二国》"
+  },
+  {
+    "word": "𗂧𗶅𗓑𘀄𘓄𗖍",
+    "GX": "lheh².tśuh¹.rγwe̱r².ŋgu².rur¹.nla¹",
+    "GHC": "lhjịj².tśjụ¹.ꞏwejr².gju̱².rjur¹.lja̱¹",
+    "explanationEN": "",
+    "explanationCN": "《守護國吉祥謁》"
+  },
+  {
+    "word": "𘜲𗂧𘐆",
+    "GX": "śu¹.lheh².la̱¹",
+    "GHC": "śju¹.lhjịj².la¹",
+    "explanationEN": "",
+    "explanationCN": "《蜀国志》"
+  },
+  {
+    "word": "𗵒𗭧",
+    "GX": "qai̱h¹.dəh¹",
+    "GHC": "kiẹ¹.djɨ̣¹",
+    "explanationEN": "",
+    "explanationCN": "《碎金》"
+  },
+  {
+    "word": "𗕔𘓖𘋼𘐆",
+    "GX": "the̱¹.qo̱ṃ¹.rkur².la̱¹",
+    "GHC": "thej¹.kow¹.kjur².la¹",
+    "explanationEN": "",
+    "explanationCN": "《太公志传》"
+  },
+  {
+    "word": "𗕔𘊇𘀏𗂓𘃻𗻼𘊐",
+    "GX": "the̱¹.śoṃ¹.pu̱¹.ti̱w¹.yiṃ¹.ṣae̱ṃ¹.ke¹",
+    "GHC": "thej¹.śjow¹.pu¹.tew¹.ꞏji¹.śiəj¹.kjij¹",
+    "explanationEN": "",
+    "explanationCN": "《太上北斗延生經》"
+  },
+  {
+    "word": "𗕔𘊇𗰂𘆨𗼵𘈘𘊐",
+    "GX": "the̱¹.śoṃ¹.hwo̱².ti².hao̱².śwə¹.ke¹",
+    "GHC": "thej¹.śjow¹.xwo².tji².xjow².śjwɨ¹.kjij¹",
+    "explanationEN": "",
+    "explanationCN": "《太上黄帝房术经》"
+  },
+  {
+    "word": "𗕔𘊇𗒉𗢄𘄱𗻼𘃻𘊐",
+    "GX": "the̱¹.śoṃ¹.la̱¹.śwaṃ².theṃ¹.ṣae̱ṃ¹.yiṃ¹.ke¹",
+    "GHC": "thej¹.śjow¹.la¹.śjwã².thjɨj¹.śiəj¹.ꞏji¹.kjij¹",
+    "explanationEN": "",
+    "explanationCN": "《太上老说天生阴经》"
+  },
+  {
+    "word": "𗕔𘊇𗒉𘕘𗢄𘊇𗂓𗂓𘊐",
+    "GX": "the̱¹.śoṃ¹.la̱¹.tsə̱¹.śwaṃ².śoṃ¹.ti̱w¹.ti̱w¹.ke¹",
+    "GHC": "thej¹.śjow¹.la¹.tsə¹.śjwã².śjow¹.tew¹.tew¹.kjij¹",
+    "explanationEN": "",
+    "explanationCN": "《太上老子说东斗经》"
+  },
+  {
+    "word": "𗕔𘊇𗒉𘕘𗢄𘄱𗻼𘃻𘊐",
+    "GX": "the̱¹.śoṃ¹.la̱¹.tsə̱¹.śwaṃ².theṃ¹.ṣae̱ṃ¹.yiṃ¹.ke¹",
+    "GHC": "thej¹.śjow¹.la¹.tsə¹.śjwã².thjɨj¹.śiəj¹.ꞏji¹.kjij¹",
+    "explanationEN": "",
+    "explanationCN": "《太上老子说天生阴经》"
+  },
+  {
+    "word": "𗕔𘊇𗒉𘕘𗼽𗣫𘊐",
+    "GX": "the̱¹.śoṃ¹.la̱¹.tsə̱¹.si̱w².tse̱ṃ¹.ke¹",
+    "GHC": "thej¹.śjow¹.la¹.tsə¹.sew².tsəj¹.kjij¹",
+    "explanationEN": "",
+    "explanationCN": "《太上老子消灾经》"
+  },
+  {
+    "word": "𗕔𘊇𘍑𘏞𘊴𘝾𘊇𗤋𘃻𘊐",
+    "GX": "the̱¹.śoṃ¹.leṃ¹.po̱¹.thu̱¹.li².śoṃ¹.me¹.yiṃ¹.ke¹",
+    "GHC": "thej¹.śjow¹.ljɨj¹.po¹.thu¹.lji².śjow¹.mjij¹.ꞏji¹.kjij¹",
+    "explanationEN": "",
+    "explanationCN": "《太上灵宝度理无上阴经》"
+  },
+  {
+    "word": "𗕔𘊇𗓰𗂓𗚿𗬐𘃻𗱭𘛀𘊐",
+    "GX": "the̱¹.śoṃ¹.na̱¹.ti̱w¹.liw².sə̱¹.yiṃ¹.śiw².mbe².ke¹",
+    "GHC": "thej¹.śjow¹.na¹.tew¹.ljiw².sə¹.ꞏji¹.śjiw².bji̱j².kjij¹",
+    "explanationEN": "",
+    "explanationCN": "《太上南斗六司延寿妙经》 "
+  },
+  {
+    "word": "𗕔𘊇𘄱𗁬𗶡𘃣𘊐",
+    "GX": "the̱¹.śoṃ¹.theṃ¹.tho̱ṃ¹.hau̱¹.vi².ke¹",
+    "GHC": "thej¹.śjow¹.thjɨj¹.thow¹.xu¹.wji².kjij¹",
+    "explanationEN": "",
+    "explanationCN": "《太上天堂护卫经》"
+  },
+  {
+    "word": "𗕔𘊇𗤩𘏸𘄱𗜰𗢄𗒅𘃝𘘣𘃡𗕔𗼽𗣫𗨝𗉔𘊐",
+    "GX": "the̱¹.śoṃ¹.γwaṃ¹.ṣaə̱¹.theṃ¹.tsu̱ṃ¹.śwaṃ².rśər¹.vi¹.yə².vi¹.the̱¹.si̱w².tse̱ṃ¹.śiṃ¹.tśiw¹.ke¹",
+    "GHC": "thej¹.śjow¹.ɣjwã¹.śiə¹.thjɨj¹.tsũ¹.śjwã².śjɨr¹.wji¹.ꞏjɨ².wji¹.thej¹.sew².tsəj¹.śjĩ¹.tśjiw¹.kjij¹",
+    "explanationEN": "",
+    "explanationCN": "《太上元始天尊说十为一为大消灾神咒经》"
+  },
+  {
+    "word": "𗕔𘊇𘍑𗪦𗘆𗑃𗘺𗑌𗷭𗚿𗣗𗰔𘜻𗑰𘃻𘊐",
+    "GX": "the̱¹.śoṃ¹.leṃ¹.paa̱¹.qi̱w².tśiṃ¹.me¹.qae̱¹.kiṃ¹.liw².zeh².yiw².phaa̱¹.tshe̱¹.yiṃ¹.ke¹",
+    "GHC": "thej¹.śjow¹.ljɨj¹.pia¹.kew².tśjĩ¹.mjij¹.kiej¹.kjĩ¹.ljiw².zjịj².ꞏjiw².phia¹.tshej¹.ꞏji¹.kjij¹",
+    "explanationEN": "",
+    "explanationCN": "《太上元始天尊说十为一为大消灾神咒经》"
+  },
+  {
+    "word": "𗕔𘏸𘝞",
+    "GX": "the̱¹.ṣaə̱¹.rywər²",
+    "GHC": "thej¹.śiə¹.ꞏjwɨr²",
+    "explanationEN": "",
+    "explanationCN": "《太史传》"
+  },
+  {
+    "word": "𘓺𘃸𗫿𗓆𗆧𗅆𗬩𘞂",
+    "GX": "rŋwə̱r¹.leh¹.kwi¹.le¹.siw¹.deṃ².qai̱¹.ndzə²",
+    "GHC": "ŋwər¹.ljịj¹.kjwi¹.ljij¹.sjiw¹.djɨj².kie¹.dzjɨ̱²",
+    "explanationEN": "",
+    "explanationCN": "《天盛改旧新定律令》"
+  },
+  {
+    "word": "𗙏𘙰",
+    "GX": "γai̱h².li̱w²",
+    "GHC": "ɣiẹ².lew²",
+    "explanationEN": "",
+    "explanationCN": "《同音》"
+  },
+  {
+    "word": "𘝞𗗚",
+    "GX": "rywər².ŋao̱ṃ²",
+    "GHC": "ꞏjwɨr².ŋjow²",
+    "explanationEN": "",
+    "explanationCN": "《文海》"
+  },
+  {
+    "word": "𘝞𗗚𘏨𗖵",
+    "GX": "rywər².ŋao̱ṃ².lləh¹.bu¹",
+    "GHC": "ꞏjwɨr².ŋjow².ljɨ̣¹.bju¹",
+    "explanationEN": "",
+    "explanationCN": "《文海宝韵》"
+  },
+  {
+    "word": "𗏁𗙏𘈖𗖵",
+    "GX": "ŋwə̱¹.γai̱h².vwi̱².bu¹",
+    "GHC": "ŋwə¹.ɣiẹ².we².bju¹",
+    "explanationEN": "",
+    "explanationCN": "《五音切韵》"
+  },
+  {
+    "word": "𗂧𘎆𗸒𘚜𗣼𗴀𗨮",
+    "GX": "lheh².dźwə¹.su̱¹.lhweh¹.tśha².so̱².kah²",
+    "GHC": "lhjịj².dźjwɨ¹.su¹.lhjwịj¹.tśhja².so².kjạ²",
+    "explanationEN": "",
+    "explanationCN": "《夏比邻国德高歌》"
+  },
+  {
+    "word": "𗆧𗰖𗕿𘓓𘐆",
+    "GX": "siw¹.nṣao¹.ne².nvwə̱¹.la̱¹",
+    "GHC": "sjiw¹.śjo̱¹.njij².wə¹.la¹",
+    "explanationEN": "",
+    "explanationCN": "《新集慈孝记》"
+  },
+  {
+    "word": "𗆧𗰖𗬻𘜼𘋥𘝿",
+    "GX": "siw¹.nṣao¹.ŋġo̱r¹.mpho².di̱w².li²",
+    "GHC": "sjiw¹.śjo̱¹.ko̱r¹.phjo̱².dew².lji²",
+    "explanationEN": "",
+    "explanationCN": "《新集锦合格言》"
+  },
+  {
+    "word": "𗆧𗰖𗵒𗭧𘃎𘐏𘝞",
+    "GX": "siw¹.nṣao¹.qai̱h¹.dəh¹.pah¹.tih¹.rywər²",
+    "GHC": "sjiw¹.śjo̱¹.kiẹ¹.djɨ̣¹.pjạ¹.tjị¹.ꞏjwɨr²",
+    "explanationEN": "",
+    "explanationCN": "《新集碎金置掌文》"
+  },
+  {
+    "word": "𗆧𘐘𗡺𘂬𘝞𗬐𗨮",
+    "GX": "siw¹.ŋqu̱¹.rber².γo̱¹.rywər².sə̱¹.kah²",
+    "GHC": "sjiw¹.ku̱¹.bji̱r².ꞏo¹.ꞏjwɨr².sə¹.kjạ²",
+    "explanationEN": "",
+    "explanationCN": "《新刻带注聿斯歌》"
+  },
+  {
+    "word": "𗆧𗯝𘗊𘓐𗊴𗅏𗚜𗺉",
+    "GX": "siw¹.lhe̱².rə̱r².dzwo².se¹.lah².pu².tśhi²",
+    "GHC": "sjiw¹.lhej².rər².dzjwo².sjij¹.ljạ².pju².tśhji²",
+    "explanationEN": "",
+    "explanationCN": "《新译同人针灸经》"
+  },
+  {
+    "word": "𘛂𗘞𗂰𘕂𗞔𘐂𗨮",
+    "GX": "mbe².lha¹.li².dźe¹.śa¹.nwəh².kah²",
+    "GHC": "bji̱j².lha¹.lji².dźjij¹.śja¹.njwɨ̣².kjạ²",
+    "explanationEN": "",
+    "explanationCN": "《整驾西行烧香歌》"
+  },
+  {
+    "word": "𗥼𗁀",
+    "GX": "a?.qo̱¹",
+    "GHC": "ꞏja.ko¹",
+    "explanationEN": "",
+    "explanationCN": "阿哥"
+  },
+  {
+    "word": "𗥼𗬐𗁀",
+    "GX": "a?.sə̱¹.qo̱¹",
+    "GHC": "ꞏja.sə¹.ko¹",
+    "explanationEN": "",
+    "explanationCN": "阿四哥"
+  },
+  {
+    "word": "𗑙𘝻𗾩",
+    "GX": "γa̱ṃ¹.qwo̱¹.hwaṃ¹",
+    "GHC": "ɣã¹.kwo¹.xjwã¹",
+    "explanationEN": "",
+    "explanationCN": "安固县"
+  },
+  {
+    "word": "𗪦𗁪",
+    "GX": "paa̱¹.thi̱w²",
+    "GHC": "pia¹.thew²",
+    "explanationEN": "",
+    "explanationCN": "巴豆"
+  },
+  {
+    "word": "𗥻𗁪𗴼",
+    "GX": "phai̱¹.thi̱w².khiw²",
+    "GHC": "phie¹.thew².khjiw²",
+    "explanationEN": "",
+    "explanationCN": "白豆蔻"
+  },
+  {
+    "word": "𗴂𗹭𗂧",
+    "GX": "phao̱ṃ¹.be².lheh²",
+    "GHC": "phiow¹.bjij².lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "白高国"
+  },
+  {
+    "word": "𗥻𗁀𗯒",
+    "GX": "phai̱¹.qo̱¹.tsha̱²",
+    "GHC": "phie¹.ko¹.tsha²",
+    "explanationEN": "",
+    "explanationCN": "白僵蚕"
+  },
+  {
+    "word": "𗂽𗴂𗎭",
+    "GX": "ye².phao̱ṃ¹.mmi¹",
+    "GHC": "ꞏjij².phiow¹.mji̱¹",
+    "explanationEN": "",
+    "explanationCN": "白羊宫"
+  },
+  {
+    "word": "𗂽𗴂𗦖𗎭",
+    "GX": "ye².phao̱ṃ¹.rmer².mmi¹",
+    "GHC": "ꞏjij².phiow¹.mjijr².mji̱¹",
+    "explanationEN": "",
+    "explanationCN": "白羊星宫"
+  },
+  {
+    "word": "𘏞𗂧",
+    "GX": "po̱¹.lheh²",
+    "GHC": "po¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "褒国"
+  },
+  {
+    "word": "𗌷𗂎𗾩",
+    "GX": "po̱¹.tsheṃ².hwaṃ¹",
+    "GHC": "po¹.tshjɨj².xjwã¹",
+    "explanationEN": "",
+    "explanationCN": "保靖县"
+  },
+  {
+    "word": "𗌷𗂎",
+    "GX": "po̱¹.tsheṃ²",
+    "GHC": "po¹.tshjɨj²",
+    "explanationEN": "",
+    "explanationCN": "保静"
+  },
+  {
+    "word": "𗌷𗂎𗵒𘗁𘛃𗤛",
+    "GX": "po̱¹.tsheṃ².qai̱h¹.dźa².lu̱².tśoṃ¹",
+    "GHC": "po¹.tshjɨj².kiẹ¹.dźja².lu².tśjow¹",
+    "explanationEN": "",
+    "explanationCN": "保静金刚座寺"
+  },
+  {
+    "word": "𗀱𗜀",
+    "GX": "phao̱².tsi̱w¹",
+    "GHC": "phio².tsew¹",
+    "explanationEN": "",
+    "explanationCN": "鲍焦"
   },
   {
     "word": "𗀱𗂎",
@@ -227,7 +437,7 @@ const WORD_DATA = [
   {
     "word": "𗀱𗄽",
     "GX": "phao̱².ṣaa̱ṃ¹",
-    "GHC": "phio².śiã¹",
+    "GHC": "phio².śiã¹",
     "explanationEN": "",
     "explanationCN": "鲍山"
   },
@@ -239,81 +449,606 @@ const WORD_DATA = [
     "explanationCN": "鲍宣"
   },
   {
-    "word": "𗀱𗜀",
-    "GX": "phao̱².tsi̱w¹",
-    "GHC": "phio².tsew¹",
+    "word": "𗰜𗂧",
+    "GX": "rmə̱r².lheh²",
+    "GHC": "mər².lhjịj²",
     "explanationEN": "",
-    "explanationCN": "鲍焦"
+    "explanationCN": "本国"
   },
   {
-    "word": "𗀱𗼽",
-    "GX": "phao̱².si̱w²",
-    "GHC": "phio².sew²",
+    "word": "𗭺𗁪",
+    "GX": "rpər¹.thi̱w²",
+    "GHC": "pjɨr¹.thew²",
     "explanationEN": "",
-    "explanationCN": "朴消"
+    "explanationCN": "荜豆"
   },
   {
-    "word": "𗀹𗼷𗿦",
-    "GX": "zi¹.γa̱¹.ma¹",
-    "GHC": "zji¹.ɣa¹.mja¹",
+    "word": "𗢪𗁪",
+    "GX": "pi¹.thi̱w²",
+    "GHC": "pji¹.thew²",
     "explanationEN": "",
-    "explanationCN": "碎媳妇（人名）"
+    "explanationCN": "荜豆/辔头"
   },
   {
-    "word": "𗀹𘂆",
-    "GX": "zi¹.tsə¹",
-    "GHC": "zji¹.tsjɨ¹",
+    "word": "𗁡𘎠",
+    "GX": "phi¹.sih¹",
+    "GHC": "phji¹.sjị¹",
     "explanationEN": "",
-    "explanationCN": "崽子"
+    "explanationCN": "簸箕"
   },
   {
-    "word": "𗁀𗙃",
-    "GX": "qo̱¹.liṃ¹",
-    "GHC": "ko¹.ljĩ¹",
+    "word": "𗊛𗵘𗴴",
+    "GX": "tshi̱w¹.tśa¹.re̱r²",
+    "GHC": "tshew¹.tśja¹.lhejr²",
     "explanationEN": "",
-    "explanationCN": "广陵"
+    "explanationCN": "曹道乐"
+  },
+  {
+    "word": "𗊛𗀇",
+    "GX": "tshi̱w¹.goṃ¹",
+    "GHC": "tshew¹.gjow¹",
+    "explanationEN": "",
+    "explanationCN": "曹娥"
+  },
+  {
+    "word": "𗊛𗂧",
+    "GX": "tshi̱w¹.lheh²",
+    "GHC": "tshew¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "曹国"
+  },
+  {
+    "word": "𗊛𗁡",
+    "GX": "tshi̱w¹.phi¹",
+    "GHC": "tshew¹.phji¹",
+    "explanationEN": "",
+    "explanationCN": "曹丕"
+  },
+  {
+    "word": "𗊛𗉔",
+    "GX": "tshi̱w¹.tśiw¹",
+    "GHC": "tshew¹.tśjiw¹",
+    "explanationEN": "",
+    "explanationCN": "曹州"
+  },
+  {
+    "word": "𗊛𗁪𗴼",
+    "GX": "tshi̱w¹.thi̱w².khiw²",
+    "GHC": "tshew¹.thew².khjiw²",
+    "explanationEN": "",
+    "explanationCN": "草豆蔻"
+  },
+  {
+    "word": "𗊛𘓬𗁪",
+    "GX": "tshi̱w¹.ŋġu̱².thi̱w²",
+    "GHC": "tshew¹.gu̱².thew²",
+    "explanationEN": "",
+    "explanationCN": "草乌头"
+  },
+  {
+    "word": "𗯒𗆀𗁪",
+    "GX": "tsha̱².γu̱².thi̱w²",
+    "GHC": "tsha².ꞏu².thew²",
+    "explanationEN": "",
+    "explanationCN": "草乌头"
+  },
+  {
+    "word": "𗀌𗐺",
+    "GX": "tśha¹.mi̱ṃ¹",
+    "GHC": "tśhja¹.mẽ¹",
+    "explanationEN": "",
+    "explanationCN": "车门（宫城的一重门）"
+  },
+  {
+    "word": "𗝿𗂎𘕘",
+    "GX": "tśhe¹.tsheṃ².tsə̱¹",
+    "GHC": "tśhjij¹.tshjɨj².tsə¹",
+    "explanationEN": "",
+    "explanationCN": "车前子"
+  },
+  {
+    "word": "𗀌𘍞",
+    "GX": "tśha¹.γao̱h¹",
+    "GHC": "tśhja¹.iọ¹",
+    "explanationEN": "",
+    "explanationCN": "车院（官署）"
+  },
+  {
+    "word": "𘔜𗂧",
+    "GX": "tśhiṃ¹.lheh²",
+    "GHC": "tśhji¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "陈国"
+  },
+  {
+    "word": "𘔜𘅧𗁡",
+    "GX": "tśhiṃ¹.kwi¹.phi¹",
+    "GHC": "tśhji¹.kjwi¹.phji¹",
+    "explanationEN": "",
+    "explanationCN": "陈橘皮"
+  },
+  {
+    "word": "𘔜𗁡",
+    "GX": "tśhiṃ¹.phi¹",
+    "GHC": "tśhji¹.phji¹",
+    "explanationEN": "",
+    "explanationCN": "陈皮"
+  },
+  {
+    "word": "𗆶𘙕𗗊",
+    "GX": "rar².kə².ku¹",
+    "GHC": "rjar².kjɨ².kju¹",
+    "explanationEN": "",
+    "explanationCN": "吃兜芽"
+  },
+  {
+    "word": "𗺉𗼽𗁪",
+    "GX": "tśhi².si̱w².thi̱w²",
+    "GHC": "tśhji².sew².thew²",
+    "explanationEN": "",
+    "explanationCN": "赤小豆"
+  },
+  {
+    "word": "𗀌𘐒",
+    "GX": "tśha¹.ryer²",
+    "GHC": "tśhja¹.ꞏji̱r²",
+    "explanationEN": "",
+    "explanationCN": "出车"
+  },
+  {
+    "word": "𗀌𘐒𗔇",
+    "GX": "tśha¹.ryer².γu̱h²",
+    "GHC": "tśhja¹.ꞏji̱r².ꞏụ²",
+    "explanationEN": "",
+    "explanationCN": "出车库"
+  },
+  {
+    "word": "𗀌𘐒𘍞",
+    "GX": "tśha¹.ryer².γao̱h¹",
+    "GHC": "tśhja¹.ꞏji̱r².iọ¹",
+    "explanationEN": "",
+    "explanationCN": "出车院（末等司）"
+  },
+  {
+    "word": "𗳷𗂧",
+    "GX": "tṣhau̱h¹.lheh²",
+    "GHC": "tśhjụ¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "楚国"
+  },
+  {
+    "word": "𗀁𗍌",
+    "GX": "sa̱².dźwe¹",
+    "GHC": "sa.dźjwij¹",
+    "explanationEN": "",
+    "explanationCN": "嘬食"
+  },
+  {
+    "word": "𗊧𘅰𗁪",
+    "GX": "tśhwaṃ¹.γu̱¹.thi̱w²",
+    "GHC": "tśhjwã¹.ɣu¹.thew²",
+    "explanationEN": "",
+    "explanationCN": "川乌豆"
+  },
+  {
+    "word": "𗊧𗆀𗁪",
+    "GX": "tśhwaṃ¹.γu̱².thi̱w²",
+    "GHC": "tśhjwã¹.ꞏu².thew²",
+    "explanationEN": "",
+    "explanationCN": "川乌头"
+  },
+  {
+    "word": "𗁲𗥋𗮴𘕤",
+    "GX": "me̱².mmə̱¹.mma¹.yu²",
+    "GHC": "mej².mə̱¹.mja̱¹.ꞏju²",
+    "explanationEN": "",
+    "explanationCN": "吹毛求疵"
+  },
+  {
+    "word": "𗴂𗹭𗂧𘜶",
+    "GX": "phao̱ṃ¹.be².lheh².lleh²",
+    "GHC": "phiow¹.bjij².lhjịj².ljịj²",
+    "explanationEN": "The.Great.White.High.State",
+    "explanationCN": "大白高国"
+  },
+  {
+    "word": "𗂧𘟙𘜶",
+    "GX": "lheh².ne².lleh²",
+    "GHC": "lhjịj².njij².ljịj²",
+    "explanationEN": "",
+    "explanationCN": "大国王"
+  },
+  {
+    "word": "𘜶𗀐",
+    "GX": "lleh².dźe¹",
+    "GHC": "ljịj².dźjij¹",
+    "explanationEN": "",
+    "explanationCN": "大寒"
+  },
+  {
+    "word": "𗕔𘔘",
+    "GX": "the̱¹.hu̱ṃ¹",
+    "GHC": "thej¹.xũ¹",
+    "explanationEN": "",
+    "explanationCN": "大黄"
+  },
+  {
+    "word": "𗕔𘎫",
+    "GX": "the̱¹.ki¹",
+    "GHC": "thej¹.kji¹",
+    "explanationEN": "",
+    "explanationCN": "大蓟"
+  },
+  {
+    "word": "𗕔𘊞𘟀",
+    "GX": "the̱¹.lu̱².le²",
+    "GHC": "thej¹.lu².ljij²",
+    "explanationEN": "",
+    "explanationCN": "大卢令"
+  },
+  {
+    "word": "𗕔𘊞𘟀𘗜",
+    "GX": "the̱¹.lu̱².le².ŋao̱ṃ²",
+    "GHC": "thej¹.lu².ljij².ŋjow²",
+    "explanationEN": "",
+    "explanationCN": "大卢令案"
+  },
+  {
+    "word": "𗕔𗣭𗂧",
+    "GX": "the̱¹.tshiṃ¹.lheh²",
+    "GHC": "thej¹.tshji¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "大秦国"
+  },
+  {
+    "word": "𘜶𗁬",
+    "GX": "lleh².tho̱ṃ¹",
+    "GHC": "ljịj².thow¹",
+    "explanationEN": "",
+    "explanationCN": "大唐"
+  },
+  {
+    "word": "𗕔𗁬𗑪",
+    "GX": "the̱¹.tho̱ṃ¹.kwiṃ¹",
+    "GHC": "thej¹.thow¹.kjwĩ¹",
+    "explanationEN": "",
+    "explanationCN": "大通军（中等司）"
+  },
+  {
+    "word": "𗕔𗤩",
+    "GX": "the̱¹.γwaṃ¹",
+    "GHC": "thej¹.ɣjwã¹",
+    "explanationEN": "",
+    "explanationCN": "大宛"
+  },
+  {
+    "word": "𗕔𗤩𗂧",
+    "GX": "the̱¹.γwaṃ¹.lheh²",
+    "GHC": "thej¹.ɣjwã¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "大宛国"
+  },
+  {
+    "word": "𘜶𗴲𗂧",
+    "GX": "lleh².dźwe².lheh²",
+    "GHC": "ljịj².dźjwij².lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "大夏国"
+  },
+  {
+    "word": "𗕛𗼵𗂧",
+    "GX": "te̱¹.hao̱².lheh²",
+    "GHC": "tej¹.xjow².lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "带方国"
+  },
+  {
+    "word": "𘕢𗂧",
+    "GX": "bə¹.lheh²",
+    "GHC": "bjɨ¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "敌国"
+  },
+  {
+    "word": "𗁪𗊋",
+    "GX": "thi̱w².tsi²",
+    "GHC": "thew².tsji²",
+    "explanationEN": "",
+    "explanationCN": "铫子"
+  },
+  {
+    "word": "𗇊𗁀𗽤",
+    "GX": "the².qo̱¹.tṣhae̱²",
+    "GHC": "thjij².ko¹.tśhiej²",
+    "explanationEN": "",
+    "explanationCN": "定国寨"
+  },
+  {
+    "word": "𗂓𗂓",
+    "GX": "ti̱w¹.ti̱w¹",
+    "GHC": "tew¹.tew¹",
+    "explanationEN": "",
+    "explanationCN": "东斗"
+  },
+  {
+    "word": "𘂹𗑛𗤳𗼚𗚉𗹚𘒮",
+    "GX": "ne².rzər¹.mə̱².γo̱ṃ².yu².rner¹.nzi̱w²",
+    "GHC": "njij².zjɨr¹.mə².ꞏow².ꞏju².njijr¹.ze̱w²",
+    "explanationEN": "",
+    "explanationCN": "东南卧姓民地忍"
+  },
+  {
+    "word": "𗁅𘟅𗁅𗹭",
+    "GX": "lla̱h¹.tśhe¹.lla̱h¹.be²",
+    "GHC": "lạ¹.tśhjij¹.lạ¹.bjij²",
+    "explanationEN": "",
+    "explanationCN": "动手"
+  },
+  {
+    "word": "𗁪𗙤𘞈",
+    "GX": "thi̱w².piṃ¹.ta̱ṃ¹",
+    "GHC": "thew².pjĩ¹.tã¹",
+    "explanationEN": "",
+    "explanationCN": "豆冰丹"
+  },
+  {
+    "word": "𗁪𗴼",
+    "GX": "thi̱w².khiw²",
+    "GHC": "thew².khjiw²",
+    "explanationEN": "",
+    "explanationCN": "豆蔻"
+  },
+  {
+    "word": "𗁪𗽭𗐐𘍑𗙢",
+    "GX": "thi̱w².qhi̱w².hoṃ¹.leṃ¹.vwa̱ṃ²",
+    "GHC": "thew².khew².xjow¹.ljɨj¹.wã²",
+    "explanationEN": "",
+    "explanationCN": "豆蔻香连丸"
+  },
+  {
+    "word": "𗁪𗙪𗷌",
+    "GX": "thi̱w².kaṃ¹.ti̱¹",
+    "GHC": "thew².kjã¹.te¹",
+    "explanationEN": "",
+    "explanationCN": "窦建德"
+  },
+  {
+    "word": "𗁪𗡝𗷌",
+    "GX": "thi̱w².ka¹.ti̱¹",
+    "GHC": "thew².kja¹.te¹",
+    "explanationEN": "",
+    "explanationCN": "窦建德"
+  },
+  {
+    "word": "𗀀𗻊",
+    "GX": "do̱¹.do̱²",
+    "GHC": "do¹.do²",
+    "explanationEN": "",
+    "explanationCN": "毒"
+  },
+  {
+    "word": "𗀋𘀃𗣺",
+    "GX": "phao̱².ŋgu².ra̱r²",
+    "GHC": "phio².gju̱².rar²",
+    "explanationEN": "",
+    "explanationCN": "毒蛇"
+  },
+  {
+    "word": "𗌔𗁪",
+    "GX": "thwa̱ṃ².thi̱w²",
+    "GHC": "thwã².thew²",
+    "explanationEN": "",
+    "explanationCN": "段头（官名）"
+  },
+  {
+    "word": "𘎧𗂧𘘚",
+    "GX": "vwa̱¹.lheh².ndze²",
+    "GHC": "wa¹.lhjịj².dzji̱j²",
+    "explanationEN": "",
+    "explanationCN": "讹国师"
+  },
+  {
+    "word": "𘎧𘓉𘑫𗖅𘏐",
+    "GX": "vwa̱¹.lhi̱w¹.ka̱ṃ¹.swi².γwai̱¹",
+    "GHC": "wa¹.lhew¹.kã¹.sjwi².ɣiwe¹",
+    "explanationEN": "",
+    "explanationCN": "讹劳甘领势"
+  },
+  {
+    "word": "𗳩𗂎",
+    "GX": "γo̱¹.tsheṃ²",
+    "GHC": "ꞏo¹.tshjɨj²",
+    "explanationEN": "",
+    "explanationCN": "讹七"
+  },
+  {
+    "word": "𗳩𗂎𘟄𗯿𘏐",
+    "GX": "γo̱¹.tsheṃ².γə¹.rvwe̱r¹.γwai̱¹",
+    "GHC": "ꞏo¹.tshjɨj².ɣjɨ¹.wejr¹.ɣiwe¹",
+    "explanationEN": "",
+    "explanationCN": "讹七舅茂势"
+  },
+  {
+    "word": "𗀇𘏿",
+    "GX": "goṃ¹.qa̱h¹",
+    "GHC": "gjow¹.kạ¹",
+    "explanationEN": "",
+    "explanationCN": "娥葛（官名）"
+  },
+  {
+    "word": "𗀀𘊄",
+    "GX": "do̱¹.ṇo̱ṃ²",
+    "GHC": "do¹.niow²",
+    "explanationEN": "",
+    "explanationCN": "恶毒"
+  },
+  {
+    "word": "𗼇𗂧",
+    "GX": "mi².lheh²",
+    "GHC": "mji².lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "番国"
+  },
+  {
+    "word": "𘚜𗂧",
+    "GX": "lhweh¹.lheh²",
+    "GHC": "lhjwịj¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "番国"
+  },
+  {
+    "word": "𘐀𗂧",
+    "GX": "phə̱¹.lheh²",
+    "GHC": "phə¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "蕃国"
+  },
+  {
+    "word": "𘑶𗐱",
+    "GX": "tse¹.ni²",
+    "GHC": "tsjij¹.nji²",
+    "explanationEN": "not.self.PL",
+    "explanationCN": "非己(复数)"
+  },
+  {
+    "word": "𗢳𗂧",
+    "GX": "tha̱¹.lheh²",
+    "GHC": "tha¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "佛国"
+  },
+  {
+    "word": "𗥑𘌈𗂧",
+    "GX": "hu̱¹.yu¹.lheh²",
+    "GHC": "xu¹.ꞏju̱¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "扶余国"
+  },
+  {
+    "word": "𘑫𗁀",
+    "GX": "ka̱ṃ¹.qo̱¹",
+    "GHC": "kã¹.ko¹",
+    "explanationEN": "",
+    "explanationCN": "干姜"
+  },
+  {
+    "word": "𗴒𗻼𗁀",
+    "GX": "kah¹.ṣae̱ṃ¹.qo̱¹",
+    "GHC": "kjạ¹.śiəj¹.ko¹",
+    "explanationEN": "",
+    "explanationCN": "干生姜"
+  },
+  {
+    "word": "𗻼𗁀𘑸",
+    "GX": "ṣae̱ṃ¹.qo̱¹.ro̱ṃr¹",
+    "GHC": "śiəj¹.ko¹.rowr¹",
+    "explanationEN": "",
+    "explanationCN": "干生姜"
+  },
+  {
+    "word": "𗀂𗣙",
+    "GX": "tśhaw¹.thi̱w¹",
+    "GHC": "tśhja̱¹.thew¹",
+    "explanationEN": "",
+    "explanationCN": "刚正"
+  },
+  {
+    "word": "𗣛𘌜𗁬",
+    "GX": "qi̱w¹.pai̱¹.tho̱ṃ¹",
+    "GHC": "kew¹.pie¹.thow¹",
+    "explanationEN": "",
+    "explanationCN": "皋伯通"
+  },
+  {
+    "word": "𗣛𘝾𗂧",
+    "GX": "qi̱w¹.li².lheh²",
+    "GHC": "kew¹.lji².lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "高丽国"
+  },
+  {
+    "word": "𘊹𗍭𗁀",
+    "GX": "kaw¹.loṃ².qo̱¹",
+    "GHC": "kja̱¹.ljow².ko¹",
+    "explanationEN": "",
+    "explanationCN": "高良姜"
+  },
+  {
+    "word": "𗑱𗙼𗂧",
+    "GX": "ka².yu².lheh²",
+    "GHC": "kja².ꞏju².lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "诰窳国"
+  },
+  {
+    "word": "𗱕𗱕",
+    "GX": "rur¹.rur¹",
+    "GHC": "rjur¹.rjur¹",
+    "explanationEN": "",
+    "explanationCN": "各处"
+  },
+  {
+    "word": "𘝵𗯩",
+    "GX": "ye¹.twu̱h¹",
+    "GHC": "ˑjij¹.twụ¹",
+    "explanationEN": "each",
+    "explanationCN": "各自"
+  },
+  {
+    "word": "𗀝𗡈",
+    "GX": "rvwo̱r¹.ryawr²",
+    "GHC": "wor¹.ꞏja̱r²",
+    "explanationEN": "",
+    "explanationCN": "公鸡"
+  },
+  {
+    "word": "𗁣𗍑",
+    "GX": "dzə¹.ŋkhə¹",
+    "GHC": "dzjɨ¹.khjɨ̱¹",
+    "explanationEN": "",
+    "explanationCN": "恭敬"
+  },
+  {
+    "word": "𗐪𘓖𘏸",
+    "GX": "qhao̱ṃ².qo̱ṃ¹.ṣaə̱¹",
+    "GHC": "khjow².kow¹.śiə¹",
+    "explanationEN": "",
+    "explanationCN": "共工氏"
+  },
+  {
+    "word": "𗃞𗗿",
+    "GX": "qə̱¹.ta̱¹",
+    "GHC": "kə¹.ta¹",
+    "explanationEN": "dog",
+    "explanationCN": "狗"
+  },
+  {
+    "word": "𘝻𗨇𗂧",
+    "GX": "qwo̱¹.tṣuo¹.lheh²",
+    "GHC": "kwo¹.tśio̱w¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "孤竹国"
+  },
+  {
+    "word": "𗋳𗁬",
+    "GX": "kwa̱ṃ¹.tho̱ṃ¹",
+    "GHC": "kwã¹.thow¹",
+    "explanationEN": "",
+    "explanationCN": "观堂"
+  },
+  {
+    "word": "𗂀𗥶",
+    "GX": "qo̱¹.lu²",
+    "GHC": "ko¹.lju²",
+    "explanationEN": "",
+    "explanationCN": "光六"
   },
   {
     "word": "𗁀𗥡𗠚𗥑",
     "GX": "qo̱¹.lu̱².thae̱h².hu̱¹",
-    "GHC": "ko¹.lu².thẹj².xu¹",
+    "GHC": "ko¹.lu².thẹj².xu¹",
     "explanationEN": "",
     "explanationCN": "光禄大夫"
-  },
-  {
-    "word": "𗁀𗿖",
-    "GX": "qo̱¹.ŋŋaa̱²",
-    "GHC": "ko¹.ŋia̱²",
-    "explanationEN": "",
-    "explanationCN": "光颜"
-  },
-  {
-    "word": "𗁀𘂆",
-    "GX": "qo̱¹.tsə¹",
-    "GHC": "ko¹.tsjɨ¹",
-    "explanationEN": "",
-    "explanationCN": "果子"
-  },
-  {
-    "word": "𗁀𘂯𗐐",
-    "GX": "qo̱¹.mbo̱².hoṃ¹",
-    "GHC": "ko¹.bo̱².xjow¹",
-    "explanationEN": "",
-    "explanationCN": "广木香"
-  },
-  {
-    "word": "𗁀𘈫",
-    "GX": "qo̱¹.γu̱²",
-    "GHC": "ko¹.ˑu²",
-    "explanationEN": "",
-    "explanationCN": "光武"
-  },
-  {
-    "word": "𗁀𘈫𘋨",
-    "GX": "qo̱¹.γu̱².dzwə¹",
-    "GHC": "ko¹.ˑu².dzjwɨ¹",
-    "explanationEN": "",
-    "explanationCN": "光武帝"
   },
   {
     "word": "𗁀𘊞𗕔𗥑",
@@ -323,28 +1058,14 @@ const WORD_DATA = [
     "explanationCN": "光禄大夫"
   },
   {
-    "word": "𗁀𘊴",
-    "GX": "qo̱¹.thu̱¹",
-    "GHC": "ko¹.thu¹",
-    "explanationEN": "",
-    "explanationCN": "裹肚"
-  },
-  {
-    "word": "𗁀𘍑𗆁",
-    "GX": "qo̱¹.leṃ¹.sa̱ṃ¹",
-    "GHC": "ko¹.ljɨj¹.sã¹",
-    "explanationEN": "",
-    "explanationCN": "《广陵散》"
-  },
-  {
-    "word": "𗁀𘍑𘋅",
-    "GX": "qo̱¹.leṃ¹.sa̱ṃ¹",
-    "GHC": "ko¹.ljɨj¹.sã¹",
-    "explanationEN": "",
-    "explanationCN": "《广陵散》"
-  },
-  {
     "word": "𗁀𘔒",
+    "GX": "qo̱¹.ne²",
+    "GHC": "ko¹.njij²",
+    "explanationEN": "",
+    "explanationCN": "光宁"
+  },
+  {
+    "word": "𗂀𘔒",
     "GX": "qo̱¹.ne²",
     "GHC": "ko¹.njij²",
     "explanationEN": "",
@@ -353,135 +1074,366 @@ const WORD_DATA = [
   {
     "word": "𗁀𘔒𗙴𗫔",
     "GX": "qo̱¹.ne².ra̱r¹.yi¹",
-    "GHC": "ko¹.njij².rar¹.ˑji¹",
+    "GHC": "ko¹.njij².rar¹.ꞏji¹",
     "explanationEN": "",
     "explanationCN": "光宁啰伊"
   },
   {
+    "word": "𗁀𘈫",
+    "GX": "qo̱¹.γu̱²",
+    "GHC": "ko¹.ꞏu²",
+    "explanationEN": "",
+    "explanationCN": "光武"
+  },
+  {
+    "word": "𗂀𘈫",
+    "GX": "qo̱¹.γu̱²",
+    "GHC": "ko¹.ꞏu²",
+    "explanationEN": "",
+    "explanationCN": "光武"
+  },
+  {
+    "word": "𗁀𘈫𘋨",
+    "GX": "qo̱¹.γu̱².dzwə¹",
+    "GHC": "ko¹.ꞏu².dzjwɨ¹",
+    "explanationEN": "",
+    "explanationCN": "光武帝"
+  },
+  {
+    "word": "𗂀𘈫𘋨",
+    "GX": "qo̱¹.γu̱².dzwə¹",
+    "GHC": "ko¹.ꞏu².dzjwɨ¹",
+    "explanationEN": "",
+    "explanationCN": "光武帝"
+  },
+  {
+    "word": "𗁀𗿖",
+    "GX": "qo̱¹.ŋŋaa̱²",
+    "GHC": "ko¹.ŋia̱²",
+    "explanationEN": "",
+    "explanationCN": "光颜"
+  },
+  {
     "word": "𗁀𘟑",
     "GX": "qo̱¹.ha̱ṃ²",
-    "GHC": "ko¹.xã²",
+    "GHC": "ko¹.xã²",
     "explanationEN": "",
     "explanationCN": "广汉"
   },
   {
     "word": "𗁀𘟑𗓷",
     "GX": "qo̱¹.ha̱ṃ².khwaṃ¹",
-    "GHC": "ko¹.xã².khjwã¹",
+    "GHC": "ko¹.xã².khjwã¹",
     "explanationEN": "",
     "explanationCN": "广汉郡"
   },
   {
-    "word": "𗁁𗁁",
-    "GX": "ve².ve²",
-    "GHC": "wjij².wjij²",
+    "word": "𗁀𗙃",
+    "GX": "qo̱¹.liṃ¹",
+    "GHC": "ko¹.ljĩ¹",
     "explanationEN": "",
-    "explanationCN": "所有"
+    "explanationCN": "广陵"
   },
   {
-    "word": "𗁂𗭑",
-    "GX": "dziw².śu¹",
-    "GHC": "dzjiw².śju¹",
+    "word": "𗁀𘂯𗐐",
+    "GX": "qo̱¹.mbo̱².hoṃ¹",
+    "GHC": "ko¹.bo̱².xjow¹",
     "explanationEN": "",
-    "explanationCN": "桎梏"
+    "explanationCN": "广木香"
   },
   {
-    "word": "𗁅𗁀",
-    "GX": "lla̱h¹.qo̱¹",
-    "GHC": "lạ¹.ko¹",
+    "word": "𘃳𘂆𗂧",
+    "GX": "kiw¹.tsə¹.lheh²",
+    "GHC": "kjiw¹.tsjɨ¹.lhjịj²",
     "explanationEN": "",
-    "explanationCN": "掬"
+    "explanationCN": "龟兹国"
   },
   {
-    "word": "𗁅𗁂",
-    "GX": "lla̱h¹.dziw²",
-    "GHC": "lạ¹.dzjiw²",
+    "word": "𘝻𗂧",
+    "GX": "qwo̱¹.lheh²",
+    "GHC": "kwo¹.lhjịj²",
     "explanationEN": "",
-    "explanationCN": "手铐"
+    "explanationCN": "郭国"
   },
   {
-    "word": "𗁅𗚖",
-    "GX": "lla̱h¹.lhoṃ²",
-    "GHC": "lạ¹.lhjo̱r²",
+    "word": "𘝻𗀱",
+    "GX": "qwo̱¹.phao̱²",
+    "GHC": "kwo¹.phio²",
     "explanationEN": "",
-    "explanationCN": "庹"
+    "explanationCN": "郭璞"
   },
   {
-    "word": "𗁅𘃎",
-    "GX": "lla̱h¹.pah¹",
-    "GHC": "lạ¹.pjạ¹",
+    "word": "𗫌𗂧",
+    "GX": "ni¹.lheh²",
+    "GHC": "nji¹.lhjịj²",
     "explanationEN": "",
-    "explanationCN": "手掌"
+    "explanationCN": "国家"
   },
   {
-    "word": "𗁅𘟅𗁅𗹭",
-    "GX": "lla̱h¹.tśhe¹.lla̱h¹.be²",
-    "GHC": "lạ¹.tśhjij¹.lạ¹.bjij²",
+    "word": "𗂧𗪚𘂀𗴴",
+    "GX": "lheh².dau̱¹.se².re̱r²",
+    "GHC": "lhjịj².du¹.sjij².lhejr²",
     "explanationEN": "",
-    "explanationCN": "动手"
+    "explanationCN": "国泰民安"
   },
   {
-    "word": "𗁍𗍗",
-    "GX": "bu¹.vwi̱²",
-    "GHC": "bju¹.we²",
+    "word": "𗂧𘟙",
+    "GX": "lheh².ne²",
+    "GHC": "lhjịj².njij²",
     "explanationEN": "",
-    "explanationCN": "谋卫"
+    "explanationCN": "国王"
   },
   {
-    "word": "𗁍𗤹",
-    "GX": "bu¹.γu¹",
-    "GHC": "bju¹.ɣju¹",
+    "word": "𗆆𗂧",
+    "GX": "qwae̱ṃ¹.lheh²",
+    "GHC": "kiwəj¹.lhjịj²",
     "explanationEN": "",
-    "explanationCN": "谋药"
+    "explanationCN": "虢国"
   },
   {
-    "word": "𗁠𘞽",
-    "GX": "vwo̱ṃ².zəh¹",
-    "GHC": "wow².zjɨ̣¹",
+    "word": "𗁀𘂆",
+    "GX": "qo̱¹.tsə¹",
+    "GHC": "ko¹.tsjɨ¹",
     "explanationEN": "",
-    "explanationCN": "王母"
+    "explanationCN": "果子"
   },
   {
-    "word": "𗁠𘞽𗴺𘖖𗤛",
-    "GX": "vwo̱ṃ².zəh¹.ma¹.mə¹.tśoṃ¹",
-    "GHC": "wow².zjɨ̣¹.mja¹.mjɨ¹.tśjow¹",
+    "word": "𗁀𘊴",
+    "GX": "qo̱¹.thu̱¹",
+    "GHC": "ko¹.thu¹",
     "explanationEN": "",
-    "explanationCN": "王母娘娘庙"
+    "explanationCN": "裹肚"
+  },
+  {
+    "word": "𘛽𗓆",
+    "GX": "luh².le¹",
+    "GHC": "ljụ².ljij¹",
+    "explanationEN": "",
+    "explanationCN": "过身"
+  },
+  {
+    "word": "𗃰𗁬𗉣",
+    "GX": "he̱¹.tho̱ṃ¹.phi¹",
+    "GHC": "xej¹.thow¹.phji¹",
+    "explanationEN": "",
+    "explanationCN": "海桐皮"
+  },
+  {
+    "word": "𗀐𗮈",
+    "GX": "dźe¹.ṇah?",
+    "GHC": "dźjij¹.nja",
+    "explanationEN": "",
+    "explanationCN": "寒露"
+  },
+  {
+    "word": "𘂦𗀇",
+    "GX": "ha̱ṃ¹.goṃ¹",
+    "GHC": "xã¹.gjow¹",
+    "explanationEN": "",
+    "explanationCN": "韩娥"
+  },
+  {
+    "word": "𘟑𗀇",
+    "GX": "ha̱ṃ².goṃ¹",
+    "GHC": "xã².gjow¹",
+    "explanationEN": "",
+    "explanationCN": "韩娥"
+  },
+  {
+    "word": "𘂦𗂧",
+    "GX": "ha̱ṃ¹.lheh²",
+    "GHC": "xã¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "韩国"
+  },
+  {
+    "word": "𘟑𗁀𘈫",
+    "GX": "ha̱ṃ².qo̱¹.γu̱²",
+    "GHC": "xã².ko¹.ꞏu²",
+    "explanationEN": "",
+    "explanationCN": "汉光武"
+  },
+  {
+    "word": "𘂜𗂧",
+    "GX": "rza̱r¹.lheh²",
+    "GHC": "zar¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "汉国"
+  },
+  {
+    "word": "𘟑𗂧",
+    "GX": "ha̱ṃ².lheh²",
+    "GHC": "xã².lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "汉国"
+  },
+  {
+    "word": "𗰂𘕘𗁡",
+    "GX": "hwo̱².tsə̱¹.phi¹",
+    "GHC": "xwo².tsə¹.phji¹",
+    "explanationEN": "",
+    "explanationCN": "诃子皮"
+  },
+  {
+    "word": "𗏡𗁬",
+    "GX": "qu̱h¹.tho̱ṃ¹",
+    "GHC": "kụ¹.thow¹",
+    "explanationEN": "",
+    "explanationCN": "后唐"
+  },
+  {
+    "word": "𗃰𗀱",
+    "GX": "he̱¹.phao̱²",
+    "GHC": "xej¹.phio²",
+    "explanationEN": "",
+    "explanationCN": "厚朴"
+  },
+  {
+    "word": "𗬦𗀱",
+    "GX": "hi̱w².phao̱²",
+    "GHC": "xew².phio²",
+    "explanationEN": "",
+    "explanationCN": "厚朴"
+  },
+  {
+    "word": "𗺹𗀱",
+    "GX": "hi̱w¹.phao̱²",
+    "GHC": "xew¹.phio²",
+    "explanationEN": "",
+    "explanationCN": "厚朴"
+  },
+  {
+    "word": "𗶡𗂧",
+    "GX": "hau̱¹.lheh²",
+    "GHC": "xu¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "胡国"
+  },
+  {
+    "word": "𗶡𗁪",
+    "GX": "hau̱¹.thi̱w²",
+    "GHC": "xu¹.thew²",
+    "explanationEN": "",
+    "explanationCN": "壶头（地名）"
+  },
+  {
+    "word": "𗂧𘑨",
+    "GX": "lheh².γwu̱h²",
+    "GHC": "lhjịj².ꞏwu²",
+    "explanationEN": "",
+    "explanationCN": "护国"
+  },
+  {
+    "word": "𗂧𘑨𘏨𘗣",
+    "GX": "lheh².γwu̱h².lləh¹.dau̱²",
+    "GHC": "lhjịj².ꞏwu².ljɨ̣¹.du²",
+    "explanationEN": "",
+    "explanationCN": "护国宝塔"
+  },
+  {
+    "word": "𗂧𘑨𗎭",
+    "GX": "lheh².γwu̱h².mmi¹",
+    "GHC": "lhjịj².ꞏwu².mji̱¹",
+    "explanationEN": "",
+    "explanationCN": "护国宫"
+  },
+  {
+    "word": "𗂧𘑨𗤛",
+    "GX": "lheh².γwu̱h².tśoṃ¹",
+    "GHC": "lhjịj².ꞏwu².tśjow¹",
+    "explanationEN": "",
+    "explanationCN": "护国寺"
+  },
+  {
+    "word": "𗂧𘑨𗫔𗎭",
+    "GX": "lheh².γwu̱h².yi¹.mmi¹",
+    "GHC": "lhjịj².ꞏwu².ꞏji¹.mji̱¹",
+    "explanationEN": "",
+    "explanationCN": "护国寺"
+  },
+  {
+    "word": "𗨍𗁬",
+    "GX": "hwaa̱¹.tho̱ṃ¹",
+    "GHC": "xiwa¹.thow¹",
+    "explanationEN": "",
+    "explanationCN": "华佗"
+  },
+  {
+    "word": "𗶡𗁀",
+    "GX": "hau̱¹.qo̱¹",
+    "GHC": "xu¹.ko¹",
+    "explanationEN": "",
+    "explanationCN": "霍光"
+  },
+  {
+    "word": "𗺹𗁀",
+    "GX": "hi̱w¹.qo̱¹",
+    "GHC": "xew¹.ko¹",
+    "explanationEN": "",
+    "explanationCN": "霍光"
+  },
+  {
+    "word": "𗀝𗡗",
+    "GX": "rvwo̱r¹.ryawr²",
+    "GHC": "wor¹.ꞏja̱r²",
+    "explanationEN": "",
+    "explanationCN": "鸡"
+  },
+  {
+    "word": "𗀝𗀥",
+    "GX": "rvwo̱r¹.ti̱w¹",
+    "GHC": "wor¹.tew¹",
+    "explanationEN": "",
+    "explanationCN": "鸡蛋"
+  },
+  {
+    "word": "𗀝𗡗𗀥",
+    "GX": "rvwo̱r¹.ryawr².ti̱w¹",
+    "GHC": "wor¹.ꞏja̱r².tew¹",
+    "explanationEN": "",
+    "explanationCN": "鸡蛋"
   },
   {
     "word": "𗁡𗵫",
     "GX": "phi¹.geh¹",
-    "GHC": "phji¹.gjịj¹",
+    "GHC": "phji¹.gjịj¹",
     "explanationEN": "",
     "explanationCN": "箕宿"
   },
   {
-    "word": "𗁡𘎠",
-    "GX": "phi¹.sih¹",
-    "GHC": "phji¹.sjị¹",
+    "word": "𗀅𗄭",
+    "GX": "rza̱r².dzəh²",
+    "GHC": "zar².dzjɨ̣²",
     "explanationEN": "",
-    "explanationCN": "簸箕"
+    "explanationCN": "集校"
   },
   {
-    "word": "𗁡𘜻",
-    "GX": "phi¹.phaa̱¹",
-    "GHC": "phji¹.phia¹",
-    "explanationEN": "",
-    "explanationCN": "琵琶"
+    "word": "𘝵𗐱",
+    "GX": "ye¹.ni²",
+    "GHC": "ꞏjij¹.nji²",
+    "explanationEN": "self.PL",
+    "explanationCN": "己(复数)"
   },
   {
-    "word": "𗁣𗄾",
-    "GX": "dzə¹.se̱¹",
-    "GHC": "dzjɨ¹.sej¹",
+    "word": "𗀄𗳓",
+    "GX": "ŋwu̱².rśar¹",
+    "GHC": "ŋwu².śjar¹",
     "explanationEN": "",
-    "explanationCN": "《谨算》"
+    "explanationCN": "尖头"
   },
   {
-    "word": "𗁣𗍑",
-    "GX": "dzə¹.ŋkhə¹",
-    "GHC": "dzjɨ¹.khjɨ̱¹",
+    "word": "𗽕𗁪",
+    "GX": "qao̱ṃ².thi̱w²",
+    "GHC": "kiow².thew²",
     "explanationEN": "",
-    "explanationCN": "恭敬"
+    "explanationCN": "豇豆"
+  },
+  {
+    "word": "𗷭𗁬",
+    "GX": "kiṃ¹.tho̱ṃ¹",
+    "GHC": "kjĩ¹.thow¹",
+    "explanationEN": "",
+    "explanationCN": "金汤"
   },
   {
     "word": "𗁣𗧗",
@@ -498,200 +1450,627 @@ const WORD_DATA = [
     "explanationCN": "谨献"
   },
   {
-    "word": "𗁪𗊋",
-    "GX": "thi̱w².tsi²",
-    "GHC": "thew².tsji²",
+    "word": "𗦆𗂧",
+    "GX": "tsiṃ¹.lheh²",
+    "GHC": "tsjĩ¹.lhjịj²",
     "explanationEN": "",
-    "explanationCN": "铫子"
+    "explanationCN": "晋国"
   },
   {
-    "word": "𗁪𗙤𘞈",
-    "GX": "thi̱w².piṃ¹.ta̱ṃ¹",
-    "GHC": "thew².pjĩ¹.tã¹",
+    "word": "𗂎𗦺",
+    "GX": "tsheṃ².pha̱ṃ¹",
+    "GHC": "tshjɨj².phã¹",
     "explanationEN": "",
-    "explanationCN": "豆冰丹"
+    "explanationCN": "经判"
   },
   {
-    "word": "𗁪𗙪𗷌",
-    "GX": "thi̱w².kaṃ¹.ti̱¹",
-    "GHC": "thew².kjã¹.te¹",
+    "word": "𗂎𘝻𘟙",
+    "GX": "tsheṃ².qwo̱¹.ne²",
+    "GHC": "tshjɨj².kwo¹.njij²",
     "explanationEN": "",
-    "explanationCN": "窦建德"
+    "explanationCN": "靖郭君"
   },
   {
-    "word": "𗁪𗡝𗷌",
-    "GX": "thi̱w².ka¹.ti̱¹",
-    "GHC": "thew².kja¹.te¹",
+    "word": "𗢇𘄊",
+    "GX": "kiw¹.li¹",
+    "GHC": "kjiw¹.lji¹",
     "explanationEN": "",
-    "explanationCN": "窦建德"
+    "explanationCN": "九黎"
   },
   {
-    "word": "𗁪𗴼",
-    "GX": "thi̱w².khiw²",
-    "GHC": "thew².khjiw²",
+    "word": "𗢇𘄊𗂧",
+    "GX": "kiw¹.li¹.lheh²",
+    "GHC": "kjiw¹.lji¹.lhjịj²",
     "explanationEN": "",
-    "explanationCN": "豆蔻"
+    "explanationCN": "九黎国"
   },
   {
-    "word": "𗁪𘍑",
-    "GX": "thi̱w².leṃ¹",
-    "GHC": "thew².ljɨj¹",
+    "word": "𗢇𘄊𘟙",
+    "GX": "kiw¹.li¹.ne²",
+    "GHC": "kjiw¹.lji¹.njij²",
     "explanationEN": "",
-    "explanationCN": "头领（官名）"
+    "explanationCN": "九黎王"
   },
   {
-    "word": "𗁬𗂎",
-    "GX": "tho̱ṃ¹.tsheṃ²",
-    "GHC": "thow¹.tshjɨj²",
+    "word": "𗁅𗁀",
+    "GX": "lla̱h¹.qo̱¹",
+    "GHC": "lạ¹.ko¹",
     "explanationEN": "",
-    "explanationCN": "铜青"
+    "explanationCN": "掬"
   },
   {
-    "word": "𗁬𗕔𗜰",
-    "GX": "tho̱ṃ¹.the̱¹.tsu̱ṃ¹",
-    "GHC": "thow¹.thej¹.tsũ¹",
+    "word": "𗕾𗂧",
+    "GX": "ku¹.lheh²",
+    "GHC": "kju¹.lhjịj²",
     "explanationEN": "",
-    "explanationCN": "唐太宗"
+    "explanationCN": "莒国"
   },
   {
-    "word": "𗁬𗕜",
-    "GX": "tho̱ṃ¹.vwa̱²",
-    "GHC": "thow¹.wa²",
+    "word": "𗀄𗵶",
+    "GX": "ŋwu̱².ŋhe²",
+    "GHC": "ŋwu².xjij²",
     "explanationEN": "",
-    "explanationCN": "唐瓦"
+    "explanationCN": "开阔"
   },
   {
-    "word": "𗁬𗘊",
-    "GX": "tho̱ṃ¹.tshwu²",
-    "GHC": "thow¹.tshjwu²",
+    "word": "𗐪𗵆",
+    "GX": "qhao̱ṃ².śeṃ¹",
+    "GHC": "khjow².śjɨj¹",
     "explanationEN": "",
-    "explanationCN": "铜雀"
+    "explanationCN": "康成"
   },
   {
-    "word": "𗁬𗘊𗒪",
-    "GX": "tho̱ṃ¹.tshwu².vwa̱h²",
-    "GHC": "thow¹.tshjwu².wạ²",
+    "word": "𗐪𗕾",
+    "GX": "qhao̱ṃ².ku¹",
+    "GHC": "khjow².kju¹",
     "explanationEN": "",
-    "explanationCN": "铜雀台"
+    "explanationCN": "康居"
   },
   {
-    "word": "𗁬𗘊𗔕",
-    "GX": "tho̱ṃ¹.tshwu².rnir²",
-    "GHC": "thow¹.tshjwu².njir²",
+    "word": "𗐪𗕾𗂧",
+    "GX": "qhao̱ṃ².ku¹.lheh²",
+    "GHC": "khjow².kju¹.lhjịj²",
     "explanationEN": "",
-    "explanationCN": "铜雀台"
+    "explanationCN": "康居国"
   },
   {
-    "word": "𗁬𗠚𗥣",
-    "GX": "tho̱ṃ¹.thae̱h².tsu̱²",
-    "GHC": "thow¹.thẹj².tsu²",
+    "word": "𗐪𘜲",
+    "GX": "qhao̱ṃ².śu¹",
+    "GHC": "khjow².śju¹",
     "explanationEN": "",
-    "explanationCN": "唐太祖"
+    "explanationCN": "康叔"
   },
   {
-    "word": "𗁬𗤀",
-    "GX": "tho̱ṃ¹.śe¹",
-    "GHC": "thow¹.śjij¹",
+    "word": "𗐪𗲠",
+    "GX": "qhao̱ṃ².ŋa̱¹",
+    "GHC": "khjow².ŋa¹",
     "explanationEN": "",
-    "explanationCN": "唐朝"
+    "explanationCN": "空笼"
   },
   {
-    "word": "𗁬𗦺",
-    "GX": "tho̱ṃ¹.pha̱ṃ¹",
-    "GHC": "thow¹.phã¹",
+    "word": "𗥴𗂎",
+    "GX": "qho̱ṃ¹.tsheṃ²",
+    "GHC": "khow¹.tshjɨj²",
     "explanationEN": "",
-    "explanationCN": "通判"
+    "explanationCN": "空青"
   },
   {
-    "word": "𗁬𗱈",
-    "GX": "tho̱ṃ¹.lli̱²",
-    "GHC": "thow¹.le²",
+    "word": "𗥴𗁪",
+    "GX": "qho̱ṃ¹.thi̱w²",
+    "GHC": "khow¹.thew²",
     "explanationEN": "",
-    "explanationCN": "唐勒"
+    "explanationCN": "空头"
   },
   {
-    "word": "𗁬𗶃",
-    "GX": "tho̱ṃ¹.tśi²",
-    "GHC": "thow¹.tśji²",
+    "word": "𗐪𗺹",
+    "GX": "qhao̱ṃ².hi̱w¹",
+    "GHC": "khjow².xew¹",
     "explanationEN": "",
-    "explanationCN": "同知"
+    "explanationCN": "箜篌"
   },
   {
-    "word": "𗁬𘋨",
-    "GX": "tho̱ṃ¹.dzwə¹",
-    "GHC": "thow¹.dzjwɨ¹",
+    "word": "𗀝𗀪",
+    "GX": "rvwo̱r¹.lli̱²",
+    "GHC": "wor¹.le²",
     "explanationEN": "",
-    "explanationCN": "汤帝"
+    "explanationCN": "孔雀"
   },
   {
-    "word": "𗁬𘋺𗘼",
-    "GX": "tho̱ṃ¹.ṣuo¹.ŋgu¹",
-    "GHC": "thow¹.śio̱w¹.giu̱¹",
+    "word": "𗐪𘓾",
+    "GX": "qhao̱ṃ².yaṃ¹",
+    "GHC": "khjow².ꞏjã¹",
     "explanationEN": "",
-    "explanationCN": "唐叔虞"
+    "explanationCN": "孔𤥻"
   },
   {
-    "word": "𗁬𘍑",
-    "GX": "tho̱ṃ¹.leṃ¹",
-    "GHC": "thow¹.ljɨj¹",
-    "explanationEN": "",
-    "explanationCN": "统领（官名）"
+    "word": "𗦜𗥸",
+    "GX": "so².ŋwu̱²",
+    "GHC": "sjo².ŋwu²",
+    "explanationEN": "cry",
+    "explanationCN": "哭泣"
   },
   {
-    "word": "𗁬𘛫",
-    "GX": "tho̱ṃ¹.liw¹",
-    "GHC": "thow¹.ljiw¹",
+    "word": "𗐪𗤛𘋅",
+    "GX": "qhao̱ṃ².tśoṃ¹.sa̱ṃ¹",
+    "GHC": "khjow².tśjow¹.sã¹",
     "explanationEN": "",
-    "explanationCN": "屯留"
+    "explanationCN": "宽中散"
   },
   {
-    "word": "𗁬𘛻",
-    "GX": "tho̱ṃ¹.ndi¹",
-    "GHC": "thow¹.dji̱¹",
+    "word": "𗱞𗁪",
+    "GX": "la̱ṃ¹.thi̱w²",
+    "GHC": "lã¹.thew²",
     "explanationEN": "",
-    "explanationCN": "唐呢"
+    "explanationCN": "栏头（官名）"
   },
   {
-    "word": "𗁬𘝗",
-    "GX": "tho̱ṃ¹.yiw¹",
-    "GHC": "thow¹.ˑjiw¹",
+    "word": "𗕕𘇰",
+    "GX": "phə̱¹.tśhiṃ¹",
+    "GHC": "phə¹.tśhji¹",
     "explanationEN": "",
-    "explanationCN": "唐尧"
+    "explanationCN": "老牙"
+  },
+  {
+    "word": "𘝾𗁀𗦆",
+    "GX": "li².qo̱¹.tsiṃ¹",
+    "GHC": "lji².ko¹.tsjĩ¹",
+    "explanationEN": "",
+    "explanationCN": "李光近"
+  },
+  {
+    "word": "𘝾𗁀",
+    "GX": "li².qo̱¹",
+    "GHC": "lji².ko¹",
+    "explanationEN": "",
+    "explanationCN": "李广"
+  },
+  {
+    "word": "𘝾𗁀𘝿",
+    "GX": "li².qo̱¹.li²",
+    "GHC": "lji².ko¹.lji²",
+    "explanationEN": "",
+    "explanationCN": "李广利"
+  },
+  {
+    "word": "𘝾𗂎",
+    "GX": "li².tsheṃ²",
+    "GHC": "lji².tshjɨj²",
+    "explanationEN": "",
+    "explanationCN": "李靖"
+  },
+  {
+    "word": "𗉮𘃛",
+    "GX": "tśhə².rar²",
+    "GHC": "tśhjɨ².rjar²",
+    "explanationEN": "immediately",
+    "explanationCN": "立刻"
+  },
+  {
+    "word": "𗃛𗣼𗋿",
+    "GX": "loṃ¹.tśha².ryur¹",
+    "GHC": "ljow¹.tśhja².ꞏjur¹",
+    "explanationEN": "",
+    "explanationCN": "梁德養"
+  },
+  {
+    "word": "𗃛𗂧",
+    "GX": "loṃ¹.lheh²",
+    "GHC": "ljow¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "梁国"
+  },
+  {
+    "word": "𗃛𗂧𘓖",
+    "GX": "loṃ¹.lheh².qo̱ṃ¹",
+    "GHC": "ljow¹.lhjịj².kow¹",
+    "explanationEN": "",
+    "explanationCN": "梁国公"
+  },
+  {
+    "word": "𗃛𗥰𗏵",
+    "GX": "loṃ¹.la².ma¹",
+    "GHC": "ljow¹.lja².mja¹",
+    "explanationEN": "",
+    "explanationCN": "梁喇嘛"
+  },
+  {
+    "word": "𗃛𗥰𗿦",
+    "GX": "loṃ¹.la².ma¹",
+    "GHC": "ljow¹.lja².mja¹",
+    "explanationEN": "",
+    "explanationCN": "梁喇嘛"
+  },
+  {
+    "word": "𗃛𗤙𗎩𘞶",
+    "GX": "loṃ¹.da̱².qaa̱¹.mphu̱²",
+    "GHC": "ljow¹.da².kia¹.phu̱²",
+    "explanationEN": "",
+    "explanationCN": "梁老家茂"
+  },
+  {
+    "word": "𗃛𗤙𗎩𗰔",
+    "GX": "loṃ¹.da̱².qaa̱¹.yiw²",
+    "GHC": "ljow¹.da².kia¹.ꞏjiw²",
+    "explanationEN": "",
+    "explanationCN": "梁老家有"
+  },
+  {
+    "word": "𗃛𗹏𗘦𘞶",
+    "GX": "loṃ¹.do̱ṃ¹.dźe¹.mphu̱²",
+    "GHC": "ljow¹.dow¹.dźjij¹.phu̱²",
+    "explanationEN": "",
+    "explanationCN": "梁那征茂"
+  },
+  {
+    "word": "𗃛𗕑𗌰",
+    "GX": "loṃ¹.khə².pu̱h²",
+    "GHC": "ljow¹.khjɨ².pụ²",
+    "explanationEN": "",
+    "explanationCN": "梁乞逋"
+  },
+  {
+    "word": "𗃛𗸐𗍷",
+    "GX": "loṃ¹.ryər².dzeṃ²",
+    "GHC": "ljow¹.ꞏjɨr².dzjɨj²",
+    "explanationEN": "",
+    "explanationCN": "梁簽判"
+  },
+  {
+    "word": "𗃛𗸐𘏨",
+    "GX": "loṃ¹.ryər².lləh¹",
+    "GHC": "ljow¹.ꞏjɨr².ljɨ̣¹",
+    "explanationEN": "",
+    "explanationCN": "梁勤寶"
+  },
+  {
+    "word": "𗃛𘒂𘋨",
+    "GX": "loṃ¹.haa̱¹.dzwə¹",
+    "GHC": "ljow¹.xia¹.dzjwɨ¹",
+    "explanationEN": "",
+    "explanationCN": "梁孝王"
+  },
+  {
+    "word": "𗃛𘒂𘟙",
+    "GX": "loṃ¹.haa̱¹.ne²",
+    "GHC": "ljow¹.xia¹.njij²",
+    "explanationEN": "",
+    "explanationCN": "梁效王"
+  },
+  {
+    "word": "𗃛𗤩𗰹",
+    "GX": "loṃ¹.γwaṃ¹.tso̱ṃ²",
+    "GHC": "ljow¹.ɣjwã¹.tsow²",
+    "explanationEN": "",
+    "explanationCN": "梁元輔"
+  },
+  {
+    "word": "𗙃𘁇𗂧",
+    "GX": "liṃ¹.yə².lheh²",
+    "GHC": "ljĩ¹.ꞏjɨ².lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "林邑国"
+  },
+  {
+    "word": "𗅋𗿳",
+    "GX": "mi¹.dzeṃ¹",
+    "GHC": "mji¹.dzjɨj¹",
+    "explanationEN": "unexpectedly",
+    "explanationCN": "临时"
+  },
+  {
+    "word": "𗀄𘃰",
+    "GX": "ŋwu̱².dzwi̱w¹",
+    "GHC": "ŋwu².dzwew¹",
+    "explanationEN": "",
+    "explanationCN": "领襟"
+  },
+  {
+    "word": "𗀄𘈢",
+    "GX": "ŋwu̱².leṃh¹",
+    "GHC": "ŋwu².ljɨ̣j¹",
+    "explanationEN": "",
+    "explanationCN": "领襟"
+  },
+  {
+    "word": "𗂧𗵽",
+    "GX": "lheh².nllu²",
+    "GHC": "lhjịj².lju̱²",
+    "explanationEN": "",
+    "explanationCN": "领六"
+  },
+  {
+    "word": "𗏖𗁍",
+    "GX": "rer².bu¹",
+    "GHC": "rjijr².bju¹",
+    "explanationEN": "",
+    "explanationCN": "领谋"
+  },
+  {
+    "word": "𗓹𗁍",
+    "GX": "lweh¹.bu¹",
+    "GHC": "ljwịj¹.bju¹",
+    "explanationEN": "",
+    "explanationCN": "令部"
+  },
+  {
+    "word": "𘛫𗁡",
+    "GX": "liw¹.phi¹",
+    "GHC": "ljiw¹.phji¹",
+    "explanationEN": "",
+    "explanationCN": "刘备"
+  },
+  {
+    "word": "𗤁𗂧",
+    "GX": "tśhiw¹.lheh²",
+    "GHC": "tśhjiw¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "六国"
+  },
+  {
+    "word": "𗥡𗂧",
+    "GX": "lu̱².lheh²",
+    "GHC": "lu².lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "鲁国"
+  },
+  {
+    "word": "𗀄𗵘",
+    "GX": "ŋwu̱².tśa¹",
+    "GHC": "ŋwu².tśja¹",
+    "explanationEN": "",
+    "explanationCN": "路径"
+  },
+  {
+    "word": "𗰜𗴺",
+    "GX": "rmə̱r².ma¹",
+    "GHC": "mər².mja¹",
+    "explanationEN": "",
+    "explanationCN": "论"
+  },
+  {
+    "word": "𗙴𗁍",
+    "GX": "ra̱r¹.bu¹",
+    "GHC": "rar¹.bju¹",
+    "explanationEN": "",
+    "explanationCN": "啰布"
+  },
+  {
+    "word": "𗙴𗁍𗃞𗗿𗰔",
+    "GX": "ra̱r¹.bu¹.qə̱¹.ta̱¹.yiw²",
+    "GHC": "rar¹.bju¹.kə¹.ta¹.ꞏjiw²",
+    "explanationEN": "",
+    "explanationCN": "啰布小狗有"
+  },
+  {
+    "word": "𗆶𗆯𗆢",
+    "GX": "rar².tshə².qhwaə̱¹",
+    "GHC": "rjar².tshjɨ².khiwə¹",
+    "explanationEN": "",
+    "explanationCN": "萝卜菜"
+  },
+  {
+    "word": "𗓽𗁬",
+    "GX": "lo̱¹.tho̱ṃ¹",
+    "GHC": "lo¹.thow¹",
+    "explanationEN": "",
+    "explanationCN": "骆驼"
   },
   {
     "word": "𗁮𗗣𗔇",
     "GX": "tśhi¹.lwə̱².γu̱h²",
-    "GHC": "tśhji¹.lwə².ˑụ²",
+    "GHC": "tśhji¹.lwə².ꞏụ²",
     "explanationEN": "",
     "explanationCN": "买肉库"
   },
   {
-    "word": "𗂀𗥶",
-    "GX": "qo̱¹.lu²",
-    "GHC": "ko¹.lju²",
+    "word": "𗂽𗗣𗔇",
+    "GX": "ye².lwə̱².γu̱h²",
+    "GHC": "ꞏjij².lwə².ꞏụ²",
     "explanationEN": "",
-    "explanationCN": "光六"
+    "explanationCN": "買羊庫"
   },
   {
-    "word": "𗂀𘈫",
-    "GX": "qo̱¹.γu̱²",
-    "GHC": "ko¹.ˑu²",
+    "word": "𗓚𗁪",
+    "GX": "ma̱².thi̱w²",
+    "GHC": "ma².thew²",
     "explanationEN": "",
-    "explanationCN": "光武"
+    "explanationCN": "馒头"
   },
   {
-    "word": "𗂀𘈫𘋨",
-    "GX": "qo̱¹.γu̱².dzwə¹",
-    "GHC": "ko¹.ˑu².dzjwɨ¹",
+    "word": "𗩩𗂎",
+    "GX": "vaa̱ṃ².tsheṃ²",
+    "GHC": "ꞏwiã².tshjɨj²",
     "explanationEN": "",
-    "explanationCN": "光武帝"
+    "explanationCN": "曼倩"
   },
   {
-    "word": "𗂀𘔒",
-    "GX": "qo̱¹.ne²",
-    "GHC": "ko¹.njij²",
+    "word": "𘙊𘙊",
+    "GX": "lwi̱h².lwi̱h²",
+    "GHC": "lwe².lwe²",
+    "explanationEN": "slowly",
+    "explanationCN": "慢慢"
+  },
+  {
+    "word": "𗾞𗾞",
+    "GX": "nnə².nnə²",
+    "GHC": "njɨ̱².njɨ̱²",
+    "explanationEN": "everyday",
+    "explanationCN": "每天"
+  },
+  {
+    "word": "𗪨𗁀",
+    "GX": "mae̱².qo̱¹",
+    "GHC": "miej².ko¹",
     "explanationEN": "",
-    "explanationCN": "光宁"
+    "explanationCN": "孟光"
+  },
+  {
+    "word": "𗳣𗁬𗸹",
+    "GX": "mbi².tho̱ṃ¹.sə²",
+    "GHC": "bji̱².thow¹.sjɨ²",
+    "explanationEN": "",
+    "explanationCN": "蜜陀僧"
+  },
+  {
+    "word": "𗁍𗍗",
+    "GX": "bu¹.vwi̱²",
+    "GHC": "bju¹.we²",
+    "explanationEN": "",
+    "explanationCN": "谋卫"
+  },
+  {
+    "word": "𗁍𗤹",
+    "GX": "bu¹.γu¹",
+    "GHC": "bju¹.ɣju¹",
+    "explanationEN": "",
+    "explanationCN": "谋药"
+  },
+  {
+    "word": "𗑗𘓐𗀧𗠖",
+    "GX": "se̱¹.dzwo².nde².rγa̱r¹",
+    "GHC": "sej¹.dzjwo².dji̱j².ɣar¹",
+    "explanationEN": "",
+    "explanationCN": "谋智清人"
+  },
+  {
+    "word": "𗓰𗂓",
+    "GX": "na̱¹.ti̱w¹",
+    "GHC": "na¹.tew¹",
+    "explanationEN": "",
+    "explanationCN": "南斗"
+  },
+  {
+    "word": "𗑛𗂧",
+    "GX": "rzər¹.lheh²",
+    "GHC": "zjɨr¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "南国"
+  },
+  {
+    "word": "𘀍𗣊",
+    "GX": "na².mi²",
+    "GHC": "nja².mji²",
+    "explanationEN": "you.PL",
+    "explanationCN": "你们"
+  },
+  {
+    "word": "𘀍𘉑",
+    "GX": "na².mə¹",
+    "GHC": "nja².mjɨ¹",
+    "explanationEN": "you.PL",
+    "explanationCN": "你们"
+  },
+  {
+    "word": "𗆭𗪙𗎥",
+    "GX": "dźiw¹.rmu̱r¹.mmi¹",
+    "GHC": "dźjiw¹.mur¹.mji̱¹",
+    "explanationEN": "",
+    "explanationCN": "纽莽名"
+  },
+  {
+    "word": "𗓗𗂧",
+    "GX": "ndźu².lheh²",
+    "GHC": "dźju̱².lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "女国"
+  },
+  {
+    "word": "𗢪𗁪𗊄𘂆",
+    "GX": "pi¹.thi̱w².teṃ¹.tsə¹",
+    "GHC": "pji¹.thew².tjɨj¹.tsjɨ¹",
+    "explanationEN": "",
+    "explanationCN": "辔头钉子"
+  },
+  {
+    "word": "𗃊𗿆𗒵",
+    "GX": "pho̱¹.śe¹.qwa̱¹",
+    "GHC": "pho¹.śjij¹.kwa¹",
+    "explanationEN": "",
+    "explanationCN": "盆成括（人名）"
+  },
+  {
+    "word": "𗩙𗀇𗖋",
+    "GX": "phu̱¹.goṃ¹.swə²",
+    "GHC": "phu¹.gjow¹.sjwɨ²",
+    "explanationEN": "",
+    "explanationCN": "蓬莪术"
+  },
+  {
+    "word": "𗩙𗀇𗖶",
+    "GX": "phu̱¹.goṃ¹.swə¹",
+    "GHC": "phu¹.gjow¹.sjwɨ¹",
+    "explanationEN": "",
+    "explanationCN": "蓬莪术"
+  },
+  {
+    "word": "𗁡𘜻",
+    "GX": "phi¹.phaa̱¹",
+    "GHC": "phji¹.phia¹",
+    "explanationEN": "",
+    "explanationCN": "琵琶"
+  },
+  {
+    "word": "𘄿𗁪",
+    "GX": "te¹.thi̱w²",
+    "GHC": "tjij¹.thew²",
+    "explanationEN": "",
+    "explanationCN": "品度"
+  },
+  {
+    "word": "𗂤𘅌",
+    "GX": "baa̱².bu¹",
+    "GHC": "bia².bju¹",
+    "explanationEN": "",
+    "explanationCN": "匍匐"
+  },
+  {
+    "word": "𗀱𗼽",
+    "GX": "phao̱².si̱w²",
+    "GHC": "phio².sew²",
+    "explanationEN": "",
+    "explanationCN": "朴消"
+  },
+  {
+    "word": "𘄴𗂧",
+    "GX": "tshi¹.lheh²",
+    "GHC": "tshji¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "齐国"
+  },
+  {
+    "word": "𘅳𗂧",
+    "GX": "tshi¹.lheh²",
+    "GHC": "tshji¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "齐国"
+  },
+  {
+    "word": "𗣆𗁍",
+    "GX": "tsha².bu¹",
+    "GHC": "tshja².bju¹",
+    "explanationEN": "",
+    "explanationCN": "千谋"
+  },
+  {
+    "word": "𗐪𗦱",
+    "GX": "qhao̱ṃ².hwa̱¹",
+    "GHC": "khjow².xwa¹",
+    "explanationEN": "",
+    "explanationCN": "羌活"
+  },
+  {
+    "word": "𗣭𗂧",
+    "GX": "tshiṃ¹.lheh²",
+    "GHC": "tshji¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "秦国"
+  },
+  {
+    "word": "𗌹𗀝",
+    "GX": "rner¹.rvwo̱r¹",
+    "GHC": "njijr¹.wor¹",
+    "explanationEN": "",
+    "explanationCN": "禽兽"
   },
   {
     "word": "𗂎𗁡",
@@ -699,6 +2078,34 @@ const WORD_DATA = [
     "GHC": "tshjɨj².phji¹",
     "explanationEN": "",
     "explanationCN": "青皮"
+  },
+  {
+    "word": "𗂎𗟻",
+    "GX": "tsheṃ².phi¹",
+    "GHC": "tshjɨj².phji¹",
+    "explanationEN": "",
+    "explanationCN": "青皮"
+  },
+  {
+    "word": "𗂎𘁂",
+    "GX": "tsheṃ².ya²",
+    "GHC": "tshjɨj².ꞏja²",
+    "explanationEN": "",
+    "explanationCN": "青盐"
+  },
+  {
+    "word": "𗂎𘓾",
+    "GX": "tsheṃ².yaṃ¹",
+    "GHC": "tshjɨj².ꞏjã¹",
+    "explanationEN": "",
+    "explanationCN": "青盐"
+  },
+  {
+    "word": "𗂎𗭯",
+    "GX": "tsheṃ².yoṃ¹",
+    "GHC": "tshjɨj².ꞏjow¹",
+    "explanationEN": "",
+    "explanationCN": "青羊"
   },
   {
     "word": "𗂎𗉔",
@@ -715,46 +2122,11 @@ const WORD_DATA = [
     "explanationCN": "青州蝎"
   },
   {
-    "word": "𗂎𗟻",
-    "GX": "tsheṃ².phi¹",
-    "GHC": "tshjɨj².phji¹",
-    "explanationEN": "",
-    "explanationCN": "青皮"
-  },
-  {
-    "word": "𗂎𗦺",
-    "GX": "tsheṃ².pha̱ṃ¹",
-    "GHC": "tshjɨj².phã¹",
-    "explanationEN": "",
-    "explanationCN": "经判"
-  },
-  {
     "word": "𗂎𗨍",
     "GX": "tsheṃ².hwaa̱¹",
     "GHC": "tshjɨj².xiwa¹",
     "explanationEN": "",
     "explanationCN": "清发"
-  },
-  {
-    "word": "𗂎𗭯",
-    "GX": "tsheṃ².yoṃ¹",
-    "GHC": "tshjɨj².ˑjow¹",
-    "explanationEN": "",
-    "explanationCN": "青羊"
-  },
-  {
-    "word": "𗂎𘁂",
-    "GX": "tsheṃ².ya²",
-    "GHC": "tshjɨj².ˑja²",
-    "explanationEN": "",
-    "explanationCN": "青盐"
-  },
-  {
-    "word": "𗂎𘓾",
-    "GX": "tsheṃ².yaṃ¹",
-    "GHC": "tshjɨj².ˑjã¹",
-    "explanationEN": "",
-    "explanationCN": "青盐"
   },
   {
     "word": "𗂎𘙾",
@@ -764,186 +2136,627 @@ const WORD_DATA = [
     "explanationCN": "清河"
   },
   {
-    "word": "𗂎𘝻𘟙",
-    "GX": "tsheṃ².qwo̱¹.ne²",
-    "GHC": "tshjɨj².kwo¹.njij²",
-    "explanationEN": "",
-    "explanationCN": "靖郭君"
+    "word": "𘛴𗤂",
+    "GX": "ŋġu̱¹.di²",
+    "GHC": "gu̱¹.dji²",
+    "explanationEN": "dispel",
+    "explanationCN": "祛除"
   },
   {
-    "word": "𗂏𗉔",
-    "GX": "yu¹.tśiw¹",
-    "GHC": "ˑju¹.tśjiw¹",
+    "word": "𘕺𗁪",
+    "GX": "gu¹.thi̱w²",
+    "GHC": "gju¹.thew²",
     "explanationEN": "",
-    "explanationCN": "豫州"
+    "explanationCN": "渠头（官名）"
   },
   {
-    "word": "𗂏𗚒",
-    "GX": "yu¹.khu²",
-    "GHC": "ˑju¹.khju²",
-    "explanationEN": "",
-    "explanationCN": "榆楸"
+    "word": "𗑔𗅐",
+    "GX": "mə̱².la̱²",
+    "GHC": "mə².la²",
+    "explanationEN": "indeed",
+    "explanationCN": "确实"
   },
   {
-    "word": "𗂏𗤭",
-    "GX": "yu¹.ywiṃ¹",
-    "GHC": "ˑju¹.ˑjwĩ¹",
+    "word": "𗸯𘟠",
+    "GX": "dźwu¹.dzu̱¹",
+    "GHC": "dźjwu¹.dzu¹",
     "explanationEN": "",
-    "explanationCN": "虞尹"
+    "explanationCN": "仁爱"
   },
   {
-    "word": "𗂏𘄠",
-    "GX": "yu¹.tśha²",
-    "GHC": "ˑju¹.tśhja²",
+    "word": "𗱡𗁪𗴼",
+    "GX": "źwu².thi̱w².khiw²",
+    "GHC": "źjwu².thew².khjiw²",
     "explanationEN": "",
-    "explanationCN": "虞阐"
+    "explanationCN": "肉豆蔻"
   },
   {
-    "word": "𗂏𘓖",
-    "GX": "yu¹.qo̱ṃ¹",
-    "GHC": "ˑju¹.kow¹",
+    "word": "𗱡𗁪𗽭",
+    "GX": "źwu².thi̱w².qhi̱w²",
+    "GHC": "źjwu².thew².khew²",
     "explanationEN": "",
-    "explanationCN": "虞衮"
+    "explanationCN": "肉豆蔻"
   },
   {
-    "word": "𗂏𘓖𗔨𗬐",
-    "GX": "yu¹.qo̱ṃ¹.tṣaə̱².sə̱¹",
-    "GHC": "ˑju¹.kow¹.tśiə².sə¹",
+    "word": "𗋾𗁪",
+    "GX": "źu².thi̱w²",
+    "GHC": "źju².thew²",
     "explanationEN": "",
-    "explanationCN": "虞公之斯"
+    "explanationCN": "乳头（食品）"
   },
   {
-    "word": "𗂏𘓖𗽇",
-    "GX": "yu¹.qo̱ṃ¹.tṣhaa̱¹",
-    "GHC": "ˑju¹.kow¹.tśhia¹",
+    "word": "𘋻𗁪",
+    "GX": "źu².thi̱w²",
+    "GHC": "źju².thew²",
     "explanationEN": "",
-    "explanationCN": "虞公差"
+    "explanationCN": "乳头（食品）"
   },
   {
-    "word": "𗂏𘝗",
-    "GX": "yu¹.yiw¹",
-    "GHC": "ˑju¹.ˑjiw¹",
+    "word": "𘋅𗥻𗁡",
+    "GX": "sa̱ṃ¹.phai̱¹.phi¹",
+    "GHC": "sã¹.phie¹.phji¹",
     "explanationEN": "",
-    "explanationCN": "余姚"
+    "explanationCN": "桑白皮"
   },
   {
-    "word": "𗂓𗂓",
-    "GX": "ti̱w¹.ti̱w¹",
-    "GHC": "tew¹.tew¹",
+    "word": "𘔏𗃞𗘄",
+    "GX": "bi̱h¹.qə̱¹.ta̱¹",
+    "GHC": "bẹ¹.kə¹.ta¹",
+    "explanationEN": "sand.dog(mole.cricket)",
+    "explanationCN": "沙.狗(蝼蛄)"
+  },
+  {
+    "word": "𗀰𗀰",
+    "GX": "lhəh¹.lhəh¹",
+    "GHC": "lhjɨ̣¹.lhjɨ̣¹",
     "explanationEN": "",
-    "explanationCN": "东斗"
+    "explanationCN": "闪闪"
+  },
+  {
+    "word": "𗠒𗹭",
+    "GX": "bə¹.be²",
+    "GHC": "bjɨ¹.bjij²",
+    "explanationEN": "above",
+    "explanationCN": "上面"
+  },
+  {
+    "word": "𗨁𗂧𗥍",
+    "GX": "phu².lheh².guh²",
+    "GHC": "phju².lhjịj².gjụ²",
+    "explanationEN": "",
+    "explanationCN": "上柱国"
+  },
+  {
+    "word": "𘞐𗙼𘌜𗁡𗙢",
+    "GX": "nśu¹.yu².pai̱¹.phi¹.vwa̱ṃ²",
+    "GHC": "śju̱¹.ꞏju².pie¹.phji¹.wã²",
+    "explanationEN": "",
+    "explanationCN": "芍药檗皮丸"
+  },
+  {
+    "word": "𗨝𘊴𗁀",
+    "GX": "śiṃ¹.thu̱¹.qo̱¹",
+    "GHC": "śjĩ¹.thu¹.ko¹",
+    "explanationEN": "",
+    "explanationCN": "申屠刚"
+  },
+  {
+    "word": "𗃇𘔝𘔝",
+    "GX": "la¹.ne².ne²",
+    "GHC": "lja¹.njij².njij²",
+    "explanationEN": "",
+    "explanationCN": "深深藏、逃之夭夭"
+  },
+  {
+    "word": "𘓂𘙌",
+    "GX": "ləh¹.kə¹",
+    "GHC": "ljɨ̣¹.kjɨ¹",
+    "explanationEN": "what;who;which",
+    "explanationCN": "什么；谁；哪个"
+  },
+  {
+    "word": "𘕣𗍊",
+    "GX": "vwa̱².su²",
+    "GHC": "wa².sju²",
+    "explanationEN": "what kind",
+    "explanationCN": "什么样"
+  },
+  {
+    "word": "𘄽𘄽",
+    "GX": "ŋa̱h².ŋa̱h²",
+    "GHC": "ŋạ².ŋạ²",
+    "explanationEN": "really;very;well",
+    "explanationCN": "甚"
+  },
+  {
+    "word": "𗻼𗁀",
+    "GX": "ṣae̱ṃ¹.qo̱¹",
+    "GHC": "śiəj¹.ko¹",
+    "explanationEN": "",
+    "explanationCN": "生姜"
+  },
+  {
+    "word": "𗿍𗀝",
+    "GX": "śaw¹.rvwo̱r¹",
+    "GHC": "śja̱¹.wor¹",
+    "explanationEN": "",
+    "explanationCN": "鸤鸠"
+  },
+  {
+    "word": "𘆅𗹛",
+    "GX": "qa̱².tśe²",
+    "GHC": "ka².tśjij²",
+    "explanationEN": "",
+    "explanationCN": "狮子"
+  },
+  {
+    "word": "𘆅𗹛𗎭",
+    "GX": "qa̱².tśe².mmi¹",
+    "GHC": "ka².tśjij².mji̱¹",
+    "explanationEN": "",
+    "explanationCN": "狮子宫"
+  },
+  {
+    "word": "𘆅𗹛𗦖𗎭",
+    "GX": "qa̱².tśe².rmer².mmi¹",
+    "GHC": "ka².tśjij².mjijr².mji̱¹",
+    "explanationEN": "",
+    "explanationCN": "狮子星宫"
+  },
+  {
+    "word": "𗰗𗍫𗎭",
+    "GX": "γa̱h².nnə¹.mmi¹",
+    "GHC": "ɣạ².njɨ̱¹.mji̱¹",
+    "explanationEN": "",
+    "explanationCN": "十二宫"
+  },
+  {
+    "word": "𗫍𗁪",
+    "GX": "śi¹.thi̱w²",
+    "GHC": "śji¹.thew²",
+    "explanationEN": "",
+    "explanationCN": "食窦"
+  },
+  {
+    "word": "𗁅𗁂",
+    "GX": "lla̱h¹.dziw²",
+    "GHC": "lạ¹.dzjiw²",
+    "explanationEN": "",
+    "explanationCN": "手铐"
+  },
+  {
+    "word": "𗁅𘃎",
+    "GX": "lla̱h¹.pah¹",
+    "GHC": "lạ¹.pjạ¹",
+    "explanationEN": "",
+    "explanationCN": "手掌"
+  },
+  {
+    "word": "𗱭𗁪",
+    "GX": "śiw².thi̱w²",
+    "GHC": "śjiw².thew²",
+    "explanationEN": "",
+    "explanationCN": "兽头"
+  },
+  {
+    "word": "𗱭𗁪𘞄𘂆",
+    "GX": "śiw².thi̱w².nlə¹.tsə¹",
+    "GHC": "śjiw².thew².ljɨ̱¹.tsjɨ¹",
+    "explanationEN": "",
+    "explanationCN": "兽头旗子（法器）"
+  },
+  {
+    "word": "𘋺𗂧",
+    "GX": "ṣuo¹.lheh²",
+    "GHC": "śio̱w¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "蜀国"
+  },
+  {
+    "word": "𘜲𗂧",
+    "GX": "śu¹.lheh²",
+    "GHC": "śju¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "蜀国"
+  },
+  {
+    "word": "𗀁𗡕",
+    "GX": "sa̱².nu²",
+    "GHC": "sa.nju²",
+    "explanationEN": "",
+    "explanationCN": "吮吸"
+  },
+  {
+    "word": "𗀚𗼵𗢩𘊴𘏸",
+    "GX": "ṣao̱¹.hao̱².tsa¹.thu̱¹.ṣaə̱¹",
+    "GHC": "śio¹.xjow².tsja¹.thu¹.śiə¹",
+    "explanationEN": "",
+    "explanationCN": "朔方节度使"
+  },
+  {
+    "word": "𗥃𗂧",
+    "GX": "rllər¹.lheh²",
+    "GHC": "ljɨr¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "四国"
+  },
+  {
+    "word": "𗐾𗁀",
+    "GX": "swi̱ṃ¹.qo̱¹",
+    "GHC": "swẽ¹.ko¹",
+    "explanationEN": "",
+    "explanationCN": "宋光"
+  },
+  {
+    "word": "𗐾𗂧",
+    "GX": "swi̱ṃ¹.lheh²",
+    "GHC": "swẽ¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "宋国"
+  },
+  {
+    "word": "𗫐𗂧",
+    "GX": "su̱¹.lheh²",
+    "GHC": "su¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "苏国"
+  },
+  {
+    "word": "𗉢𗉔",
+    "GX": "śwa¹.tśiw¹",
+    "GHC": "śjwa¹.tśjiw¹",
+    "explanationEN": "",
+    "explanationCN": "绥州"
+  },
+  {
+    "word": "𘏽𗂧",
+    "GX": "swi¹.lheh²",
+    "GHC": "sjwi¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "隋国"
+  },
+  {
+    "word": "𗀹𗼷𗿦",
+    "GX": "zi¹.γa̱¹.ma¹",
+    "GHC": "zji¹.ɣa¹.mja¹",
+    "explanationEN": "",
+    "explanationCN": "碎媳妇（人名）"
+  },
+  {
+    "word": "𗁁𗁁",
+    "GX": "ve².ve²",
+    "GHC": "wjij².wjij²",
+    "explanationEN": "",
+    "explanationCN": "所有"
+  },
+  {
+    "word": "𗳱𗐱",
+    "GX": "tha².ni²",
+    "GHC": "thja².nji²",
+    "explanationEN": "they(anaphoric)",
+    "explanationCN": "他们(回指)"
+  },
+  {
+    "word": "𗕔𘌜",
+    "GX": "the̱¹.pai̱¹",
+    "GHC": "thej¹.pie¹",
+    "explanationEN": "",
+    "explanationCN": "太伯"
+  },
+  {
+    "word": "𗕔𘓖",
+    "GX": "the̱¹.qo̱ṃ¹",
+    "GHC": "thej¹.kow¹",
+    "explanationEN": "",
+    "explanationCN": "太公"
+  },
+  {
+    "word": "𗕔𘏸",
+    "GX": "the̱¹.ṣaə̱¹",
+    "GHC": "thej¹.śiə¹",
+    "explanationEN": "",
+    "explanationCN": "太史/太师"
+  },
+  {
+    "word": "𗕔𘏸𘓖",
+    "GX": "the̱¹.ṣaə̱¹.qo̱ṃ¹",
+    "GHC": "thej¹.śiə¹.kow¹",
+    "explanationEN": "",
+    "explanationCN": "太史公"
+  },
+  {
+    "word": "𗕔𘏸𘟀",
+    "GX": "the̱¹.ṣaə̱¹.le²",
+    "GHC": "thej¹.śiə¹.ljij²",
+    "explanationEN": "",
+    "explanationCN": "太史令"
+  },
+  {
+    "word": "𗁬𘋨",
+    "GX": "tho̱ṃ¹.dzwə¹",
+    "GHC": "thow¹.dzjwɨ¹",
+    "explanationEN": "",
+    "explanationCN": "汤帝"
+  },
+  {
+    "word": "𗁬𗤀",
+    "GX": "tho̱ṃ¹.śe¹",
+    "GHC": "thow¹.śjij¹",
+    "explanationEN": "",
+    "explanationCN": "唐朝"
+  },
+  {
+    "word": "𗁬𗱈",
+    "GX": "tho̱ṃ¹.lli̱²",
+    "GHC": "thow¹.le²",
+    "explanationEN": "",
+    "explanationCN": "唐勒"
+  },
+  {
+    "word": "𗁬𘛻",
+    "GX": "tho̱ṃ¹.ndi¹",
+    "GHC": "thow¹.dji̱¹",
+    "explanationEN": "",
+    "explanationCN": "唐呢"
+  },
+  {
+    "word": "𗁬𘋺𗘼",
+    "GX": "tho̱ṃ¹.ṣuo¹.ŋgu¹",
+    "GHC": "thow¹.śio̱w¹.gju̱¹",
+    "explanationEN": "",
+    "explanationCN": "唐叔虞"
+  },
+  {
+    "word": "𗁬𗕔𗜰",
+    "GX": "tho̱ṃ¹.the̱¹.tsu̱ṃ¹",
+    "GHC": "thow¹.thej¹.tsũ¹",
+    "explanationEN": "",
+    "explanationCN": "唐太宗"
+  },
+  {
+    "word": "𗁬𗠚𗥣",
+    "GX": "tho̱ṃ¹.thae̱h².tsu̱²",
+    "GHC": "thow¹.thẹj².tsu²",
+    "explanationEN": "",
+    "explanationCN": "唐太祖"
+  },
+  {
+    "word": "𗁬𗕜",
+    "GX": "tho̱ṃ¹.vwa̱²",
+    "GHC": "thow¹.wa¹",
+    "explanationEN": "",
+    "explanationCN": "唐瓦"
+  },
+  {
+    "word": "𗁬𘝗",
+    "GX": "tho̱ṃ¹.yiw¹",
+    "GHC": "thow¹.ꞏjiw¹",
+    "explanationEN": "",
+    "explanationCN": "唐尧"
   },
   {
     "word": "𗂖𗩚𘋯",
     "GX": "rbo̱ṃr¹.dau̱¹.yeṃ²",
-    "GHC": "bowr¹.du¹.ˑjɨj²",
+    "GHC": "bowr¹.du¹.ꞏjɨj²",
     "explanationEN": "",
     "explanationCN": "套袋"
   },
   {
     "word": "𗂖𗩚𘋯𗍅",
     "GX": "rbo̱ṃr¹.dau̱¹.yeṃ².rkər¹",
-    "GHC": "bowr¹.du¹.ˑjɨj².kjɨ̱r¹",
+    "GHC": "bowr¹.du¹.ꞏjɨj².kjɨ̱r¹",
     "explanationEN": "",
     "explanationCN": "套袋匠"
   },
   {
-    "word": "𗂘𗄿",
-    "GX": "rker².llu̱h²",
-    "GHC": "kji̱r².lụ²",
+    "word": "𘓷𗙀𗅲𗯿𗂧𗴴",
+    "GX": "rqwə̱r¹.mbu².teṃh².rvwe̱r¹.lheh².re̱r²",
+    "GHC": "kwər¹.bju̱².tjɨ̣j².wejr¹.lhjịj².lhejr²",
     "explanationEN": "",
-    "explanationCN": "阳萎"
+    "explanationCN": "天赐礼盛国庆"
   },
   {
-    "word": "𗂤𘅌",
-    "GX": "baa̱².bu¹",
-    "GHC": "bia².bju¹",
+    "word": "𘄱𗁬",
+    "GX": "theṃ¹.tho̱ṃ¹",
+    "GHC": "thjɨj¹.thow¹",
     "explanationEN": "",
-    "explanationCN": "匍匐"
+    "explanationCN": "天堂"
   },
   {
-    "word": "𗂧𗪚𘂀𗴴",
-    "GX": "lheh².dau̱¹.se².re̱r²",
-    "GHC": "lhjịj².du¹.sjij².lhejr²",
+    "word": "𘓺𗫸𗁣𘇚",
+    "GX": "rŋwə̱r¹.yih².dzə¹.mmi²",
+    "GHC": "ŋwər¹.ꞏjị².dzjɨ¹.mji̱²",
     "explanationEN": "",
-    "explanationCN": "国泰民安"
+    "explanationCN": "天仪治平"
   },
   {
-    "word": "𗂧𗵽",
-    "GX": "lheh².nllu²",
-    "GHC": "lhjịj².lju̱²",
+    "word": "𗁬𗦺",
+    "GX": "tho̱ṃ¹.pha̱ṃ¹",
+    "GHC": "thow¹.phã¹",
     "explanationEN": "",
-    "explanationCN": "领六"
+    "explanationCN": "通判"
   },
   {
-    "word": "𗂧𘎆𗸒𘚜𗣼𗴀𗨮",
-    "GX": "lheh².dźwə¹.su̱¹.lhweh¹.tśha².so̱².kah²",
-    "GHC": "lhjịj².dźjwɨ¹.su¹.lhjwịj¹.tśhja².so².kjạ²",
+    "word": "𗁬𗶃",
+    "GX": "tho̱ṃ¹.tśi²",
+    "GHC": "thow¹.tśji²",
     "explanationEN": "",
-    "explanationCN": "《夏比邻国德高歌》"
+    "explanationCN": "同知"
   },
   {
-    "word": "𗂧𘑨",
-    "GX": "lheh².γwu̱h²",
-    "GHC": "lhjịj².ˑwụ²",
+    "word": "𗁬𗂎",
+    "GX": "tho̱ṃ¹.tsheṃ²",
+    "GHC": "thow¹.tshjɨj²",
     "explanationEN": "",
-    "explanationCN": "护国"
+    "explanationCN": "铜青"
   },
   {
-    "word": "𗂧𘑨𗎭",
-    "GX": "lheh².γwu̱h².mmi¹",
-    "GHC": "lhjịj².ˑwụ².mji̱¹",
+    "word": "𗁬𗘊",
+    "GX": "tho̱ṃ¹.tshwu²",
+    "GHC": "thow¹.tshjwu²",
     "explanationEN": "",
-    "explanationCN": "护国宫"
+    "explanationCN": "铜雀"
   },
   {
-    "word": "𗂧𘑨𗤛",
-    "GX": "lheh².γwu̱h².tśoṃ¹",
-    "GHC": "lhjịj².ˑwụ².tśjow¹",
+    "word": "𗁬𗘊𗒪",
+    "GX": "tho̱ṃ¹.tshwu².vwa̱h²",
+    "GHC": "thow¹.tshjwu².wạ²",
     "explanationEN": "",
-    "explanationCN": "护国寺"
+    "explanationCN": "铜雀台"
   },
   {
-    "word": "𗂧𘑨𗫔𗎭",
-    "GX": "lheh².γwu̱h².yi¹.mmi¹",
-    "GHC": "lhjịj².ˑwụ².ˑji¹.mji̱¹",
+    "word": "𗁬𗘊𗔕",
+    "GX": "tho̱ṃ¹.tshwu².rnir²",
+    "GHC": "thow¹.tshjwu².njir²",
     "explanationEN": "",
-    "explanationCN": "护国寺"
+    "explanationCN": "铜雀台"
   },
   {
-    "word": "𗂧𘑨𗫔𗎭𗨮",
-    "GX": "lheh².γwu̱h².yi¹.mmi¹.kah²",
-    "GHC": "lhjịj².ˑwụ².ˑji¹.mji̱¹.kjạ²",
+    "word": "𗁬𘍑",
+    "GX": "tho̱ṃ¹.leṃ¹",
+    "GHC": "thow¹.ljɨj¹",
     "explanationEN": "",
-    "explanationCN": "《护国寺歌》"
+    "explanationCN": "统领（官名）"
   },
   {
-    "word": "𗂧𘑨𘏨𘗣",
-    "GX": "lheh².γwu̱h².lləh¹.dau̱²",
-    "GHC": "lhjịj².ˑwụ².ljɨ̣¹.du²",
+    "word": "𗁪𘍑",
+    "GX": "thi̱w².leṃ¹",
+    "GHC": "thew².ljɨj¹",
     "explanationEN": "",
-    "explanationCN": "护国宝塔"
+    "explanationCN": "头领（官名）"
   },
   {
-    "word": "𗂧𘟙",
-    "GX": "lheh².ne²",
-    "GHC": "lhjịj².njij²",
+    "word": "𗀄𗏇",
+    "GX": "ŋwu̱².di²",
+    "GHC": "ŋwu².dji²",
     "explanationEN": "",
-    "explanationCN": "国王"
+    "explanationCN": "头子"
   },
   {
-    "word": "𗂧𘟙𘜶",
-    "GX": "lheh².ne².lleh²",
-    "GHC": "lhjịj².njij².ljịj²",
+    "word": "𗁬𘛫",
+    "GX": "tho̱ṃ¹.liw¹",
+    "GHC": "thow¹.ljiw¹",
     "explanationEN": "",
-    "explanationCN": "大国王"
+    "explanationCN": "屯留"
   },
   {
-    "word": "𗂰𗂧",
-    "GX": "li².lheh²",
-    "GHC": "lji².lhjịj²",
+    "word": "𗁅𗚖",
+    "GX": "lla̱h¹.lhoṃ²",
+    "GHC": "lạ¹.lhjo̱r¹",
     "explanationEN": "",
-    "explanationCN": "西国（西域）"
+    "explanationCN": "庹"
+  },
+  {
+    "word": "𗁠𘞽",
+    "GX": "vwo̱ṃ².zəh¹",
+    "GHC": "wow².zjɨ̣¹",
+    "explanationEN": "",
+    "explanationCN": "王母"
+  },
+  {
+    "word": "𗁠𘞽𗴺𘖖𗤛",
+    "GX": "vwo̱ṃ².zəh¹.ma¹.mə¹.tśoṃ¹",
+    "GHC": "wow².zjɨ̣¹.mja¹.mjɨ¹.tśjow¹",
+    "explanationEN": "",
+    "explanationCN": "王母娘娘庙"
+  },
+  {
+    "word": "𗔬𗂧",
+    "GX": "vwi̱².lheh²",
+    "GHC": "we².lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "卫/魏国"
+  },
+  {
+    "word": "𘃣𗂧",
+    "GX": "vi².lheh²",
+    "GHC": "wji².lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "卫/魏国"
+  },
+  {
+    "word": "𗔬𘓖𘝾𗂎",
+    "GX": "vwi̱².qo̱ṃ¹.li².tsheṃ²",
+    "GHC": "we².kow¹.lji².tshjɨj²",
+    "explanationEN": "",
+    "explanationCN": "卫公李靖"
+  },
+  {
+    "word": "𗍗𗂧",
+    "GX": "vwi̱².lheh²",
+    "GHC": "we².lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "卫国"
+  },
+  {
+    "word": "𘕣𘔼",
+    "GX": "vwa̱².nuo¹",
+    "GHC": "wa².nio̱w¹",
+    "explanationEN": "why(cause)",
+    "explanationCN": "为什么(原因）"
+  },
+  {
+    "word": "𗩇𗁬",
+    "GX": "vwi̱ṃ¹.tho̱ṃ¹",
+    "GHC": "wẽ¹.thow¹",
+    "explanationEN": "",
+    "explanationCN": "文通"
+  },
+  {
+    "word": "𗧦𘉑",
+    "GX": "gə².mə¹",
+    "GHC": "gjɨ².mjɨ¹",
+    "explanationEN": "we.two(exclusive)",
+    "explanationCN": "我俩(排除式)"
+  },
+  {
+    "word": "𗧦𗣊",
+    "GX": "gə².mi²",
+    "GHC": "gjɨ².mji²",
+    "explanationEN": "we(exclusive)",
+    "explanationCN": "我们(排除式)"
+  },
+  {
+    "word": "𘅰𗒯𗂧",
+    "GX": "γu̱¹.khi¹.lheh²",
+    "GHC": "ɣu¹.khji¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "乌耆国"
+  },
+  {
+    "word": "𘅰𗂧",
+    "GX": "γu̱¹.lheh²",
+    "GHC": "ɣu¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "吴国"
+  },
+  {
+    "word": "𘈫𘔺𗟦𗂧",
+    "GX": "γu̱².khi².ma̱ṃ¹.lheh²",
+    "GHC": "ꞏu².khji².mã¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "五溪蛮国"
+  },
+  {
+    "word": "𗋙𗁍",
+    "GX": "və².bu¹",
+    "GHC": "wjɨ².bju¹",
+    "explanationEN": "",
+    "explanationCN": "勿布"
+  },
+  {
+    "word": "𗋙𗁍𗘂𗫉",
+    "GX": "və².bu¹.khwə¹.mbae̱¹",
+    "GHC": "wjɨ².bju¹.khjwɨ¹.bie̱j¹",
+    "explanationEN": "",
+    "explanationCN": "勿布犬乐"
+  },
+  {
+    "word": "𘈫𗁀",
+    "GX": "γu̱².qo̱¹",
+    "GHC": "ꞏu².ko¹",
+    "explanationEN": "",
+    "explanationCN": "务光"
   },
   {
     "word": "𗂰𗏣𘟙𗣫",
@@ -953,11 +2766,11 @@ const WORD_DATA = [
     "explanationCN": "西伯"
   },
   {
-    "word": "𗂰𗔬𗤀",
-    "GX": "li².vwi̱².śe¹",
-    "GHC": "lji².we².śjij¹",
+    "word": "𗂰𗂧",
+    "GX": "li².lheh²",
+    "GHC": "lji².lhjịj²",
     "explanationEN": "",
-    "explanationCN": "西魏朝"
+    "explanationCN": "西国（西域）"
   },
   {
     "word": "𗂰𗗚",
@@ -967,18 +2780,32 @@ const WORD_DATA = [
     "explanationCN": "西海"
   },
   {
+    "word": "𗂰𗦆𗤀",
+    "GX": "li².tsiṃ¹.śe¹",
+    "GHC": "lji².tsjĩ¹.śjij¹",
+    "explanationEN": "",
+    "explanationCN": "西晋朝"
+  },
+  {
+    "word": "𗂰𘊐𗤡",
+    "GX": "li².ke¹.ŋgi¹",
+    "GHC": "lji².kjij¹.gji̱¹",
+    "explanationEN": "",
+    "explanationCN": "西京尹"
+  },
+  {
     "word": "𗂰𗝢𘑗",
     "GX": "li².la̱ṃ¹.rŋə̱r¹",
-    "GHC": "lji².lã¹.ŋər¹",
+    "GHC": "lji².lã¹.ŋər¹",
     "explanationEN": "",
     "explanationCN": "西兰山"
   },
   {
-    "word": "𗂰𗦆𗤀",
-    "GX": "li².tsiṃ¹.śe¹",
-    "GHC": "lji².tsjĩ¹.śjij¹",
+    "word": "𗂰𗪇𗎭",
+    "GX": "li².bu̱¹.mmi¹",
+    "GHC": "lji².bu¹.mji̱¹",
     "explanationEN": "",
-    "explanationCN": "西晋朝"
+    "explanationCN": "西沒宮"
   },
   {
     "word": "𗂰𗪚",
@@ -1004,42 +2831,49 @@ const WORD_DATA = [
   {
     "word": "𗂰𗹦𗂧",
     "GX": "li².mə̱¹.lheh²",
-    "GHC": "lji².mə¹.lhjịj²",
+    "GHC": "lji².mə¹.lhjịj²",
     "explanationEN": "",
     "explanationCN": "西天国（天竺）"
   },
   {
-    "word": "𗂰𘊐𗤡",
-    "GX": "li².ke¹.ŋgi¹",
-    "GHC": "lji².kjij¹.gji̱¹",
+    "word": "𗜫𗇊𗂧",
+    "GX": "si¹.the².lheh²",
+    "GHC": "sji¹.thjij².lhjịj²",
     "explanationEN": "",
-    "explanationCN": "西京尹"
+    "explanationCN": "西天国（天竺）"
+  },
+  {
+    "word": "𗂰𗔬𗤀",
+    "GX": "li².vwi̱².śe¹",
+    "GHC": "lji².we².śjij¹",
+    "explanationEN": "",
+    "explanationCN": "西魏朝"
   },
   {
     "word": "𗂰𘍞",
     "GX": "li².γao̱h¹",
-    "GHC": "lji².ˑiọ¹",
+    "GHC": "lji².iọ¹",
     "explanationEN": "",
     "explanationCN": "西院（十二监军司之一）"
   },
   {
     "word": "𗂰𘍞𗍁𗅂",
     "GX": "li².γao̱h¹.vwi̱².rar¹",
-    "GHC": "lji².ˑiọ¹.we².rjar¹",
+    "GHC": "lji².iọ¹.we².rjar¹",
     "explanationEN": "",
     "explanationCN": "西院城司（下等司）"
   },
   {
     "word": "𗂰𘍞𘊐𗶃𗬐",
     "GX": "li².γao̱h¹.ke¹.tśi².sə̱¹",
-    "GHC": "lji².ˑiọ¹.kjij¹.tśji².sə¹",
+    "GHC": "lji².iọ¹.kjij¹.tśji².sə¹",
     "explanationEN": "",
     "explanationCN": "西院经治司"
   },
   {
     "word": "𗂰𘍞𘟙",
     "GX": "li².γao̱h¹.ne²",
-    "GHC": "lji².ˑiọ¹.njij²",
+    "GHC": "lji².iọ¹.njij²",
     "explanationEN": "",
     "explanationCN": "西院王"
   },
@@ -1051,720 +2885,6 @@ const WORD_DATA = [
     "explanationCN": "西岳"
   },
   {
-    "word": "𗂸𘈷𗗎𗧗𗨮",
-    "GX": "bi².gi².rpwər¹.tśhweṃ¹.kah²",
-    "GHC": "bji².gji².pjwɨ̱r¹.tśhjwɨj¹.kjạ²",
-    "explanationEN": "",
-    "explanationCN": "《规谏臣子歌》"
-  },
-  {
-    "word": "𗃛𗂧",
-    "GX": "loṃ¹.lheh²",
-    "GHC": "ljow¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "梁国"
-  },
-  {
-    "word": "𗃛𗂧𘓖",
-    "GX": "loṃ¹.lheh².qo̱ṃ¹",
-    "GHC": "ljow¹.lhjịj².kow¹",
-    "explanationEN": "",
-    "explanationCN": "梁国公"
-  },
-  {
-    "word": "𗃞𗗿",
-    "GX": "qə̱¹.ta̱¹",
-    "GHC": "kə¹.ta¹",
-    "explanationEN": "dog",
-    "explanationCN": "狗"
-  },
-  {
-    "word": "𗃰𗀱",
-    "GX": "he̱¹.phao̱²",
-    "GHC": "xej¹.phio²",
-    "explanationEN": "",
-    "explanationCN": "厚朴"
-  },
-  {
-    "word": "𗃰𗁬𗉣",
-    "GX": "he̱¹.tho̱ṃ¹.phi¹",
-    "GHC": "xej¹.thow¹.phji¹",
-    "explanationEN": "",
-    "explanationCN": "海桐皮"
-  },
-  {
-    "word": "𗅋𗿳",
-    "GX": "mi¹.dzeṃ¹",
-    "GHC": "mji¹.dzjɨj¹",
-    "explanationEN": "unexpectedly",
-    "explanationCN": "临时"
-  },
-  {
-    "word": "𗆆𗂧",
-    "GX": "qwae̱ṃ¹.lheh²",
-    "GHC": "kiwəj¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "虢国"
-  },
-  {
-    "word": "𗆧𗯝𘗊𘓐𗊴𗅏𗚜𗺉",
-    "GX": "siw¹.lhe̱².rə̱r².dzwo².se¹.lah².pu².tśhi²",
-    "GHC": "sjiw¹.lhej².rər².dzjwo².sjij¹.ljạ².pju².tśhji²",
-    "explanationEN": "",
-    "explanationCN": "《新译同人针灸经》"
-  },
-  {
-    "word": "𗆧𗰖𗕿𘓓𘐆",
-    "GX": "siw¹.nṣao¹.ne².nvwə̱¹.la̱¹",
-    "GHC": "sjiw¹.śio̱¹.njij².wə̱¹.la¹",
-    "explanationEN": "",
-    "explanationCN": "《新集慈孝记》"
-  },
-  {
-    "word": "𗆧𗰖𗵒𗭧𘃎𘐏𘝞",
-    "GX": "siw¹.nṣao¹.qai̱h¹.dəh¹.pah¹.tih¹.rywər²",
-    "GHC": "sjiw¹.śio̱¹.kiẹ¹.djɨ̣¹.pjạ¹.tjị¹.ˑjwɨr²",
-    "explanationEN": "",
-    "explanationCN": "《新集碎金置掌文》"
-  },
-  {
-    "word": "𗇊𗁀𗽤",
-    "GX": "the².qo̱¹.tṣhae̱²",
-    "GHC": "thjij².ko¹.tśhiej²",
-    "explanationEN": "",
-    "explanationCN": "定国寨"
-  },
-  {
-    "word": "𗇝𗂧",
-    "GX": "rywar¹.lheh²",
-    "GHC": "ˑjwar¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "越国"
-  },
-  {
-    "word": "𗉔𗂧",
-    "GX": "tśiw¹.lheh²",
-    "GHC": "tśjiw¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "周国"
-  },
-  {
-    "word": "𗉢𗉔",
-    "GX": "śwa¹.tśiw¹",
-    "GHC": "śjwa¹.tśjiw¹",
-    "explanationEN": "",
-    "explanationCN": "绥州"
-  },
-  {
-    "word": "𗉮𘃛",
-    "GX": "tśhə².rar²",
-    "GHC": "tśhjɨ².rjar²",
-    "explanationEN": "immediately",
-    "explanationCN": "立刻"
-  },
-  {
-    "word": "𗊛𗀇",
-    "GX": "tshi̱w¹.goṃ¹",
-    "GHC": "tshew¹.gjow¹",
-    "explanationEN": "",
-    "explanationCN": "曹娥"
-  },
-  {
-    "word": "𗊛𗁡",
-    "GX": "tshi̱w¹.phi¹",
-    "GHC": "tshew¹.phji¹",
-    "explanationEN": "",
-    "explanationCN": "曹丕"
-  },
-  {
-    "word": "𗊛𗁪𗴼",
-    "GX": "tshi̱w¹.thi̱w².khiw²",
-    "GHC": "tshew¹.thew².khjiw²",
-    "explanationEN": "",
-    "explanationCN": "草豆蔻"
-  },
-  {
-    "word": "𗊛𗂧",
-    "GX": "tshi̱w¹.lheh²",
-    "GHC": "tshew¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "曹国"
-  },
-  {
-    "word": "𗊛𗉔",
-    "GX": "tshi̱w¹.tśiw¹",
-    "GHC": "tshew¹.tśjiw¹",
-    "explanationEN": "",
-    "explanationCN": "曹州"
-  },
-  {
-    "word": "𗊛𗵘𗴴",
-    "GX": "tshi̱w¹.tśa¹.re̱r²",
-    "GHC": "tshew¹.tśja¹.lhejr²",
-    "explanationEN": "",
-    "explanationCN": "曹道乐"
-  },
-  {
-    "word": "𗊛𘓬𗁪",
-    "GX": "tshi̱w¹.ŋġu̱².thi̱w²",
-    "GHC": "tshew¹.gu̱².thew²",
-    "explanationEN": "",
-    "explanationCN": "草乌头"
-  },
-  {
-    "word": "𗊧𗆀𗁪",
-    "GX": "tśhwaṃ¹.γu̱².thi̱w²",
-    "GHC": "tśhjwã¹.ˑu².thew²",
-    "explanationEN": "",
-    "explanationCN": "川乌头"
-  },
-  {
-    "word": "𗊧𘅰𗁪",
-    "GX": "tśhwaṃ¹.γu̱¹.thi̱w²",
-    "GHC": "tśhjwã¹.ɣu¹.thew²",
-    "explanationEN": "",
-    "explanationCN": "川乌豆"
-  },
-  {
-    "word": "𗋙𗁍",
-    "GX": "və².bu¹",
-    "GHC": "wjɨ².bju¹",
-    "explanationEN": "",
-    "explanationCN": "勿布"
-  },
-  {
-    "word": "𗋙𗁍𗘂𗫉",
-    "GX": "və².bu¹.khwə¹.mbae̱¹",
-    "GHC": "wjɨ².bju¹.khjwɨ¹.bie̱j¹",
-    "explanationEN": "",
-    "explanationCN": "勿布犬乐"
-  },
-  {
-    "word": "𗋳𗁬",
-    "GX": "kwa̱ṃ¹.tho̱ṃ¹",
-    "GHC": "kwã¹.thow¹",
-    "explanationEN": "",
-    "explanationCN": "观堂"
-  },
-  {
-    "word": "𗋾𗁪",
-    "GX": "źu².thi̱w²",
-    "GHC": "źju².thew²",
-    "explanationEN": "",
-    "explanationCN": "乳头（食品）"
-  },
-  {
-    "word": "𗌔𗁪",
-    "GX": "thwa̱ṃ².thi̱w²",
-    "GHC": "thwã².thew²",
-    "explanationEN": "",
-    "explanationCN": "段头（官名）"
-  },
-  {
-    "word": "𗌷𗂎",
-    "GX": "po̱¹.tsheṃ²",
-    "GHC": "po¹.tshjɨj²",
-    "explanationEN": "",
-    "explanationCN": "保静"
-  },
-  {
-    "word": "𗌷𗂎𗵒𘗁𘛃𗤛",
-    "GX": "po̱¹.tsheṃ².qai̱h¹.dźa².lu̱².tśoṃ¹",
-    "GHC": "po¹.tshjɨj².kiẹ¹.dźja².lu².tśjow¹",
-    "explanationEN": "",
-    "explanationCN": "保静金刚座寺"
-  },
-  {
-    "word": "𗌷𗂎𗾩",
-    "GX": "po̱¹.tsheṃ².hwaṃ¹",
-    "GHC": "po¹.tshjɨj².xjwã¹",
-    "explanationEN": "",
-    "explanationCN": "保靖县"
-  },
-  {
-    "word": "𗌹𗀝",
-    "GX": "rner¹.rvwo̱r¹",
-    "GHC": "njijr¹.wor¹",
-    "explanationEN": "",
-    "explanationCN": "禽兽"
-  },
-  {
-    "word": "𗍗𗂧",
-    "GX": "vwi̱².lheh²",
-    "GHC": "we².lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "卫国"
-  },
-  {
-    "word": "𗏁𗙏𘈖𗖵",
-    "GX": "ŋwə̱¹.γai̱h².vwi̱².bu¹",
-    "GHC": "ŋwə¹.ɣiẹ².we².bju¹",
-    "explanationEN": "",
-    "explanationCN": "《五音切韵》"
-  },
-  {
-    "word": "𗏖𗁍",
-    "GX": "rer².bu¹",
-    "GHC": "rjijr².bju¹",
-    "explanationEN": "",
-    "explanationCN": "领谋"
-  },
-  {
-    "word": "𗏡𗁬",
-    "GX": "qu̱h¹.tho̱ṃ¹",
-    "GHC": "kụ¹.thow¹",
-    "explanationEN": "",
-    "explanationCN": "后唐"
-  },
-  {
-    "word": "𗐪𗕾",
-    "GX": "qhao̱ṃ².ku¹",
-    "GHC": "khjow².kju¹",
-    "explanationEN": "",
-    "explanationCN": "康居"
-  },
-  {
-    "word": "𗐪𗕾𗂧",
-    "GX": "qhao̱ṃ².ku¹.lheh²",
-    "GHC": "khjow².kju¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "康居国"
-  },
-  {
-    "word": "𗐪𗛹𘕘",
-    "GX": "qhao̱ṃ².tsho̱ṃ¹.tsə̱¹",
-    "GHC": "khjow².tshow¹.tsə¹",
-    "explanationEN": "",
-    "explanationCN": "《亢仓子》"
-  },
-  {
-    "word": "𗐪𗤛𘋅",
-    "GX": "qhao̱ṃ².tśoṃ¹.sa̱ṃ¹",
-    "GHC": "khjow².tśjow¹.sã¹",
-    "explanationEN": "",
-    "explanationCN": "宽中散"
-  },
-  {
-    "word": "𗐪𗦱",
-    "GX": "qhao̱ṃ².hwa̱¹",
-    "GHC": "khjow².xwa¹",
-    "explanationEN": "",
-    "explanationCN": "羌活"
-  },
-  {
-    "word": "𗐪𗲠",
-    "GX": "qhao̱ṃ².ŋa̱¹",
-    "GHC": "khjow².ŋa¹",
-    "explanationEN": "",
-    "explanationCN": "空笼"
-  },
-  {
-    "word": "𗐪𗵆",
-    "GX": "qhao̱ṃ².śeṃ¹",
-    "GHC": "khjow².śjɨj¹",
-    "explanationEN": "",
-    "explanationCN": "康成"
-  },
-  {
-    "word": "𗐪𗺹",
-    "GX": "qhao̱ṃ².hi̱w¹",
-    "GHC": "khjow².xew¹",
-    "explanationEN": "",
-    "explanationCN": "箜篌"
-  },
-  {
-    "word": "𗐪𘓖𘏸",
-    "GX": "qhao̱ṃ².qo̱ṃ¹.ṣaə̱¹",
-    "GHC": "khjow².kow¹.śiə¹",
-    "explanationEN": "",
-    "explanationCN": "共工氏"
-  },
-  {
-    "word": "𗐪𘓾",
-    "GX": "qhao̱ṃ².yaṃ¹",
-    "GHC": "khjow².ˑjã¹",
-    "explanationEN": "",
-    "explanationCN": "孔𤥻"
-  },
-  {
-    "word": "𗐪𘜲",
-    "GX": "qhao̱ṃ².śu¹",
-    "GHC": "khjow².śju¹",
-    "explanationEN": "",
-    "explanationCN": "康叔"
-  },
-  {
-    "word": "𗐭𗐭",
-    "GX": "śwa¹.śwa¹",
-    "GHC": "śjwa¹.śjwa¹",
-    "explanationEN": "",
-    "explanationCN": "翕翕"
-  },
-  {
-    "word": "𗐾𗁀",
-    "GX": "swi̱ṃ¹.qo̱¹",
-    "GHC": "swẽ¹.ko¹",
-    "explanationEN": "",
-    "explanationCN": "宋光"
-  },
-  {
-    "word": "𗐾𗂧",
-    "GX": "swi̱ṃ¹.lheh²",
-    "GHC": "swẽ¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "宋国"
-  },
-  {
-    "word": "𗑃𗁀𗽤",
-    "GX": "tśiṃ¹.qo̱¹.tṣhae̱²",
-    "GHC": "tśjĩ¹.ko¹.tśhiej²",
-    "explanationEN": "",
-    "explanationCN": "镇国寨"
-  },
-  {
-    "word": "𗑔𗅐",
-    "GX": "mə̱².la̱²",
-    "GHC": "mə².la²",
-    "explanationEN": "indeed",
-    "explanationCN": "确实"
-  },
-  {
-    "word": "𗑗𘓐𗀧𗠖",
-    "GX": "se̱¹.dzwo².nde².rγa̱r¹",
-    "GHC": "sej¹.dzjwo².dji̱j².ɣar¹",
-    "explanationEN": "",
-    "explanationCN": "谋智清人"
-  },
-  {
-    "word": "𗑙𘝻𗾩",
-    "GX": "γa̱ṃ¹.qwo̱¹.hwaṃ¹",
-    "GHC": "ɣã¹.kwo¹.xjwã¹",
-    "explanationEN": "",
-    "explanationCN": "安固县"
-  },
-  {
-    "word": "𗑛𗂧",
-    "GX": "rzər¹.lheh²",
-    "GHC": "zjɨr¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "南国"
-  },
-  {
-    "word": "𗑱𗙼𗂧",
-    "GX": "ka².yu².lheh²",
-    "GHC": "kja².ˑju².lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "诰窳国"
-  },
-  {
-    "word": "𗓖𗂓",
-    "GX": "ŋga².ti̱w¹",
-    "GHC": "gja̱².tew¹",
-    "explanationEN": "",
-    "explanationCN": "邺斗"
-  },
-  {
-    "word": "𗓗𗂧",
-    "GX": "ndźu².lheh²",
-    "GHC": "dźju̱².lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "女国"
-  },
-  {
-    "word": "𗓚𗁪",
-    "GX": "ma̱².thi̱w²",
-    "GHC": "ma².thew²",
-    "explanationEN": "",
-    "explanationCN": "馒头"
-  },
-  {
-    "word": "𗓰𗂓",
-    "GX": "na̱¹.ti̱w¹",
-    "GHC": "na¹.tew¹",
-    "explanationEN": "",
-    "explanationCN": "南斗"
-  },
-  {
-    "word": "𗓹𗁍",
-    "GX": "lweh¹.bu¹",
-    "GHC": "ljwịj¹.bju¹",
-    "explanationEN": "",
-    "explanationCN": "令部"
-  },
-  {
-    "word": "𗓽𗁬",
-    "GX": "lo̱¹.tho̱ṃ¹",
-    "GHC": "lo¹.thow¹",
-    "explanationEN": "",
-    "explanationCN": "骆驼"
-  },
-  {
-    "word": "𗔬𗂧",
-    "GX": "vwi̱².lheh²",
-    "GHC": "we².lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "卫/魏国"
-  },
-  {
-    "word": "𗔬𘓖𘝾𗂎",
-    "GX": "vwi̱².qo̱ṃ¹.li².tsheṃ²",
-    "GHC": "we².kow¹.ljị².tshjɨj²",
-    "explanationEN": "",
-    "explanationCN": "卫公李靖"
-  },
-  {
-    "word": "𗕔𗁬𗑪",
-    "GX": "the̱¹.tho̱ṃ¹.kwiṃ¹",
-    "GHC": "thej¹.thow¹.kjwĩ¹",
-    "explanationEN": "",
-    "explanationCN": "大通军（中等司）"
-  },
-  {
-    "word": "𗕔𗣭𗂧",
-    "GX": "the̱¹.tshiṃ¹.lheh²",
-    "GHC": "thej¹.tshjĩ¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "大秦国"
-  },
-  {
-    "word": "𗕔𗤩",
-    "GX": "the̱¹.γwaṃ¹",
-    "GHC": "thej¹.ɣjwã¹",
-    "explanationEN": "",
-    "explanationCN": "大宛"
-  },
-  {
-    "word": "𗕔𗤩𗂧",
-    "GX": "the̱¹.γwaṃ¹.lheh²",
-    "GHC": "thej¹.ɣjwã¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "大宛国"
-  },
-  {
-    "word": "𗕔𘊇𗒉𗢄𘄱𗻼𘃻𘊐",
-    "GX": "the̱¹.śoṃ¹.la̱¹.śwaṃ².theṃ¹.ṣae̱ṃ¹.yiṃ¹.ke¹",
-    "GHC": "thej¹.śjow¹.la¹.śjwã².thjɨj¹.śiəj¹.ˑjĩ¹.kjij¹",
-    "explanationEN": "",
-    "explanationCN": "《太上老说天生阴经》"
-  },
-  {
-    "word": "𗕔𘊇𗒉𘕘𗢄𘄱𗻼𘃻𘊐",
-    "GX": "the̱¹.śoṃ¹.la̱¹.tsə̱¹.śwaṃ².theṃ¹.ṣae̱ṃ¹.yiṃ¹.ke¹",
-    "GHC": "thej¹.śjow¹.la¹.tsə¹.śjwã².thjɨj¹.śiəj¹.ˑjĩ¹.kjij¹",
-    "explanationEN": "",
-    "explanationCN": "《太上老子说天生阴经》"
-  },
-  {
-    "word": "𗕔𘊇𗒉𘕘𗢄𘊇𗂓𗂓𘊐",
-    "GX": "the̱¹.śoṃ¹.la̱¹.tsə̱¹.śwaṃ².śoṃ¹.ti̱w¹.ti̱w¹.ke¹",
-    "GHC": "thej¹.śjow¹.la¹.tsə¹.śjwã².śjow¹.tew¹.tew¹.kjij¹",
-    "explanationEN": "",
-    "explanationCN": "《太上老子说东斗经》"
-  },
-  {
-    "word": "𗕔𘊇𗒉𘕘𗼽𗣫𘊐",
-    "GX": "the̱¹.śoṃ¹.la̱¹.tsə̱¹.si̱w².tse̱ṃ¹.ke¹",
-    "GHC": "thej¹.śjow¹.la¹.tsə¹.sew².tsəj¹.kjij¹",
-    "explanationEN": "",
-    "explanationCN": "《太上老子消灾经》"
-  },
-  {
-    "word": "𗕔𘊇𗓰𗂓𗚿𗬐𘃻𗱭𘛀𘊐",
-    "GX": "the̱¹.śoṃ¹.na̱¹.ti̱w¹.liw².sə̱¹.yiṃ¹.śiw².mbe².ke¹",
-    "GHC": "thej¹.śjow¹.na¹.tew¹.ljiw².sə¹.ˑjĩ¹.śjiw².bji̱j².kjij¹",
-    "explanationEN": "",
-    "explanationCN": "《太上南斗六司延寿妙经》"
-  },
-  {
-    "word": "𗕔𘊇𗤩𘏸𘄱𗜰𗢄𗒅𘃝𘘣𘃡𗕔𗼽𗣫𗨝𗉔𘊐",
-    "GX": "the̱¹.śoṃ¹.γwaṃ¹.ṣaə̱¹.theṃ¹.tsu̱ṃ¹.śwaṃ².rśər¹.vi¹.yə².vi¹.the̱¹.si̱w².tse̱ṃ¹.śiṃ¹.tśiw¹.ke¹",
-    "GHC": "thej¹.śjow¹.ɣjwã¹.śiə¹.thjɨj¹.tsũ¹.śjwã².śjɨr¹.wji¹.ˑjɨ².wji¹.thej¹.sew².tsəj¹.śjĩ¹.tśjiw¹.kjij¹",
-    "explanationEN": "",
-    "explanationCN": "《太上元始天尊说十为一为大消灾神咒经》"
-  },
-  {
-    "word": "𗕔𘊇𗰂𘆨𗼵𘈘𘊐",
-    "GX": "the̱¹.śoṃ¹.hwo̱².ti².hao̱².śwə¹.ke¹",
-    "GHC": "thej¹.śjow¹.xwo².tji².xjow².śjwɨ¹.kjij¹",
-    "explanationEN": "",
-    "explanationCN": "《太上黄帝房术经》"
-  },
-  {
-    "word": "𗕔𘊇𘀏𗂓𘃻𗻼𘊐",
-    "GX": "the̱¹.śoṃ¹.pu̱¹.ti̱w¹.yiṃ¹.ṣae̱ṃ¹.ke¹",
-    "GHC": "thej¹.śjow¹.pu¹.tew¹.ˑjĩ¹.śiəj¹.kjij¹",
-    "explanationEN": "",
-    "explanationCN": "《太上北斗延生經》"
-  },
-  {
-    "word": "𗕔𘊇𘄱𗁬𗶡𘃣𘊐",
-    "GX": "the̱¹.śoṃ¹.theṃ¹.tho̱ṃ¹.hau̱¹.vi².ke¹",
-    "GHC": "thej¹.śjow¹.thjɨj¹.thow¹.xu¹.wji².kjij¹",
-    "explanationEN": "",
-    "explanationCN": "《太上天堂护卫经》"
-  },
-  {
-    "word": "𗕔𘊇𘍑𗪦𗘆𗑃𗘺𗑌𗷭𗚿𗣗𗰔𘜻𗑰𘃻𘊐",
-    "GX": "the̱¹.śoṃ¹.leṃ¹.paa̱¹.qi̱w².tśiṃ¹.me¹.qae̱¹.kiṃ¹.liw².zeh².yiw².phaa̱¹.tshe̱¹.yiṃ¹.ke¹",
-    "GHC": "thej¹.śjow¹.ljɨj¹.pia¹.kew².tśjĩ¹.mjij¹.kiej¹.kjĩ¹.ljiw².zjịj².ˑjiw².phia¹.tshej¹.ˑjĩ¹.kjij¹",
-    "explanationEN": "",
-    "explanationCN": "《太上元始天尊说十为一为大消灾神咒经》"
-  },
-  {
-    "word": "𗕔𘊇𘍑𘏞𘊴𘝾𘊇𗤋𘃻𘊐",
-    "GX": "the̱¹.śoṃ¹.leṃ¹.po̱¹.thu̱¹.li².śoṃ¹.me¹.yiṃ¹.ke¹",
-    "GHC": "thej¹.śjow¹.ljɨj¹.po¹.thu¹.ljị².śjow¹.mjij¹.ˑjĩ¹.kjij¹",
-    "explanationEN": "",
-    "explanationCN": "《太上灵宝度理无上阴经》"
-  },
-  {
-    "word": "𗕔𘊞𘟀",
-    "GX": "the̱¹.lu̱².le²",
-    "GHC": "thej¹.lu².ljij²",
-    "explanationEN": "",
-    "explanationCN": "大卢令"
-  },
-  {
-    "word": "𗕔𘊞𘟀𘗜",
-    "GX": "the̱¹.lu̱².le².ŋao̱ṃ²",
-    "GHC": "thej¹.lu².ljij².ŋjow²",
-    "explanationEN": "",
-    "explanationCN": "大卢令案"
-  },
-  {
-    "word": "𗕔𘌜",
-    "GX": "the̱¹.pai̱¹",
-    "GHC": "thej¹.pie¹",
-    "explanationEN": "",
-    "explanationCN": "太伯"
-  },
-  {
-    "word": "𗕔𘎫",
-    "GX": "the̱¹.ki¹",
-    "GHC": "thej¹.kji¹",
-    "explanationEN": "",
-    "explanationCN": "大蓟"
-  },
-  {
-    "word": "𗕔𘏸",
-    "GX": "the̱¹.ṣaə̱¹",
-    "GHC": "thej¹.śiə¹",
-    "explanationEN": "",
-    "explanationCN": "太史/太师"
-  },
-  {
-    "word": "𗕔𘏸𘓖",
-    "GX": "the̱¹.ṣaə̱¹.qo̱ṃ¹",
-    "GHC": "thej¹.śiə¹.kow¹",
-    "explanationEN": "",
-    "explanationCN": "太史公"
-  },
-  {
-    "word": "𗕔𘏸𘝞",
-    "GX": "the̱¹.ṣaə̱¹.rywər²",
-    "GHC": "thej¹.śiə¹.ˑjwɨr²",
-    "explanationEN": "",
-    "explanationCN": "《太史传》"
-  },
-  {
-    "word": "𗕔𘏸𘟀",
-    "GX": "the̱¹.ṣaə̱¹.le²",
-    "GHC": "thej¹.śiə¹.ljij²",
-    "explanationEN": "",
-    "explanationCN": "太史令"
-  },
-  {
-    "word": "𗕔𘓖",
-    "GX": "the̱¹.qo̱ṃ¹",
-    "GHC": "thej¹.kow¹",
-    "explanationEN": "",
-    "explanationCN": "太公"
-  },
-  {
-    "word": "𗕔𘓖𘋼𘐆",
-    "GX": "the̱¹.qo̱ṃ¹.rkur².la̱¹",
-    "GHC": "thej¹.kow¹.kjur².la¹",
-    "explanationEN": "",
-    "explanationCN": "《太公志传》"
-  },
-  {
-    "word": "𗕔𘔘",
-    "GX": "the̱¹.hu̱ṃ¹",
-    "GHC": "thej¹.xũ¹",
-    "explanationEN": "",
-    "explanationCN": "大黄"
-  },
-  {
-    "word": "𗕕𘇰",
-    "GX": "phə̱¹.tśhiṃ¹",
-    "GHC": "phə¹.tśhjĩ¹",
-    "explanationEN": "",
-    "explanationCN": "老牙"
-  },
-  {
-    "word": "𗕛𗼵𗂧",
-    "GX": "te̱¹.hao̱².lheh²",
-    "GHC": "tej¹.xjow².lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "带方国"
-  },
-  {
-    "word": "𗕾𗂧",
-    "GX": "ku¹.lheh²",
-    "GHC": "kju¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "莒国"
-  },
-  {
-    "word": "𗘼𗂧",
-    "GX": "ŋgu¹.lheh²",
-    "GHC": "giu̱¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "虞国"
-  },
-  {
-    "word": "𗙃𘁇𗂧",
-    "GX": "liṃ¹.yə².lheh²",
-    "GHC": "ljĩ¹.ˑjɨ².lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "林邑国"
-  },
-  {
-    "word": "𗙏𘙰",
-    "GX": "γai̱h².li̱w²",
-    "GHC": "ɣiẹ².ləw²",
-    "explanationEN": "",
-    "explanationCN": "《同音》"
-  },
-  {
-    "word": "𗙴𗁍",
-    "GX": "ra̱r¹.bu¹",
-    "GHC": "rar¹.bju¹",
-    "explanationEN": "",
-    "explanationCN": "啰布"
-  },
-  {
-    "word": "𗙴𗁍𗃞𗗿𗰔",
-    "GX": "ra̱r¹.bu¹.qə̱¹.ta̱¹.yiw²",
-    "GHC": "rar¹.bju¹.kə¹.ta¹.ˑjiw²",
-    "explanationEN": "",
-    "explanationCN": "啰布小狗有"
-  },
-  {
-    "word": "𗙼𗙷𘏧𗁬𗋳𗣛",
-    "GX": "yu².rir².yaw².tho̱ṃ¹.kwa̱ṃ¹.qi̱w¹",
-    "GHC": "ˑju².rjir².ˑja̱².thow¹.kwã¹.kew¹",
-    "explanationEN": "",
-    "explanationCN": "御前衙堂管勾"
-  },
-  {
-    "word": "𗜫𗇊𗂧",
-    "GX": "si¹.the².lheh²",
-    "GHC": "sji¹.thjij².lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "西天国（天竺）"
-  },
-  {
     "word": "𗜫𗉔",
     "GX": "si¹.tśiw¹",
     "GHC": "sji¹.tśjiw¹",
@@ -1774,268 +2894,23 @@ const WORD_DATA = [
   {
     "word": "𗜫𗉔𗂧",
     "GX": "si¹.tśiw¹.lheh²",
-    "GHC": "sji¹.tśjiw¹.lhjịj²",
+    "GHC": "sji¹.tśjiw¹.lhjịj²",
     "explanationEN": "",
     "explanationCN": "西周国"
   },
   {
-    "word": "𗝿𗂎𘕘",
-    "GX": "tśhe¹.tsheṃ².tsə̱¹",
-    "GHC": "tśhjij¹.tshjɨj².tsə¹",
+    "word": "𗩿𗂧",
+    "GX": "si².lheh²",
+    "GHC": "sji².lhjịj²",
     "explanationEN": "",
-    "explanationCN": "车前子"
+    "explanationCN": "息国"
   },
   {
-    "word": "𗝿𗂧",
-    "GX": "tśhe¹.lheh²",
-    "GHC": "tśhjij¹.lhjịj²",
+    "word": "𗐭𗐭",
+    "GX": "śwa¹.śwa¹",
+    "GHC": "śjwa¹.śjwa¹",
     "explanationEN": "",
-    "explanationCN": "郑国"
-  },
-  {
-    "word": "𗠒𗹭",
-    "GX": "bə¹.be²",
-    "GHC": "bjɨ¹.bjij²",
-    "explanationEN": "above",
-    "explanationCN": "上面"
-  },
-  {
-    "word": "𗠡𗤢",
-    "GX": "bə¹.bi²",
-    "GHC": "bjɨ¹.bji̱²",
-    "explanationEN": "below",
-    "explanationCN": "下面"
-  },
-  {
-    "word": "𗢇𘄊",
-    "GX": "kiw¹.li¹",
-    "GHC": "kjiw¹.lji¹",
-    "explanationEN": "",
-    "explanationCN": "九黎"
-  },
-  {
-    "word": "𗢇𘄊𗂧",
-    "GX": "kiw¹.li¹.lheh²",
-    "GHC": "kjiw¹.lji¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "九黎国"
-  },
-  {
-    "word": "𗢇𘄊𘟙",
-    "GX": "kiw¹.li¹.ne²",
-    "GHC": "kjiw¹.lji¹.njij²",
-    "explanationEN": "",
-    "explanationCN": "九黎王"
-  },
-  {
-    "word": "𗢪𗁪",
-    "GX": "pi¹.thi̱w²",
-    "GHC": "pji¹.thew²",
-    "explanationEN": "",
-    "explanationCN": "荜豆/辔头"
-  },
-  {
-    "word": "𗢪𗁪𗊄𘂆",
-    "GX": "pi¹.thi̱w².teṃ¹.tsə¹",
-    "GHC": "pji¹.thew².tjɨj¹.tsjɨ¹",
-    "explanationEN": "",
-    "explanationCN": "辔头钉子"
-  },
-  {
-    "word": "𗢳𗂧",
-    "GX": "tha̱¹.lheh²",
-    "GHC": "tha¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "佛国"
-  },
-  {
-    "word": "𗣆𗁍",
-    "GX": "tsha².bu¹",
-    "GHC": "tshja².bju¹",
-    "explanationEN": "",
-    "explanationCN": "千谋"
-  },
-  {
-    "word": "𗣛𘌜𗁬",
-    "GX": "qi̱w¹.pai̱¹.tho̱ṃ¹",
-    "GHC": "kew¹.pie¹.thow¹",
-    "explanationEN": "",
-    "explanationCN": "皋伯通"
-  },
-  {
-    "word": "𗣛𘝾𗂧",
-    "GX": "qi̱w¹.li².lheh²",
-    "GHC": "kew¹.ljị².lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "高丽国"
-  },
-  {
-    "word": "𗣭𗂧",
-    "GX": "tshiṃ¹.lheh²",
-    "GHC": "tshjĩ¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "秦国"
-  },
-  {
-    "word": "𗤁𗂧",
-    "GX": "tśhiw¹.lheh²",
-    "GHC": "tśhjiw¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "六国"
-  },
-  {
-    "word": "𗥃𗂧",
-    "GX": "rllər¹.lheh²",
-    "GHC": "ljɨr¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "四国"
-  },
-  {
-    "word": "𗥑𗍏𗁬𘐆",
-    "GX": "hu̱¹.su².tho̱ṃ¹.la̱¹",
-    "GHC": "xu¹.sju².thow¹.la¹",
-    "explanationEN": "",
-    "explanationCN": "《风俗通记》"
-  },
-  {
-    "word": "𗥑𘌈𗂧",
-    "GX": "hu̱¹.yu¹.lheh²",
-    "GHC": "xu¹.ˑju̱¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "扶余国"
-  },
-  {
-    "word": "𗥡𗂧",
-    "GX": "lu̱².lheh²",
-    "GHC": "lu².lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "鲁国"
-  },
-  {
-    "word": "𗥴𗁪",
-    "GX": "qho̱ṃ¹.thi̱w²",
-    "GHC": "khow¹.thew²",
-    "explanationEN": "",
-    "explanationCN": "空头"
-  },
-  {
-    "word": "𗥴𗂎",
-    "GX": "qho̱ṃ¹.tsheṃ²",
-    "GHC": "khow¹.tshjɨj²",
-    "explanationEN": "",
-    "explanationCN": "空青"
-  },
-  {
-    "word": "𗥻𗁀𗯒",
-    "GX": "phai̱¹.qo̱¹.tsha̱²",
-    "GHC": "phie¹.ko¹.tsha²",
-    "explanationEN": "",
-    "explanationCN": "白僵蚕"
-  },
-  {
-    "word": "𗥻𗁪𗴼",
-    "GX": "phai̱¹.thi̱w².khiw²",
-    "GHC": "phie¹.thew².khjiw²",
-    "explanationEN": "",
-    "explanationCN": "白豆蔻"
-  },
-  {
-    "word": "𗥼𗁀",
-    "GX": "a?.qo̱¹",
-    "GHC": "ˑja?.ko¹",
-    "explanationEN": "",
-    "explanationCN": "阿哥"
-  },
-  {
-    "word": "𗥼𗬐𗁀",
-    "GX": "a?.sə̱¹.qo̱¹",
-    "GHC": "ˑja?.sə¹.ko¹",
-    "explanationEN": "",
-    "explanationCN": "阿四哥"
-  },
-  {
-    "word": "𗦆𗂧",
-    "GX": "tsiṃ¹.lheh²",
-    "GHC": "tsjĩ¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "晋国"
-  },
-  {
-    "word": "𗦜𗥸",
-    "GX": "so².ŋwu̱²",
-    "GHC": "sjo².ŋwu²",
-    "explanationEN": "cry",
-    "explanationCN": "哭泣"
-  },
-  {
-    "word": "𗧦𗣊",
-    "GX": "gə².mi²",
-    "GHC": "gjɨ².mji²",
-    "explanationEN": "we(exclusive)",
-    "explanationCN": "我们(排除式)"
-  },
-  {
-    "word": "𗧦𘉑",
-    "GX": "gə².mə¹",
-    "GHC": "gjɨ².mjɨ¹",
-    "explanationEN": "we.two(exclusive)",
-    "explanationCN": "我俩(排除式)"
-  },
-  {
-    "word": "𗨁𗂧𗥍",
-    "GX": "phu².lheh².guh²",
-    "GHC": "phju².lhjịj².gjụ²",
-    "explanationEN": "",
-    "explanationCN": "上柱国"
-  },
-  {
-    "word": "𗨍𗁬",
-    "GX": "hwaa̱¹.tho̱ṃ¹",
-    "GHC": "xiwa¹.thow¹",
-    "explanationEN": "",
-    "explanationCN": "华佗"
-  },
-  {
-    "word": "𗨝𘊴𗁀",
-    "GX": "śiṃ¹.thu̱¹.qo̱¹",
-    "GHC": "śjĩ¹.thu¹.ko¹",
-    "explanationEN": "",
-    "explanationCN": "申屠刚"
-  },
-  {
-    "word": "𗩇𗁬",
-    "GX": "vwi̱ṃ¹.tho̱ṃ¹",
-    "GHC": "wẽ¹.thow¹",
-    "explanationEN": "",
-    "explanationCN": "文通"
-  },
-  {
-    "word": "𗩙𗀇𗖋",
-    "GX": "phu̱¹.goṃ¹.swə²",
-    "GHC": "phu¹.gjow¹.sjwɨ²",
-    "explanationEN": "",
-    "explanationCN": "蓬莪术"
-  },
-  {
-    "word": "𗩙𗀇𗖶",
-    "GX": "phu̱¹.goṃ¹.swə¹",
-    "GHC": "phu¹.gjow¹.sjwɨ¹",
-    "explanationEN": "",
-    "explanationCN": "蓬莪术"
-  },
-  {
-    "word": "𗩩𗂎",
-    "GX": "vaa̱ṃ².tsheṃ²",
-    "GHC": "wjã².tshjɨj²",
-    "explanationEN": "",
-    "explanationCN": "曼倩"
-  },
-  {
-    "word": "𗩾𘂤",
-    "GX": "zi².qha̱¹",
-    "GHC": "źji².kha¹",
-    "explanationEN": "the most",
-    "explanationCN": "最"
+    "explanationCN": "翕翕"
   },
   {
     "word": "𗩿𗁍",
@@ -2047,254 +2922,156 @@ const WORD_DATA = [
   {
     "word": "𗩿𗁍𗫔𗫉",
     "GX": "si².bu¹.yi¹.mbae̱¹",
-    "GHC": "sji².bju¹.ˑji¹.bie̱j¹",
+    "GHC": "sji².bju¹.ꞏji¹.bie̱j¹",
     "explanationEN": "",
     "explanationCN": "细布众乐"
   },
   {
-    "word": "𗩿𗂧",
-    "GX": "si².lheh²",
-    "GHC": "sji².lhjịj²",
+    "word": "𗠡𗤢",
+    "GX": "bə¹.bi²",
+    "GHC": "bjɨ¹.bji̱²",
+    "explanationEN": "below",
+    "explanationCN": "下面"
+  },
+  {
+    "word": "𘒂𗉔",
+    "GX": "haa̱¹.tśiw¹",
+    "GHC": "xia¹.tśjiw¹",
     "explanationEN": "",
-    "explanationCN": "息国"
+    "explanationCN": "夏州"
   },
   {
-    "word": "𗪦𗁪",
-    "GX": "paa̱¹.thi̱w²",
-    "GHC": "pia¹.thew²",
+    "word": "𘇹𗁀𘂆",
+    "GX": "ṣaə̱¹.qo̱¹.tsə¹",
+    "GHC": "śiə¹.ko¹.tsjɨ¹",
     "explanationEN": "",
-    "explanationCN": "巴豆"
+    "explanationCN": "线果子"
   },
   {
-    "word": "𗪨𗁀",
-    "GX": "mae̱².qo̱¹",
-    "GHC": "miej².ko¹",
+    "word": "𗃞𗗿𗄽",
+    "GX": "qə̱¹.ta̱¹.ṣaa̱ṃ¹",
+    "GHC": "kə¹.ta¹.śiã¹",
     "explanationEN": "",
-    "explanationCN": "孟光"
+    "explanationCN": "小狗山"
   },
   {
-    "word": "𗫌𗂧",
-    "GX": "ni¹.lheh²",
-    "GHC": "nji¹.lhjịj²",
+    "word": "𘓊𗀐",
+    "GX": "rzər¹.dźe¹",
+    "GHC": "zjɨ̱r¹.dźjij¹",
     "explanationEN": "",
-    "explanationCN": "国家"
+    "explanationCN": "小寒"
   },
   {
-    "word": "𗫍𗁪",
-    "GX": "śi¹.thi̱w²",
-    "GHC": "śji¹.thew²",
+    "word": "𘗠𗘩𗀹",
+    "GX": "γa̱¹.rnə̱r².zi¹",
+    "GHC": "ɣa¹.nər².zji¹",
     "explanationEN": "",
-    "explanationCN": "食窦"
+    "explanationCN": "小黄门（官名）"
   },
   {
-    "word": "𗫐𗂧",
-    "GX": "su̱¹.lheh²",
-    "GHC": "su¹.lhjịj²",
+    "word": "𗆧𗰖",
+    "GX": "siw¹.nṣao¹",
+    "GHC": "sjiw¹.śjo̱¹",
     "explanationEN": "",
-    "explanationCN": "苏国"
+    "explanationCN": "新集"
   },
   {
-    "word": "𗬦𗀱",
-    "GX": "hi̱w².phao̱²",
-    "GHC": "xew².phio²",
+    "word": "𗆧𗹢",
+    "GX": "siw¹.doh²",
+    "GHC": "sjiw¹.djọ²",
     "explanationEN": "",
-    "explanationCN": "厚朴"
+    "explanationCN": "新修"
   },
   {
-    "word": "𗭴𗁀",
-    "GX": "yoṃ¹.qo̱¹",
-    "GHC": "ˑjow¹.ko¹",
+    "word": "𗀚𗭹",
+    "GX": "ṣao̱¹.rba̱r¹",
+    "GHC": "śio¹.bar¹",
     "explanationEN": "",
-    "explanationCN": "阳刚"
+    "explanationCN": "行头鼓"
   },
   {
-    "word": "𗭺𗁪",
-    "GX": "rpər¹.thi̱w²",
-    "GHC": "pjɨr¹.thew²",
+    "word": "𗺁𗁪𘝻",
+    "GX": "hae̱ṃ².thi̱w².qwo̱¹",
+    "GHC": "xiəj².thew².kwo¹",
     "explanationEN": "",
-    "explanationCN": "荜豆"
+    "explanationCN": "行头鼓"
   },
   {
-    "word": "𗯒𗆀𗁪",
-    "GX": "tsha̱².γu̱².thi̱w²",
-    "GHC": "tsha².ˑu².thew²",
+    "word": "𗼵𗥝𗂧",
+    "GX": "hao̱².ndu̱¹.lheh²",
+    "GHC": "xjow².du̱¹.lhjịj²",
     "explanationEN": "",
-    "explanationCN": "草乌头"
+    "explanationCN": "匈奴国"
   },
   {
-    "word": "𗰂𘕘𗁡",
-    "GX": "hwo̱².tsə̱¹.phi¹",
-    "GHC": "xwo².tsə¹.phji¹",
+    "word": "𗾩𗁪",
+    "GX": "hwaṃ¹.thi̱w²",
+    "GHC": "xjwã¹.thew²",
     "explanationEN": "",
-    "explanationCN": "诃子皮"
+    "explanationCN": "楦头"
   },
   {
-    "word": "𗰗𗍫𗂧",
-    "GX": "γa̱h².nnə¹.lheh²",
-    "GHC": "ɣạ².njɨ̱¹.lhjịj²",
+    "word": "𘏧𗁬",
+    "GX": "yaw².tho̱ṃ¹",
+    "GHC": "ꞏja̱².thow¹",
     "explanationEN": "",
-    "explanationCN": "《十二国》"
+    "explanationCN": "衙堂"
   },
   {
-    "word": "𗰗𗍫𗎭",
-    "GX": "γa̱h².nnə¹.mmi¹",
-    "GHC": "ɣạ².njɨ̱¹.mji̱¹",
+    "word": "𗁳𘃎𗋒",
+    "GX": "yaw².pah¹.keh¹",
+    "GHC": "ꞏja̱².pjạ¹.kjịj¹",
     "explanationEN": "",
-    "explanationCN": "十二宫"
-  },
-  {
-    "word": "𗰜𗂧",
-    "GX": "rmə̱r².lheh²",
-    "GHC": "mər².lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "本国"
-  },
-  {
-    "word": "𗱞𗁪",
-    "GX": "la̱ṃ¹.thi̱w²",
-    "GHC": "lã¹.thew²",
-    "explanationEN": "",
-    "explanationCN": "栏头（官名）"
-  },
-  {
-    "word": "𗱡𗁪𗴼",
-    "GX": "źwu².thi̱w².khiw²",
-    "GHC": "źjwu².thew².khjiw²",
-    "explanationEN": "",
-    "explanationCN": "肉豆蔻"
-  },
-  {
-    "word": "𗱡𗁪𗽭",
-    "GX": "źwu².thi̱w².qhi̱w²",
-    "GHC": "źjwu².thew².khew²",
-    "explanationEN": "",
-    "explanationCN": "肉豆蔻"
-  },
-  {
-    "word": "𗱭𗁪",
-    "GX": "śiw².thi̱w²",
-    "GHC": "śjiw².thew²",
-    "explanationEN": "",
-    "explanationCN": "兽头"
-  },
-  {
-    "word": "𗱭𗁪𘞄𘂆",
-    "GX": "śiw².thi̱w².nlə¹.tsə¹",
-    "GHC": "śjiw².thew².ljɨ̱¹.tsjɨ¹",
-    "explanationEN": "",
-    "explanationCN": "兽头旗子（法器）"
-  },
-  {
-    "word": "𗳣𗁬𗸹",
-    "GX": "mbi².tho̱ṃ¹.sə²",
-    "GHC": "bji̱².thow¹.sjɨ²",
-    "explanationEN": "",
-    "explanationCN": "蜜陀僧"
-  },
-  {
-    "word": "𗳩𗂎",
-    "GX": "γo̱¹.tsheṃ²",
-    "GHC": "ˑo¹.tshjɨj²",
-    "explanationEN": "",
-    "explanationCN": "讹七"
-  },
-  {
-    "word": "𗳩𗂎𘟄𗯿𘏐",
-    "GX": "γo̱¹.tsheṃ².γə¹.rvwe̱r¹.γwai̱¹",
-    "GHC": "ˑo¹.tshjɨj².ɣjɨ¹.wejr¹.ɣwie¹",
-    "explanationEN": "",
-    "explanationCN": "讹七舅茂势"
-  },
-  {
-    "word": "𗳱𗐱",
-    "GX": "tha².ni²",
-    "GHC": "thja².nji²",
-    "explanationEN": "they(anaphoric)",
-    "explanationCN": "他们(回指)"
-  },
-  {
-    "word": "𗳷𗂧",
-    "GX": "tṣhau̱h¹.lheh²",
-    "GHC": "tśhjụ¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "楚国"
-  },
-  {
-    "word": "𗴂𗹭𗂧",
-    "GX": "phao̱ṃ¹.be².lheh²",
-    "GHC": "phiow¹.bjij².lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "白高国"
-  },
-  {
-    "word": "𗴂𗹭𗂧𘜶",
-    "GX": "phao̱ṃ¹.be².lheh².lleh²",
-    "GHC": "phiow¹.bjij².lhjịj².ljịj²",
-    "explanationEN": "The.Great.White.High.State",
-    "explanationCN": "大白高国"
-  },
-  {
-    "word": "𗴂𗹭𗂧𘜶𘝞𗗚𘏨𗖵",
-    "GX": "phao̱ṃ¹.be².lheh².lleh².rywər².ŋao̱ṃ².lləh¹.bu¹",
-    "GHC": "phiow¹.bjij².lhjịj².ljịj².ˑjwɨr².ŋjow².ljɨ̣¹.bju¹",
-    "explanationEN": "",
-    "explanationCN": "《大白高国文海宝韵》"
-  },
-  {
-    "word": "𗴒𗻼𗁀",
-    "GX": "kah¹.ṣae̱ṃ¹.qo̱¹",
-    "GHC": "kjạ¹.śiəj¹.ko¹",
-    "explanationEN": "",
-    "explanationCN": "干生姜"
-  },
-  {
-    "word": "𗴮𘊳",
-    "GX": "deh¹.bo̱¹",
-    "GHC": "djịj¹.bo¹",
-    "explanationEN": "",
-    "explanationCN": "《类林》"
-  },
-  {
-    "word": "𗵒𗭧",
-    "GX": "qai̱h¹.dəh¹",
-    "GHC": "kiẹ¹.djɨ̣¹",
-    "explanationEN": "",
-    "explanationCN": "《碎金》"
+    "explanationCN": "啞巴經（人名）"
   },
   {
     "word": "𗶕𗂧",
     "GX": "yaṃ².lheh²",
-    "GHC": "jã².lhjịj²",
+    "GHC": "ꞏjã².lhjịj²",
     "explanationEN": "",
     "explanationCN": "燕国"
   },
   {
-    "word": "𗶡𗁀",
-    "GX": "hau̱¹.qo̱¹",
-    "GHC": "xu¹.ko¹",
+    "word": "𘓾𗂧",
+    "GX": "yaṃ¹.lheh²",
+    "GHC": "ꞏjã¹.lhjịj²",
     "explanationEN": "",
-    "explanationCN": "霍光"
+    "explanationCN": "燕国"
   },
   {
-    "word": "𗶡𗁪",
-    "GX": "hau̱¹.thi̱w²",
-    "GHC": "xu¹.thew²",
+    "word": "𗭴𗁀",
+    "GX": "yoṃ¹.qo̱¹",
+    "GHC": "ꞏjow¹.ko¹",
     "explanationEN": "",
-    "explanationCN": "壶头（地名）"
+    "explanationCN": "阳刚"
   },
   {
-    "word": "𗶡𗂧",
-    "GX": "hau̱¹.lheh²",
-    "GHC": "xu¹.lhjịj²",
+    "word": "𗂘𗄿",
+    "GX": "rker².llu̱h²",
+    "GHC": "kji̱r².lụ²",
     "explanationEN": "",
-    "explanationCN": "胡国"
+    "explanationCN": "阳萎"
   },
   {
-    "word": "𗷭𗁬",
-    "GX": "kiṃ¹.tho̱ṃ¹",
-    "GHC": "kjĩ¹.thow¹",
+    "word": "𘁂𘀄𗂧𘘚𗤛",
+    "GX": "ya².ŋgu².lheh².ndze².tśoṃ¹",
+    "GHC": "ꞏja².gju̱².lhjịj².dzji̱j².tśjow¹",
     "explanationEN": "",
-    "explanationCN": "金汤"
+    "explanationCN": "野遇国师寺"
+  },
+  {
+    "word": "𗓖𗂓",
+    "GX": "ŋga².ti̱w¹",
+    "GHC": "gja̱².tew¹",
+    "explanationEN": "",
+    "explanationCN": "邺斗"
+  },
+  {
+    "word": "𘃻𗂧",
+    "GX": "yiṃ¹.lheh²",
+    "GHC": "ꞏji¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "殷国"
   },
   {
     "word": "𗷲𗉔",
@@ -2304,18 +3081,186 @@ const WORD_DATA = [
     "explanationCN": "银州"
   },
   {
-    "word": "𗸯𘟙𗂧𗓑",
-    "GX": "dźwu¹.ne².lheh².rγwe̱r²",
-    "GHC": "dźjwu¹.njij².lhjịj².ˑwejr²",
+    "word": "𘝰𗉔",
+    "GX": "giṃ¹.tśiw¹",
+    "GHC": "gjĩ¹.tśjiw¹",
     "explanationEN": "",
-    "explanationCN": "《仁王护国》"
+    "explanationCN": "银州"
   },
   {
-    "word": "𗸯𘟠",
-    "GX": "dźwu¹.dzu̱¹",
-    "GHC": "dźjwu¹.dzu¹",
+    "word": "𗀄𗞲",
+    "GX": "ŋwu̱².do̱²",
+    "GHC": "ŋwu².do²",
     "explanationEN": "",
-    "explanationCN": "仁爱"
+    "explanationCN": "隐退"
+  },
+  {
+    "word": "𗂏𘝗",
+    "GX": "yu¹.yiw¹",
+    "GHC": "ꞏju¹.ꞏjiw¹",
+    "explanationEN": "",
+    "explanationCN": "余姚"
+  },
+  {
+    "word": "𗂏𗚒",
+    "GX": "yu¹.khu²",
+    "GHC": "ꞏju¹.khju²",
+    "explanationEN": "",
+    "explanationCN": "榆楸"
+  },
+  {
+    "word": "𗂏𘄠",
+    "GX": "yu¹.tśha²",
+    "GHC": "ꞏju¹.tśhja²",
+    "explanationEN": "",
+    "explanationCN": "虞阐"
+  },
+  {
+    "word": "𗂏𘓖𗽇",
+    "GX": "yu¹.qo̱ṃ¹.tṣhaa̱¹",
+    "GHC": "ꞏju¹.kow¹.tśhia¹",
+    "explanationEN": "",
+    "explanationCN": "虞公差"
+  },
+  {
+    "word": "𗂏𘓖𗔨𗬐",
+    "GX": "yu¹.qo̱ṃ¹.tṣaə̱².sə̱¹",
+    "GHC": "ꞏju¹.kow¹.tśiə².sə¹",
+    "explanationEN": "",
+    "explanationCN": "虞公之斯"
+  },
+  {
+    "word": "𗂏𘓖",
+    "GX": "yu¹.qo̱ṃ¹",
+    "GHC": "ꞏju¹.kow¹",
+    "explanationEN": "",
+    "explanationCN": "虞衮"
+  },
+  {
+    "word": "𗘼𗂧",
+    "GX": "ŋgu¹.lheh²",
+    "GHC": "gju̱¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "虞国"
+  },
+  {
+    "word": "𗂏𗤭",
+    "GX": "yu¹.ywiṃ¹",
+    "GHC": "ꞏju¹.ꞏjwĩ¹",
+    "explanationEN": "",
+    "explanationCN": "虞尹"
+  },
+  {
+    "word": "𗙼𗙷𘏧𗁬𗋳𗣛",
+    "GX": "yu².rir².yaw².tho̱ṃ¹.kwa̱ṃ¹.qi̱w¹",
+    "GHC": "ꞏju².rjir².ꞏja̱².thow¹.kwã¹.kew¹",
+    "explanationEN": "",
+    "explanationCN": "御前衙堂管勾"
+  },
+  {
+    "word": "𗂏𗉔",
+    "GX": "yu¹.tśiw¹",
+    "GHC": "ꞏju¹.tśjiw¹",
+    "explanationEN": "",
+    "explanationCN": "豫州"
+  },
+  {
+    "word": "𘟦𗀝",
+    "GX": "bə̱².rvwo̱r¹",
+    "GHC": "bə².wor¹",
+    "explanationEN": "",
+    "explanationCN": "鸳鸯"
+  },
+  {
+    "word": "𗇝𗂧",
+    "GX": "rywar¹.lheh²",
+    "GHC": "ꞏjwar¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "越国"
+  },
+  {
+    "word": "𗀹𘂆",
+    "GX": "zi¹.tsə¹",
+    "GHC": "zji¹.tsjɨ¹",
+    "explanationEN": "",
+    "explanationCN": "崽子"
+  },
+  {
+    "word": "𘕜𘉑",
+    "GX": "ga².mə¹",
+    "GHC": "gja².mjɨ¹",
+    "explanationEN": "we.two(inclusive)",
+    "explanationCN": "咱俩(包括式)"
+  },
+  {
+    "word": "𘕜𗣊",
+    "GX": "ga².mi²",
+    "GHC": "gja².mji²",
+    "explanationEN": "we(inclusive)",
+    "explanationCN": "咱们(包括式)"
+  },
+  {
+    "word": "𘝶𗳒",
+    "GX": "the².ŋwu̱²",
+    "GHC": "thjij².ŋwu²",
+    "explanationEN": "how",
+    "explanationCN": "怎么会(理由)"
+  },
+  {
+    "word": "𘝶𗦜",
+    "GX": "the².so²",
+    "GHC": "thjij².sjo²",
+    "explanationEN": "why(reason);how",
+    "explanationCN": "怎么会(理由);怎么"
+  },
+  {
+    "word": "𘑲𗥼𗬐𗁀",
+    "GX": "tśoṃ¹.a?.sə̱¹.qo̱¹",
+    "GHC": "tśjow¹.ꞏja.sə¹.ko¹",
+    "explanationEN": "",
+    "explanationCN": "张阿四哥"
+  },
+  {
+    "word": "𘑲𗁀",
+    "GX": "tśoṃ¹.qo̱¹",
+    "GHC": "tśjow¹.ko¹",
+    "explanationEN": "",
+    "explanationCN": "张光"
+  },
+  {
+    "word": "𗀄𗀣",
+    "GX": "ŋwu̱².rha̱r¹",
+    "GHC": "ŋwu².xar¹",
+    "explanationEN": "",
+    "explanationCN": "张开"
+  },
+  {
+    "word": "𗀄𗧰",
+    "GX": "ŋwu̱².khe¹",
+    "GHC": "ŋwu².khjij¹",
+    "explanationEN": "",
+    "explanationCN": "张开"
+  },
+  {
+    "word": "𘕹𗂧",
+    "GX": "tśhiw¹.lheh²",
+    "GHC": "tśhjiw¹.lhjịj²",
+    "explanationEN": "",
+    "explanationCN": "赵国"
+  },
+  {
+    "word": "𘝶𗒘",
+    "GX": "the².γae̱¹",
+    "GHC": "thjij².ɣiej¹",
+    "explanationEN": "how.real(really?)",
+    "explanationCN": "真的吗"
+  },
+  {
+    "word": "𗑃𗁀𗽤",
+    "GX": "tśiṃ¹.qo̱¹.tṣhae̱²",
+    "GHC": "tśjĩ¹.ko¹.tśhiej²",
+    "explanationEN": "",
+    "explanationCN": "镇国寨"
   },
   {
     "word": "𗹑𗁪",
@@ -2332,452 +3277,32 @@ const WORD_DATA = [
     "explanationCN": "正头（官名）"
   },
   {
-    "word": "𗺁𗁪𘝻",
-    "GX": "hae̱ṃ².thi̱w².qwo̱¹",
-    "GHC": "xiəj².thew².kwo¹",
+    "word": "𗝿𗂧",
+    "GX": "tśhe¹.lheh²",
+    "GHC": "tśhjij¹.lhjịj²",
     "explanationEN": "",
-    "explanationCN": "行头鼓"
+    "explanationCN": "郑国"
   },
   {
-    "word": "𗺉𗼽𗁪",
-    "GX": "tśhi².si̱w².thi̱w²",
-    "GHC": "tśhji².sew².thew²",
+    "word": "𗁂𗭑",
+    "GX": "dziw².śu¹",
+    "GHC": "dzjiw².śju¹",
     "explanationEN": "",
-    "explanationCN": "赤小豆"
+    "explanationCN": "桎梏"
   },
   {
-    "word": "𗺹𗀱",
-    "GX": "hi̱w¹.phao̱²",
-    "GHC": "xew¹.phio²",
+    "word": "𗉔𗂧",
+    "GX": "tśiw¹.lheh²",
+    "GHC": "tśjiw¹.lhjịj²",
     "explanationEN": "",
-    "explanationCN": "厚朴"
+    "explanationCN": "周国"
   },
   {
-    "word": "𗺹𗁀",
-    "GX": "hi̱w¹.qo̱¹",
-    "GHC": "xew¹.ko¹",
+    "word": "𘜸𘞨𗁬",
+    "GX": "tshə̱¹.źeh².tho̱ṃ¹",
+    "GHC": "tshə¹.źjịj².thow¹",
     "explanationEN": "",
-    "explanationCN": "霍光"
-  },
-  {
-    "word": "𗻼𗁀",
-    "GX": "ṣae̱ṃ¹.qo̱¹",
-    "GHC": "śiəj¹.ko¹",
-    "explanationEN": "",
-    "explanationCN": "生姜"
-  },
-  {
-    "word": "𗻼𗁀𘑸",
-    "GX": "ṣae̱ṃ¹.qo̱¹.ro̱ṃr¹",
-    "GHC": "śiəj¹.ko¹.rowr¹",
-    "explanationEN": "",
-    "explanationCN": "干生姜"
-  },
-  {
-    "word": "𗼇𗂧",
-    "GX": "mi².lheh²",
-    "GHC": "mji².lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "番国"
-  },
-  {
-    "word": "𗼇𘂜𗟲𗿳𗖵𘃎𘇂𗊏",
-    "GX": "mi².rza̱r¹.ŋŋwu̱¹.dzeṃ¹.bu¹.pah¹.ġu̱².nih²",
-    "GHC": "mji².zar¹.ŋwu̱¹.dzjɨj¹.bju¹.pjạ¹.gu².njị²",
-    "explanationEN": "",
-    "explanationCN": "《番汉合时掌中珠》"
-  },
-  {
-    "word": "𗼵𗍏𗁬𘝞",
-    "GX": "hao̱².su².tho̱ṃ¹.rywər²",
-    "GHC": "xjow².sju².thow¹.ˑjwɨr²",
-    "explanationEN": "",
-    "explanationCN": "《风俗通》"
-  },
-  {
-    "word": "𗼵𗥝𗂧",
-    "GX": "hao̱².ndu̱¹.lheh²",
-    "GHC": "xjow².du̱¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "匈奴国"
-  },
-  {
-    "word": "𗽕𗁪",
-    "GX": "qao̱ṃ².thi̱w²",
-    "GHC": "kiow².thew²",
-    "explanationEN": "",
-    "explanationCN": "豇豆"
-  },
-  {
-    "word": "𗾞𗾞",
-    "GX": "nnə².nnə²",
-    "GHC": "njɨ̱².njɨ̱²",
-    "explanationEN": "everyday",
-    "explanationCN": "每天"
-  },
-  {
-    "word": "𗾩𗁪",
-    "GX": "hwaṃ¹.thi̱w²",
-    "GHC": "xjwã¹.thew²",
-    "explanationEN": "",
-    "explanationCN": "楦头"
-  },
-  {
-    "word": "𗿄𗚿𗭮𗂧",
-    "GX": "khu².liw².źoṃ¹.lheh²",
-    "GHC": "khju².ljiw².źjow¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "佉卢戎国"
-  },
-  {
-    "word": "𗿍𗀝",
-    "GX": "śaw¹.rvwo̱r¹",
-    "GHC": "śja̱¹.wor¹",
-    "explanationEN": "",
-    "explanationCN": "鸤鸠"
-  },
-  {
-    "word": "𘀍𗣊",
-    "GX": "na².mi²",
-    "GHC": "nja².mji²",
-    "explanationEN": "you.PL",
-    "explanationCN": "你们"
-  },
-  {
-    "word": "𘀍𘉑",
-    "GX": "na².mə¹",
-    "GHC": "nja².mjɨ¹",
-    "explanationEN": "you.PL",
-    "explanationCN": "你们"
-  },
-  {
-    "word": "𘀺𗁬𘄒𘎑",
-    "GX": "kha².tho̱ṃ¹.pa̱².źa²",
-    "GHC": "khja².thow¹.pa².rja²",
-    "explanationEN": "",
-    "explanationCN": "《竭陀般若》"
-  },
-  {
-    "word": "𘁂𘀄𗂧𘘚𗤛",
-    "GX": "ya².ŋgu².lheh².ndze².tśoṃ¹",
-    "GHC": "ˑja².gju̱².lhjịj².dzji̱j².tśjow¹",
-    "explanationEN": "",
-    "explanationCN": "野遇国师寺"
-  },
-  {
-    "word": "𘂜𗂧",
-    "GX": "rza̱r¹.lheh²",
-    "GHC": "zar¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "汉国"
-  },
-  {
-    "word": "𘂦𗀇",
-    "GX": "ha̱ṃ¹.goṃ¹",
-    "GHC": "xã¹.gjow¹",
-    "explanationEN": "",
-    "explanationCN": "韩娥"
-  },
-  {
-    "word": "𘂦𗂧",
-    "GX": "ha̱ṃ¹.lheh²",
-    "GHC": "xã¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "韩国"
-  },
-  {
-    "word": "𘂹𗑛𗤳𗼚𗚉𗹚𘒮",
-    "GX": "ne².rzər¹.mə̱².γo̱ṃ².yu².rner¹.nzi̱w²",
-    "GHC": "njij².zjɨr¹.mə².ˑow².ˑju².njijr¹.ze̱w²",
-    "explanationEN": "",
-    "explanationCN": "东南卧姓民地忍"
-  },
-  {
-    "word": "𘃣𗂧",
-    "GX": "vi².lheh²",
-    "GHC": "wji².lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "卫/魏国"
-  },
-  {
-    "word": "𘃳𘂆𗂧",
-    "GX": "kiw¹.tsə¹.lheh²",
-    "GHC": "kjiwr¹.tsjɨ¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "龟兹国"
-  },
-  {
-    "word": "𘃻𗂧",
-    "GX": "yiṃ¹.lheh²",
-    "GHC": "ˑjĩ¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "殷国"
-  },
-  {
-    "word": "𘄱𗁬",
-    "GX": "theṃ¹.tho̱ṃ¹",
-    "GHC": "thjɨj¹.thow¹",
-    "explanationEN": "",
-    "explanationCN": "天堂"
-  },
-  {
-    "word": "𘄴𗂧",
-    "GX": "tshi¹.lheh²",
-    "GHC": "tshji¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "齐国"
-  },
-  {
-    "word": "𘄽𘄽",
-    "GX": "ŋa̱h².ŋa̱h²",
-    "GHC": "ŋạ².ŋạ²",
-    "explanationEN": "really;very;well",
-    "explanationCN": "甚"
-  },
-  {
-    "word": "𘄿𗁪",
-    "GX": "te¹.thi̱w²",
-    "GHC": "tjij¹.thew²",
-    "explanationEN": "",
-    "explanationCN": "品度"
-  },
-  {
-    "word": "𘅰𗂧",
-    "GX": "γu̱¹.lheh²",
-    "GHC": "ɣu¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "吴国"
-  },
-  {
-    "word": "𘅰𗒯𗂧",
-    "GX": "γu̱¹.khi¹.lheh²",
-    "GHC": "ɣu¹.khji¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "乌耆国"
-  },
-  {
-    "word": "𘅳𗂧",
-    "GX": "tshi¹.lheh²",
-    "GHC": "tshji¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "齐国"
-  },
-  {
-    "word": "𘆅𗹛",
-    "GX": "qa̱².tśe²",
-    "GHC": "ka².tśjij²",
-    "explanationEN": "",
-    "explanationCN": "狮子"
-  },
-  {
-    "word": "𘆅𗹛𗎭",
-    "GX": "qa̱².tśe².mmi¹",
-    "GHC": "ka².tśjij².mji̱¹",
-    "explanationEN": "",
-    "explanationCN": "狮子宫"
-  },
-  {
-    "word": "𘆅𗹛𗦖𗎭",
-    "GX": "qa̱².tśe².rmer².mmi¹",
-    "GHC": "ka².tśjij².mjijr².mji̱¹",
-    "explanationEN": "",
-    "explanationCN": "狮子星宫"
-  },
-  {
-    "word": "𘇹𗁀𘂆",
-    "GX": "ṣaə̱¹.qo̱¹.tsə¹",
-    "GHC": "śiə¹.ko¹.tsjɨ¹",
-    "explanationEN": "",
-    "explanationCN": "线果子"
-  },
-  {
-    "word": "𘈫𗁀",
-    "GX": "γu̱².qo̱¹",
-    "GHC": "ˑu².ko¹",
-    "explanationEN": "",
-    "explanationCN": "务光"
-  },
-  {
-    "word": "𘈫𘔺𗟦𗂧",
-    "GX": "γu̱².khi².ma̱ṃ¹.lheh²",
-    "GHC": "ˑu².khji².mã¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "五溪蛮国"
-  },
-  {
-    "word": "𘊹𗍭𗁀",
-    "GX": "kaw¹.loṃ².qo̱¹",
-    "GHC": "kja̱¹.ljow².ko¹",
-    "explanationEN": "",
-    "explanationCN": "高良姜"
-  },
-  {
-    "word": "𘋅𗥻𗁡",
-    "GX": "sa̱ṃ¹.phai̱¹.phi¹",
-    "GHC": "sã¹.phie¹.phji¹",
-    "explanationEN": "",
-    "explanationCN": "桑白皮"
-  },
-  {
-    "word": "𘋺𗂧",
-    "GX": "ṣuo¹.lheh²",
-    "GHC": "śio̱w¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "蜀国"
-  },
-  {
-    "word": "𘋻𗁪",
-    "GX": "źu².thi̱w²",
-    "GHC": "źju².thew²",
-    "explanationEN": "",
-    "explanationCN": "乳头（食品）"
-  },
-  {
-    "word": "𘎧𗂧𘘚",
-    "GX": "vwa̱¹.lheh².ndze²",
-    "GHC": "wa¹.lhjịj².dzji̱j²",
-    "explanationEN": "",
-    "explanationCN": "讹国师"
-  },
-  {
-    "word": "𘎧𘓉𘑫𗖅𘏐",
-    "GX": "vwa̱¹.lhi̱w¹.ka̱ṃ¹.swi².γwai̱¹",
-    "GHC": "wa¹.lhew¹.kã¹.sjwi².ɣwie¹",
-    "explanationEN": "",
-    "explanationCN": "讹劳甘领势"
-  },
-  {
-    "word": "𘏞𗂧",
-    "GX": "po̱¹.lheh²",
-    "GHC": "po¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "褒国"
-  },
-  {
-    "word": "𘏧𗁬",
-    "GX": "yaw².tho̱ṃ¹",
-    "GHC": "ˑja̱².thow¹",
-    "explanationEN": "",
-    "explanationCN": "衙堂"
-  },
-  {
-    "word": "𘏽𗂧",
-    "GX": "swi¹.lheh²",
-    "GHC": "sjwi¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "隋国"
-  },
-  {
-    "word": "𘐀𗂧",
-    "GX": "phə̱¹.lheh²",
-    "GHC": "phə¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "蕃国"
-  },
-  {
-    "word": "𘑫𗁀",
-    "GX": "ka̱ṃ¹.qo̱¹",
-    "GHC": "kã¹.ko¹",
-    "explanationEN": "",
-    "explanationCN": "干姜"
-  },
-  {
-    "word": "𘑲𗁀",
-    "GX": "tśoṃ¹.qo̱¹",
-    "GHC": "tśjow¹.ko¹",
-    "explanationEN": "",
-    "explanationCN": "张光"
-  },
-  {
-    "word": "𘑲𗥼𗬐𗁀",
-    "GX": "tśoṃ¹.a?.sə̱¹.qo̱¹",
-    "GHC": "tśjow¹.ˑja?.sə¹.ko¹",
-    "explanationEN": "",
-    "explanationCN": "张阿四哥"
-  },
-  {
-    "word": "𘑶𗐱",
-    "GX": "tse¹.ni²",
-    "GHC": "tsjij¹.nji²",
-    "explanationEN": "not.self.PL",
-    "explanationCN": "非己(复数)"
-  },
-  {
-    "word": "𘒂𗉔",
-    "GX": "haa̱¹.tśiw¹",
-    "GHC": "xia¹.tśjiw¹",
-    "explanationEN": "",
-    "explanationCN": "夏州"
-  },
-  {
-    "word": "𘓂𘙌",
-    "GX": "ləh¹.kə¹",
-    "GHC": "ljɨ̣¹.kjɨ¹",
-    "explanationEN": "what;who;which",
-    "explanationCN": "什么；谁；哪个"
-  },
-  {
-    "word": "𘓊𗀐",
-    "GX": "rzər¹.dźe¹",
-    "GHC": "zjɨ̱r¹.dźjij¹",
-    "explanationEN": "",
-    "explanationCN": "小寒"
-  },
-  {
-    "word": "𘓷𗙀𗅲𗯿𗂧𗴴",
-    "GX": "rqwə̱r¹.mbu².teṃh².rvwe̱r¹.lheh².re̱r²",
-    "GHC": "kwər¹.bju̱².tjɨ̣j².wejr¹.lhjịj².lhejr²",
-    "explanationEN": "",
-    "explanationCN": "天赐礼盛国庆"
-  },
-  {
-    "word": "𘓺𗫸𗁣𘇚",
-    "GX": "rŋwə̱r¹.yih².dzə¹.mmi²",
-    "GHC": "ŋwər¹.ˑjị².dzjɨ¹.mji̱²",
-    "explanationEN": "",
-    "explanationCN": "天仪治平"
-  },
-  {
-    "word": "𘓺𘃸𗫿𗓆𗆧𗅆𗬩𘞂",
-    "GX": "rŋwə̱r¹.leh¹.kwi¹.le¹.siw¹.deṃ².qai̱¹.ndzə²",
-    "GHC": "ŋwər¹.ljịj¹.kjwi¹.ljij¹.sjiw¹.djɨj².kie¹.dzjɨ̱²",
-    "explanationEN": "",
-    "explanationCN": "《天盛改旧新定律令》"
-  },
-  {
-    "word": "𘓾𗂧",
-    "GX": "yaṃ¹.lheh²",
-    "GHC": "ˑjã¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "燕国"
-  },
-  {
-    "word": "𘔏𗃞𗘄",
-    "GX": "bi̱h¹.qə̱¹.ta̱¹",
-    "GHC": "bẹ¹.kə¹.ta¹",
-    "explanationEN": "sand.dog(mole.cricket)",
-    "explanationCN": "沙.狗(蝼蛄)"
-  },
-  {
-    "word": "𘔜𗁡",
-    "GX": "tśhiṃ¹.phi¹",
-    "GHC": "tśhjĩ¹.phji¹",
-    "explanationEN": "",
-    "explanationCN": "陈皮"
-  },
-  {
-    "word": "𘔜𗂧",
-    "GX": "tśhiṃ¹.lheh²",
-    "GHC": "tśhjĩ¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "陈国"
-  },
-  {
-    "word": "𘔜𘅧𗁡",
-    "GX": "tśhiṃ¹.kwi¹.phi¹",
-    "GHC": "tśhjĩ¹.kjwi¹.phji¹",
-    "explanationEN": "",
-    "explanationCN": "陈橘皮"
+    "explanationCN": "自然铜"
   },
   {
     "word": "𘕘𗁡",
@@ -2794,300 +3319,28 @@ const WORD_DATA = [
     "explanationCN": "子通"
   },
   {
-    "word": "𘕜𗣊",
-    "GX": "ga².mi²",
-    "GHC": "gia².mji²",
-    "explanationEN": "we(inclusive)",
-    "explanationCN": "咱们(包括式)"
-  },
-  {
-    "word": "𘕜𘉑",
-    "GX": "ga².mə¹",
-    "GHC": "gia².mjɨ¹",
-    "explanationEN": "we.two(inclusive)",
-    "explanationCN": "咱俩(包括式)"
-  },
-  {
-    "word": "𘕢𗂧",
-    "GX": "bə¹.lheh²",
-    "GHC": "bjɨ¹.lhjịj²",
+    "word": "𗇮𗃵",
+    "GX": "rə̱r².puh²",
+    "GHC": "rar².pjụ²",
     "explanationEN": "",
-    "explanationCN": "敌国"
+    "explanationCN": "宗庙"
   },
   {
-    "word": "𘕣𗍊",
-    "GX": "vwa̱².su²",
-    "GHC": "wa².sju²",
-    "explanationEN": "what kind",
-    "explanationCN": "什么样"
-  },
-  {
-    "word": "𘕣𘔼",
-    "GX": "vwa̱².nuo¹",
-    "GHC": "wa².nio̱w¹",
-    "explanationEN": "why(cause)",
-    "explanationCN": "为什么(原因）"
-  },
-  {
-    "word": "𘕹𗂧",
-    "GX": "tśhiw¹.lheh²",
-    "GHC": "tśhjiw¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "赵国"
-  },
-  {
-    "word": "𘕺𗁪",
-    "GX": "gu¹.thi̱w²",
-    "GHC": "gju¹.thew²",
-    "explanationEN": "",
-    "explanationCN": "渠头（官名）"
-  },
-  {
-    "word": "𘗠𗘩𗀹",
-    "GX": "γa̱¹.rnə̱r².zi¹",
-    "GHC": "ɣa¹.nər².zji¹",
-    "explanationEN": "",
-    "explanationCN": "小黄门（官名）"
-  },
-  {
-    "word": "𘙊𘙊",
-    "GX": "lwi̱h².lwi̱h²",
-    "GHC": "lwẹ².lwẹ²",
-    "explanationEN": "slowly",
-    "explanationCN": "慢慢"
-  },
-  {
-    "word": "𘚜𗂧",
-    "GX": "lhweh¹.lheh²",
-    "GHC": "lhjwịj¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "番国"
-  },
-  {
-    "word": "𘛂𗘞𗂰𘕂𗞔𘐂𗨮",
-    "GX": "mbe².lha¹.li².dźe¹.śa¹.nwəh².kah²",
-    "GHC": "bji̱j².lha¹.lji².dźjij¹.śja¹.njwɨ̣².kjạ²",
-    "explanationEN": "",
-    "explanationCN": "《整驾西行烧香歌》"
-  },
-  {
-    "word": "𘛫𗁡",
-    "GX": "liw¹.phi¹",
-    "GHC": "ljiw¹.phji¹",
-    "explanationEN": "",
-    "explanationCN": "刘备"
-  },
-  {
-    "word": "𘛴𗤂",
-    "GX": "ŋġu̱¹.di²",
-    "GHC": "gu̱¹.dji²",
-    "explanationEN": "dispel",
-    "explanationCN": "祛除"
-  },
-  {
-    "word": "𘜲𗂧",
-    "GX": "śu¹.lheh²",
-    "GHC": "śju¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "蜀国"
-  },
-  {
-    "word": "𘜲𗂧𘐆",
-    "GX": "śu¹.lheh².la̱¹",
-    "GHC": "śju¹.lhjịj².la¹",
-    "explanationEN": "",
-    "explanationCN": "《蜀国志》"
-  },
-  {
-    "word": "𘜶𗀐",
-    "GX": "lleh².dźe¹",
-    "GHC": "ljịj².dźjij¹",
-    "explanationEN": "",
-    "explanationCN": "大寒"
-  },
-  {
-    "word": "𘜶𗁬",
-    "GX": "lleh².tho̱ṃ¹",
-    "GHC": "ljịj².thow¹",
-    "explanationEN": "",
-    "explanationCN": "大唐"
-  },
-  {
-    "word": "𘜶𗁬𗛰𗔇𗣟𗺉",
-    "GX": "lleh².tho̱ṃ¹.re̱r².γu̱h².rver¹.tśhi²",
-    "GHC": "ljịj².thow¹.lhejr².ˑụ².wjijr¹.tśhji²",
-    "explanationEN": "",
-    "explanationCN": "《大唐三藏卦书》"
-  },
-  {
-    "word": "𘜶𗴲𗂧",
-    "GX": "lleh².dźwe².lheh²",
-    "GHC": "ljịj².dźjwij².lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "大夏国"
-  },
-  {
-    "word": "𘜸𘞨𗁬",
-    "GX": "tshə̱¹.źeh².tho̱ṃ¹",
-    "GHC": "tshə¹.źjịj².thow¹",
-    "explanationEN": "",
-    "explanationCN": "自然铜"
-  },
-  {
-    "word": "𘝞𗗚",
-    "GX": "rywər².ŋao̱ṃ²",
-    "GHC": "ˑjwɨr².ŋjow²",
-    "explanationEN": "",
-    "explanationCN": "《文海》"
-  },
-  {
-    "word": "𘝞𗗚𘏨𗖵",
-    "GX": "rywər².ŋao̱ṃ².lləh¹.bu¹",
-    "GHC": "ˑjwɨr².ŋjow².ljɨ̣¹.bju¹",
-    "explanationEN": "",
-    "explanationCN": "《文海宝韵》"
+    "word": "𗩾𘂤",
+    "GX": "zi².qha̱¹",
+    "GHC": "źji².kha¹",
+    "explanationEN": "the most",
+    "explanationCN": "最"
   },
   {
     "word": "𘝦𘃡",
     "GX": "dźə¹.vi¹",
-    "GHC": "dźjɨ¹.wji¹",
-    "explanationEN": "ERG",
-    "explanationCN": "ERG"
-  },
-  {
-    "word": "𘝰𗉔",
-    "GX": "giṃ¹.tśiw¹",
-    "GHC": "gjĩ¹.tśjiw¹",
-    "explanationEN": "",
-    "explanationCN": "银州"
-  },
-  {
-    "word": "𘝵𗐱",
-    "GX": "ye¹.ni²",
-    "GHC": "ˑjij¹.nji²",
-    "explanationEN": "self.PL",
-    "explanationCN": "己(复数)"
-  },
-  {
-    "word": "𘝵𗯩",
-    "GX": "ye¹.twu̱h¹",
-    "GHC": "ˑjij¹.twụ¹",
-    "explanationEN": "each",
-    "explanationCN": "各自"
-  },
-  {
-    "word": "𘝶𗒘",
-    "GX": "the².γae̱¹",
-    "GHC": "thjij².ɣiej¹",
-    "explanationEN": "how.real(really?)",
-    "explanationCN": "真的吗"
-  },
-  {
-    "word": "𘝶𗦜",
-    "GX": "the².so²",
-    "GHC": "thjij².sjo²",
-    "explanationEN": "why(reason);how",
-    "explanationCN": "怎么会(理由);怎么"
-  },
-  {
-    "word": "𘝶𗳒",
-    "GX": "the².ŋwu̱²",
-    "GHC": "thjij².ŋwu²",
-    "explanationEN": "how",
-    "explanationCN": "怎么会(理由)"
-  },
-  {
-    "word": "𘝻𗀱",
-    "GX": "qwo̱¹.phao̱²",
-    "GHC": "kwo¹.phio²",
-    "explanationEN": "",
-    "explanationCN": "郭璞"
-  },
-  {
-    "word": "𘝻𗂧",
-    "GX": "qwo̱¹.lheh²",
-    "GHC": "kwo¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "郭国"
-  },
-  {
-    "word": "𘝻𗨇𗂧",
-    "GX": "qwo̱¹.tṣuo¹.lheh²",
-    "GHC": "kwo¹.tśio̱w¹.lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "孤竹国"
-  },
-  {
-    "word": "𘝾𗁀",
-    "GX": "li².qo̱¹",
-    "GHC": "ljị².ko¹",
-    "explanationEN": "",
-    "explanationCN": "李广"
-  },
-  {
-    "word": "𘝾𗁀𗦆",
-    "GX": "li².qo̱¹.tsiṃ¹",
-    "GHC": "ljị².ko¹.tsjĩ¹",
-    "explanationEN": "",
-    "explanationCN": "李光近"
-  },
-  {
-    "word": "𘝾𗁀𘝿",
-    "GX": "li².qo̱¹.li²",
-    "GHC": "ljị².ko¹.lji²",
-    "explanationEN": "",
-    "explanationCN": "李广利"
-  },
-  {
-    "word": "𘝾𗂎",
-    "GX": "li².tsheṃ²",
-    "GHC": "ljị².tshjɨj²",
-    "explanationEN": "",
-    "explanationCN": "李靖"
-  },
-  {
-    "word": "𘝾𗂎𘒏𘝞",
-    "GX": "li².tsheṃ².ga¹.rywər²",
-    "GHC": "ljị².tshjɨj².gja¹.ˑjwɨr²",
-    "explanationEN": "",
-    "explanationCN": "《李靖兵法》"
-  },
-  {
-    "word": "𘞐𗙼𘌜𗁡𗙢",
-    "GX": "nśu¹.yu².pai̱¹.phi¹.vwa̱ṃ²",
-    "GHC": "śju̱¹.ˑju².pie¹.phji¹.wã²",
-    "explanationEN": "",
-    "explanationCN": "芍药檗皮丸"
-  },
-  {
-    "word": "𘟑𗀇",
-    "GX": "ha̱ṃ².goṃ¹",
-    "GHC": "xã².gjow¹",
-    "explanationEN": "",
-    "explanationCN": "韩娥"
-  },
-  {
-    "word": "𘟑𗁀𘈫",
-    "GX": "ha̱ṃ².qo̱¹.γu̱²",
-    "GHC": "xã².ko¹.ˑu²",
-    "explanationEN": "",
-    "explanationCN": "汉光武"
-  },
-  {
-    "word": "𘟑𗂧",
-    "GX": "ha̱ṃ².lheh²",
-    "GHC": "xã².lhjịj²",
-    "explanationEN": "",
-    "explanationCN": "汉国"
-  },
-  {
-    "word": "𘟦𗀝",
-    "GX": "bə̱².rvwo̱r¹",
-    "GHC": "bə².wor¹",
-    "explanationEN": "",
-    "explanationCN": "鸳鸯"
+    "GHC": "dźjɨ.wji¹",
+    "explanationEN": "ᴇʀɢ",
+    "explanationCN": "ᴇʀɢ"
   }
-]
+];
+
 // 定义字典数据
 const CHARACTER_DATA = [
   {
@@ -3710,8 +3963,8 @@ const CHARACTER_DATA = [
     "character": "𗀔",
     "GX": "tśhaw¹",
     "GHC": "tśhja̱¹",
-    "explanationEN": "SUPE",
-    "explanationCN": "SUPE"
+    "explanationEN": "ꜱᴜᴘᴇ",
+    "explanationCN": "ꜱᴜᴘᴇ"
   },
   {
     "character": "𗀝",
@@ -5117,7 +5370,7 @@ const CHARACTER_DATA = [
     "character": "𗍊",
     "GX": "su²",
     "GHC": "sju²",
-    "explanationEN": "as",
+    "explanationEN": "be like",
     "explanationCN": "如"
   },
   {
@@ -6118,8 +6371,8 @@ const CHARACTER_DATA = [
     "character": "𗖵",
     "GX": "bu¹",
     "GHC": "bju¹",
-    "explanationEN": "REF:referential.",
-    "explanationCN": "REF： 引用"
+    "explanationEN": "ʀᴇꜰ",
+    "explanationCN": "ʀᴇꜰ"
   },
   {
     "character": "𗖛",
@@ -8022,8 +8275,8 @@ const CHARACTER_DATA = [
     "character": "𘅍",
     "GX": "zeh¹",
     "GHC": "zjịj¹",
-    "explanationEN": "TIME.ᴀ",
-    "explanationCN": "时.ᴀ"
+    "explanationEN": "ᴛɪᴍᴇ.ᴀ",
+    "explanationCN": "ᴛɪᴍᴇ.ᴀ"
   },
   {
     "character": "𘈖",
@@ -8155,8 +8408,8 @@ const CHARACTER_DATA = [
     "character": "𘆄",
     "GX": "nə²",
     "GHC": "njɨ²",
-    "explanationEN": "PL",
-    "explanationCN": "PL"
+    "explanationEN": "ᴘʟ",
+    "explanationCN": "ᴘʟ"
   },
   {
     "character": "𘑮",
@@ -8652,8 +8905,8 @@ const CHARACTER_DATA = [
     "character": "𘙇",
     "GX": "rər²",
     "GHC": "rjɨr²",
-    "explanationEN": "PFV:DIR/IMP:DIR",
-    "explanationCN": "PFV:DIR; IMP: DIR"
+    "explanationEN": "ᴘꜰᴠ:ᴅɪʀ/ɪᴍᴘ:ᴅɪʀ",
+    "explanationCN": "ᴘꜰᴠ:ᴅɪʀ/ɪᴍᴘ:ᴅɪʀ"
   },
   {
     "character": "𘙝",
@@ -8715,8 +8968,8 @@ const CHARACTER_DATA = [
     "character": "𗌽",
     "GX": "də²",
     "GHC": "djɨ²",
-    "explanationEN": "PFV:AUTOB/IMP:AUTOB",
-    "explanationCN": "PFV:AUTOB;IMP:AUTOB"
+    "explanationEN": "ᴘꜰᴠ:ᴀᴜᴛᴏʙ/ɪᴍᴘ:ᴀᴜᴛᴏʙ",
+    "explanationCN": "ᴘꜰᴠ:ᴀᴜᴛᴏʙ/ɪᴍᴘ:ᴀᴜᴛᴏʙ"
   },
   {
     "character": "𗍃",
@@ -8821,7 +9074,7 @@ const CHARACTER_DATA = [
     "GX": "rar¹",
     "GHC": "rjar¹",
     "explanationEN": "wonderful",
-    "explanationCN": "1.殊妙2.珞"
+    "explanationCN": "殊妙【珞】"
   },
   {
     "character": "𘔟",
@@ -8856,7 +9109,7 @@ const CHARACTER_DATA = [
     "GX": "tśhə²",
     "GHC": "tśhjɨ²",
     "explanationEN": "immediately",
-    "explanationCN": "1.立即2.俄倾3.遂4.须臾5.即6.忽7.乃"
+    "explanationCN": "立即"
   },
   {
     "character": "𘆀",
@@ -8933,7 +9186,7 @@ const CHARACTER_DATA = [
     "GX": "sa̱²",
     "GHC": "sa²",
     "explanationEN": "report/plan",
-    "explanationCN": "1.陈计2.接"
+    "explanationCN": "连接"
   },
   {
     "character": "𗖬",
@@ -8954,14 +9207,14 @@ const CHARACTER_DATA = [
     "GX": "nah²",
     "GHC": "njạ²",
     "explanationEN": "help",
-    "explanationCN": "1.助2.賑"
+    "explanationCN": "助"
   },
   {
     "character": "𘇱",
     "GX": "pa̱h²",
     "GHC": "pạ²",
     "explanationEN": "witticism",
-    "explanationCN": "1.妙语2.盔"
+    "explanationCN": "妙语【靶】"
   },
   {
     "character": "𘇷",
@@ -8989,7 +9242,7 @@ const CHARACTER_DATA = [
     "GX": "tśoṃ¹",
     "GHC": "tśjow¹",
     "explanationEN": "marshland",
-    "explanationCN": "（注：此字在《同音》里属正齿音，但《文海》注音反切上字，则為齿头音，根据此字的反切系联，应属正齿音，《文海》注音误。）英文释义marshland详细解释请参考《简明夏汉字典》第102页。龚煌城释义皋 (皋)；泽《同义》释义泽mojikyo字体朱景永时字体磽"
+    "explanationCN": "泽"
   },
   {
     "character": "𘆎",
@@ -9080,7 +9333,7 @@ const CHARACTER_DATA = [
     "GX": "rmə̱r²",
     "GHC": "mər²",
     "explanationEN": "origin/root",
-    "explanationCN": "1.根本根源2.宗祖3.?意“本母”，但在佛经里译為“论”。"
+    "explanationCN": "根本"
   },
   {
     "character": "𘗨",
@@ -9297,7 +9550,7 @@ const CHARACTER_DATA = [
     "GX": "ryər²",
     "GHC": "ꞏjɨr²",
     "explanationEN": "stop/rest",
-    "explanationCN": "1.歇休2.音【休】【紇】【蚶】"
+    "explanationCN": "1.歇休【休】【紇】【蚶】"
   },
   {
     "character": "𗖮",
@@ -9402,7 +9655,7 @@ const CHARACTER_DATA = [
     "GX": "rźər¹",
     "GHC": "źjɨr¹",
     "explanationEN": "solid/true",
-    "explanationCN": "1.实】2.重3.史"
+    "explanationCN": "实"
   },
   {
     "character": "𗕯",
@@ -9430,7 +9683,7 @@ const CHARACTER_DATA = [
     "GX": "mbu̱¹",
     "GHC": "bu̱¹",
     "explanationEN": "etiquette/ceremony.and.propriety",
-    "explanationCN": "1.礼仪2.如3.音【母】【莫】【木】【墓】【步】【牟】【谋】"
+    "explanationCN": "礼仪【母】【莫】【木】【墓】【步】【牟】【谋】"
   },
   {
     "character": "𗶥",
@@ -9500,7 +9753,7 @@ const CHARACTER_DATA = [
     "GX": "tshu̱¹",
     "GHC": "tshu¹",
     "explanationEN": "conceited/restrained",
-    "explanationCN": "1.矜2.哀"
+    "explanationCN": "矜、哀"
   },
   {
     "character": "𗷜",
@@ -9584,7 +9837,7 @@ const CHARACTER_DATA = [
     "GX": "lwa̱ṃ²",
     "GHC": "lwã²",
     "explanationEN": "in.disorder/confused",
-    "explanationCN": "1.乱】2.私"
+    "explanationCN": "【乱】【阑】【蓝】"
   },
   {
     "character": "𗱠",
@@ -9605,14 +9858,14 @@ const CHARACTER_DATA = [
     "GX": "nlu²",
     "GHC": "lju̱²",
     "explanationEN": "bedding",
-    "explanationCN": "1.卧具2.寝"
+    "explanationCN": "卧具"
   },
   {
     "character": "𗱪",
     "GX": "yi¹",
     "GHC": "ꞏji¹",
     "explanationEN": "many/more/much",
-    "explanationCN": "1.多2.音【夷】【伊】【逸】"
+    "explanationCN": "多【夷】【伊】【逸】"
   },
   {
     "character": "𗲈",
@@ -9640,21 +9893,21 @@ const CHARACTER_DATA = [
     "GX": "ŋgə¹",
     "GHC": "gjɨ̱¹",
     "explanationEN": "a.sudden.peal.of.thunder",
-    "explanationCN": "1.迅雷2.音【揭】【近】【芨】"
+    "explanationCN": "迅雷【揭】【近】【芨】"
   },
   {
     "character": "𗙧",
     "GX": "rmer¹",
     "GHC": "mjijr¹",
     "explanationEN": "flourishing/prosperous",
-    "explanationCN": "1.盛2.安（兴）"
+    "explanationCN": "盛"
   },
   {
     "character": "𘄊",
     "GX": "li¹",
     "GHC": "lji¹",
     "explanationEN": "prosperous/flourishing",
-    "explanationCN": "1.兴盛繁荣2.音【利】【黎】【雒】【驪】【离】【璃】【犁】"
+    "explanationCN": "繁荣【利】【黎】【雒】【驪】【离】【璃】【犁】"
   },
   {
     "character": "𘄌",
@@ -9745,7 +9998,7 @@ const CHARACTER_DATA = [
     "GX": "qaə̱²",
     "GHC": "kiə²",
     "explanationEN": "collapse",
-    "explanationCN": "1.倒蹋2.粗糙"
+    "explanationCN": "倒塌、粗糙"
   },
   {
     "character": "𗲸",
@@ -9794,14 +10047,14 @@ const CHARACTER_DATA = [
     "GX": "reṃ²",
     "GHC": "rjɨj²",
     "explanationEN": "dark",
-    "explanationCN": "1.黑暗2.宗源"
+    "explanationCN": "黑暗"
   },
   {
     "character": "𗕔",
     "GX": "the̱¹",
     "GHC": "thej¹",
     "explanationEN": "platform/objects.shaped.like.a.platform",
-    "explanationCN": "1.臺2.太大3.音【袋】【大】【太】【胎】【泰】"
+    "explanationCN": "【台】【袋】【大】【太】【胎】【泰】"
   },
   {
     "character": "𗕪",
@@ -9836,14 +10089,14 @@ const CHARACTER_DATA = [
     "GX": "γwo̱ṃh¹",
     "GHC": "ꞏwo¹",
     "explanationEN": "pillow",
-    "explanationCN": "1.枕2.源"
+    "explanationCN": "枕"
   },
   {
     "character": "𗇹",
     "GX": "qhaa̱ṃ¹",
     "GHC": "kiã¹",
     "explanationEN": "salted/salty",
-    "explanationCN": "1.硷】2.音【简】"
+    "explanationCN": "【硷】【简】"
   },
   {
     "character": "𗕑",
@@ -9864,7 +10117,7 @@ const CHARACTER_DATA = [
     "GX": "rur¹",
     "GHC": "rjur¹",
     "explanationEN": "all/everyone",
-    "explanationCN": "1.诸2.众3.若4.二字重迭為“处处”“一切”"
+    "explanationCN": "诸"
   },
   {
     "character": "𗘧",
@@ -9878,7 +10131,7 @@ const CHARACTER_DATA = [
     "GX": "ndẓae̱ṃ²",
     "GHC": "dźie̱j¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【謚】【神】放牧"
+    "explanationCN": "【謚】【神】放牧"
   },
   {
     "character": "𗲤",
@@ -10424,7 +10677,7 @@ const CHARACTER_DATA = [
     "GX": "dzih¹",
     "GHC": "dzjị¹",
     "explanationEN": "horse’s.teeth/age",
-    "explanationCN": "（按：马齿，即“口齿”，亦指马骡等牲畜的年龄。）英文释义horse’s teeth; age详细解释请参考《简明夏汉字典》第126页。龚煌城释义马齿集《同义》释义老mojikyo字体嘱景永时字体耽"
+    "explanationCN": "马齿、年龄"
   },
   {
     "character": "𗵹",
@@ -10445,7 +10698,7 @@ const CHARACTER_DATA = [
     "GX": "ndu̱²",
     "GHC": "du̱²",
     "explanationEN": "crawl",
-    "explanationCN": "1.爬行蠕动2.音【耨】"
+    "explanationCN": "爬行、蠕动【耨】"
   },
   {
     "character": "𘆢",
@@ -10535,8 +10788,8 @@ const CHARACTER_DATA = [
     "character": "𗷝",
     "GX": "me²",
     "GHC": "mjij²",
-    "explanationEN": "NEG.PFV",
-    "explanationCN": "NEG.PFV"
+    "explanationEN": "ɴᴇɢ.ᴘꜰᴠ",
+    "explanationCN": "ɴᴇɢ.ᴘꜰᴠ"
   },
   {
     "character": "𗷙",
@@ -10557,7 +10810,7 @@ const CHARACTER_DATA = [
     "GX": "rə̱r²",
     "GHC": "rar²",
     "explanationEN": "shadow/reflection",
-    "explanationCN": "1.影2.庙祠"
+    "explanationCN": "影"
   },
   {
     "character": "𗈀",
@@ -10641,7 +10894,7 @@ const CHARACTER_DATA = [
     "GX": "lleṃh²",
     "GHC": "ljɨ̣j²",
     "explanationEN": "sweet",
-    "explanationCN": "1.甘甜2.酸"
+    "explanationCN": "甘"
   },
   {
     "character": "𗘟",
@@ -10690,14 +10943,14 @@ const CHARACTER_DATA = [
     "GX": "lu̱¹",
     "GHC": "lu¹",
     "explanationEN": "stove/furnace",
-    "explanationCN": "1.炉】2.又音【庐】【路】【农】【论】"
+    "explanationCN": "【炉】庐】【路】【农】【论】"
   },
   {
     "character": "𘘝",
     "GX": "ndze²",
     "GHC": "dzji̱j²",
     "explanationEN": "teach/instruct",
-    "explanationCN": "1.教2.化3.师4.弟5.学"
+    "explanationCN": "教"
   },
   {
     "character": "𗴉",
@@ -10732,7 +10985,7 @@ const CHARACTER_DATA = [
     "GX": "dzə¹",
     "GHC": "dzjɨ¹",
     "explanationEN": "prepare/get.ready",
-    "explanationCN": "1.準备2.供给3.提举4. 皇城5.三司"
+    "explanationCN": "准备"
   },
   {
     "character": "𗲞",
@@ -10781,21 +11034,21 @@ const CHARACTER_DATA = [
     "GX": "do̱ṃ²",
     "GHC": "dow²",
     "explanationEN": "bear",
-    "explanationCN": "1.熊2.鱉"
+    "explanationCN": "熊"
   },
   {
     "character": "𗱱",
     "GX": "tsha²",
     "GHC": "tshja²",
     "explanationEN": "pay.one’s.debt",
-    "explanationCN": "1.还债2.报答3.陪"
+    "explanationCN": "偿还"
   },
   {
     "character": "𗗟",
     "GX": "ye¹",
     "GHC": "ꞏjij¹",
-    "explanationEN": "FUT",
-    "explanationCN": "FUT"
+    "explanationEN": "ꜰᴜᴛ",
+    "explanationCN": "ꜰᴜᴛ"
   },
   {
     "character": "𗙪",
@@ -10865,7 +11118,7 @@ const CHARACTER_DATA = [
     "GX": "beh¹",
     "GHC": "bjịj¹",
     "explanationEN": "dangerous/perilous",
-    "explanationCN": "1.险阻2.殆"
+    "explanationCN": "危险"
   },
   {
     "character": "𗷪",
@@ -10914,7 +11167,7 @@ const CHARACTER_DATA = [
     "GX": "ndzə²",
     "GHC": "dzjɨ̱²",
     "explanationEN": "practice/exercise/review",
-    "explanationCN": "1.习】2.令3.化"
+    "explanationCN": "学习"
   },
   {
     "character": "𘇇",
@@ -10928,7 +11181,7 @@ const CHARACTER_DATA = [
     "GX": "nnə²",
     "GHC": "njɨ̱²",
     "explanationEN": "annoyance",
-    "explanationCN": "1.恼2.厄"
+    "explanationCN": "恼"
   },
   {
     "character": "𘇜",
@@ -10977,14 +11230,14 @@ const CHARACTER_DATA = [
     "GX": "lwuh¹",
     "GHC": "ljwụ¹",
     "explanationEN": "mixed/harmonious",
-    "explanationCN": "1.和合混合和睦2.凌"
+    "explanationCN": "合"
   },
   {
     "character": "𗘾",
     "GX": "qwə̱²",
     "GHC": "kwə²",
     "explanationEN": "conch",
-    "explanationCN": "1.螺2.蚌3.蠃4.珂5.蠡"
+    "explanationCN": "螺"
   },
   {
     "character": "𗙉",
@@ -11060,8 +11313,8 @@ const CHARACTER_DATA = [
     "character": "𗗙",
     "GX": "ye¹",
     "GHC": "ꞏjij¹",
-    "explanationEN": "GEN/ANTIERG",
-    "explanationCN": "GEN/ANTIERG"
+    "explanationEN": "ɢᴇɴ/ᴀɴᴛɪᴇʀɢ",
+    "explanationCN": "ɢᴇɴ/ᴀɴᴛɪᴇʀɢ"
   },
   {
     "character": "𗘿",
@@ -11152,14 +11405,14 @@ const CHARACTER_DATA = [
     "GX": "duh¹",
     "GHC": "djụ¹",
     "explanationEN": "centre/middle",
-    "explanationCN": "1.中2.交岔3.衢4.闕"
+    "explanationCN": "交叉"
   },
   {
     "character": "𘘤",
     "GX": "dźə¹",
     "GHC": "dźjɨ¹",
     "explanationEN": "skin/fur",
-    "explanationCN": "1.皮2.鳞"
+    "explanationCN": "皮"
   },
   {
     "character": "𗱖",
@@ -11208,7 +11461,7 @@ const CHARACTER_DATA = [
     "GX": "qa̱²",
     "GHC": "ka²",
     "explanationEN": "separate/sever",
-    "explanationCN": "1.分离2.绝"
+    "explanationCN": "分离"
   },
   {
     "character": "𗈧",
@@ -11236,7 +11489,7 @@ const CHARACTER_DATA = [
     "GX": "tṣhao̱ṃ²",
     "GHC": "tśhjow²",
     "explanationEN": "red.sand",
-    "explanationCN": "1.赤沙2.音【仲】"
+    "explanationCN": "赤沙【仲】"
   },
   {
     "character": "𗲴",
@@ -11278,21 +11531,21 @@ const CHARACTER_DATA = [
     "GX": "tśe²",
     "GHC": "tśjij²",
     "explanationEN": "dog",
-    "explanationCN": "1.狗2.音【整】【敕】【贞】【政】"
+    "explanationCN": "狗【整】【敕】【贞】【政】"
   },
   {
     "character": "𗵿",
     "GX": "mbi̱²",
     "GHC": "be̱²",
     "explanationEN": "eyebrow/brow",
-    "explanationCN": "1.眉2.音【默】"
+    "explanationCN": "眉【默】"
   },
   {
     "character": "𗶍",
     "GX": "mbi̱²",
     "GHC": "be̱²",
     "explanationEN": "ghost",
-    "explanationCN": "1.鬼魅2.音【默】"
+    "explanationCN": "鬼魅【默】"
   },
   {
     "character": "𘅕",
@@ -11313,7 +11566,7 @@ const CHARACTER_DATA = [
     "GX": "lwu¹",
     "GHC": "ljwu¹",
     "explanationEN": "deceive/cheat",
-    "explanationCN": "1.欺骗2.违"
+    "explanationCN": "欺骗"
   },
   {
     "character": "𘆕",
@@ -11369,7 +11622,7 @@ const CHARACTER_DATA = [
     "GX": "da̱h²",
     "GHC": "dạ²",
     "explanationEN": "matter/affair/thing",
-    "explanationCN": "1.事2.任"
+    "explanationCN": "事"
   },
   {
     "character": "𘑴",
@@ -11481,7 +11734,7 @@ const CHARACTER_DATA = [
     "GX": "paa̱ṃ¹",
     "GHC": "piã¹",
     "explanationEN": "assist",
-    "explanationCN": "1.辅助2.音【班】【巴】【把】【攀】"
+    "explanationCN": "辅助【班】【巴】【把】【攀】"
   },
   {
     "character": "𗘂",
@@ -11544,7 +11797,7 @@ const CHARACTER_DATA = [
     "GX": "tṣaa̱¹",
     "GHC": "tśia¹",
     "explanationEN": "collapse",
-    "explanationCN": "1.倒蹋2.音【札】【吒】【宅】【笊】【盏】"
+    "explanationCN": "倒塌【札】【吒】【宅】【笊】【盏】"
   },
   {
     "character": "𗲶",
@@ -11586,7 +11839,7 @@ const CHARACTER_DATA = [
     "GX": "ṇo̱ṃ²",
     "GHC": "niow²",
     "explanationEN": "wonderful",
-    "explanationCN": "1.妙2.音【娘】"
+    "explanationCN": "妙【娘】"
   },
   {
     "character": "𗇰",
@@ -11649,7 +11902,7 @@ const CHARACTER_DATA = [
     "GX": "mpho²",
     "GHC": "phjo̱²",
     "explanationEN": "gentle/harmonious",
-    "explanationCN": "1.和合2.对偶3.密"
+    "explanationCN": "合"
   },
   {
     "character": "𘜞",
@@ -11775,14 +12028,14 @@ const CHARACTER_DATA = [
     "GX": "li²",
     "GHC": "lji²",
     "explanationEN": "children",
-    "explanationCN": "1.儿童2.音【利】【吏】【隶】（音 204）"
+    "explanationCN": "儿童【利】【吏】【隶】"
   },
   {
     "character": "𘝋",
     "GX": "dzwə²",
     "GHC": "dzjwɨ²",
     "explanationEN": "wing",
-    "explanationCN": "1.翅翼2.羽"
+    "explanationCN": "翅翼"
   },
   {
     "character": "𗱣",
@@ -11901,7 +12154,7 @@ const CHARACTER_DATA = [
     "GX": "tṣao̱ṃ¹",
     "GHC": "tśiow¹",
     "explanationEN": "gather/assemble",
-    "explanationCN": "1.聚集2.音【桌】【卓】【蒺】【涿】【庄】【淖】"
+    "explanationCN": "聚集【桌】【卓】【蒺】【涿】【庄】【淖】"
   },
   {
     "character": "𗉠",
@@ -11922,7 +12175,7 @@ const CHARACTER_DATA = [
     "GX": "źih¹",
     "GHC": "źjị¹",
     "explanationEN": "vexed/worried",
-    "explanationCN": "1.烦恼2.累苦"
+    "explanationCN": "烦恼"
   },
   {
     "character": "𗉫",
@@ -11943,7 +12196,7 @@ const CHARACTER_DATA = [
     "GX": "lho²",
     "GHC": "lhə",
     "explanationEN": "butter/cheese",
-    "explanationCN": "1.酥酪2.油3.汁"
+    "explanationCN": "酥油"
   },
   {
     "character": "𘔊",
@@ -12013,7 +12266,7 @@ const CHARACTER_DATA = [
     "GX": "vwo̱²",
     "GHC": "wo²",
     "explanationEN": "should/ought.to",
-    "explanationCN": "1.应可2.也可加在名词之后，具有“宜”义3.可作名词“理”用"
+    "explanationCN": "1.应可、也可加在名词之后，具有“宜”义、可作名词“理”用"
   },
   {
     "character": "𘓨",
@@ -12034,7 +12287,7 @@ const CHARACTER_DATA = [
     "GX": "ŋwi̱¹",
     "GHC": "ŋwe¹",
     "explanationEN": "be.willing",
-    "explanationCN": "1.乐意2.愿"
+    "explanationCN": "乐意、愿"
   },
   {
     "character": "𘘣",
@@ -12230,7 +12483,7 @@ const CHARACTER_DATA = [
     "GX": "twi̱¹",
     "GHC": "twe¹",
     "explanationEN": "pile.up/stack",
-    "explanationCN": "1.堆】2.囤3.坛"
+    "explanationCN": "堆"
   },
   {
     "character": "𗌵",
@@ -12258,7 +12511,7 @@ const CHARACTER_DATA = [
     "GX": "tśe¹",
     "GHC": "tśjij¹",
     "explanationEN": "Qiangic.people/Tibetan",
-    "explanationCN": "1.羌藏2.巧匠"
+    "explanationCN": "羌藏"
   },
   {
     "character": "𗗺",
@@ -12279,7 +12532,7 @@ const CHARACTER_DATA = [
     "GX": "ta̱¹",
     "GHC": "ta¹",
     "explanationEN": "dog",
-    "explanationCN": "1.犬2.音【靼】【郸】【妲】"
+    "explanationCN": "犬【靼】【郸】【妲】"
   },
   {
     "character": "𗘄",
@@ -12328,14 +12581,14 @@ const CHARACTER_DATA = [
     "GX": "tshi¹",
     "GHC": "tshji¹",
     "explanationEN": "desire/want",
-    "explanationCN": "1.要需求2.音【齐】【寂】【戚】【籍】【缉】"
+    "explanationCN": "1.要需求【齐】【寂】【戚】【籍】【缉】"
   },
   {
     "character": "𘅖",
     "GX": "mbə¹",
     "GHC": "bjɨ̱¹",
     "explanationEN": "tie.up",
-    "explanationCN": "1.束缚2.跳跃"
+    "explanationCN": "1.束缚、跳跃"
   },
   {
     "character": "𘅗",
@@ -12363,21 +12616,21 @@ const CHARACTER_DATA = [
     "GX": "ndźu²",
     "GHC": "dźju̱²",
     "explanationEN": "exercise.forbearance",
-    "explanationCN": "1.忍让2.侵"
+    "explanationCN": "1.忍让、侵"
   },
   {
     "character": "𘘪",
     "GX": "to̱ṃ¹",
     "GHC": "tow¹",
     "explanationEN": "get/obtain",
-    "explanationCN": "1.得2.安"
+    "explanationCN": "1.得、安"
   },
   {
     "character": "𘙌",
     "GX": "kə¹",
     "GHC": "kjɨ¹",
-    "explanationEN": "PFV:IN/IMP:IN/1DU",
-    "explanationCN": "PFV: IN; IMP: IN; 1DU"
+    "explanationEN": "ᴘꜰᴠ:ɪɴ/ɪᴍᴘ:ɪɴ/𝟣ᴅᴜ",
+    "explanationCN": "ᴘꜰᴠ:ɪɴ/ɪᴍᴘ:ɪɴ/𝟣ᴅᴜ"
   },
   {
     "character": "𘝀",
@@ -12405,7 +12658,7 @@ const CHARACTER_DATA = [
     "GX": "rtser²",
     "GHC": "tsjir²",
     "explanationEN": "thorn/splinter",
-    "explanationCN": "1.棘刺2.扠3.茬稻芒"
+    "explanationCN": "1.棘刺、扠、茬稻芒"
   },
   {
     "character": "𗲦",
@@ -12419,7 +12672,7 @@ const CHARACTER_DATA = [
     "GX": "nde̱¹",
     "GHC": "de̱j¹",
     "explanationEN": "pass.on/transfer",
-    "explanationCN": "1.传转2.傅"
+    "explanationCN": "1.传转、傅"
   },
   {
     "character": "𘗮",
@@ -12440,14 +12693,14 @@ const CHARACTER_DATA = [
     "GX": "qhə̱²",
     "GHC": "khə²",
     "explanationEN": "monkey/ape",
-    "explanationCN": "1.猕猴2.猿"
+    "explanationCN": "1.猕猴、猿"
   },
   {
     "character": "𗈦",
     "GX": "lha²",
     "GHC": "lhạ",
     "explanationEN": "confuse/puzzle",
-    "explanationCN": "1.迷惑2.失3.倒"
+    "explanationCN": "1.迷惑、失、倒"
   },
   {
     "character": "𗕡",
@@ -12468,7 +12721,7 @@ const CHARACTER_DATA = [
     "GX": "mbi²",
     "GHC": "bji̱²",
     "explanationEN": "shining",
-    "explanationCN": "1.毫2.灿3.显4.音【密】"
+    "explanationCN": "1.毫、灿、显【密】"
   },
   {
     "character": "𗲓",
@@ -12510,7 +12763,7 @@ const CHARACTER_DATA = [
     "GX": "nlo̱¹",
     "GHC": "lo̱¹",
     "explanationEN": "kind/type",
-    "explanationCN": "1.类2.具"
+    "explanationCN": "1.类、具"
   },
   {
     "character": "𗌻",
@@ -12580,7 +12833,7 @@ const CHARACTER_DATA = [
     "GX": "te¹",
     "GHC": "tjij¹",
     "explanationEN": "chapter/grade/rank",
-    "explanationCN": "1.品篇章2.排3.秩4.摊5.叹"
+    "explanationCN": "1.品篇章、排、秩、摊、叹"
   },
   {
     "character": "𗳤",
@@ -12594,7 +12847,7 @@ const CHARACTER_DATA = [
     "GX": "rŋwi̱r¹",
     "GHC": "ŋwer¹",
     "explanationEN": "equate/be.equal",
-    "explanationCN": "1.等同2.比3.匹4.权5.均"
+    "explanationCN": "1.等同、比、匹、权、均"
   },
   {
     "character": "𘝎",
@@ -12615,7 +12868,7 @@ const CHARACTER_DATA = [
     "GX": "vwa̱²",
     "GHC": "wa¹",
     "explanationEN": "hide/conceal",
-    "explanationCN": "1.隠藏2.音【蛙】（珠 173）【袜】（珠 252）【发】（音 194）"
+    "explanationCN": "1.隠藏【蛙】（珠 173）【袜】（珠 252）【发】（音 194）"
   },
   {
     "character": "𗕮",
@@ -12636,7 +12889,7 @@ const CHARACTER_DATA = [
     "GX": "swa¹",
     "GHC": "sjwa¹",
     "explanationEN": "time",
-    "explanationCN": "1.时2.音【宣】【修】"
+    "explanationCN": "1.时【宣】【修】"
   },
   {
     "character": "𗲠",
@@ -12699,7 +12952,7 @@ const CHARACTER_DATA = [
     "GX": "nlə¹",
     "GHC": "la¹",
     "explanationEN": "streamer",
-    "explanationCN": "1.幡2.鳧"
+    "explanationCN": "1.幡、鳧"
   },
   {
     "character": "𗕨",
@@ -12727,7 +12980,7 @@ const CHARACTER_DATA = [
     "GX": "pao̱ṃ¹",
     "GHC": "piow¹",
     "explanationEN": "boundary/boder",
-    "explanationCN": "1.边界2.绑"
+    "explanationCN": "1.边界、绑"
   },
   {
     "character": "𗈣",
@@ -12909,7 +13162,7 @@ const CHARACTER_DATA = [
     "GX": "hu̱ṃ¹",
     "GHC": "xũ¹",
     "explanationEN": "red",
-    "explanationCN": "1.红】2.音【洪】【和】【虹】【鸿】【弘】"
+    "explanationCN": "1.红】【洪】【和】【虹】【鸿】【弘】"
   },
   {
     "character": "𗲘",
@@ -12951,14 +13204,14 @@ const CHARACTER_DATA = [
     "GX": "lhoṃ²",
     "GHC": "lhjo̱r¹",
     "explanationEN": "place/site/market",
-    "explanationCN": "1.场2.街3.市4.陈"
+    "explanationCN": "1.场、街、市、陈"
   },
   {
     "character": "𗉪",
     "GX": "tṣhae̱ṃ²",
     "GHC": "tśhiəj²",
     "explanationEN": "vexation/worry",
-    "explanationCN": "1.恼2.音【差】"
+    "explanationCN": "1.恼【差】"
   },
   {
     "character": "𘅎",
@@ -12986,7 +13239,7 @@ const CHARACTER_DATA = [
     "GX": "te̱¹",
     "GHC": "tej¹",
     "explanationEN": "well-proportioned",
-    "explanationCN": "1.匀称2.音【戴】"
+    "explanationCN": "1.匀称【戴】"
   },
   {
     "character": "𗲀",
@@ -13028,7 +13281,7 @@ const CHARACTER_DATA = [
     "GX": "rner²",
     "GHC": "njijr²",
     "explanationEN": "spread/pave",
-    "explanationCN": "1.铺2.薄部"
+    "explanationCN": "1.铺、薄部"
   },
   {
     "character": "𘝍",
@@ -13077,7 +13330,7 @@ const CHARACTER_DATA = [
     "GX": "pho̱ṃh²",
     "GHC": "phọ²",
     "explanationEN": "lame",
-    "explanationCN": "1.跛（瘸）2.音【鲍】"
+    "explanationCN": "1.跛（瘸）【鲍】"
   },
   {
     "character": "𘜉",
@@ -13140,7 +13393,7 @@ const CHARACTER_DATA = [
     "GX": "rtsi̱wr²",
     "GHC": "tsewr²",
     "explanationEN": "heavy",
-    "explanationCN": "1.沉重2.触投躄扣筑"
+    "explanationCN": "1.沉重、触投躄扣筑"
   },
   {
     "character": "𗕟",
@@ -13168,14 +13421,14 @@ const CHARACTER_DATA = [
     "GX": "ta̱ṃ¹",
     "GHC": "tã¹",
     "explanationEN": "unlined.garment",
-    "explanationCN": "1.单衣 2.音【丹】【答】【担】【胆】"
+    "explanationCN": "1.单衣 【丹】【答】【担】【胆】"
   },
   {
     "character": "𘆊",
     "GX": "γoṃ¹",
     "GHC": "ɣjow¹",
     "explanationEN": "source",
-    "explanationCN": "1.源2.极3.枕"
+    "explanationCN": "1.源、极、枕"
   },
   {
     "character": "𘆆",
@@ -13203,7 +13456,7 @@ const CHARACTER_DATA = [
     "GX": "nni̱w²",
     "GHC": "ne̱w²",
     "explanationEN": "be.smooth.and.steady",
-    "explanationCN": "1.安稳2.愷悌"
+    "explanationCN": "1.安稳、愷悌"
   },
   {
     "character": "𗈓",
@@ -13258,8 +13511,8 @@ const CHARACTER_DATA = [
     "character": "𗱢",
     "GX": "na¹",
     "GHC": "nja¹",
-    "explanationEN": "PFV:DOWN/IMP:DOWN",
-    "explanationCN": "PFV: DOWN; IMP: DOWN"
+    "explanationEN": "ᴘꜰᴠ:ᴅᴏᴡɴ/ɪᴍᴘ:ᴅᴏᴡɴ",
+    "explanationCN": "ᴘꜰᴠ:ᴅᴏᴡɴ/ɪᴍᴘ:ᴅᴏᴡɴ"
   },
   {
     "character": "𘃵",
@@ -13329,14 +13582,14 @@ const CHARACTER_DATA = [
     "GX": "nlo̱¹",
     "GHC": "lo̱¹",
     "explanationEN": "pool.efforts/cooperation",
-    "explanationCN": "1.合力2.群党"
+    "explanationCN": "1.合力、群党"
   },
   {
     "character": "𗷳",
     "GX": "dau̱²",
     "GHC": "du²",
     "explanationEN": "measure/send.bounds.to",
-    "explanationCN": "1.限量2.评判3.克"
+    "explanationCN": "1.限量、评判、克"
   },
   {
     "character": "𗷹",
@@ -13350,14 +13603,14 @@ const CHARACTER_DATA = [
     "GX": "lleh¹",
     "GHC": "ljịj¹",
     "explanationEN": "wait.upon/serve",
-    "explanationCN": "1.侍奉2.局务"
+    "explanationCN": "1.侍奉、局务"
   },
   {
     "character": "𗸅",
     "GX": "tśhwiṃ¹",
     "GHC": "tśhjwi¹",
     "explanationEN": "repeat/duplicate",
-    "explanationCN": "1.重复2.音【春】"
+    "explanationCN": "1.重复【春】"
   },
   {
     "character": "𗸆",
@@ -13392,21 +13645,21 @@ const CHARACTER_DATA = [
     "GX": "bə̱?",
     "GHC": "bə",
     "explanationEN": "sink",
-    "explanationCN": "1.沉没2.音【茉】"
+    "explanationCN": "1.沉没【茉】"
   },
   {
     "character": "𘒌",
     "GX": "bo̱ṃh²",
     "GHC": "bọ²",
     "explanationEN": "leopard/panther",
-    "explanationCN": "1.豹】2.中间"
+    "explanationCN": "1.豹】、中间"
   },
   {
     "character": "𗸒",
     "GX": "su̱¹",
     "GHC": "su¹",
-    "explanationEN": "COMP:comparative.",
-    "explanationCN": "COMP"
+    "explanationEN": "ᴄᴏᴍᴘ",
+    "explanationCN": "ᴄᴏᴍᴘ"
   },
   {
     "character": "𗸐",
@@ -13420,7 +13673,7 @@ const CHARACTER_DATA = [
     "GX": "bi¹",
     "GHC": "bji¹",
     "explanationEN": "thin/slight",
-    "explanationCN": "1.薄2.羸少"
+    "explanationCN": "1.薄、羸少"
   },
   {
     "character": "𗰹",
@@ -13434,7 +13687,7 @@ const CHARACTER_DATA = [
     "GX": "lli̱²",
     "GHC": "le²",
     "explanationEN": "tiger",
-    "explanationCN": "1.虎寅2.音【勒】"
+    "explanationCN": "1.虎寅【勒】"
   },
   {
     "character": "𗷲",
@@ -13462,7 +13715,7 @@ const CHARACTER_DATA = [
     "GX": "tṣhao̱ṃ¹",
     "GHC": "tśhiow¹",
     "explanationEN": "knit/wave",
-    "explanationCN": "1.结2.蒜"
+    "explanationCN": "1.结、蒜"
   },
   {
     "character": "𘘋",
@@ -13497,7 +13750,7 @@ const CHARACTER_DATA = [
     "GX": "tsi̱ṃ¹",
     "GHC": "tsẽ¹",
     "explanationEN": "hate/swear",
-    "explanationCN": "1.憎駡】2.音【曾】"
+    "explanationCN": "1.憎駡】【曾】"
   },
   {
     "character": "𗖥",
@@ -13609,7 +13862,7 @@ const CHARACTER_DATA = [
     "GX": "ha̱ṃ¹",
     "GHC": "xã¹",
     "explanationEN": "foolish/silly",
-    "explanationCN": "1.憨】2.音【汉】【悍】【含】【邯】"
+    "explanationCN": "1.憨】【汉】【悍】【含】【邯】"
   },
   {
     "character": "𘒕",
@@ -13637,7 +13890,7 @@ const CHARACTER_DATA = [
     "GX": "pi̱¹",
     "GHC": "pe¹",
     "explanationEN": "dirty/filthy",
-    "explanationCN": "1.骯脏2.音【北】"
+    "explanationCN": "1.骯脏【北】"
   },
   {
     "character": "𗖠",
@@ -13651,7 +13904,7 @@ const CHARACTER_DATA = [
     "GX": "be̱¹",
     "GHC": "bej¹",
     "explanationEN": "lose/fail",
-    "explanationCN": "1.败】2.北亡"
+    "explanationCN": "1.败】、北亡"
   },
   {
     "character": "𗖉",
@@ -13679,7 +13932,7 @@ const CHARACTER_DATA = [
     "GX": "mba̱¹",
     "GHC": "ba̱¹",
     "explanationEN": "forget",
-    "explanationCN": "1.忘2.音【嚩】【跋】【末】"
+    "explanationCN": "1.忘【嚩】【跋】【末】"
   },
   {
     "character": "𗴍",
@@ -13693,7 +13946,7 @@ const CHARACTER_DATA = [
     "GX": "nlə¹",
     "GHC": "ljɨ̱¹",
     "explanationEN": "suppress/put.down",
-    "explanationCN": "1.镇摄2.回3.还4.报5.逆屈6.趺"
+    "explanationCN": "1.镇摄、回、还、报、逆屈、趺"
   },
   {
     "character": "𗱤",
@@ -13889,7 +14142,7 @@ const CHARACTER_DATA = [
     "GX": "qu̱¹",
     "GHC": "ku¹",
     "explanationEN": "so",
-    "explanationCN": "1.则故连词2.音【鼓】（珠 212）【姑】（珠 366）【】（珠 166)【孤】（珠 064）【羖】（珠 164）【股】（珠 191）【孤】"
+    "explanationCN": "1.则故连词【鼓】（珠 212）【姑】（珠 366）【】（珠 166)【孤】（珠 064）【羖】（珠 164）【股】（珠 191）【孤】"
   },
   {
     "character": "𗌮",
@@ -13917,7 +14170,7 @@ const CHARACTER_DATA = [
     "GX": "luh²",
     "GHC": "ljụ²",
     "explanationEN": "body",
-    "explanationCN": "1.身2.形3.肤"
+    "explanationCN": "1.身、形、肤"
   },
   {
     "character": "𗲡",
@@ -14008,7 +14261,7 @@ const CHARACTER_DATA = [
     "GX": "qa̱²",
     "GHC": "ka²",
     "explanationEN": "spread",
-    "explanationCN": "1.伸展2.盃盏"
+    "explanationCN": "1.伸展、盃盏"
   },
   {
     "character": "𗴁",
@@ -14022,7 +14275,7 @@ const CHARACTER_DATA = [
     "GX": "nih²",
     "GHC": "njị²",
     "explanationEN": "nephew/brother's.child",
-    "explanationCN": "1.姪2.鰥"
+    "explanationCN": "1.姪、鰥"
   },
   {
     "character": "𗹒",
@@ -14078,7 +14331,7 @@ const CHARACTER_DATA = [
     "GX": "twu̱h¹",
     "GHC": "twụ¹",
     "explanationEN": "loyal/devoted",
-    "explanationCN": "1.忠2.直"
+    "explanationCN": "1.忠、直"
   },
   {
     "character": "𗹖",
@@ -14162,14 +14415,14 @@ const CHARACTER_DATA = [
     "GX": "nśə²",
     "GHC": "tśjɨ̱²",
     "explanationEN": "general.name.for.certain.musical.instruments",
-    "explanationCN": "1.琴瑟2.提"
+    "explanationCN": "1.琴瑟、提"
   },
   {
     "character": "𘞙",
     "GX": "geh¹",
     "GHC": "gjịj¹",
     "explanationEN": "profit/benefit",
-    "explanationCN": "1.利2.物"
+    "explanationCN": "1.利、物"
   },
   {
     "character": "𘞜",
@@ -14295,7 +14548,7 @@ const CHARACTER_DATA = [
     "GX": "thu̱¹",
     "GHC": "thu¹",
     "explanationEN": "set.up/build",
-    "explanationCN": "1.设置安建修2.结织"
+    "explanationCN": "1.设置安建修、结织"
   },
   {
     "character": "𘙾",
@@ -14316,7 +14569,7 @@ const CHARACTER_DATA = [
     "GX": "ṇa?",
     "GHC": "nja",
     "explanationEN": "renovate/repair/dredge.(.a.river,.etc.)",
-    "explanationCN": "1.整治2.制"
+    "explanationCN": "1.整治、制"
   },
   {
     "character": "𘔭",
@@ -14379,7 +14632,7 @@ const CHARACTER_DATA = [
     "GX": "nye¹",
     "GHC": "ꞏji̱j¹",
     "explanationEN": "exploits/achievements",
-    "explanationCN": "1.恩功（名）2.平坦"
+    "explanationCN": "1.恩功（名）、平坦"
   },
   {
     "character": "𗙦",
@@ -14393,7 +14646,7 @@ const CHARACTER_DATA = [
     "GX": "ri̱r²",
     "GHC": "rer²",
     "explanationEN": "stagnant",
-    "explanationCN": "1.滞2.捷"
+    "explanationCN": "1.滞、捷"
   },
   {
     "character": "𗘝",
@@ -14512,7 +14765,7 @@ const CHARACTER_DATA = [
     "GX": "thwə¹",
     "GHC": "thjwɨ¹",
     "explanationEN": "fear/dread",
-    "explanationCN": "1.吓惧2.音【突】"
+    "explanationCN": "1.吓惧【突】"
   },
   {
     "character": "𗙎",
@@ -14526,7 +14779,7 @@ const CHARACTER_DATA = [
     "GX": "pu̱h²",
     "GHC": "pụ²",
     "explanationEN": "old/aged",
-    "explanationCN": "1.长2.音【埔】"
+    "explanationCN": "1.长【埔】"
   },
   {
     "character": "𗙲",
@@ -14568,14 +14821,14 @@ const CHARACTER_DATA = [
     "GX": "qhwa̱h¹",
     "GHC": "khwạ¹",
     "explanationEN": "far",
-    "explanationCN": "1.远2.贬3.废"
+    "explanationCN": "1.远、贬、废"
   },
   {
     "character": "𗰛",
     "GX": "dzeh¹",
     "GHC": "dzjịj¹",
     "explanationEN": "cross/pass/exceed",
-    "explanationCN": "1.渡过越超逾2.余3.亢4.济"
+    "explanationCN": "1.渡过越超逾、余、亢、济"
   },
   {
     "character": "𗍻",
@@ -14589,7 +14842,7 @@ const CHARACTER_DATA = [
     "GX": "khwaə̱?",
     "GHC": "khiwə",
     "explanationEN": "abuse/swear",
-    "explanationCN": "1.駡詈2.音【噲】【愧】【蒯】"
+    "explanationCN": "1.駡詈【噲】【愧】【蒯】"
   },
   {
     "character": "𗙔",
@@ -14631,14 +14884,14 @@ const CHARACTER_DATA = [
     "GX": "za̱¹",
     "GHC": "za¹",
     "explanationEN": "enemy",
-    "explanationCN": "1.敌寇2.兵戈"
+    "explanationCN": "1.敌寇、兵戈"
   },
   {
     "character": "𗰥",
     "GX": "qhwa̱¹",
     "GHC": "khwa¹",
     "explanationEN": "garden",
-    "explanationCN": "1.花园2.音【寛】"
+    "explanationCN": "1.花园【寛】"
   },
   {
     "character": "𗙨",
@@ -14708,7 +14961,7 @@ const CHARACTER_DATA = [
     "GX": "li̱w²",
     "GHC": "lew²",
     "explanationEN": "white",
-    "explanationCN": "1.白2.（珂）贝车渠"
+    "explanationCN": "1.白、（珂）贝车渠"
   },
   {
     "character": "𘙱",
@@ -14764,7 +15017,7 @@ const CHARACTER_DATA = [
     "GX": "ta̱¹",
     "GHC": "ta¹",
     "explanationEN": "tail/east",
-    "explanationCN": "1.尾东2.音【旦】"
+    "explanationCN": "1.尾东【旦】"
   },
   {
     "character": "𗳩",
@@ -14862,21 +15115,21 @@ const CHARACTER_DATA = [
     "GX": "pə̱h¹",
     "GHC": "pə̣¹",
     "explanationEN": "smell.of.meat",
-    "explanationCN": "1.肉香2.粘"
+    "explanationCN": "1.肉香、粘"
   },
   {
     "character": "𗉬",
     "GX": "gwe¹",
     "GHC": "gjwij¹",
     "explanationEN": "offer.sacrifices.god.or.ancestors",
-    "explanationCN": "1.祭祀2.祠"
+    "explanationCN": "1.祭祀、祠"
   },
   {
     "character": "𗚂",
     "GX": "so²",
     "GHC": "sjo²",
     "explanationEN": "be.familiar.with",
-    "explanationCN": "1.熟悉2.音【诵】【襄】【穰】【相】【翔】【祥】【湘】【像】"
+    "explanationCN": "1.熟悉【诵】【襄】【穰】【相】【翔】【祥】【湘】【像】"
   },
   {
     "character": "𘈭",
@@ -14904,7 +15157,7 @@ const CHARACTER_DATA = [
     "GX": "tśhə²",
     "GHC": "tśhjɨ²",
     "explanationEN": "lean.meat",
-    "explanationCN": "1.瘦肉2.碎肉"
+    "explanationCN": "1.瘦肉、碎肉"
   },
   {
     "character": "𗰴",
@@ -14946,7 +15199,7 @@ const CHARACTER_DATA = [
     "GX": "sa¹",
     "GHC": "sja¹",
     "explanationEN": "do",
-    "explanationCN": "1.做作办2.音【萨】【颯】【散】【三】【苏】【僧】【索】"
+    "explanationCN": "1.做作办【萨】【颯】【散】【三】【苏】【僧】【索】"
   },
   {
     "character": "𗸫",
@@ -14967,7 +15220,7 @@ const CHARACTER_DATA = [
     "GX": "nlə¹",
     "GHC": "ljɨ̱¹",
     "explanationEN": "flag/raise.in.wind",
-    "explanationCN": "1.幡帜2.吹扬动词"
+    "explanationCN": "1.幡帜、吹扬动词"
   },
   {
     "character": "𘝄",
@@ -15100,7 +15353,7 @@ const CHARACTER_DATA = [
     "GX": "rar¹",
     "GHC": "rjar¹",
     "explanationEN": "write",
-    "explanationCN": "1.写书2.凭3.篤"
+    "explanationCN": "1.写书、凭、篤"
   },
   {
     "character": "𘝈",
@@ -15142,14 +15395,14 @@ const CHARACTER_DATA = [
     "GX": "ma¹",
     "GHC": "mja¹",
     "explanationEN": "stirrup",
-    "explanationCN": "1.鐙2.弩弓"
+    "explanationCN": "1.鐙、弩弓"
   },
   {
     "character": "𘈬",
     "GX": "nde²",
     "GHC": "dji̱j²",
     "explanationEN": "a.skilled.workman",
-    "explanationCN": "1.巧匠2.音【寧】【涅】"
+    "explanationCN": "1.巧匠【寧】【涅】"
   },
   {
     "character": "𘔡",
@@ -15232,8 +15485,8 @@ const CHARACTER_DATA = [
     "character": "𘅇",
     "GX": "ti¹",
     "GHC": "tji¹",
-    "explanationEN": "PROHIB",
-    "explanationCN": "PROHIB"
+    "explanationEN": "ᴘʀᴏʜɪʙ",
+    "explanationCN": "ᴘʀᴏʜɪʙ"
   },
   {
     "character": "𘴆",
@@ -15254,7 +15507,7 @@ const CHARACTER_DATA = [
     "GX": "qa̱¹",
     "GHC": "ka¹",
     "explanationEN": "even/equal",
-    "explanationCN": "1.平等齐2.俱斋并3.谊均伦4.两字重迭，意為“同时一齐”"
+    "explanationCN": "1.平等齐、俱斋并、谊均伦、两字重迭，意為“同时一齐”"
   },
   {
     "character": "𗳫",
@@ -15338,7 +15591,7 @@ const CHARACTER_DATA = [
     "GX": "qwe̱¹",
     "GHC": "kwej¹",
     "explanationEN": "hoof",
-    "explanationCN": "1.蹄2.蚌"
+    "explanationCN": "1.蹄、蚌"
   },
   {
     "character": "𗉡",
@@ -15352,7 +15605,7 @@ const CHARACTER_DATA = [
     "GX": "śwa¹",
     "GHC": "śjwa¹",
     "explanationEN": "hand",
-    "explanationCN": "1.手2.音【绥】"
+    "explanationCN": "1.手【绥】"
   },
   {
     "character": "𗉳",
@@ -15464,14 +15717,14 @@ const CHARACTER_DATA = [
     "GX": "ya¹",
     "GHC": "ꞏja¹",
     "explanationEN": "cat",
-    "explanationCN": "1.猫儿2.音【牙】【燕】"
+    "explanationCN": "1.猫儿【牙】【燕】"
   },
   {
     "character": "𗍗",
     "GX": "vwi̱²",
     "GHC": "we²",
     "explanationEN": "black",
-    "explanationCN": "1.黑戊2.音【卫】【威】【韦】（音 204）"
+    "explanationCN": "1.黑戊【卫】【威】【韦】（音 204）"
   },
   {
     "character": "𗍟",
@@ -15485,7 +15738,7 @@ const CHARACTER_DATA = [
     "GX": "lhwi¹",
     "GHC": "lhjwi¹",
     "explanationEN": "take/seize/draw",
-    "explanationCN": "1.取夺吸2.接堕援"
+    "explanationCN": "1.取夺吸、接堕援"
   },
   {
     "character": "𘄡",
@@ -15540,8 +15793,8 @@ const CHARACTER_DATA = [
     "character": "𗙼",
     "GX": "yu²",
     "GHC": "ꞏju²",
-    "explanationEN": "ANTE:antessive.",
-    "explanationCN": "ANTE"
+    "explanationEN": "ᴀɴᴛᴇ",
+    "explanationCN": "ᴀɴᴛᴇ"
   },
   {
     "character": "𗸷",
@@ -15597,7 +15850,7 @@ const CHARACTER_DATA = [
     "GX": "γu̱²",
     "GHC": "ꞏu²",
     "explanationEN": "appointment",
-    "explanationCN": "1.任2.迫"
+    "explanationCN": "1.任、迫"
   },
   {
     "character": "𘇨",
@@ -15646,14 +15899,14 @@ const CHARACTER_DATA = [
     "GX": "lhi²",
     "GHC": "lhji²",
     "explanationEN": "fear/dread",
-    "explanationCN": "1.畏惧2.檄"
+    "explanationCN": "1.畏惧、檄"
   },
   {
     "character": "𗱀",
     "GX": "γo̱¹",
     "GHC": "ꞏo¹",
     "explanationEN": "host/master",
-    "explanationCN": "1.主2.通常附在之后，表示领属关系3.不表示领主关系，而表示强调原来的词汇意义4.加在动词后，表示该动作的主体5.加在之后，表示敌人仇人之意"
+    "explanationCN": "1.主、通常附在之后，表示领属关系、不表示领主关系，而表示强调原来的词汇意义、加在动词后，表示该动作的主体、加在之后，表示敌人仇人之意"
   },
   {
     "character": "𗰿",
@@ -15730,7 +15983,7 @@ const CHARACTER_DATA = [
     "GX": "γwo̱ṃh¹",
     "GHC": "ꞏwọ¹",
     "explanationEN": "thick/bulky",
-    "explanationCN": "1.粗大2.隆"
+    "explanationCN": "1.粗大、隆"
   },
   {
     "character": "𘑰",
@@ -15821,7 +16074,7 @@ const CHARACTER_DATA = [
     "GX": "qhaa̱²",
     "GHC": "khia²",
     "explanationEN": "firm",
-    "explanationCN": "1.牢厚2.巧（巧匠）"
+    "explanationCN": "1.牢厚、巧（巧匠）"
   },
   {
     "character": "𗖆",
@@ -15856,7 +16109,7 @@ const CHARACTER_DATA = [
     "GX": "mma¹",
     "GHC": "mja̱¹",
     "explanationEN": "the.edge.of.a.knife",
-    "explanationCN": "1.刀2.靂"
+    "explanationCN": "1.刀、靂"
   },
   {
     "character": "𗖘",
@@ -15891,7 +16144,7 @@ const CHARACTER_DATA = [
     "GX": "tśeh¹",
     "GHC": "tśjịj¹",
     "explanationEN": "flatter/toady",
-    "explanationCN": "1.奉承2.告3.贱（诬）"
+    "explanationCN": "1.奉承、告、贱（诬）"
   },
   {
     "character": "𗈿",
@@ -15926,7 +16179,7 @@ const CHARACTER_DATA = [
     "GX": "nśə¹",
     "GHC": "śjɨ̱¹",
     "explanationEN": "doubt",
-    "explanationCN": "1.疑惑怀疑2.恍惚"
+    "explanationCN": "1.疑惑怀疑、恍惚"
   },
   {
     "character": "𗹘",
@@ -15947,7 +16200,7 @@ const CHARACTER_DATA = [
     "GX": "tśeṃ¹",
     "GHC": "tśjɨj¹",
     "explanationEN": "correct/upright",
-    "explanationCN": "1.正形容词】2.二字重迭，表示“端正”“正经”"
+    "explanationCN": "1.正形容词】、二字重迭，表示“端正”“正经”"
   },
   {
     "character": "𘈴",
@@ -16003,7 +16256,7 @@ const CHARACTER_DATA = [
     "GX": "yiw²",
     "GHC": "ꞏjiw²",
     "explanationEN": "an.old-fashioned.long.narrow.table.or.desk",
-    "explanationCN": "1.案2.汇集3.音【优】"
+    "explanationCN": "1.案、汇集【优】"
   },
   {
     "character": "𗙝",
@@ -16101,7 +16354,7 @@ const CHARACTER_DATA = [
     "GX": "ne²",
     "GHC": "njij²",
     "explanationEN": "hide",
-    "explanationCN": "1.匿2.倍"
+    "explanationCN": "1.匿、倍"
   },
   {
     "character": "𘙃",
@@ -16164,7 +16417,7 @@ const CHARACTER_DATA = [
     "GX": "ŋhe²",
     "GHC": "xjij²",
     "explanationEN": "broad/wide",
-    "explanationCN": "1.寛阔宽广2.音【歆】"
+    "explanationCN": "1.寛阔宽广【歆】"
   },
   {
     "character": "𗟥",
@@ -16227,7 +16480,7 @@ const CHARACTER_DATA = [
     "GX": "mphu̱²",
     "GHC": "phu̱²",
     "explanationEN": "luxuriant/flourishing",
-    "explanationCN": "1.茂盛2.崇"
+    "explanationCN": "1.茂盛、崇"
   },
   {
     "character": "𗡥",
@@ -16318,7 +16571,7 @@ const CHARACTER_DATA = [
     "GX": "gu²",
     "GHC": "gju²",
     "explanationEN": "silk",
-    "explanationCN": "1.丝2.蚕"
+    "explanationCN": "1.丝、蚕"
   },
   {
     "character": "𗹭",
@@ -16465,7 +16718,7 @@ const CHARACTER_DATA = [
     "GX": "teṃh²",
     "GHC": "tjɨ̣j²",
     "explanationEN": "ceremony/rite/manner",
-    "explanationCN": "1.礼閤法仪式制2.俗3.与（道）结合為“风俗”"
+    "explanationCN": "1.礼閤法仪式制、俗、与（道）结合為“风俗”"
   },
   {
     "character": "𗆅",
@@ -16493,14 +16746,14 @@ const CHARACTER_DATA = [
     "GX": "kha̱ṃ¹",
     "GHC": "khã¹",
     "explanationEN": "看坎堪",
-    "explanationCN": "1.坎】2.又音【侃】【堪】【看】"
+    "explanationCN": "1.坎】、又音【侃】【堪】【看】"
   },
   {
     "character": "𗆀",
     "GX": "γu̱²",
     "GHC": "ꞏu²",
     "explanationEN": "salt",
-    "explanationCN": "1.盐2.音【五】【吴】【乌】【吾】"
+    "explanationCN": "1.盐【五】【吴】【乌】【吾】"
   },
   {
     "character": "𗆘",
@@ -16520,8 +16773,8 @@ const CHARACTER_DATA = [
     "character": "𗅋",
     "GX": "mi¹",
     "GHC": "mji¹",
-    "explanationEN": "NEG",
-    "explanationCN": "NEG"
+    "explanationEN": "ɴᴇɢ",
+    "explanationCN": "ɴᴇɢ"
   },
   {
     "character": "𗁈",
@@ -16535,21 +16788,21 @@ const CHARACTER_DATA = [
     "GX": "giw¹",
     "GHC": "gjiw¹",
     "explanationEN": "respectful",
-    "explanationCN": "1.恭敬2.曲"
+    "explanationCN": "1.恭敬、曲"
   },
   {
     "character": "𗁸",
     "GX": "si̱²",
     "GHC": "se²",
     "explanationEN": "tighten",
-    "explanationCN": "1.繄2.蹇塞闭"
+    "explanationCN": "1.繄、蹇塞闭"
   },
   {
     "character": "𗁷",
     "GX": "qhaa̱¹",
     "GHC": "khia¹",
     "explanationEN": "shoot/fire",
-    "explanationCN": "1.射2.捕"
+    "explanationCN": "1.射、捕"
   },
   {
     "character": "𗂄",
@@ -16584,14 +16837,14 @@ const CHARACTER_DATA = [
     "GX": "dźwa¹",
     "GHC": "dźjwa¹",
     "explanationEN": "jump/leap",
-    "explanationCN": "1.跃2.尊"
+    "explanationCN": "1.跃、尊"
   },
   {
     "character": "𗃃",
     "GX": "rler¹",
     "GHC": "lji̱r¹",
     "explanationEN": "rub/knead",
-    "explanationCN": "1.按摩抚（揉搓）2.拨"
+    "explanationCN": "1.按摩抚（揉搓）、拨"
   },
   {
     "character": "𗁧",
@@ -16668,7 +16921,7 @@ const CHARACTER_DATA = [
     "GX": "lhəh¹",
     "GHC": "lhjɨ̣¹",
     "explanationEN": "great.waves/billows",
-    "explanationCN": "1.波涛2.闪闪"
+    "explanationCN": "1.波涛、闪闪"
   },
   {
     "character": "𗁐",
@@ -16815,14 +17068,14 @@ const CHARACTER_DATA = [
     "GX": "ta̱h¹",
     "GHC": "tạ¹",
     "explanationEN": "marry.a.wife/take",
-    "explanationCN": "1.娶取2.打"
+    "explanationCN": "1.娶取、打"
   },
   {
     "character": "𗀱",
     "GX": "phao̱²",
     "GHC": "phio²",
     "explanationEN": "sing/chant",
-    "explanationCN": "1.吟唱2.音【庖】【鲍】【薄】【璞】（音 193）"
+    "explanationCN": "1.吟唱【庖】【鲍】【薄】【璞】（音 193）"
   },
   {
     "character": "𗅇",
@@ -16899,7 +17152,7 @@ const CHARACTER_DATA = [
     "GX": "rer²",
     "GHC": "rjijr¹",
     "explanationEN": "distend",
-    "explanationCN": "1.胀2.寛"
+    "explanationCN": "1.胀、寛"
   },
   {
     "character": "𗁨",
@@ -16927,7 +17180,7 @@ const CHARACTER_DATA = [
     "GX": "be²",
     "GHC": "bjij²",
     "explanationEN": "gold",
-    "explanationCN": "1.兑金2.音【】"
+    "explanationCN": "1.兑金【】"
   },
   {
     "character": "𗹧",
@@ -17004,7 +17257,7 @@ const CHARACTER_DATA = [
     "GX": "ṣaa̱¹",
     "GHC": "śia¹",
     "explanationEN": "sand",
-    "explanationCN": "1.沙】2.音【衫】【產】【洒】"
+    "explanationCN": "1.沙】【衫】【產】【洒】"
   },
   {
     "character": "𗉾",
@@ -17025,7 +17278,7 @@ const CHARACTER_DATA = [
     "GX": "tśhwaṃ¹",
     "GHC": "tśhjwã¹",
     "explanationEN": "river/plain",
-    "explanationCN": "1.川】2.音【釧】【椽】【篆】【传】"
+    "explanationCN": "1.川】【釧】【椽】【篆】【传】"
   },
   {
     "character": "𗊸",
@@ -17116,7 +17369,7 @@ const CHARACTER_DATA = [
     "GX": "lhi²",
     "GHC": "lhji²",
     "explanationEN": "die",
-    "explanationCN": "1.死2.葬3.謚4.挽"
+    "explanationCN": "1.死、葬、謚、挽"
   },
   {
     "character": "𗊯",
@@ -17179,7 +17432,7 @@ const CHARACTER_DATA = [
     "GX": "tu̱ṃ¹",
     "GHC": "tũ¹",
     "explanationEN": "winter",
-    "explanationCN": "1.冬】2.音【东】【董】【敦】"
+    "explanationCN": "1.冬】【东】【董】【敦】"
   },
   {
     "character": "𗋉",
@@ -17193,7 +17446,7 @@ const CHARACTER_DATA = [
     "GX": "tha̱ṃ¹",
     "GHC": "thã¹",
     "explanationEN": "beach/sands",
-    "explanationCN": "1.滩】2.音【檀】【曇】【淡】【诞】3.洲4.音【段】【译】（音 195）"
+    "explanationCN": "1.滩】【檀】【曇】【淡】【诞】、洲【段】【译】（音 195）"
   },
   {
     "character": "𘊂",
@@ -17270,14 +17523,14 @@ const CHARACTER_DATA = [
     "GX": "swi¹",
     "GHC": "sjwi¹",
     "explanationEN": "exhaustion/poverty",
-    "explanationCN": "1.穷尽2.糟糠"
+    "explanationCN": "1.穷尽、糟糠"
   },
   {
     "character": "𗢓",
     "GX": "ŋah¹",
     "GHC": "ŋjạ¹",
     "explanationEN": "stammer/stutter",
-    "explanationCN": "1.口吃2.失"
+    "explanationCN": "1.口吃、失"
   },
   {
     "character": "𗺑",
@@ -17389,14 +17642,14 @@ const CHARACTER_DATA = [
     "GX": "qaa̱²",
     "GHC": "kia²",
     "explanationEN": "duck",
-    "explanationCN": "1.鸭2.音【贾】【假】"
+    "explanationCN": "1.鸭【贾】【假】"
   },
   {
     "character": "𘚾",
     "GX": "ndə̱¹",
     "GHC": "də̱¹",
     "explanationEN": "hasten/speed",
-    "explanationCN": "1.趋急行疾驰2.顿3.二字重迭，具有“竞”之义"
+    "explanationCN": "1.趋急行疾驰、顿、二字重迭，具有“竞”之义"
   },
   {
     "character": "𗉿",
@@ -17424,7 +17677,7 @@ const CHARACTER_DATA = [
     "GX": "mmi¹",
     "GHC": "mji¹",
     "explanationEN": "hand.out/bestow",
-    "explanationCN": "1.施2.赐"
+    "explanationCN": "1.施、赐"
   },
   {
     "character": "𗢘",
@@ -17634,7 +17887,7 @@ const CHARACTER_DATA = [
     "GX": "lwih²",
     "GHC": "ljwị²",
     "explanationEN": "fort/fortress",
-    "explanationCN": "1.堡垒2.篱"
+    "explanationCN": "1.堡垒、篱"
   },
   {
     "character": "𗪃",
@@ -17683,7 +17936,7 @@ const CHARACTER_DATA = [
     "GX": "thəh¹",
     "GHC": "thjɨ̣¹",
     "explanationEN": "roll.up",
-    "explanationCN": "1.卷皱2.㲲"
+    "explanationCN": "1.卷皱、㲲"
   },
   {
     "character": "𗽷",
@@ -17697,7 +17950,7 @@ const CHARACTER_DATA = [
     "GX": "nźiw¹",
     "GHC": "źji̱w¹",
     "explanationEN": "hang",
-    "explanationCN": "1.悬挂2.〈衤加〉"
+    "explanationCN": "1.悬挂、〈衤加〉"
   },
   {
     "character": "𗾮",
@@ -17718,14 +17971,14 @@ const CHARACTER_DATA = [
     "GX": "li²",
     "GHC": "lji²",
     "explanationEN": "love",
-    "explanationCN": "1.爱2.僧3.圆"
+    "explanationCN": "1.爱、僧、圆"
   },
   {
     "character": "𗦇",
     "GX": "lli̱w²",
     "GHC": "lew²",
-    "explanationEN": "thing/NMLZ",
-    "explanationCN": "东西;NMLZ"
+    "explanationEN": "thing/ɴᴍʟᴢ",
+    "explanationCN": "东西;ɴᴍʟᴢ"
   },
   {
     "character": "𗩾",
@@ -17760,7 +18013,7 @@ const CHARACTER_DATA = [
     "GX": "pi̱ṃ²",
     "GHC": "pẽ²",
     "explanationEN": "go.through/undergo",
-    "explanationCN": "1.经歷2.音【本】【嗢】【朋】3.音【賁】（音 194）"
+    "explanationCN": "1.经歷【本】【嗢】【朋】【賁】（音 194）"
   },
   {
     "character": "𗨋",
@@ -17809,14 +18062,14 @@ const CHARACTER_DATA = [
     "GX": "bi²",
     "GHC": "bji²",
     "explanationEN": "in.the.past",
-    "explanationCN": "1.往昔过去2.音【毗】【婢】【鼻】"
+    "explanationCN": "1.往昔过去【毗】【婢】【鼻】"
   },
   {
     "character": "𗪟",
     "GX": "γu̱¹",
     "GHC": "ɣu¹",
     "explanationEN": "the.beginning.of",
-    "explanationCN": "1.始初2.元首"
+    "explanationCN": "1.始初、元首"
   },
   {
     "character": "𗪘",
@@ -17844,7 +18097,7 @@ const CHARACTER_DATA = [
     "GX": "rtsi̱r¹",
     "GHC": "tser¹",
     "explanationEN": "land/soil",
-    "explanationCN": "1.土地2.社稷"
+    "explanationCN": "1.土地、社稷"
   },
   {
     "character": "𗩐",
@@ -18040,7 +18293,7 @@ const CHARACTER_DATA = [
     "GX": "nye¹",
     "GHC": "ꞏji̱j¹",
     "explanationEN": "hold",
-    "explanationCN": "1.执持禀2.揆3.含4.定"
+    "explanationCN": "1.执持禀、揆、含、定"
   },
   {
     "character": "𗫋",
@@ -18054,14 +18307,14 @@ const CHARACTER_DATA = [
     "GX": "pho̱ṃ²",
     "GHC": "phow²",
     "explanationEN": "mountain.peak",
-    "explanationCN": "1.山峰2.烽火"
+    "explanationCN": "1.山峰、烽火"
   },
   {
     "character": "𗽰",
     "GX": "mbu̱²",
     "GHC": "bu̱²",
     "explanationEN": "grave/mausoleum",
-    "explanationCN": "1.墓】2.音【穆】【茂】【慕】【母】3.音【漠】【谋】【嫫】（音 193）"
+    "explanationCN": "1.墓】【穆】【茂】【慕】【母】【漠】【谋】【嫫】（音 193）"
   },
   {
     "character": "𗿔",
@@ -18103,7 +18356,7 @@ const CHARACTER_DATA = [
     "GX": "ġai̱¹",
     "GHC": "gie¹",
     "explanationEN": "hard/difficult",
-    "explanationCN": "1.难险叵2.二字相重有“良久”之义"
+    "explanationCN": "1.难险叵、二字相重有“良久”之义"
   },
   {
     "character": "𗼷",
@@ -18145,7 +18398,7 @@ const CHARACTER_DATA = [
     "GX": "rkur²",
     "GHC": "kjur²",
     "explanationEN": "skill/artistry",
-    "explanationCN": "1.技能技艺2.敏捷"
+    "explanationCN": "1.技能技艺、敏捷"
   },
   {
     "character": "𗪭",
@@ -18166,14 +18419,14 @@ const CHARACTER_DATA = [
     "GX": "tṣhae̱²",
     "GHC": "tśhiej²",
     "explanationEN": "a.stocked.village",
-    "explanationCN": "1.寨】2.音【鐺】【釵】【豺】【柴】【生】"
+    "explanationCN": "1.寨】【鐺】【釵】【豺】【柴】【生】"
   },
   {
     "character": "𗽓",
     "GX": "ri̱wr¹",
     "GHC": "rewr¹",
     "explanationEN": "marsh",
-    "explanationCN": "1.泽2.斥卤（盐硷地）3.江"
+    "explanationCN": "1.泽、斥卤（盐硷地）、江"
   },
   {
     "character": "𗺢",
@@ -18243,14 +18496,14 @@ const CHARACTER_DATA = [
     "GX": "nswə¹",
     "GHC": "sjwɨ̱¹",
     "explanationEN": "think",
-    "explanationCN": "1.思虑忧愁惻忆2.二字重迭意“切切”"
+    "explanationCN": "1.思虑忧愁惻忆、二字重迭意“切切”"
   },
   {
     "character": "𗿋",
     "GX": "bo̱²",
     "GHC": "bo²",
     "explanationEN": "brood/hatch",
-    "explanationCN": "1.孵2.破3.音【冒】"
+    "explanationCN": "1.孵、破【冒】"
   },
   {
     "character": "𗻂",
@@ -18292,7 +18545,7 @@ const CHARACTER_DATA = [
     "GX": "tha̱²",
     "GHC": "tha",
     "explanationEN": "force/compel",
-    "explanationCN": "1.逼迫2.殃"
+    "explanationCN": "1.逼迫、殃"
   },
   {
     "character": "𗬙",
@@ -18334,14 +18587,14 @@ const CHARACTER_DATA = [
     "GX": "pə̱¹",
     "GHC": "pə¹",
     "explanationEN": "big/thick",
-    "explanationCN": "1.大粗头首2.音【不】【本】（音 192）"
+    "explanationCN": "1.大粗头首【不】【本】（音 192）"
   },
   {
     "character": "𗣋",
     "GX": "khaṃ²",
     "GHC": "khjã²",
     "explanationEN": "enemy/foe",
-    "explanationCN": "1.强敌2.命3.音【恒】【俭】4.音【乾】（珠 102）【遣】（珠 302）【鈐】（珠 225）"
+    "explanationCN": "1.强敌、命【恒】【俭】【乾】（珠 102）【遣】（珠 302）【鈐】（珠 225）"
   },
   {
     "character": "𗨤",
@@ -18369,7 +18622,7 @@ const CHARACTER_DATA = [
     "GX": "tho̱ṃ¹",
     "GHC": "thow¹",
     "explanationEN": "proficient",
-    "explanationCN": "1.通2.音【汤】【统】【同】【彤】【敦】"
+    "explanationCN": "1.通【汤】【统】【同】【彤】【敦】"
   },
   {
     "character": "𗣖",
@@ -18418,7 +18671,7 @@ const CHARACTER_DATA = [
     "GX": "nnaa̱²",
     "GHC": "nia̱²",
     "explanationEN": "stutter/faint",
-    "explanationCN": "1.口吃昏厥2.悲伤"
+    "explanationCN": "1.口吃昏厥、悲伤"
   },
   {
     "character": "𗣻",
@@ -18446,7 +18699,7 @@ const CHARACTER_DATA = [
     "GX": "ŋkhə²",
     "GHC": "khjɨ̱²",
     "explanationEN": "fresh",
-    "explanationCN": "1.鲜2.平"
+    "explanationCN": "1.鲜、平"
   },
   {
     "character": "𗤋",
@@ -18509,7 +18762,7 @@ const CHARACTER_DATA = [
     "GX": "dźeh²",
     "GHC": "dźjịj²",
     "explanationEN": "close.relative",
-    "explanationCN": "1.近亲2.旋转"
+    "explanationCN": "1.近亲、旋转"
   },
   {
     "character": "𗥊",
@@ -18544,7 +18797,7 @@ const CHARACTER_DATA = [
     "GX": "dźwo²",
     "GHC": "dźjwo²",
     "explanationEN": "cave/hole",
-    "explanationCN": "1.洞穴孔窟窍2.阴"
+    "explanationCN": "1.洞穴孔窟窍、阴"
   },
   {
     "character": "𗾬",
@@ -18621,14 +18874,14 @@ const CHARACTER_DATA = [
     "GX": "leh¹",
     "GHC": "ljịj¹",
     "explanationEN": "seedling",
-    "explanationCN": "1.苗芽2.音【乙】"
+    "explanationCN": "1.苗芽【乙】"
   },
   {
     "character": "𘊐",
     "GX": "ke¹",
     "GHC": "kjij¹",
-    "explanationEN": "IMTER:IN/OPT:IN",
-    "explanationCN": "IMTER: IN; OPT: IN"
+    "explanationEN": "ɪɴᴛʀɢ:ɪɴ/ᴏᴘᴛ:ɪɴ",
+    "explanationCN": "ɪɴᴛʀɢ:ɪɴ/ᴏᴘᴛ:ɪɴ"
   },
   {
     "character": "𗏳",
@@ -18642,7 +18895,7 @@ const CHARACTER_DATA = [
     "GX": "nvwə̱¹",
     "GHC": "wə̣¹",
     "explanationEN": "own/have",
-    "explanationCN": "1.有享有2.属"
+    "explanationCN": "1.有享有、属"
   },
   {
     "character": "𗩻",
@@ -18656,7 +18909,7 @@ const CHARACTER_DATA = [
     "GX": "rer²",
     "GHC": "rjijr²",
     "explanationEN": "mend/sew",
-    "explanationCN": "1.缝缀2.修饰"
+    "explanationCN": "1.缝缀、修饰"
   },
   {
     "character": "𗦀",
@@ -18705,14 +18958,14 @@ const CHARACTER_DATA = [
     "GX": "vih¹",
     "GHC": "wjị¹",
     "explanationEN": "human.being/person",
-    "explanationCN": "1.人2.士"
+    "explanationCN": "1.人、士"
   },
   {
     "character": "𗥌",
     "GX": "ne¹",
     "GHC": "njij¹",
     "explanationEN": "emissary",
-    "explanationCN": "1.使者2.与（文）结合，具有帛书书信之义3.试"
+    "explanationCN": "1.使者、与（文）结合，具有帛书书信之义、试"
   },
   {
     "character": "𗦊",
@@ -18747,7 +19000,7 @@ const CHARACTER_DATA = [
     "GX": "lhə¹",
     "GHC": "lhjɨ¹",
     "explanationEN": "slowly",
-    "explanationCN": "1.徐徐2.渐渐3.隐隐"
+    "explanationCN": "1.徐徐、渐渐、隐隐"
   },
   {
     "character": "𗽏",
@@ -18817,14 +19070,14 @@ const CHARACTER_DATA = [
     "GX": "llaw²",
     "GHC": "lja̱²",
     "explanationEN": "mouth",
-    "explanationCN": "1.口2.关卡"
+    "explanationCN": "1.口、关卡"
   },
   {
     "character": "𗣔",
     "GX": "tu̱¹",
     "GHC": "tu¹",
     "explanationEN": "stupid/foolish",
-    "explanationCN": "1.愚蠢2.音【都】【堵】【篤】"
+    "explanationCN": "1.愚蠢【都】【堵】【篤】"
   },
   {
     "character": "𗧦",
@@ -18873,7 +19126,7 @@ const CHARACTER_DATA = [
     "GX": "mo̱²",
     "GHC": "mo²",
     "explanationEN": "nephew",
-    "explanationCN": "1.甥2.母"
+    "explanationCN": "1.甥、母"
   },
   {
     "character": "𗿟",
@@ -18887,7 +19140,7 @@ const CHARACTER_DATA = [
     "GX": "ṣae̱ṃ¹",
     "GHC": "śiəj¹",
     "explanationEN": "man",
-    "explanationCN": "1.生】2.兽猩"
+    "explanationCN": "1.生】、兽猩"
   },
   {
     "character": "𗦩",
@@ -18929,14 +19182,14 @@ const CHARACTER_DATA = [
     "GX": "dźwoṃ¹",
     "GHC": "dźjwow¹",
     "explanationEN": "bird",
-    "explanationCN": "1.鸟禽鷄（酉）2.飞腾浮"
+    "explanationCN": "1.鸟禽鷄（酉）、飞腾浮"
   },
   {
     "character": "𗢶",
     "GX": "dźoṃ¹",
     "GHC": "dźjow¹",
     "explanationEN": "circle",
-    "explanationCN": "1.匝2.遍3.返4.度"
+    "explanationCN": "1.匝、遍、返、度"
   },
   {
     "character": "𗪂",
@@ -19125,14 +19378,14 @@ const CHARACTER_DATA = [
     "GX": "lo̱ṃ²",
     "GHC": "low²",
     "explanationEN": "round",
-    "explanationCN": "1.圆球摶2.音【郎】【落】"
+    "explanationCN": "1.圆球摶【郎】【落】"
   },
   {
     "character": "𗦧",
     "GX": "rmer²",
     "GHC": "mjijr²",
     "explanationEN": "spirit/vigour",
-    "explanationCN": "1.精气2.寺"
+    "explanationCN": "1.精气、寺"
   },
   {
     "character": "𗪅",
@@ -19230,7 +19483,7 @@ const CHARACTER_DATA = [
     "GX": "γwao̱h¹",
     "GHC": "ꞏwiọ¹",
     "explanationEN": "clear.away",
-    "explanationCN": "1.清除2.御史"
+    "explanationCN": "1.清除、御史"
   },
   {
     "character": "𗬣",
@@ -19265,7 +19518,7 @@ const CHARACTER_DATA = [
     "GX": "bu¹",
     "GHC": "bju¹",
     "explanationEN": "backbone",
-    "explanationCN": "1.脊梁2.波浪"
+    "explanationCN": "1.脊梁、波浪"
   },
   {
     "character": "𗃲",
@@ -19279,14 +19532,14 @@ const CHARACTER_DATA = [
     "GX": "pe̱¹",
     "GHC": "pej¹",
     "explanationEN": "outer/exterior",
-    "explanationCN": "1.外表背后2.防护"
+    "explanationCN": "1.外表背后、防护"
   },
   {
     "character": "𗃫",
     "GX": "piw¹",
     "GHC": "pjiw¹",
     "explanationEN": "poor/needy/impoverished",
-    "explanationCN": "1.贫穷饥寒2.又音【表】"
+    "explanationCN": "1.贫穷饥寒、又音【表】"
   },
   {
     "character": "𗃭",
@@ -19307,7 +19560,7 @@ const CHARACTER_DATA = [
     "GX": "de²",
     "GHC": "djij²",
     "explanationEN": "ever/have.already",
-    "explanationCN": "1.曾尝动词2.况初"
+    "explanationCN": "1.曾尝动词、况初"
   },
   {
     "character": "𗬯",
@@ -19356,7 +19609,7 @@ const CHARACTER_DATA = [
     "GX": "nvwə̱¹",
     "GHC": "wə¹",
     "explanationEN": "filial.piety",
-    "explanationCN": "1.孝2.柔3.葵"
+    "explanationCN": "1.孝、柔、葵"
   },
   {
     "character": "𘓏",
@@ -19482,7 +19735,7 @@ const CHARACTER_DATA = [
     "GX": "rtṣai̱r¹",
     "GHC": "tśier¹",
     "explanationEN": "benefit/interest",
-    "explanationCN": "1.利益2.宠3.方"
+    "explanationCN": "1.利益、宠、方"
   },
   {
     "character": "𗼕",
@@ -19573,7 +19826,7 @@ const CHARACTER_DATA = [
     "GX": "pe¹",
     "GHC": "pjij¹",
     "explanationEN": "deep.green",
-    "explanationCN": "1.青玄色2.音【并】"
+    "explanationCN": "1.青玄色【并】"
   },
   {
     "character": "𗆁",
@@ -19622,7 +19875,7 @@ const CHARACTER_DATA = [
     "GX": "nu̱¹",
     "GHC": "nu¹",
     "explanationEN": "violate/go.against",
-    "explanationCN": "1.背2.败3.忘"
+    "explanationCN": "1.背、败、忘"
   },
   {
     "character": "𗄺",
@@ -19643,7 +19896,7 @@ const CHARACTER_DATA = [
     "GX": "nsi̱w²",
     "GHC": "sew²",
     "explanationEN": "survey/research",
-    "explanationCN": "1.测察思2.占"
+    "explanationCN": "1.测察思、占"
   },
   {
     "character": "𗂙",
@@ -19671,7 +19924,7 @@ const CHARACTER_DATA = [
     "GX": "li̱w?",
     "GHC": "ləu",
     "explanationEN": "abandon",
-    "explanationCN": "1.捨弃2.爆裂"
+    "explanationCN": "1.捨弃、爆裂"
   },
   {
     "character": "𗅫",
@@ -19762,7 +20015,7 @@ const CHARACTER_DATA = [
     "GX": "beh¹",
     "GHC": "bjịj¹",
     "explanationEN": "man.of.wealth/moneybags",
-    "explanationCN": "1.富翁2.长者"
+    "explanationCN": "1.富翁、长者"
   },
   {
     "character": "𗁫",
@@ -19804,7 +20057,7 @@ const CHARACTER_DATA = [
     "GX": "tsheṃ²",
     "GHC": "tshjɨj²",
     "explanationEN": "purple/violet",
-    "explanationCN": "1.紫色2.紺3.音【倩】【靖】【青】【净】【前】"
+    "explanationCN": "1.紫色、紺【倩】【靖】【青】【净】【前】"
   },
   {
     "character": "𗹜",
@@ -19846,14 +20099,14 @@ const CHARACTER_DATA = [
     "GX": "nle²",
     "GHC": "lji̱j²",
     "explanationEN": "destroy/damage",
-    "explanationCN": "1.毁壤破壤2.散离3.陷4.伐"
+    "explanationCN": "1.毁壤破壤、散离、陷、伐"
   },
   {
     "character": "𗁣",
     "GX": "dzə¹",
     "GHC": "dzjɨ¹",
     "explanationEN": "careful/fearful",
-    "explanationCN": "1.谨畏2.敬3.平"
+    "explanationCN": "1.谨畏、敬、平"
   },
   {
     "character": "𗆦",
@@ -19874,7 +20127,7 @@ const CHARACTER_DATA = [
     "GX": "dźwi²",
     "GHC": "dźjwi²",
     "explanationEN": "bed",
-    "explanationCN": "1.床榻2.扶3.载4.两字重迭為“同床”“同居”“同住”"
+    "explanationCN": "1.床榻、扶、载、两字重迭為“同床”“同居”“同住”"
   },
   {
     "character": "𗢞",
@@ -19979,7 +20232,7 @@ const CHARACTER_DATA = [
     "GX": "dzo²",
     "GHC": "dzjo²",
     "explanationEN": "poetry/poem",
-    "explanationCN": "1.诗2.赋"
+    "explanationCN": "1.诗、赋"
   },
   {
     "character": "𗋀",
@@ -19993,7 +20246,7 @@ const CHARACTER_DATA = [
     "GX": "keh¹",
     "GHC": "kjịj¹",
     "explanationEN": "stalk",
-    "explanationCN": "1.茎】2.经3.释"
+    "explanationCN": "1.茎】、经、释"
   },
   {
     "character": "𗋟",
@@ -20014,7 +20267,7 @@ const CHARACTER_DATA = [
     "GX": "śwow¹",
     "GHC": "śjwo¹",
     "explanationEN": "need/want",
-    "explanationCN": "1.需用2.二字重迭表示“所需所用”3.音【先】"
+    "explanationCN": "1.需用、二字重迭表示“所需所用”【先】"
   },
   {
     "character": "𗌄",
@@ -20140,14 +20393,14 @@ const CHARACTER_DATA = [
     "GX": "rqai̱r¹",
     "GHC": "kier¹",
     "explanationEN": "injure",
-    "explanationCN": "1.伤害2.狠"
+    "explanationCN": "1.伤害、狠"
   },
   {
     "character": "𗫴",
     "GX": "mma¹",
     "GHC": "mja̱¹",
     "explanationEN": "fruit",
-    "explanationCN": "1.果2.珠"
+    "explanationCN": "1.果、珠"
   },
   {
     "character": "𗫽",
@@ -20336,7 +20589,7 @@ const CHARACTER_DATA = [
     "GX": "de¹",
     "GHC": "djij¹",
     "explanationEN": "sage/able.and.virtuous.person",
-    "explanationCN": "1.圣贤2.音【提】【地】【点】【底】【定】"
+    "explanationCN": "1.圣贤【提】【地】【点】【底】【定】"
   },
   {
     "character": "𗣞",
@@ -20357,14 +20610,14 @@ const CHARACTER_DATA = [
     "GX": "lhwə²",
     "GHC": "lhjwɨ²",
     "explanationEN": "abrupt/sudden/violent",
-    "explanationCN": "1.骤暴疾2.突然"
+    "explanationCN": "1.骤暴疾、突然"
   },
   {
     "character": "𗤻",
     "GX": "vah¹",
     "GHC": "wjạ¹",
     "explanationEN": "flower",
-    "explanationCN": "1.花华2.音【怀】"
+    "explanationCN": "1.花华【怀】"
   },
   {
     "character": "𗦶",
@@ -20378,7 +20631,7 @@ const CHARACTER_DATA = [
     "GX": "tsa̱ṃ¹",
     "GHC": "tsã¹",
     "explanationEN": "burst/blast",
-    "explanationCN": "1.爆裂爆破破裂2.音【赞】"
+    "explanationCN": "1.爆裂爆破破裂【赞】"
   },
   {
     "character": "𗾠",
@@ -20399,7 +20652,7 @@ const CHARACTER_DATA = [
     "GX": "gwə¹",
     "GHC": "gjwɨ¹",
     "explanationEN": "firm/solid",
-    "explanationCN": "1.坚固2.甲"
+    "explanationCN": "1.坚固、甲"
   },
   {
     "character": "𗤍",
@@ -20413,7 +20666,7 @@ const CHARACTER_DATA = [
     "GX": "ra̱r²",
     "GHC": "rar²",
     "explanationEN": "flow/leak",
-    "explanationCN": "1.流漏过2.休3.絶4.轮"
+    "explanationCN": "1.流漏过、休、絶、轮"
   },
   {
     "character": "𗧑",
@@ -20482,7 +20735,7 @@ const CHARACTER_DATA = [
     "character": "𘔼",
     "GX": "nuo¹",
     "GHC": "nio̱w¹",
-    "explanationEN": "CAUS:causative",
+    "explanationEN": "ᴄᴀᴜꜱ",
     "explanationCN": "CAUS"
   },
   {
@@ -20539,7 +20792,7 @@ const CHARACTER_DATA = [
     "GX": "sa̱²",
     "GHC": "dza²",
     "explanationEN": "survey/measure",
-    "explanationCN": "1.测量喻卜度2.策"
+    "explanationCN": "1.测量喻卜度、策"
   },
   {
     "character": "𗦤",
@@ -20623,7 +20876,7 @@ const CHARACTER_DATA = [
     "GX": "hu̱¹",
     "GHC": "xu¹",
     "explanationEN": "clear/distinct",
-    "explanationCN": "1.明晓明星分明2.又音【傅】【户】【护】"
+    "explanationCN": "1.明晓明星分明、又音【傅】【户】【护】"
   },
   {
     "character": "𗺰",
@@ -20665,14 +20918,14 @@ const CHARACTER_DATA = [
     "GX": "thi̱w¹",
     "GHC": "thew¹",
     "explanationEN": "penetrate",
-    "explanationCN": "1.穿透】2.破3.音【陶】"
+    "explanationCN": "1.穿透】、破【陶】"
   },
   {
     "character": "𗨛",
     "GX": "rər²",
     "GHC": "rjɨr²",
     "explanationEN": "go.out/arise",
-    "explanationCN": "1.出去2.遁"
+    "explanationCN": "1.出去、遁"
   },
   {
     "character": "𗫬",
@@ -20693,7 +20946,7 @@ const CHARACTER_DATA = [
     "GX": "yu¹",
     "GHC": "ꞏju¹",
     "explanationEN": "ashamed/abashed",
-    "explanationCN": "1.羞愧2.音【与】【预】"
+    "explanationCN": "1.羞愧【与】【预】"
   },
   {
     "character": "𗪔",
@@ -20707,7 +20960,7 @@ const CHARACTER_DATA = [
     "GX": "γai̱h²",
     "GHC": "ɣie²",
     "explanationEN": "harm/damage",
-    "explanationCN": "1.损害2.患3.阻碍障壅滞4.贼"
+    "explanationCN": "1.损害、患、阻碍障壅滞、贼"
   },
   {
     "character": "𗺯",
@@ -20798,7 +21051,7 @@ const CHARACTER_DATA = [
     "GX": "puh²",
     "GHC": "pjụ²",
     "explanationEN": "hat/crown",
-    "explanationCN": "1.冠盖2.戴"
+    "explanationCN": "1.冠盖、戴"
   },
   {
     "character": "𘓍",
@@ -20846,8 +21099,8 @@ const CHARACTER_DATA = [
     "character": "𗘯",
     "GX": "ve²",
     "GHC": "wjij²",
-    "explanationEN": "INTER:OUT/OPT:OUT",
-    "explanationCN": "INTER: OUT; OPT: OUT"
+    "explanationEN": "ɪɴᴛʀɢ:ᴏᴜᴛ/ᴏᴘᴛ:ᴏᴜᴛ",
+    "explanationCN": "ɪɴᴛʀɢ:ᴏᴜᴛ/ᴏᴘᴛ:ᴏᴜᴛ"
   },
   {
     "character": "𗃣",
@@ -20917,7 +21170,7 @@ const CHARACTER_DATA = [
     "GX": "nah¹",
     "GHC": "njạ¹",
     "explanationEN": "god/deity",
-    "explanationCN": "1.神2.圣"
+    "explanationCN": "1.神、圣"
   },
   {
     "character": "𗼛",
@@ -20973,7 +21226,7 @@ const CHARACTER_DATA = [
     "GX": "qwae̱¹",
     "GHC": "kiwej¹",
     "explanationEN": "arm/wrist",
-    "explanationCN": "1.臂腕2.袖"
+    "explanationCN": "1.臂腕、袖"
   },
   {
     "character": "𗂡",
@@ -21022,7 +21275,7 @@ const CHARACTER_DATA = [
     "GX": "khu²",
     "GHC": "khju²",
     "explanationEN": "penis",
-    "explanationCN": "1.阴男根2.淫"
+    "explanationCN": "1.阴男根、淫"
   },
   {
     "character": "𗁁",
@@ -21036,7 +21289,7 @@ const CHARACTER_DATA = [
     "GX": "me̱²",
     "GHC": "mej²",
     "explanationEN": "hair/feather",
-    "explanationCN": "1.毛毫2.音【昧】"
+    "explanationCN": "1.毛毫【昧】"
   },
   {
     "character": "𗁟",
@@ -21057,7 +21310,7 @@ const CHARACTER_DATA = [
     "GX": "di̱h¹",
     "GHC": "dẹ¹",
     "explanationEN": "even/well-distributed",
-    "explanationCN": "1.均匀2.捻"
+    "explanationCN": "1.均匀、捻"
   },
   {
     "character": "𗂠",
@@ -21113,7 +21366,7 @@ const CHARACTER_DATA = [
     "GX": "thi²",
     "GHC": "thji²",
     "explanationEN": "land",
-    "explanationCN": "1.地】2.音【狄】【翟】3.音【地】（珠 264）【笛】（珠 325）【涕】（珠 193）【体】（珠 304）"
+    "explanationCN": "1.地】【狄】【翟】【地】（珠 264）【笛】（珠 325）【涕】（珠 193）【体】（珠 304）"
   },
   {
     "character": "𗊍",
@@ -21155,7 +21408,7 @@ const CHARACTER_DATA = [
     "GX": "ŋah²",
     "GHC": "ŋjạ²",
     "explanationEN": "scar/defect/drawback",
-    "explanationCN": "1.疮疤缺陷2.罪过"
+    "explanationCN": "缺陷"
   },
   {
     "character": "𗊩",
@@ -21176,7 +21429,7 @@ const CHARACTER_DATA = [
     "GX": "nih²",
     "GHC": "njị²",
     "explanationEN": "pearl",
-    "explanationCN": "1.珠2.晶3.计都"
+    "explanationCN": "1.珠、晶、计都"
   },
   {
     "character": "𗋻",
@@ -21224,8 +21477,8 @@ const CHARACTER_DATA = [
     "character": "𗋚",
     "GX": "və²",
     "GHC": "wjɨ²",
-    "explanationEN": "PFV:OUT/IMP:OUT",
-    "explanationCN": "PFV: OUT; IMP: OUT"
+    "explanationEN": "ᴘꜰᴠ:ᴏᴜᴛ/ɪᴍᴘ:ᴏᴜᴛ",
+    "explanationCN": "ᴘꜰᴠ:ᴏᴜᴛ/ɪᴍᴘ:ᴏᴜᴛ"
   },
   {
     "character": "𗺒",
@@ -21267,7 +21520,7 @@ const CHARACTER_DATA = [
     "GX": "puh¹",
     "GHC": "pjụ¹",
     "explanationEN": "power/might",
-    "explanationCN": "1.威2.势"
+    "explanationCN": "1.威、势"
   },
   {
     "character": "𘚀",
@@ -21288,7 +21541,7 @@ const CHARACTER_DATA = [
     "GX": "qau̱¹",
     "GHC": "ku¹",
     "explanationEN": "valley/gorge",
-    "explanationCN": "1.谷】2.隙"
+    "explanationCN": "1.谷】、隙"
   },
   {
     "character": "𗐉",
@@ -21302,7 +21555,7 @@ const CHARACTER_DATA = [
     "GX": "rqai̱r¹",
     "GHC": "kier¹",
     "explanationEN": "nightmare",
-    "explanationCN": "1.魘2.戏闹"
+    "explanationCN": "1.魘、戏闹"
   },
   {
     "character": "𗢾",
@@ -21379,7 +21632,7 @@ const CHARACTER_DATA = [
     "GX": "phu²",
     "GHC": "phju²",
     "explanationEN": "up/above/over",
-    "explanationCN": "1.上（方位）2.长3.高"
+    "explanationCN": "1.上（方位）、长、高"
   },
   {
     "character": "𗨎",
@@ -21435,7 +21688,7 @@ const CHARACTER_DATA = [
     "GX": "nwi²",
     "GHC": "njwi²",
     "explanationEN": "can/be.able.to",
-    "explanationCN": "1.能2.善"
+    "explanationCN": "1.能、善"
   },
   {
     "character": "𗾫",
@@ -21484,7 +21737,7 @@ const CHARACTER_DATA = [
     "GX": "lləh²",
     "GHC": "ljɨ̣²",
     "explanationEN": "land/soil",
-    "explanationCN": "1.土地2.活业3.虞"
+    "explanationCN": "1.土地、活业、虞"
   },
   {
     "character": "𗾖",
@@ -21498,14 +21751,14 @@ const CHARACTER_DATA = [
     "GX": "su̱²",
     "GHC": "su²",
     "explanationEN": "plot/scheme/conspire",
-    "explanationCN": "1.图谋计谋2.音【肃】（地名）"
+    "explanationCN": "1.图谋计谋【肃】（地名）"
   },
   {
     "character": "𗥄",
     "GX": "təh¹",
     "GHC": "tjɨ̣¹",
     "explanationEN": "often/constantly",
-    "explanationCN": "1.时时2.若或（语助）"
+    "explanationCN": "1.时时、若或（语助）"
   },
   {
     "character": "𗦸",
@@ -21519,7 +21772,7 @@ const CHARACTER_DATA = [
     "GX": "dzu̱²",
     "GHC": "dzu²",
     "explanationEN": "pointed/tapering",
-    "explanationCN": "1.尖2.音【族】"
+    "explanationCN": "1.尖【族】"
   },
   {
     "character": "𗨃",
@@ -21533,7 +21786,7 @@ const CHARACTER_DATA = [
     "GX": "dźwoṃ¹",
     "GHC": "dźjwow¹",
     "explanationEN": "publicize/propagate",
-    "explanationCN": "1.宣扬2.称号3.泄"
+    "explanationCN": "1.宣扬、称号、泄"
   },
   {
     "character": "𗼵",
@@ -21554,28 +21807,28 @@ const CHARACTER_DATA = [
     "GX": "ndu̱¹",
     "GHC": "du̱¹",
     "explanationEN": "slave/servant",
-    "explanationCN": "1.奴2.音【努】（音 195）"
+    "explanationCN": "1.奴【努】（音 195）"
   },
   {
     "character": "𗥠",
     "GX": "mme²",
     "GHC": "mji̱j²",
     "explanationEN": "name/title",
-    "explanationCN": "1.名2.许"
+    "explanationCN": "1.名、许"
   },
   {
     "character": "𗦻",
     "GX": "mme²",
     "GHC": "mji̱j²",
     "explanationEN": "name/title",
-    "explanationCN": "1.名】2.本3.称"
+    "explanationCN": "1.名】、本、称"
   },
   {
     "character": "𗣧",
     "GX": "pho̱¹",
     "GHC": "pho¹",
     "explanationEN": "thin",
-    "explanationCN": "1.薄】2.音【波】【婆】【摩】【訶】"
+    "explanationCN": "1.薄】【波】【婆】【摩】【訶】"
   },
   {
     "character": "𗢻",
@@ -21596,7 +21849,7 @@ const CHARACTER_DATA = [
     "GX": "peṃ¹",
     "GHC": "pjɨj¹",
     "explanationEN": "tent",
-    "explanationCN": "1.帐蓬2.毛衣"
+    "explanationCN": "1.帐蓬、毛衣"
   },
   {
     "character": "𗦼",
@@ -21624,7 +21877,7 @@ const CHARACTER_DATA = [
     "GX": "ŋkhə²",
     "GHC": "khjɨ̱²",
     "explanationEN": "line/ranks",
-    "explanationCN": "1.行列2.章句"
+    "explanationCN": "1.行列、章句"
   },
   {
     "character": "𗏭",
@@ -21701,7 +21954,7 @@ const CHARACTER_DATA = [
     "GX": "llə̱h¹",
     "GHC": "lə̣¹",
     "explanationEN": "bury",
-    "explanationCN": "1.埋葬2.殯"
+    "explanationCN": "1.埋葬、殯"
   },
   {
     "character": "𗏾",
@@ -21750,7 +22003,7 @@ const CHARACTER_DATA = [
     "GX": "mi̱²",
     "GHC": "me²",
     "explanationEN": "shining",
-    "explanationCN": "1.耀2.美"
+    "explanationCN": "1.耀、美"
   },
   {
     "character": "𗩞",
@@ -21785,7 +22038,7 @@ const CHARACTER_DATA = [
     "GX": "so̱²",
     "GHC": "so²",
     "explanationEN": "man",
-    "explanationCN": "1.男2.阳3.音【桑】【娑】【索】"
+    "explanationCN": "1.男、阳【桑】【娑】【索】"
   },
   {
     "character": "𗏩",
@@ -21848,7 +22101,7 @@ const CHARACTER_DATA = [
     "GX": "nə²",
     "GHC": "njɨ²",
     "explanationEN": "arrive/spread",
-    "explanationCN": "1.至到普遍2.周上临及均"
+    "explanationCN": "1.至到普遍、周上临及均"
   },
   {
     "character": "𗩌",
@@ -22002,7 +22255,7 @@ const CHARACTER_DATA = [
     "GX": "me̱¹",
     "GHC": "mej¹",
     "explanationEN": "clear/obvious",
-    "explanationCN": "1.显明2.音【梅】"
+    "explanationCN": "1.显明【梅】"
   },
   {
     "character": "𗅍",
@@ -22030,7 +22283,7 @@ const CHARACTER_DATA = [
     "GX": "rber²",
     "GHC": "bji̱r²",
     "explanationEN": "help/aid",
-    "explanationCN": "1.助副右2.嬪"
+    "explanationCN": "1.助副右、嬪"
   },
   {
     "character": "𗆙",
@@ -22051,14 +22304,14 @@ const CHARACTER_DATA = [
     "GX": "rar¹",
     "GHC": "rjar¹",
     "explanationEN": "manage/ministry",
-    "explanationCN": "1.司名词2.点"
+    "explanationCN": "1.司名词、点"
   },
   {
     "character": "𗅃",
     "GX": "lwuh¹",
     "GHC": "ljwụ¹",
     "explanationEN": "level/smooth.(land)",
-    "explanationCN": "1.坦2.二字重迭具有“堂堂巍巍”之义"
+    "explanationCN": "1.坦、二字重迭具有“堂堂巍巍”之义"
   },
   {
     "character": "𗁌",
@@ -22100,7 +22353,7 @@ const CHARACTER_DATA = [
     "GX": "dźe²",
     "GHC": "dźjij²",
     "explanationEN": "principle/discipline",
-    "explanationCN": "1.网2.歷3.躯干4.簿"
+    "explanationCN": "1.网、歷、躯干、簿"
   },
   {
     "character": "𗹠",
@@ -22114,7 +22367,7 @@ const CHARACTER_DATA = [
     "GX": "lhuo¹",
     "GHC": "lhio̱w¹",
     "explanationEN": "grave",
-    "explanationCN": "1.坟墓2.音【牢】"
+    "explanationCN": "1.坟墓【牢】"
   },
   {
     "character": "𗹼",
@@ -22170,7 +22423,7 @@ const CHARACTER_DATA = [
     "GX": "vwo̱h¹",
     "GHC": "ꞏwiọ¹",
     "explanationEN": "circle",
-    "explanationCN": "1.围圆周2.近"
+    "explanationCN": "1.围圆周、近"
   },
   {
     "character": "𗋡",
@@ -22205,7 +22458,7 @@ const CHARACTER_DATA = [
     "GX": "qhwa̱²",
     "GHC": "khwa²",
     "explanationEN": "cloth",
-    "explanationCN": "1.布2.葛巾"
+    "explanationCN": "1.布、葛巾"
   },
   {
     "character": "𗊟",
@@ -22254,7 +22507,7 @@ const CHARACTER_DATA = [
     "GX": "nlə¹",
     "GHC": "ljɨ̱¹",
     "explanationEN": "heavy",
-    "explanationCN": "1.重2.大3.厚"
+    "explanationCN": "1.重、大、厚"
   },
   {
     "character": "𗋑",
@@ -22268,7 +22521,7 @@ const CHARACTER_DATA = [
     "GX": "rtśhwər²",
     "GHC": "tśhjwɨr²",
     "explanationEN": "vinegar",
-    "explanationCN": "1.醋酸酱】2.辛3.与结合，具有“梅”之义"
+    "explanationCN": "1.醋酸酱】、辛、与结合，具有“梅”之义"
   },
   {
     "character": "𗦠",
@@ -22310,7 +22563,7 @@ const CHARACTER_DATA = [
     "GX": "rzi̱r²",
     "GHC": "zer²",
     "explanationEN": "expose.sunlight",
-    "explanationCN": "1.曝2.伞"
+    "explanationCN": "1.曝、伞"
   },
   {
     "character": "𗣐",
@@ -22331,7 +22584,7 @@ const CHARACTER_DATA = [
     "GX": "tśha²",
     "GHC": "tśhja²",
     "explanationEN": "morals/virtue",
-    "explanationCN": "1.德2.正3.贞4.平5.静"
+    "explanationCN": "1.德、正、贞、平、静"
   },
   {
     "character": "𗤝",
@@ -22345,7 +22598,7 @@ const CHARACTER_DATA = [
     "GX": "γu̱¹",
     "GHC": "ɣu¹",
     "explanationEN": "head",
-    "explanationCN": "1.头首2.上3.与连用具有“投降“之义"
+    "explanationCN": "1.头首、上、与连用具有“投降“之义"
   },
   {
     "character": "𗦯",
@@ -22394,7 +22647,7 @@ const CHARACTER_DATA = [
     "GX": "ro̱r²",
     "GHC": "ror²",
     "explanationEN": "circle/move.around",
-    "explanationCN": "1.绕2.敛3.互"
+    "explanationCN": "1.绕、敛、互"
   },
   {
     "character": "𗽧",
@@ -22422,7 +22675,7 @@ const CHARACTER_DATA = [
     "GX": "li̱w²",
     "GHC": "lew²",
     "explanationEN": "confused",
-    "explanationCN": "1.纷乱2.萤萤3.鬱鬱"
+    "explanationCN": "1.纷乱、萤萤、鬱鬱"
   },
   {
     "character": "𗿪",
@@ -22478,7 +22731,7 @@ const CHARACTER_DATA = [
     "GX": "pho¹",
     "GHC": "phjo¹",
     "explanationEN": "a.kind.of.tool.for.divination",
-    "explanationCN": "1.卜骨肩梁2.检查造册"
+    "explanationCN": "1.卜骨肩梁、检查造册"
   },
   {
     "character": "𗥹",
@@ -22499,7 +22752,7 @@ const CHARACTER_DATA = [
     "GX": "dzih²",
     "GHC": "dzjị²",
     "explanationEN": "stand.up",
-    "explanationCN": "1.站2.吏"
+    "explanationCN": "1.站、吏"
   },
   {
     "character": "𗽚",
@@ -22520,7 +22773,7 @@ const CHARACTER_DATA = [
     "GX": "di̱w²",
     "GHC": "dew²",
     "explanationEN": "obey",
-    "explanationCN": "1.服从归顺2.奔（投）"
+    "explanationCN": "1.服从归顺、奔（投）"
   },
   {
     "character": "𗥞",
@@ -22569,7 +22822,7 @@ const CHARACTER_DATA = [
     "GX": "khi²",
     "GHC": "khji²",
     "explanationEN": "gas",
-    "explanationCN": "1.气】2.音【溪】【忌】【綺】【暨】3.音【器】（珠 232）【其】（珠 294）【起】（珠 105）【岂】（珠 353）【炁】（珠 082）"
+    "explanationCN": "1.气】【溪】【忌】【綺】【暨】【器】（珠 232）【其】（珠 294）【起】（珠 105）【岂】（珠 353）【炁】（珠 082）"
   },
   {
     "character": "𗣿",
@@ -22632,7 +22885,7 @@ const CHARACTER_DATA = [
     "GX": "khu²",
     "GHC": "khju²",
     "explanationEN": "request/ask",
-    "explanationCN": "1.请来2.音【遽】【鉅】【巨】【瞿】【恪】3.音【具】（珠 322）【渠】（珠 121）【局】（珠 301）【去】（珠 112）4.音【距】【曲】【邛】（音 196）"
+    "explanationCN": "1.请来【遽】【鉅】【巨】【瞿】【恪】【具】（珠 322）【渠】（珠 121）【局】（珠 301）【去】（珠 112）【距】【曲】【邛】（音 196）"
   },
   {
     "character": "𗻛",
@@ -22730,7 +22983,7 @@ const CHARACTER_DATA = [
     "GX": "mbu²",
     "GHC": "bju̱²",
     "explanationEN": "mile",
-    "explanationCN": "1.统2.将"
+    "explanationCN": "1.统、将"
   },
   {
     "character": "𗩈",
@@ -22807,7 +23060,7 @@ const CHARACTER_DATA = [
     "GX": "qhu̱¹",
     "GHC": "khu¹",
     "explanationEN": "tribute/consecrate",
-    "explanationCN": "1.贡献供奉2.进3.奏"
+    "explanationCN": "1.贡献供奉、进、奏"
   },
   {
     "character": "𗼝",
@@ -22828,14 +23081,14 @@ const CHARACTER_DATA = [
     "GX": "qhə̱h¹",
     "GHC": "khə̣¹",
     "explanationEN": "rock/sway/shake",
-    "explanationCN": "1.摇晃2.喃"
+    "explanationCN": "1.摇晃、喃"
   },
   {
     "character": "𗆔",
     "GX": "qa̱h²",
     "GHC": "kạ²",
     "explanationEN": "discipline",
-    "explanationCN": "1.纲纪2.干3.茎4.略5.殊6.贯"
+    "explanationCN": "1.纲纪、干、茎、略、殊、贯"
   },
   {
     "character": "𗎮",
@@ -22877,7 +23130,7 @@ const CHARACTER_DATA = [
     "GX": "rŋwə̱r²",
     "GHC": "ŋwər²",
     "explanationEN": "heal/recover",
-    "explanationCN": "1.愈消2.瘥"
+    "explanationCN": "1.愈消、瘥"
   },
   {
     "character": "𗅛",
@@ -22891,7 +23144,7 @@ const CHARACTER_DATA = [
     "GX": "phe̱¹",
     "GHC": "phej¹",
     "explanationEN": "tie.up/truss.up/restrict",
-    "explanationCN": "1.捆缚枷拘2.纪方"
+    "explanationCN": "1.捆缚枷拘、纪方"
   },
   {
     "character": "𗂛",
@@ -23080,7 +23333,7 @@ const CHARACTER_DATA = [
     "GX": "dzih²",
     "GHC": "dzjị²",
     "explanationEN": "cover/overspread",
-    "explanationCN": "1.遮盖2.音【寂】【坐】"
+    "explanationCN": "1.遮盖【寂】【坐】"
   },
   {
     "character": "𗾛",
@@ -23108,7 +23361,7 @@ const CHARACTER_DATA = [
     "GX": "rzir²",
     "GHC": "zjir²",
     "explanationEN": "long",
-    "explanationCN": "1.长2.遍3.纵4.绵5.甲6.栏7.寿"
+    "explanationCN": "1.长、遍、纵、绵、甲、栏、寿"
   },
   {
     "character": "𗩪",
@@ -23136,7 +23389,7 @@ const CHARACTER_DATA = [
     "GX": "ni¹",
     "GHC": "nji¹",
     "explanationEN": "family/house",
-    "explanationCN": "1.家宅捨2.都"
+    "explanationCN": "1.家宅捨、都"
   },
   {
     "character": "𗏦",
@@ -23220,14 +23473,14 @@ const CHARACTER_DATA = [
     "GX": "so̱²",
     "GHC": "so²",
     "explanationEN": "servant",
-    "explanationCN": "1.奴僕2.音【桑】"
+    "explanationCN": "1.奴僕【桑】"
   },
   {
     "character": "𗩃",
     "GX": "???",
     "GHC": "",
     "explanationEN": "pointed.end/point",
-    "explanationCN": "1.尖端2.擢"
+    "explanationCN": "1.尖端、擢"
   },
   {
     "character": "𗦓",
@@ -23325,7 +23578,7 @@ const CHARACTER_DATA = [
     "GX": "mme̱²",
     "GHC": "me̱j²",
     "explanationEN": "cave",
-    "explanationCN": "1.洞穴2.岩川3.窍"
+    "explanationCN": "1.洞穴、岩川、窍"
   },
   {
     "character": "𗾨",
@@ -23416,7 +23669,7 @@ const CHARACTER_DATA = [
     "GX": "śwə¹",
     "GHC": "śjwɨ¹",
     "explanationEN": "cry/weep",
-    "explanationCN": "1.啼哭2.又【说】"
+    "explanationCN": "1.啼哭、又【说】"
   },
   {
     "character": "𗆆",
@@ -23465,7 +23718,7 @@ const CHARACTER_DATA = [
     "GX": "la̱²",
     "GHC": "la²",
     "explanationEN": "true/real/honest",
-    "explanationCN": "1.真实诚实2.果然"
+    "explanationCN": "1.真实诚实、果然"
   },
   {
     "character": "𗅻",
@@ -23486,7 +23739,7 @@ const CHARACTER_DATA = [
     "GX": "lhwow¹",
     "GHC": "lhjwo¹",
     "explanationEN": "return/retreat",
-    "explanationCN": "1.退还归2.崩3.屈"
+    "explanationCN": "1.退还归、崩、屈"
   },
   {
     "character": "𗅏",
@@ -23507,7 +23760,7 @@ const CHARACTER_DATA = [
     "GX": "no̱¹",
     "GHC": "no¹",
     "explanationEN": "rib",
-    "explanationCN": "1.肋2.音【那】【拏】"
+    "explanationCN": "1.肋【那】【拏】"
   },
   {
     "character": "𗆿",
@@ -23521,7 +23774,7 @@ const CHARACTER_DATA = [
     "GX": "ne²",
     "GHC": "njij²",
     "explanationEN": "mountain",
-    "explanationCN": "1.山2.月份"
+    "explanationCN": "1.山、月份"
   },
   {
     "character": "𗂾",
@@ -23563,7 +23816,7 @@ const CHARACTER_DATA = [
     "GX": "phi¹",
     "GHC": "phji¹",
     "explanationEN": "dustpan",
-    "explanationCN": "1.簸（箕）2.音【备】【毗】【琵】【苾】【比】【鼻】【频】【嚭】【丕】"
+    "explanationCN": "1.簸（箕）【备】【毗】【琵】【苾】【比】【鼻】【频】【嚭】【丕】"
   },
   {
     "character": "𘈻",
@@ -23591,7 +23844,7 @@ const CHARACTER_DATA = [
     "GX": "li̱w?",
     "GHC": "ləu",
     "explanationEN": "nature/temperament",
-    "explanationCN": "1.性格2.散流"
+    "explanationCN": "1.性格、散流"
   },
   {
     "character": "𗡺",
@@ -23619,7 +23872,7 @@ const CHARACTER_DATA = [
     "GX": "se̱¹",
     "GHC": "sej¹",
     "explanationEN": "calculate/count",
-    "explanationCN": "1.算数2.歷3.卜4.该5.娄"
+    "explanationCN": "1.算数、歷、卜、该、娄"
   },
   {
     "character": "𗅴",
@@ -23675,7 +23928,7 @@ const CHARACTER_DATA = [
     "GX": "zeh¹",
     "GHC": "zjịj¹",
     "explanationEN": "hit/touch/fit.exactly",
-    "explanationCN": "1.著中2.滞3.结4.耽"
+    "explanationCN": "1.著中、滞、结、耽"
   },
   {
     "character": "𗁾",
@@ -23822,7 +24075,7 @@ const CHARACTER_DATA = [
     "GX": "dźih²",
     "GHC": "dźjị",
     "explanationEN": "ox/cattle",
-    "explanationCN": "1.牛2.财產"
+    "explanationCN": "1.牛、财產"
   },
   {
     "character": "𗅗",
@@ -23878,7 +24131,7 @@ const CHARACTER_DATA = [
     "GX": "rsa̱r²",
     "GHC": "sar²",
     "explanationEN": "spread/break.up",
-    "explanationCN": "1.散】2.弛3.张"
+    "explanationCN": "1.散】、弛、张"
   },
   {
     "character": "𗆨",
@@ -23989,8 +24242,8 @@ const CHARACTER_DATA = [
     "character": "𗅁",
     "GX": "γu̱²",
     "GHC": "ꞏu²",
-    "explanationEN": "INE",
-    "explanationCN": "INE"
+    "explanationEN": "ɪɴᴇ",
+    "explanationCN": "ɪɴᴇ"
   },
   {
     "character": "𗆄",
@@ -24074,7 +24327,7 @@ const CHARACTER_DATA = [
     "GX": "rda̱r¹",
     "GHC": "dar¹",
     "explanationEN": "reach",
-    "explanationCN": "1.达】2.舆3.活"
+    "explanationCN": "1.达】、舆、活"
   },
   {
     "character": "𗶫",
@@ -24207,7 +24460,7 @@ const CHARACTER_DATA = [
     "GX": "re̱r²",
     "GHC": "rejr²",
     "explanationEN": "canal/ditch",
-    "explanationCN": "1.血沟2.沼3.流"
+    "explanationCN": "1.血沟、沼、流"
   },
   {
     "character": "𘊍",
@@ -24221,7 +24474,7 @@ const CHARACTER_DATA = [
     "GX": "lhuh²",
     "GHC": "lhjụ²",
     "explanationEN": "capture/gain",
-    "explanationCN": "1.获得2.及逮"
+    "explanationCN": "1.获得、及逮"
   },
   {
     "character": "𗐙",
@@ -24305,7 +24558,7 @@ const CHARACTER_DATA = [
     "GX": "qu̱h²",
     "GHC": "kụ²",
     "explanationEN": "lining/inside",
-    "explanationCN": "1.里2.答"
+    "explanationCN": "1.里、答"
   },
   {
     "character": "𗌏",
@@ -24326,7 +24579,7 @@ const CHARACTER_DATA = [
     "GX": "nwo²",
     "GHC": "njwo²",
     "explanationEN": "ridicule/slander",
-    "explanationCN": "哂讥讽谤"
+    "explanationCN": "讥讽"
   },
   {
     "character": "𗊋",
@@ -24424,7 +24677,7 @@ const CHARACTER_DATA = [
     "GX": "γu̱¹",
     "GHC": "ꞏu²",
     "explanationEN": "grave",
-    "explanationCN": "1.坟2.死"
+    "explanationCN": "1.坟、死"
   },
   {
     "character": "𗊛",
@@ -24445,7 +24698,7 @@ const CHARACTER_DATA = [
     "GX": "lu²",
     "GHC": "lju²",
     "explanationEN": "a.bottle",
-    "explanationCN": "1.瓶2.奎"
+    "explanationCN": "1.瓶、奎"
   },
   {
     "character": "𗊵",
@@ -24606,7 +24859,7 @@ const CHARACTER_DATA = [
     "GX": "dzwəh¹",
     "GHC": "dzjwɨ̣¹",
     "explanationEN": "boat/ship",
-    "explanationCN": "1.船舟舸舶舫筏2.与连用，具有“櫓”之义"
+    "explanationCN": "1.船舟舸舶舫筏、与连用，具有“櫓”之义"
   },
   {
     "character": "𗊔",
@@ -24725,7 +24978,7 @@ const CHARACTER_DATA = [
     "GX": "dźiw¹",
     "GHC": "dźjiw¹",
     "explanationEN": "waist",
-    "explanationCN": "1.腰2.中"
+    "explanationCN": "1.腰、中"
   },
   {
     "character": "𗐈",
@@ -24759,8 +25012,8 @@ const CHARACTER_DATA = [
     "character": "𗫶",
     "GX": "de²",
     "GHC": "djij²",
-    "explanationEN": "TESTM/DUR",
-    "explanationCN": "TESTM; DUR"
+    "explanationEN": "ᴛᴇꜱᴛᴍ/ᴅᴜʀ",
+    "explanationCN": "ᴛᴇꜱᴛᴍ/ᴅᴜʀ"
   },
   {
     "character": "𗫷",
@@ -24809,7 +25062,7 @@ const CHARACTER_DATA = [
     "GX": "ndźe¹",
     "GHC": "dźji̱j¹",
     "explanationEN": "live/stay/exist",
-    "explanationCN": "1.住在居有留2.二字重迭，具有指代词和名词性质"
+    "explanationCN": "1.住在居有留、二字重迭，具有指代词和名词性质"
   },
   {
     "character": "𗬃",
@@ -24914,7 +25167,7 @@ const CHARACTER_DATA = [
     "GX": "lhə¹",
     "GHC": "lhjɨ¹",
     "explanationEN": "a.kind.of.shell.which.looks.like.a.jade/dress.and.personal.adornment/dress",
-    "explanationCN": "1.珂贝服饰（穿戴）2.精神"
+    "explanationCN": "1.珂贝服饰（穿戴）、精神"
   },
   {
     "character": "𗣡",
@@ -24942,14 +25195,14 @@ const CHARACTER_DATA = [
     "GX": "hu̱¹",
     "GHC": "xu¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【富】2.【府】【符】【夫】【浮】【甫】【駙】【扶】【虎】【呼】3.【服】（珠 243）【缚】（珠 354）【福】（珠 095）【腹】（珠 191）【父】（珠 313）【斧】（珠 285）【伏】（珠 321）【袱】（珠 221）4.【符】【敷】【傅】【鳧】【妇】【辅】【凤】【福】（音 202）"
+    "explanationCN": "1.【富】、【府】【符】【夫】【浮】【甫】【駙】【扶】【虎】【呼】、【服】（珠 243）【缚】（珠 354）【福】（珠 095）【腹】（珠 191）【父】（珠 313）【斧】（珠 285）【伏】（珠 321）【袱】（珠 221）、【符】【敷】【傅】【鳧】【妇】【辅】【凤】【福】（音 202）"
   },
   {
     "character": "𗫔",
     "GX": "yi¹",
     "GHC": "ꞏji¹",
     "explanationEN": "many/numerous",
-    "explanationCN": "1.众多群2.和尚3.【伊】【易】【裔】【医】【云】4.【翼】【夷】【意】【羿】【异】（音 201）"
+    "explanationCN": "1.众多群、和尚、【伊】【易】【裔】【医】【云】、【翼】【夷】【意】【羿】【异】（音 201）"
   },
   {
     "character": "𗣹",
@@ -25033,14 +25286,14 @@ const CHARACTER_DATA = [
     "GX": "nsa̱r¹",
     "GHC": "sa̱r¹",
     "explanationEN": "prick",
-    "explanationCN": "1.扎刺2.针灸"
+    "explanationCN": "1.扎刺、针灸"
   },
   {
     "character": "𗩒",
     "GX": "rqwa̱r¹",
     "GHC": "kwar¹",
     "explanationEN": "suppress",
-    "explanationCN": "1.压制2.嗔恚"
+    "explanationCN": "1.压制、嗔恚"
   },
   {
     "character": "𗫈",
@@ -25089,7 +25342,7 @@ const CHARACTER_DATA = [
     "GX": "śe¹",
     "GHC": "śjij¹",
     "explanationEN": "life/generation",
-    "explanationCN": "1.世】2.代3.朝4.氏5.时"
+    "explanationCN": "1.世】、代、朝、氏、时"
   },
   {
     "character": "𗫭",
@@ -25201,7 +25454,7 @@ const CHARACTER_DATA = [
     "GX": "teh²",
     "GHC": "tjịj²",
     "explanationEN": "embrace/hold.in.arms",
-    "explanationCN": "1.怀抱2.抚养"
+    "explanationCN": "1.怀抱、抚养"
   },
   {
     "character": "𗐁",
@@ -25292,7 +25545,7 @@ const CHARACTER_DATA = [
     "GX": "mmə¹",
     "GHC": "mjɨ̱¹",
     "explanationEN": "woman/the.female",
-    "explanationCN": "1.女2.【迷】"
+    "explanationCN": "1.女、【迷】"
   },
   {
     "character": "𗽟",
@@ -25341,7 +25594,7 @@ const CHARACTER_DATA = [
     "GX": "tih¹",
     "GHC": "tjị¹",
     "explanationEN": "return/submit",
-    "explanationCN": "1.归2.幸3.诚4.繫"
+    "explanationCN": "1.归、幸、诚、繫"
   },
   {
     "character": "𗫇",
@@ -25397,7 +25650,7 @@ const CHARACTER_DATA = [
     "GX": "vwo̱²",
     "GHC": "wo²",
     "explanationEN": "justice/righteousness",
-    "explanationCN": "1.义2.议3.理"
+    "explanationCN": "1.义、议、理"
   },
   {
     "character": "𗼰",
@@ -25467,14 +25720,14 @@ const CHARACTER_DATA = [
     "GX": "tshiṃ¹",
     "GHC": "tshji¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【秦】2.【亲】【尽】【曾】【津】"
+    "explanationCN": "1.【秦】、【亲】【尽】【曾】【津】"
   },
   {
     "character": "𗣷",
     "GX": "lhə̱?",
     "GHC": "lhə",
     "explanationEN": "full/packed/satisfied",
-    "explanationCN": "1.满足2.充备"
+    "explanationCN": "1.满足、充备"
   },
   {
     "character": "𗣃",
@@ -25488,14 +25741,14 @@ const CHARACTER_DATA = [
     "GX": "llə²",
     "GHC": "ljɨ²",
     "explanationEN": "easy",
-    "explanationCN": "1.易2.【列】（音 204）"
+    "explanationCN": "1.易、【列】（音 204）"
   },
   {
     "character": "𗨫",
     "GX": "γu̱²",
     "GHC": "ɣu²",
     "explanationEN": "manage/administer",
-    "explanationCN": "1.管理勾管2.了毕"
+    "explanationCN": "1.管理勾管、了毕"
   },
   {
     "character": "𗧔",
@@ -25628,7 +25881,7 @@ const CHARACTER_DATA = [
     "GX": "lwu²",
     "GHC": "ljwu²",
     "explanationEN": "meet/assemble",
-    "explanationCN": "1.会聚盟2.期"
+    "explanationCN": "1.会聚盟、期"
   },
   {
     "character": "𗣎",
@@ -25754,14 +26007,14 @@ const CHARACTER_DATA = [
     "GX": "phə̱¹",
     "GHC": "phə¹",
     "explanationEN": "man.of.wealth/moneybags",
-    "explanationCN": "1.富翁2.长者"
+    "explanationCN": "1.富翁、长者"
   },
   {
     "character": "𗨮",
     "GX": "kah²",
     "GHC": "kjạ²",
     "explanationEN": "song",
-    "explanationCN": "1.歌曲】2.曲"
+    "explanationCN": "1.歌曲】、曲"
   },
   {
     "character": "𗩉",
@@ -25775,7 +26028,7 @@ const CHARACTER_DATA = [
     "GX": "tsho̱ṃ¹",
     "GHC": "tshow¹",
     "explanationEN": "teach/instruct",
-    "explanationCN": "1.教指示2.又音【座】"
+    "explanationCN": "1.教指示、又音【座】"
   },
   {
     "character": "𗣮",
@@ -25852,14 +26105,14 @@ const CHARACTER_DATA = [
     "GX": "reṃ²",
     "GHC": "rjɨj²",
     "explanationEN": "scheme/stratagem",
-    "explanationCN": "1.计谋2.枢"
+    "explanationCN": "1.计谋、枢"
   },
   {
     "character": "𗨝",
     "GX": "śiṃ¹",
     "GHC": "śjĩ¹",
     "explanationEN": "body",
-    "explanationCN": "1.身】2.【审】（珠 283）【肾】（珠 086）【深】（珠 124）【辰】（珠 101）【申】（珠 101）【神】（珠 064）【绳】（珠 246）3.【臣】【沉】【晨】"
+    "explanationCN": "1.身】、【审】（珠 283）【肾】（珠 086）【深】（珠 124）【辰】（珠 101）【申】（珠 101）【神】（珠 064）【绳】（珠 246）、【臣】【沉】【晨】"
   },
   {
     "character": "𗤲",
@@ -25887,7 +26140,7 @@ const CHARACTER_DATA = [
     "GX": "śa¹",
     "GHC": "śja¹",
     "explanationEN": "buy.or.sell.on.credit",
-    "explanationCN": "1.赊】2.【捨】【闍】"
+    "explanationCN": "1.赊】、【捨】【闍】"
   },
   {
     "character": "𗿙",
@@ -25978,7 +26231,7 @@ const CHARACTER_DATA = [
     "GX": "dzu²",
     "GHC": "dzju²",
     "explanationEN": "host/master",
-    "explanationCN": "1.主2.监3.霸4.帅5.领6.在7.君8.司"
+    "explanationCN": "1.主、监、霸、帅、领、在、君、司"
   },
   {
     "character": "𗨯",
@@ -25992,7 +26245,7 @@ const CHARACTER_DATA = [
     "GX": "tśhweṃ¹",
     "GHC": "tśhjwɨj¹",
     "explanationEN": "prohibit/forbid/ban",
-    "explanationCN": "1.禁治2.【修】【齐】【慎】【谨】【製】【驭】"
+    "explanationCN": "1.禁治、【修】【齐】【慎】【谨】【製】【驭】"
   },
   {
     "character": "𗼁",
@@ -26034,7 +26287,7 @@ const CHARACTER_DATA = [
     "GX": "na̱¹",
     "GHC": "na¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【那】【纳】2.【南】"
+    "explanationCN": "1.【那】【纳】、【南】"
   },
   {
     "character": "𗣄",
@@ -26216,7 +26469,7 @@ const CHARACTER_DATA = [
     "GX": "lwi̱w¹",
     "GHC": "lwew¹",
     "explanationEN": "gas/smoke/flame",
-    "explanationCN": "1.气焰2.蒸"
+    "explanationCN": "1.气焰、蒸"
   },
   {
     "character": "𘔴",
@@ -26384,7 +26637,7 @@ const CHARACTER_DATA = [
     "GX": "ŋŋaa̱²",
     "GHC": "ŋia̱²",
     "explanationEN": "goose",
-    "explanationCN": "1.鹅2.【顏】【宴】【崖】【英】【晏】【琊】3.【牙】（珠 183）【芽】（珠 152）【岩】（珠 122）【鸭】（珠 166）【雁】（珠 166）【眼】（珠 142）4.【雅】【晏】【琊】【邪】（音 197）"
+    "explanationCN": "1.鹅、【顏】【宴】【崖】【英】【晏】【琊】、【牙】（珠 183）【芽】（珠 152）【岩】（珠 122）【鸭】（珠 166）【雁】（珠 166）【眼】（珠 142）、【雅】【晏】【琊】【邪】（音 197）"
   },
   {
     "character": "𗿩",
@@ -26433,14 +26686,14 @@ const CHARACTER_DATA = [
     "GX": "swa̱ṃ¹",
     "GHC": "swã¹",
     "explanationEN": "mute",
-    "explanationCN": "1.瘂冥2.【隋】"
+    "explanationCN": "1.瘂冥、【隋】"
   },
   {
     "character": "𗪇",
     "GX": "bu̱¹",
     "GHC": "bu¹",
     "explanationEN": "sink/submerge",
-    "explanationCN": "1.没2.减"
+    "explanationCN": "1.没、减"
   },
   {
     "character": "𗩳",
@@ -26461,7 +26714,7 @@ const CHARACTER_DATA = [
     "GX": "ma¹",
     "GHC": "mja¹",
     "explanationEN": "female/woman",
-    "explanationCN": "1.雌母妇2.【麻】"
+    "explanationCN": "1.雌母妇、【麻】"
   },
   {
     "character": "𗺗",
@@ -26489,7 +26742,7 @@ const CHARACTER_DATA = [
     "GX": "rni̱r²",
     "GHC": "ner²",
     "explanationEN": "fade/wither/shrivel.up",
-    "explanationCN": "1.枯萎】2.感"
+    "explanationCN": "1.枯萎】、感"
   },
   {
     "character": "𗺻",
@@ -26565,8 +26818,8 @@ const CHARACTER_DATA = [
     "character": "𗏣",
     "GX": "rer²",
     "GHC": "rjijr²",
-    "explanationEN": "DIRE:directive./direction",
-    "explanationCN": "DIRE: directive ; direction"
+    "explanationEN": "ᴅɪʀᴇ/direction",
+    "explanationCN": "ᴅɪʀᴇ；方向"
   },
   {
     "character": "𗏔",
@@ -26601,7 +26854,7 @@ const CHARACTER_DATA = [
     "GX": "γai̱¹",
     "GHC": "ɣie¹",
     "explanationEN": "power/strength",
-    "explanationCN": "1.力2.工3.势"
+    "explanationCN": "1.力、工、势"
   },
   {
     "character": "𗫙",
@@ -26678,7 +26931,7 @@ const CHARACTER_DATA = [
     "GX": "seh²",
     "GHC": "sjịj²",
     "explanationEN": "write",
-    "explanationCN": "1.写】2.画"
+    "explanationCN": "1.写】、画"
   },
   {
     "character": "𗣵",
@@ -26706,21 +26959,21 @@ const CHARACTER_DATA = [
     "GX": "ma¹",
     "GHC": "mja¹",
     "explanationEN": "end/tail/east",
-    "explanationCN": "1.末尾东2.【嘛】【末】【摩】【么】【謨】【莫】【曼】"
+    "explanationCN": "1.末尾东、【嘛】【末】【摩】【么】【謨】【莫】【曼】"
   },
   {
     "character": "𗦬",
     "GX": "ġu̱²",
     "GHC": "gu²",
     "explanationEN": "common/generally",
-    "explanationCN": "1.共总通2.二字重迭表示“俱共”“共同”3.廓交"
+    "explanationCN": "1.共总通、二字重迭表示“俱共”“共同”、廓交"
   },
   {
     "character": "𗪢",
     "GX": "dza¹",
     "GHC": "dzja¹",
     "explanationEN": "hair.worn.in.a.bun.or.coil",
-    "explanationCN": "1.髻2.顶"
+    "explanationCN": "1.髻、顶"
   },
   {
     "character": "𗪒",
@@ -26776,7 +27029,7 @@ const CHARACTER_DATA = [
     "GX": "hi̱w¹",
     "GHC": "xew¹",
     "explanationEN": "a.kind.of.grass",
-    "explanationCN": "1.【厚】草名2.【喉】（珠 184）【㬋】（珠 082）【篌】（珠 324）【后】（珠 108）【霍】（音 203）【侯】【呼】"
+    "explanationCN": "1.【厚】草名、【喉】（珠 184）【㬋】（珠 082）【篌】（珠 324）【后】（珠 108）【霍】（音 203）【侯】【呼】"
   },
   {
     "character": "𗻬",
@@ -26846,7 +27099,7 @@ const CHARACTER_DATA = [
     "GX": "ŋao̱ṃ²",
     "GHC": "ŋjow²",
     "explanationEN": "the.third.of.the.Eight.Trigrams",
-    "explanationCN": "1.根2.矿山3.耿"
+    "explanationCN": "1.根、矿山、耿"
   },
   {
     "character": "𗽱",
@@ -26951,7 +27204,7 @@ const CHARACTER_DATA = [
     "GX": "nśi¹",
     "GHC": "śji̱¹",
     "explanationEN": "misgiving/doubt",
-    "explanationCN": "1.疑虑2.恍惚"
+    "explanationCN": "1.疑虑、恍惚"
   },
   {
     "character": "𗬧",
@@ -27028,7 +27281,7 @@ const CHARACTER_DATA = [
     "GX": "qhu̱¹",
     "GHC": "khu¹",
     "explanationEN": "detestion",
-    "explanationCN": "1.厌嫌2.【佉】【龋】"
+    "explanationCN": "1.厌嫌、【佉】【龋】"
   },
   {
     "character": "𗃤",
@@ -27056,7 +27309,7 @@ const CHARACTER_DATA = [
     "GX": "mbu¹",
     "GHC": "bju̱¹",
     "explanationEN": "respect/revere",
-    "explanationCN": "1.敬恭2.贵重3.仰崇4.钦5.宗6.致7.惭8.豪9.达"
+    "explanationCN": "1.敬恭、贵重、仰崇、钦、宗、致、惭、豪、达"
   },
   {
     "character": "𘓗",
@@ -27084,14 +27337,14 @@ const CHARACTER_DATA = [
     "GX": "hoṃ¹",
     "GHC": "xjow¹",
     "explanationEN": "fragrant",
-    "explanationCN": "1.香】2.【方】（珠 133352）【房】（珠 344）【向】（珠 361）【胸】（珠 185）【乡】【雄】（音 203）"
+    "explanationCN": "1.香】、【方】（珠 133352）【房】（珠 344）【向】（珠 361）【胸】（珠 185）【乡】【雄】（音 203）"
   },
   {
     "character": "𗃬",
     "GX": "lli̱²",
     "GHC": "le²",
     "explanationEN": "fear/dread",
-    "explanationCN": "1.恐惧惊骇2.怨"
+    "explanationCN": "1.恐惧惊骇、怨"
   },
   {
     "character": "𗴟",
@@ -27133,14 +27386,14 @@ const CHARACTER_DATA = [
     "GX": "dih²",
     "GHC": "djị²",
     "explanationEN": "listen.attentively",
-    "explanationCN": "1.諦2.沉"
+    "explanationCN": "1.諦、沉"
   },
   {
     "character": "𗼮",
     "GX": "dzuh²",
     "GHC": "dzjụ²",
     "explanationEN": "rain",
-    "explanationCN": "1.雨2.两字重迭表示“降雨”之义3.【族】"
+    "explanationCN": "1.雨、两字重迭表示“降雨”之义、【族】"
   },
   {
     "character": "𗐌",
@@ -27189,7 +27442,7 @@ const CHARACTER_DATA = [
     "GX": "khwə¹",
     "GHC": "khjwɨ¹",
     "explanationEN": "favor/merit",
-    "explanationCN": "1.功恩2.【屈】【掘】"
+    "explanationCN": "1.功恩、【屈】【掘】"
   },
   {
     "character": "𗼡",
@@ -27210,7 +27463,7 @@ const CHARACTER_DATA = [
     "GX": "γa̱h²",
     "GHC": "ɣạ²",
     "explanationEN": "name,.surname",
-    "explanationCN": "1.【夏】2.姻缘名词"
+    "explanationCN": "1.【夏】、姻缘名词"
   },
   {
     "character": "𗼋",
@@ -27231,7 +27484,7 @@ const CHARACTER_DATA = [
     "GX": "dzi̱w²",
     "GHC": "dzew²",
     "explanationEN": "swindle/cheat",
-    "explanationCN": "1.诈骗矫2.偽僭"
+    "explanationCN": "1.诈骗矫、偽僭"
   },
   {
     "character": "𘉃",
@@ -27294,7 +27547,7 @@ const CHARACTER_DATA = [
     "GX": "hə̱¹",
     "GHC": "xə¹",
     "explanationEN": "seek/look.for",
-    "explanationCN": "1.寻觅寻找2.【霍】（音 203）"
+    "explanationCN": "1.寻觅寻找、【霍】（音 203）"
   },
   {
     "character": "𗆎",
@@ -27406,7 +27659,7 @@ const CHARACTER_DATA = [
     "GX": "se²",
     "GHC": "sjij²",
     "explanationEN": "passion/knowledge",
-    "explanationCN": "1.情知识2.虞人"
+    "explanationCN": "1.情知识、虞人"
   },
   {
     "character": "𗹟",
@@ -27427,7 +27680,7 @@ const CHARACTER_DATA = [
     "GX": "nte̱¹",
     "GHC": "the̱j¹",
     "explanationEN": "ripple/undulate",
-    "explanationCN": "1.荡漾2.闪闪3.俱炽"
+    "explanationCN": "1.荡漾、闪闪、俱炽"
   },
   {
     "character": "𗂯",
@@ -27441,7 +27694,7 @@ const CHARACTER_DATA = [
     "GX": "tṣhai̱w¹",
     "GHC": "tśhiew¹",
     "explanationEN": "damage/injure",
-    "explanationCN": "1.损坏2.坼"
+    "explanationCN": "1.损坏、坼"
   },
   {
     "character": "𗅤",
@@ -27518,7 +27771,7 @@ const CHARACTER_DATA = [
     "GX": "lla̱h¹",
     "GHC": "lạ¹",
     "explanationEN": "hand",
-    "explanationCN": "1.手2.臂3.巾4.擒5.始末"
+    "explanationCN": "1.手、臂、巾、擒、始末"
   },
   {
     "character": "𗁃",
@@ -27532,7 +27785,7 @@ const CHARACTER_DATA = [
     "GX": "bah¹",
     "GHC": "bjạ¹",
     "explanationEN": "coarse/rough",
-    "explanationCN": "1.粗糙2.涩"
+    "explanationCN": "1.粗糙、涩"
   },
   {
     "character": "𗄴",
@@ -27602,7 +27855,7 @@ const CHARACTER_DATA = [
     "GX": "llu̱h²",
     "GHC": "lụ²",
     "explanationEN": "hinder/obstruct",
-    "explanationCN": "1.障碍2.缺3.陷"
+    "explanationCN": "1.障碍、缺、陷"
   },
   {
     "character": "𗅌",
@@ -27665,14 +27918,14 @@ const CHARACTER_DATA = [
     "GX": "beh¹",
     "GHC": "bjịj¹",
     "explanationEN": "promote/raise",
-    "explanationCN": "1.高昇举2.骄慢"
+    "explanationCN": "1.高昇举、骄慢"
   },
   {
     "character": "𗃊",
     "GX": "pho̱¹",
     "GHC": "pho¹",
     "explanationEN": "splash/pour",
-    "explanationCN": "1.泼洒】2.灌"
+    "explanationCN": "1.泼洒】、灌"
   },
   {
     "character": "𗂸",
@@ -27693,7 +27946,7 @@ const CHARACTER_DATA = [
     "GX": "ryer¹",
     "GHC": "ꞏjijr¹",
     "explanationEN": "firm",
-    "explanationCN": "1.刚强2.坚3.艰"
+    "explanationCN": "1.刚强、坚、艰"
   },
   {
     "character": "𗃏",
@@ -27714,7 +27967,7 @@ const CHARACTER_DATA = [
     "GX": "mə̱¹",
     "GHC": "mə¹",
     "explanationEN": "sky/heaven",
-    "explanationCN": "1.天2.活业营生"
+    "explanationCN": "1.天、活业营生"
   },
   {
     "character": "𗺃",
@@ -27756,14 +28009,14 @@ const CHARACTER_DATA = [
     "GX": "yu¹",
     "GHC": "ꞏju¹",
     "explanationEN": "big.tree",
-    "explanationCN": "1.大（榆）树2.【羽】【裕】【昱】【瘐】3.【豫】【余】【昱】【约】（音 202）"
+    "explanationCN": "1.大（榆）树、【羽】【裕】【昱】【瘐】、【豫】【余】【昱】【约】（音 202）"
   },
   {
     "character": "𗶰",
     "GX": "ne²",
     "GHC": "njij²",
     "explanationEN": "expose/reveal",
-    "explanationCN": "1.暴露2.露宿躲避"
+    "explanationCN": "1.暴露、露宿躲避"
   },
   {
     "character": "𘝔",
@@ -27798,7 +28051,7 @@ const CHARACTER_DATA = [
     "GX": "tshwu¹",
     "GHC": "tshjwu¹",
     "explanationEN": "present.as.a.gift/give",
-    "explanationCN": "1.赠施供2.趣"
+    "explanationCN": "1.赠施供、趣"
   },
   {
     "character": "𗢦",
@@ -27811,8 +28064,8 @@ const CHARACTER_DATA = [
     "character": "𗋸",
     "GX": "ma¹",
     "GHC": "mja¹",
-    "explanationEN": "PROB",
-    "explanationCN": "PROB"
+    "explanationEN": "ᴘʀᴏʙ",
+    "explanationCN": "ᴘʀᴏʙ"
   },
   {
     "character": "𘉼",
@@ -27903,7 +28156,7 @@ const CHARACTER_DATA = [
     "GX": "ha̱¹",
     "GHC": "xa¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【哈】】2.【合】【褐】【皓】【闔】3.活"
+    "explanationCN": "1.【哈】】、【合】【褐】【皓】【闔】、活"
   },
   {
     "character": "𗊞",
@@ -27924,14 +28177,14 @@ const CHARACTER_DATA = [
     "GX": "dzwə̱¹",
     "GHC": "dzwə¹",
     "explanationEN": "chapter/volume",
-    "explanationCN": "1.章册2.首"
+    "explanationCN": "1.章册、首"
   },
   {
     "character": "𗊝",
     "GX": "dźaw¹",
     "GHC": "dźja̱¹",
     "explanationEN": "cross.(a.river)",
-    "explanationCN": "1.渡涉2.浮"
+    "explanationCN": "1.渡涉、浮"
   },
   {
     "character": "𗢕",
@@ -27980,7 +28233,7 @@ const CHARACTER_DATA = [
     "GX": "ṇo̱ṃ²",
     "GHC": "niow²",
     "explanationEN": "evil/wicked/bad",
-    "explanationCN": "1.恶2.凶3.涂4.妖5.【溺】（音 197）"
+    "explanationCN": "1.恶、凶、涂、妖、【溺】（音 197）"
   },
   {
     "character": "𘊁",
@@ -27994,7 +28247,7 @@ const CHARACTER_DATA = [
     "GX": "kwa̱ṃ¹",
     "GHC": "kwã¹",
     "explanationEN": "tube",
-    "explanationCN": "1.管】2.【管】【官】【冠】"
+    "explanationCN": "1.管】、【管】【官】【冠】"
   },
   {
     "character": "𗃛",
@@ -28050,7 +28303,7 @@ const CHARACTER_DATA = [
     "GX": "rvwa̱r¹",
     "GHC": "war¹",
     "explanationEN": "twine/wind",
-    "explanationCN": "1.缠绕2.【娃】【婆】"
+    "explanationCN": "1.缠绕、【娃】【婆】"
   },
   {
     "character": "𗬅",
@@ -28113,14 +28366,14 @@ const CHARACTER_DATA = [
     "GX": "dźu²",
     "GHC": "dźju²",
     "explanationEN": "timid/weak",
-    "explanationCN": "1.怯弱2.衰惫3.卑劣"
+    "explanationCN": "1.怯弱、衰惫、卑劣"
   },
   {
     "character": "𗿑",
     "GX": "rhwə̱r¹",
     "GHC": "xwər¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【霍】【壑】2.鹤"
+    "explanationCN": "1.【霍】【壑】、鹤"
   },
   {
     "character": "𘊟",
@@ -28141,7 +28394,7 @@ const CHARACTER_DATA = [
     "GX": "tse²",
     "GHC": "tsjij²",
     "explanationEN": "realize/know",
-    "explanationCN": "1.悟晓通达明瞭2.（菩）萨"
+    "explanationCN": "1.悟晓通达明瞭、（菩）萨"
   },
   {
     "character": "𗨉",
@@ -28176,14 +28429,14 @@ const CHARACTER_DATA = [
     "GX": "ke²",
     "GHC": "kjij²",
     "explanationEN": "impressive.and.dignified",
-    "explanationCN": "1.威仪2.显贵"
+    "explanationCN": "1.威仪、显贵"
   },
   {
     "character": "𗦙",
     "GX": "sih¹",
     "GHC": "sjị¹",
     "explanationEN": "pure",
-    "explanationCN": "1.清白2.【西】【仙】（神仙名）"
+    "explanationCN": "1.清白、【西】【仙】（神仙名）"
   },
   {
     "character": "𗪪",
@@ -28203,8 +28456,8 @@ const CHARACTER_DATA = [
     "character": "𗫂",
     "GX": "ta¹",
     "GHC": "tja¹",
-    "explanationEN": "TOP",
-    "explanationCN": "TOP"
+    "explanationEN": "ᴛᴏᴘ",
+    "explanationCN": "ᴛᴏᴘ"
   },
   {
     "character": "𗽼",
@@ -28232,7 +28485,7 @@ const CHARACTER_DATA = [
     "GX": "paa̱¹",
     "GHC": "pia¹",
     "explanationEN": "scar",
-    "explanationCN": "1.疤痕】2.【霸】【班】"
+    "explanationCN": "1.疤痕】、【霸】【班】"
   },
   {
     "character": "𗫅",
@@ -28246,21 +28499,21 @@ const CHARACTER_DATA = [
     "GX": "dzeṃ¹",
     "GHC": "dzjɨj¹",
     "explanationEN": "time/date/moment",
-    "explanationCN": "1.时2.须臾"
+    "explanationCN": "1.时、须臾"
   },
   {
     "character": "𗤡",
     "GX": "ŋgi¹",
     "GHC": "gji̱¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【义】2.【宜】【玉】【仪】【毅】【凝】（音 196）"
+    "explanationCN": "1.【义】、【宜】【玉】【仪】【毅】【凝】（音 196）"
   },
   {
     "character": "𗤬",
     "GX": "nni²",
     "GHC": "nji̱²",
     "explanationEN": "link/unite",
-    "explanationCN": "1.连2.攻3.干4.蒙坌5.死"
+    "explanationCN": "1.连、攻、干、蒙坌、死"
   },
   {
     "character": "𗧅",
@@ -28302,7 +28555,7 @@ const CHARACTER_DATA = [
     "GX": "rmer²",
     "GHC": "mjijr²",
     "explanationEN": "dark/ignorant",
-    "explanationCN": "1.暗昧2.宗源"
+    "explanationCN": "1.暗昧、宗源"
   },
   {
     "character": "𗨾",
@@ -28344,7 +28597,7 @@ const CHARACTER_DATA = [
     "GX": "tho̱ṃh¹",
     "GHC": "thọ¹",
     "explanationEN": "section/part",
-    "explanationCN": "1.段2.半3.鋌4.刺"
+    "explanationCN": "1.段、半、鋌、刺"
   },
   {
     "character": "𗻉",
@@ -28365,7 +28618,7 @@ const CHARACTER_DATA = [
     "GX": "yu¹",
     "GHC": "ꞏju̱¹",
     "explanationEN": "see/look.at",
-    "explanationCN": "1.看视覩瞻2.检验"
+    "explanationCN": "1.看视覩瞻、检验"
   },
   {
     "character": "𗪼",
@@ -28442,7 +28695,7 @@ const CHARACTER_DATA = [
     "GX": "γwe̱²",
     "GHC": "xwej²",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【回】】2.【慧】【会】【灰】【恢】（音 202）"
+    "explanationCN": "1.【回】】、【慧】【会】【灰】【恢】（音 202）"
   },
   {
     "character": "𗦽",
@@ -28519,7 +28772,7 @@ const CHARACTER_DATA = [
     "GX": "γwaṃ¹",
     "GHC": "ɣjwã¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【袁】【元】2.【圆】（珠 352）【园】（珠 133）【原】（珠 121）【愿】（珠 304）【远】（珠 361）【㳂】（珠 344）3.【渊】【阮】【苑】【援】【尹】【兗】（音 202）"
+    "explanationCN": "1.【袁】【元】、【圆】（珠 352）【园】（珠 133）【原】（珠 121）【愿】（珠 304）【远】（珠 361）【㳂】（珠 344）、【渊】【阮】【苑】【援】【尹】【兗】（音 202）"
   },
   {
     "character": "𗪑",
@@ -28547,7 +28800,7 @@ const CHARACTER_DATA = [
     "GX": "qwaa̱¹",
     "GHC": "kiwa¹",
     "explanationEN": "a.place.name",
-    "explanationCN": "1.【瓜】【寡】地名2.【媧】【关】（音 197）"
+    "explanationCN": "1.【瓜】【寡】地名、【媧】【关】（音 197）"
   },
   {
     "character": "𗿃",
@@ -28596,14 +28849,14 @@ const CHARACTER_DATA = [
     "GX": "rer²",
     "GHC": "rjijr²",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【令】【力】2.哉3.乐"
+    "explanationCN": "1.【令】【力】、哉、乐"
   },
   {
     "character": "𗣩",
     "GX": "tha̱²",
     "GHC": "tha²",
     "explanationEN": "rely.on/depend",
-    "explanationCN": "1.托依靠恃柱2.【佗】3.【踏】（珠 242）【大】（珠 326）【道】（珠 276）【桃】（珠 141142）【叹】（珠 275）【毯】（珠 243）【贪】（珠 355）【达】（音 195）"
+    "explanationCN": "1.托依靠恃柱、【佗】、【踏】（珠 242）【大】（珠 326）【道】（珠 276）【桃】（珠 141142）【叹】（珠 275）【毯】（珠 243）【贪】（珠 355）【达】（音 195）"
   },
   {
     "character": "𗤟",
@@ -28673,7 +28926,7 @@ const CHARACTER_DATA = [
     "GX": "dzə̱h¹",
     "GHC": "dzə̣¹",
     "explanationEN": "dense",
-    "explanationCN": "1.稠茂密2.聚集"
+    "explanationCN": "1.稠茂密、聚集"
   },
   {
     "character": "𗺦",
@@ -28701,7 +28954,7 @@ const CHARACTER_DATA = [
     "GX": "a?",
     "GHC": "ꞏja",
     "explanationEN": "monk/Buddhist.monk",
-    "explanationCN": "1.僧2.【阿】加在亲属称谓之前表示亲昵"
+    "explanationCN": "1.僧、【阿】加在亲属称谓之前表示亲昵"
   },
   {
     "character": "𗏓",
@@ -28792,14 +29045,14 @@ const CHARACTER_DATA = [
     "GX": "tṣhaa̱¹",
     "GHC": "tśhia¹",
     "explanationEN": "fork/branch.of.an.object",
-    "explanationCN": "1.岔】2.【叉】【茶】（珠 235）【炒】（珠 155）【鞔】（珠 336）【差】【刹】【湛】（音 200）"
+    "explanationCN": "1.岔】、【叉】【茶】（珠 235）【炒】（珠 155）【鞔】（珠 336）【差】【刹】【湛】（音 200）"
   },
   {
     "character": "𗽈",
     "GX": "llih¹",
     "GHC": "ljị¹",
     "explanationEN": "plant/cultivate",
-    "explanationCN": "1.耕种植2.农3.结"
+    "explanationCN": "1.耕种植、农、结"
   },
   {
     "character": "𗽮",
@@ -28869,14 +29122,14 @@ const CHARACTER_DATA = [
     "GX": "to̱²",
     "GHC": "to²",
     "explanationEN": "be.born/rise",
-    "explanationCN": "1.出生2.登"
+    "explanationCN": "1.出生、登"
   },
   {
     "character": "𗥖",
     "GX": "twə¹",
     "GHC": "tjwɨ¹",
     "explanationEN": "flog/beat",
-    "explanationCN": "1.打拷挞2.筑"
+    "explanationCN": "1.打拷挞、筑"
   },
   {
     "character": "𗦱",
@@ -28911,14 +29164,14 @@ const CHARACTER_DATA = [
     "GX": "ṣai̱²",
     "GHC": "śie²",
     "explanationEN": "a.kind.of.bird",
-    "explanationCN": "1.【鶽】鸟名2.音【谢】【泄】【先】"
+    "explanationCN": "1.【鶽】鸟名【谢】【泄】【先】"
   },
   {
     "character": "𗨂",
     "GX": "yeṃ¹",
     "GHC": "ꞏjɨj¹",
     "explanationEN": "gain/make.profit",
-    "explanationCN": "1.羸】2.【英】【夜】3.【婴】【冶】【野】【赢】【曄】（音 202）"
+    "explanationCN": "1.羸】、【英】【夜】、【婴】【冶】【野】【赢】【曄】（音 202）"
   },
   {
     "character": "𗪡",
@@ -28939,7 +29192,7 @@ const CHARACTER_DATA = [
     "GX": "rgwər¹",
     "GHC": "gjwɨr¹",
     "explanationEN": "lie.down",
-    "explanationCN": "1.卧2.驻3.与?结合，具有“被”之义"
+    "explanationCN": "1.卧、驻、与?结合，具有“被”之义"
   },
   {
     "character": "𗽠",
@@ -29044,7 +29297,7 @@ const CHARACTER_DATA = [
     "GX": "vwi̱²",
     "GHC": "we²",
     "explanationEN": "name/title",
-    "explanationCN": "1.名号曰2.讳"
+    "explanationCN": "1.名号曰、讳"
   },
   {
     "character": "𗻰",
@@ -29064,8 +29317,8 @@ const CHARACTER_DATA = [
     "character": "𗏺",
     "GX": "rer²",
     "GHC": "rjijr²",
-    "explanationEN": "INTER:DIR/OPT:DIR",
-    "explanationCN": "INTER: DIR; OPT: DIR"
+    "explanationEN": "ɪɴᴛʀɢ:ᴅɪʀ/ᴏᴘᴛ:ᴅɪʀ",
+    "explanationCN": "ɪɴᴛʀɢ:ᴅɪʀ/ᴏᴘᴛ:ᴅɪʀ"
   },
   {
     "character": "𗐀",
@@ -29079,7 +29332,7 @@ const CHARACTER_DATA = [
     "GX": "pha¹",
     "GHC": "phja¹",
     "explanationEN": "break.off/sever",
-    "explanationCN": "1.断绝除2.禁"
+    "explanationCN": "1.断绝除、禁"
   },
   {
     "character": "𗿫",
@@ -29135,7 +29388,7 @@ const CHARACTER_DATA = [
     "GX": "lae̱²",
     "GHC": "liej²",
     "explanationEN": "carry.off/loot",
-    "explanationCN": "（按：此字為来日音，《五音切韵》丁种本122-57与《文海寳韵》74.74中均為2.31韵）英文释义to carry off; to loot详细解释请参考《简明夏汉字典》第448页。龚煌城释义（缺资料）mojikyo字体歛景永时字体毛"
+    "explanationCN": "（按：此字為来日音，《五音切韵》丁种本122-57与《文海寳韵》7、74中均為、31韵）英文释义to carry off; to loot详细解释请参考《简明夏汉字典》第448页。龚煌城释义（缺资料）mojikyo字体歛景永时字体毛"
   },
   {
     "character": "𗧃",
@@ -29177,7 +29430,7 @@ const CHARACTER_DATA = [
     "GX": "pao̱h¹",
     "GHC": "piọ¹",
     "explanationEN": "bottom",
-    "explanationCN": "1.底下2.腐烂"
+    "explanationCN": "1.底下、腐烂"
   },
   {
     "character": "𘜨",
@@ -29268,7 +29521,7 @@ const CHARACTER_DATA = [
     "GX": "tih¹",
     "GHC": "tjị¹",
     "explanationEN": "hope/wish",
-    "explanationCN": "1.愿2.誓"
+    "explanationCN": "1.愿、誓"
   },
   {
     "character": "𗃘",
@@ -29289,7 +29542,7 @@ const CHARACTER_DATA = [
     "GX": "qo̱ṃ¹",
     "GHC": "kow¹",
     "explanationEN": "public.affairs/merit",
-    "explanationCN": "1.公功】2.【公】【翁】【军】【贡】【工】（音 196）"
+    "explanationCN": "1.公功】、【公】【翁】【军】【贡】【工】（音 196）"
   },
   {
     "character": "𗃥",
@@ -29303,7 +29556,7 @@ const CHARACTER_DATA = [
     "GX": "qai̱¹",
     "GHC": "kie¹",
     "explanationEN": "commandment/(Buddhist).discipline",
-    "explanationCN": "1.戒】2.律3.法3.条"
+    "explanationCN": "1.戒】、律、法、条"
   },
   {
     "character": "𗬮",
@@ -29408,7 +29661,7 @@ const CHARACTER_DATA = [
     "GX": "tsha̱¹",
     "GHC": "tsha¹",
     "explanationEN": "mixed",
-    "explanationCN": "1.杂（汉语代词）2.草"
+    "explanationCN": "1.杂（汉语代词）、草"
   },
   {
     "character": "𗺓",
@@ -29464,7 +29717,7 @@ const CHARACTER_DATA = [
     "GX": "ṣaa̱ṃ¹",
     "GHC": "śiã¹",
     "explanationEN": "hill/mountain",
-    "explanationCN": "1.山】2.【產】"
+    "explanationCN": "1.山】、【產】"
   },
   {
     "character": "𗂦",
@@ -29527,7 +29780,7 @@ const CHARACTER_DATA = [
     "GX": "dźo²",
     "GHC": "śjo²",
     "explanationEN": "sweat/perspiration",
-    "explanationCN": "1.汗2.【尚】"
+    "explanationCN": "1.汗、【尚】"
   },
   {
     "character": "𗊜",
@@ -29541,7 +29794,7 @@ const CHARACTER_DATA = [
     "GX": "śoṃ¹",
     "GHC": "śjow¹",
     "explanationEN": "guard",
-    "explanationCN": "1.监护2.【尚】【商】【昌】【章】3.【尝】【丞】【桑】（音 200）"
+    "explanationCN": "1.监护、【尚】【商】【昌】【章】、【尝】【丞】【桑】（音 200）"
   },
   {
     "character": "𘊅",
@@ -29576,14 +29829,14 @@ const CHARACTER_DATA = [
     "GX": "ləh²",
     "GHC": "ljɨ̣²",
     "explanationEN": "hare/donkey",
-    "explanationCN": "1.兔2.驴"
+    "explanationCN": "1.兔、驴"
   },
   {
     "character": "𗨇",
     "GX": "tṣuo¹",
     "GHC": "tśio̱w¹",
     "explanationEN": "steal",
-    "explanationCN": "1.盗窃2.【謖】【勺】【竹】【筑】"
+    "explanationCN": "1.盗窃、【謖】【勺】【竹】【筑】"
   },
   {
     "character": "𗧷",
@@ -29611,7 +29864,7 @@ const CHARACTER_DATA = [
     "GX": "bao̱¹",
     "GHC": "bio¹",
     "explanationEN": "line/ranks",
-    "explanationCN": "1.行列2.析"
+    "explanationCN": "1.行列、析"
   },
   {
     "character": "𗺶",
@@ -29639,14 +29892,14 @@ const CHARACTER_DATA = [
     "GX": "tsu̱²",
     "GHC": "tsu²",
     "explanationEN": "stand.up/rise/jump",
-    "explanationCN": "1.起跃2.上3.【祖】（音 199）"
+    "explanationCN": "1.起跃、上、【祖】（音 199）"
   },
   {
     "character": "𗦮",
     "GX": "phe¹",
     "GHC": "phjij¹",
     "explanationEN": "escape/evade",
-    "explanationCN": "1.逃避2.【平】【瓶】【病】"
+    "explanationCN": "1.逃避、【平】【瓶】【病】"
   },
   {
     "character": "𗏐",
@@ -29716,7 +29969,7 @@ const CHARACTER_DATA = [
     "GX": "si̱w²",
     "GHC": "sew²",
     "explanationEN": "small",
-    "explanationCN": "1.小】2.【霄】【簫】"
+    "explanationCN": "1.小】、【霄】【簫】"
   },
   {
     "character": "𗾙",
@@ -29744,7 +29997,7 @@ const CHARACTER_DATA = [
     "GX": "peṃ¹",
     "GHC": "pjɨj¹",
     "explanationEN": "border",
-    "explanationCN": "1.边编】2.又音【邴】（音 194）【丙】（珠 096）【并】（珠 345）【饼】（珠 332）【变】（珠 364）【秉】【扁】（音 194）"
+    "explanationCN": "1.边编】、又音【邴】（音 194）【丙】（珠 096）【并】（珠 345）【饼】（珠 332）【变】（珠 364）【秉】【扁】（音 194）"
   },
   {
     "character": "𗣴",
@@ -29779,7 +30032,7 @@ const CHARACTER_DATA = [
     "GX": "hu¹",
     "GHC": "xju¹",
     "explanationEN": "void/empty",
-    "explanationCN": "1.虚】2.【许】【荀】"
+    "explanationCN": "1.虚】、【许】【荀】"
   },
   {
     "character": "𘕀",
@@ -29848,15 +30101,15 @@ const CHARACTER_DATA = [
     "character": "𗇋",
     "GX": "rmer²",
     "GHC": "mjijr²",
-    "explanationEN": "NMLZ:A",
-    "explanationCN": "NMLZ: A"
+    "explanationEN": "ɴᴍʟᴢ:ᴀ",
+    "explanationCN": "ɴᴍʟᴢ:ᴀ"
   },
   {
     "character": "𘛃",
     "GX": "lu̱²",
     "GHC": "lu²",
     "explanationEN": "seat/place/official.title",
-    "explanationCN": "1.座位官爵2.职"
+    "explanationCN": "1.座位官爵、职"
   },
   {
     "character": "𗐡",
@@ -29870,7 +30123,7 @@ const CHARACTER_DATA = [
     "GX": "lu̱²",
     "GHC": "lu²",
     "explanationEN": "enjoin/tell",
-    "explanationCN": "1.嘱咐吩咐2.赠送"
+    "explanationCN": "1.嘱咐吩咐、赠送"
   },
   {
     "character": "𗐝",
@@ -29919,7 +30172,7 @@ const CHARACTER_DATA = [
     "GX": "tśə¹",
     "GHC": "tśjɨ¹",
     "explanationEN": "give.as.present/present.a.gift",
-    "explanationCN": "1.赠2.嘱咐3.知"
+    "explanationCN": "1.赠、嘱咐、知"
   },
   {
     "character": "𗐥",
@@ -29933,7 +30186,7 @@ const CHARACTER_DATA = [
     "GX": "ne²",
     "GHC": "njij²",
     "explanationEN": "king/monarch",
-    "explanationCN": "1.王2.与结合，具有“诸侯”之义3.与?结合，具有“金刚”之义"
+    "explanationCN": "1.王、与结合，具有“诸侯”之义、与?结合，具有“金刚”之义"
   },
   {
     "character": "𗇏",
@@ -29989,7 +30242,7 @@ const CHARACTER_DATA = [
     "GX": "rzi̱r¹",
     "GHC": "zer¹",
     "explanationEN": "fasten/tie.up",
-    "explanationCN": "1.繫缚2.悬"
+    "explanationCN": "1.繫缚、悬"
   },
   {
     "character": "𗇑",
@@ -30010,7 +30263,7 @@ const CHARACTER_DATA = [
     "GX": "śa¹",
     "GHC": "śja¹",
     "explanationEN": "rope/fasten",
-    "explanationCN": "1.绳索捆绑动词2.逸"
+    "explanationCN": "1.绳索捆绑动词、逸"
   },
   {
     "character": "𗭆",
@@ -30031,7 +30284,7 @@ const CHARACTER_DATA = [
     "GX": "dźeh¹",
     "GHC": "dźjịj¹",
     "explanationEN": "go/send",
-    "explanationCN": "1.行遣2.用进3.设狩"
+    "explanationCN": "1.行遣、用进、设狩"
   },
   {
     "character": "𗭈",
@@ -30044,8 +30297,8 @@ const CHARACTER_DATA = [
     "character": "𘀆",
     "GX": "ne²",
     "GHC": "njij²",
-    "explanationEN": "INTER/OPT:DOWN",
-    "explanationCN": "INTER; OPT: DOWN"
+    "explanationEN": "ɪɴᴛʀɢ/ᴏᴘᴛ:ᴅᴏᴡɴ",
+    "explanationCN": "ɪɴᴛʀɢ/ᴏᴘᴛ:ᴅᴏᴡɴ"
   },
   {
     "character": "𘛄",
@@ -30136,7 +30389,7 @@ const CHARACTER_DATA = [
     "GX": "fi¹",
     "GHC": "xjwi¹",
     "explanationEN": "mouse/rat",
-    "explanationCN": "1.鼠2.【惠】3.【肺】（珠 186）【掸】（珠 286）【徽】（珠 281）【擕】（珠 096）【髮】（珠 313）4.【飞】【妃】【费】（音 194）"
+    "explanationCN": "1.鼠、【惠】、【肺】（珠 186）【掸】（珠 286）【徽】（珠 281）【擕】（珠 096）【髮】（珠 313）、【飞】【妃】【费】（音 194）"
   },
   {
     "character": "𗭓",
@@ -30150,7 +30403,7 @@ const CHARACTER_DATA = [
     "GX": "ge²",
     "GHC": "gjij²",
     "explanationEN": "shin",
-    "explanationCN": "1.脛2.膊"
+    "explanationCN": "1.脛、膊"
   },
   {
     "character": "𗭚",
@@ -30213,7 +30466,7 @@ const CHARACTER_DATA = [
     "GX": "pi¹",
     "GHC": "pji¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【壁】【卑】2.闭】"
+    "explanationCN": "1.【壁】【卑】、闭】"
   },
   {
     "character": "𘊣",
@@ -30353,7 +30606,7 @@ const CHARACTER_DATA = [
     "GX": "bo̱¹",
     "GHC": "bo¹",
     "explanationEN": "line/march",
-    "explanationCN": "1.队2.林3.榭"
+    "explanationCN": "1.队、林、榭"
   },
   {
     "character": "𘀇",
@@ -30374,7 +30627,7 @@ const CHARACTER_DATA = [
     "GX": "ṣai̱¹",
     "GHC": "śie¹",
     "explanationEN": "rare/sparse",
-    "explanationCN": "1.疏】2.【率】【舒】【书】3.【树】（珠 235）【梳】（珠 254）【书】（珠 276）【鼠】（珠 164）【数】（珠 264）【庶】（珠 293）【蔬】（珠 144）【恕】（音 200）"
+    "explanationCN": "1.疏】、【率】【舒】【书】、【树】（珠 235）【梳】（珠 254）【书】（珠 276）【鼠】（珠 164）【数】（珠 264）【庶】（珠 293）【蔬】（珠 144）【恕】（音 200）"
   },
   {
     "character": "𘊶",
@@ -30423,7 +30676,7 @@ const CHARACTER_DATA = [
     "GX": "γo̱¹",
     "GHC": "ꞏo¹",
     "explanationEN": "belly/abdomen/stomach",
-    "explanationCN": "1.腹肚2.胎3.妊"
+    "explanationCN": "1.腹肚、胎、妊"
   },
   {
     "character": "𘀡",
@@ -30780,7 +31033,7 @@ const CHARACTER_DATA = [
     "GX": "thu̱¹",
     "GHC": "thu¹",
     "explanationEN": "talk/speak",
-    "explanationCN": "1.言谈说2.设制3.结4.【屠】【杜】【敦】5.2【涂】（珠 361）【肚】（珠 191）【兔】（珠 162）【碡】（珠 265）6.【徒】【度】【菟】【吐】【土】（音 195）"
+    "explanationCN": "1.言谈说、设制、结、【屠】【杜】【敦】、2【涂】（珠 361）【肚】（珠 191）【兔】（珠 162）【碡】（珠 265）、【徒】【度】【菟】【吐】【土】（音 195）"
   },
   {
     "character": "𘕄",
@@ -30990,7 +31243,7 @@ const CHARACTER_DATA = [
     "GX": "thi̱w²",
     "GHC": "thew²",
     "explanationEN": "eliminate/get.rid.of",
-    "explanationCN": "1.除去2.【头】"
+    "explanationCN": "1.除去、【头】"
   },
   {
     "character": "𘁁",
@@ -31011,14 +31264,14 @@ const CHARACTER_DATA = [
     "GX": "sa̱ṃ¹",
     "GHC": "sã¹",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.【山】【三】【珊】2.【散】（音 198）"
+    "explanationCN": "1.【山】【三】【珊】、【散】（音 198）"
   },
   {
     "character": "𘊹",
     "GX": "kaw¹",
     "GHC": "kja̱¹",
     "explanationEN": "foundation/basis/burden",
-    "explanationCN": "1.根脚根基负重2.【葛】3.【藁】（音 197）"
+    "explanationCN": "1.根脚根基负重、【葛】、【藁】（音 197）"
   },
   {
     "character": "𘊻",
@@ -31045,8 +31298,8 @@ const CHARACTER_DATA = [
     "character": "𗭊",
     "GX": "ye¹",
     "GHC": "ꞏjij¹",
-    "explanationEN": "INTER:interrogative/OPT:UP/CONT:continuative",
-    "explanationCN": "INTER: interrogative; OPT: UP; CONT: continuative"
+    "explanationEN": "ɪɴᴛʀɢ/ᴏᴘᴛ:ᴜᴘ/ᴄᴏɴᴛ",
+    "explanationCN": "ɪɴᴛʀɢ/ᴏᴘᴛ:ᴜᴘ/ᴄᴏɴᴛ"
   },
   {
     "character": "𗭒",
@@ -31067,7 +31320,7 @@ const CHARACTER_DATA = [
     "GX": "ta̱ṃ¹",
     "GHC": "tã¹",
     "explanationEN": "bear.(a.burden)/shoulder",
-    "explanationCN": "1.担】2.丹郸"
+    "explanationCN": "1.担】、丹郸"
   },
   {
     "character": "𘕁",
@@ -31109,7 +31362,7 @@ const CHARACTER_DATA = [
     "GX": "yu¹",
     "GHC": "ꞏju̱¹",
     "explanationEN": "taste",
-    "explanationCN": "1.尝2.闻齅3.食"
+    "explanationCN": "1.尝、闻齅、食"
   },
   {
     "character": "𘛊",
@@ -31144,7 +31397,7 @@ const CHARACTER_DATA = [
     "GX": "kha²",
     "GHC": "khja²",
     "explanationEN": "draw.(water)/derive",
-    "explanationCN": "1.汲取2.【騫】【伽】【佉】【竭】【桀】【俭】"
+    "explanationCN": "1.汲取、【騫】【伽】【佉】【竭】【桀】【俭】"
   },
   {
     "character": "𘀿",
@@ -31172,14 +31425,14 @@ const CHARACTER_DATA = [
     "GX": "pha̱¹",
     "GHC": "pha¹",
     "explanationEN": "damage/lose",
-    "explanationCN": "1.破损2.崩3.亡4.拔"
+    "explanationCN": "1.破损、崩、亡、拔"
   },
   {
     "character": "𘊲",
     "GX": "mphaa̱²",
     "GHC": "phia̱²",
     "explanationEN": "divide/fraction",
-    "explanationCN": "1.分名词2.成3.钱"
+    "explanationCN": "1.分名词、成、钱"
   },
   {
     "character": "𗭧",
@@ -31228,7 +31481,7 @@ const CHARACTER_DATA = [
     "GX": "mbe²",
     "GHC": "bji̱j²",
     "explanationEN": "roadside.stop/travel",
-    "explanationCN": "1.驛馹行逝2.客驾"
+    "explanationCN": "1.驛馹行逝、客驾"
   },
   {
     "character": "𘊯",
@@ -31249,7 +31502,7 @@ const CHARACTER_DATA = [
     "GX": "tśhi²",
     "GHC": "tśhji²",
     "explanationEN": "base/origin",
-    "explanationCN": "1.根本典2.【尺】（珠 244）【齿】（珠 346）【滞】（珠 291）【痴】（珠 355）【治】（珠 293）【持】（珠 311）3.【池】【直】（音 200）"
+    "explanationCN": "1.根本典、【尺】（珠 244）【齿】（珠 346）【滞】（珠 291）【痴】（珠 355）【治】（珠 293）【持】（珠 311）、【池】【直】（音 200）"
   },
   {
     "character": "𗢌",
@@ -31298,7 +31551,7 @@ const CHARACTER_DATA = [
     "GX": "nvu²",
     "GHC": "wju̱²",
     "explanationEN": "combine/contract",
-    "explanationCN": "1.结合2.收缩"
+    "explanationCN": "1.结合、收缩"
   },
   {
     "character": "𗍲",
@@ -31340,7 +31593,7 @@ const CHARACTER_DATA = [
     "GX": "ŋgu²",
     "GHC": "gju̱²",
     "explanationEN": "lucky",
-    "explanationCN": "1.吉2.瑞3.庆4.接5.【于】【玉】"
+    "explanationCN": "1.吉、瑞、庆、接、【于】【玉】"
   },
   {
     "character": "𗎑",
@@ -31375,14 +31628,14 @@ const CHARACTER_DATA = [
     "GX": "dẓwaə̱¹",
     "GHC": "dźiwə¹",
     "explanationEN": "pull/draw/tug",
-    "explanationCN": "1.拉扯卷曲2.拳"
+    "explanationCN": "1.拉扯卷曲、拳"
   },
   {
     "character": "𗢈",
     "GX": "tsa̱¹",
     "GHC": "tsa¹",
     "explanationEN": "village",
-    "explanationCN": "1.寨2.固"
+    "explanationCN": "1.寨、固"
   },
   {
     "character": "𗎺",
@@ -31417,7 +31670,7 @@ const CHARACTER_DATA = [
     "GX": "kəh²",
     "GHC": "kjɨ̣²",
     "explanationEN": "cold/frigid",
-    "explanationCN": "1.寒冷2.【伋】"
+    "explanationCN": "1.寒冷、【伋】"
   },
   {
     "character": "𗎐",
@@ -31438,7 +31691,7 @@ const CHARACTER_DATA = [
     "GX": "swa̱¹",
     "GHC": "swa¹",
     "explanationEN": "hair",
-    "explanationCN": "1.髮帘2.【莎】【索】【锁】【酸】"
+    "explanationCN": "1.髮帘、【莎】【索】【锁】【酸】"
   },
   {
     "character": "𗎖",
@@ -31459,14 +31712,14 @@ const CHARACTER_DATA = [
     "GX": "lu²",
     "GHC": "lju²",
     "explanationEN": "a.unit.of.weight",
-    "explanationCN": "1.两2.付"
+    "explanationCN": "1.两、付"
   },
   {
     "character": "𗍩",
     "GX": "hə²",
     "GHC": "xjɨ²",
     "explanationEN": "calamity/disaster",
-    "explanationCN": "1.灾难2.囈动词3.【胁】"
+    "explanationCN": "1.灾难、囈动词、【胁】"
   },
   {
     "character": "𗍨",
@@ -31529,7 +31782,7 @@ const CHARACTER_DATA = [
     "GX": "yeṃ²",
     "GHC": "ꞏjɨj²",
     "explanationEN": "socks",
-    "explanationCN": "1.袜2.装入"
+    "explanationCN": "1.袜、装入"
   },
   {
     "character": "𗺎",
@@ -31613,14 +31866,14 @@ const CHARACTER_DATA = [
     "GX": "me̱²",
     "GHC": "mej²",
     "explanationEN": "catkin",
-    "explanationCN": "1.絮2.结合"
+    "explanationCN": "1.絮、结合"
   },
   {
     "character": "𘇐",
     "GX": "śoṃ¹",
     "GHC": "śjow¹",
     "explanationEN": "esteem/worship/uphold",
-    "explanationCN": "1.尊崇2.尚用副词"
+    "explanationCN": "1.尊崇、尚用副词"
   },
   {
     "character": "𗗒",
@@ -31648,7 +31901,7 @@ const CHARACTER_DATA = [
     "GX": "ndza¹",
     "GHC": "dzja̱¹",
     "explanationEN": "thrifty/frugal",
-    "explanationCN": "1.俭2.治3.【昝】"
+    "explanationCN": "1.俭、治、【昝】"
   },
   {
     "character": "𘇕",
@@ -31739,7 +31992,7 @@ const CHARACTER_DATA = [
     "GX": "loṃ²",
     "GHC": "ljow²",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.【凉】【梁】【粮】【良】【亮】】2.【陇】"
+    "explanationCN": "1.【凉】【梁】【粮】【良】【亮】】、【陇】"
   },
   {
     "character": "𗎌",
@@ -31886,7 +32139,7 @@ const CHARACTER_DATA = [
     "GX": "rvwa̱r²",
     "GHC": "war²",
     "explanationEN": "branch/twig",
-    "explanationCN": "1.枝支条（弯枝）2.体轮"
+    "explanationCN": "1.枝支条（弯枝）、体轮"
   },
   {
     "character": "𗛤",
@@ -31900,7 +32153,7 @@ const CHARACTER_DATA = [
     "GX": "vwa̱h²",
     "GHC": "wạ²",
     "explanationEN": "a.place.name",
-    "explanationCN": "1.【窝】【屋】（地名）】2.负担动词"
+    "explanationCN": "1.【窝】【屋】（地名）】、负担动词"
   },
   {
     "character": "𗝄",
@@ -31984,7 +32237,7 @@ const CHARACTER_DATA = [
     "GX": "rna̱r²",
     "GHC": "nar²",
     "explanationEN": "move/shift",
-    "explanationCN": "1.移易迁2.惊慌"
+    "explanationCN": "1.移易迁、惊慌"
   },
   {
     "character": "𗛪",
@@ -32082,7 +32335,7 @@ const CHARACTER_DATA = [
     "GX": "li²",
     "GHC": "lji²",
     "explanationEN": "fragrant",
-    "explanationCN": "1.香2.棠"
+    "explanationCN": "1.香、棠"
   },
   {
     "character": "𗛗",
@@ -32117,7 +32370,7 @@ const CHARACTER_DATA = [
     "GX": "dẓaa̱ṃ²",
     "GHC": "dźiar¹",
     "explanationEN": "chop",
-    "explanationCN": "1.铡剁2.馅"
+    "explanationCN": "1.铡剁、馅"
   },
   {
     "character": "𗚃",
@@ -32173,7 +32426,7 @@ const CHARACTER_DATA = [
     "GX": "khwi¹",
     "GHC": "khjwi¹",
     "explanationEN": "punish.severely",
-    "explanationCN": "1.苦罚2.【逵】"
+    "explanationCN": "1.苦罚、【逵】"
   },
   {
     "character": "𗜱",
@@ -32194,7 +32447,7 @@ const CHARACTER_DATA = [
     "GX": "liw²",
     "GHC": "ljiw²",
     "explanationEN": "gather/assemble",
-    "explanationCN": "1.集结2.【六】【略】【柳】【陆】3.【绿】【录】（音 254）"
+    "explanationCN": "1.集结、【六】【略】【柳】【陆】、【绿】【录】（音 254）"
   },
   {
     "character": "𗜆",
@@ -32306,7 +32559,7 @@ const CHARACTER_DATA = [
     "GX": "tsho̱ṃ¹",
     "GHC": "tshow¹",
     "explanationEN": "desolate.and.boundless",
-    "explanationCN": "1.荒漠苍茫2.【苍】"
+    "explanationCN": "1.荒漠苍茫、【苍】"
   },
   {
     "character": "𗛥",
@@ -32404,14 +32657,14 @@ const CHARACTER_DATA = [
     "GX": "vwi̱¹",
     "GHC": "we¹",
     "explanationEN": "roof.beam",
-    "explanationCN": "1.梁2.榴"
+    "explanationCN": "1.梁、榴"
   },
   {
     "character": "𗜓",
     "GX": "śa²",
     "GHC": "śja²",
     "explanationEN": "appear/show/sparkle",
-    "explanationCN": "1.显现耀2.誉叹3.【单】【单】【陕】（音 199）"
+    "explanationCN": "1.显现耀、誉叹、【单】【单】【陕】（音 199）"
   },
   {
     "character": "𗝌",
@@ -32425,7 +32678,7 @@ const CHARACTER_DATA = [
     "GX": "qhe̱¹",
     "GHC": "khej¹",
     "explanationEN": "luxuriant/exuberant",
-    "explanationCN": "1.茂盛2.【凯】【愷】（音 197）"
+    "explanationCN": "1.茂盛、【凯】【愷】（音 197）"
   },
   {
     "character": "𗜋",
@@ -32495,7 +32748,7 @@ const CHARACTER_DATA = [
     "GX": "pao̱¹",
     "GHC": "pio¹",
     "explanationEN": "burst/crack",
-    "explanationCN": "1.爆（裂）】2.【苞】【包】【鲍】（音 193）"
+    "explanationCN": "1.爆（裂）】、【苞】【包】【鲍】（音 193）"
   },
   {
     "character": "𗞼",
@@ -32523,7 +32776,7 @@ const CHARACTER_DATA = [
     "GX": "dzo̱ṃ¹",
     "GHC": "dzow¹",
     "explanationEN": "be.imprisoned/supervise",
-    "explanationCN": "1.监2.囚"
+    "explanationCN": "1.监、囚"
   },
   {
     "character": "𗜒",
@@ -32572,7 +32825,7 @@ const CHARACTER_DATA = [
     "GX": "tśi¹",
     "GHC": "tśji¹",
     "explanationEN": "branch/twig",
-    "explanationCN": "1.枝】2.末"
+    "explanationCN": "1.枝】、末"
   },
   {
     "character": "𗚴",
@@ -32586,7 +32839,7 @@ const CHARACTER_DATA = [
     "GX": "zi̱w²",
     "GHC": "zew²",
     "explanationEN": "wrist",
-    "explanationCN": "1.腕2.心"
+    "explanationCN": "1.腕、心"
   },
   {
     "character": "𗜄",
@@ -32705,7 +32958,7 @@ const CHARACTER_DATA = [
     "GX": "llwih¹",
     "GHC": "ljwị¹",
     "explanationEN": "fall.in/sink/enter",
-    "explanationCN": "1.入堕入陷入2.置3.系贯"
+    "explanationCN": "1.入堕入陷入、置、系贯"
   },
   {
     "character": "𗜅",
@@ -32754,7 +33007,7 @@ const CHARACTER_DATA = [
     "GX": "qo̱¹",
     "GHC": "ko¹",
     "explanationEN": "vehicle/carriage",
-    "explanationCN": "1.车】2.輜軫輅"
+    "explanationCN": "1.车】、輜軫輅"
   },
   {
     "character": "𗛟",
@@ -32775,7 +33028,7 @@ const CHARACTER_DATA = [
     "GX": "γa̱²",
     "GHC": "ɣa²",
     "explanationEN": "gather/concentrate",
-    "explanationCN": "1.集结2.荫蔽垂布"
+    "explanationCN": "1.集结、荫蔽垂布"
   },
   {
     "character": "𗝏",
@@ -32852,7 +33105,7 @@ const CHARACTER_DATA = [
     "GX": "lhoṃ²",
     "GHC": "lhjo̱r¹",
     "explanationEN": "a.unit.of.measurement",
-    "explanationCN": "1.庹2.箏案"
+    "explanationCN": "1.庹、箏案"
   },
   {
     "character": "𗜬",
@@ -32873,7 +33126,7 @@ const CHARACTER_DATA = [
     "GX": "si¹",
     "GHC": "sji¹",
     "explanationEN": "tree/wood",
-    "explanationCN": "1.树木薪2.与（颈）连用，具有“枷”之义"
+    "explanationCN": "1.树木薪、与（颈）连用，具有“枷”之义"
   },
   {
     "character": "𗞴",
@@ -32922,7 +33175,7 @@ const CHARACTER_DATA = [
     "GX": "rtso̱ṃr¹",
     "GHC": "tsowr¹",
     "explanationEN": "thorn/splinter",
-    "explanationCN": "1.刺棘2.短段"
+    "explanationCN": "1.刺棘、短段"
   },
   {
     "character": "𗞂",
@@ -33006,7 +33259,7 @@ const CHARACTER_DATA = [
     "GX": "tśhe¹",
     "GHC": "tśhjij¹",
     "explanationEN": "hold.ᴀ/grasp.ᴀ",
-    "explanationCN": "1.执持拏】2.载3.吞吸4.入5.吹6.【政】【郑】【程】"
+    "explanationCN": "1.执持拏】、载、吞吸、入、吹、【政】【郑】【程】"
   },
   {
     "character": "𗞄",
@@ -33076,7 +33329,7 @@ const CHARACTER_DATA = [
     "GX": "nvwə̱¹",
     "GHC": "wə̱¹",
     "explanationEN": "bend.over/subdue",
-    "explanationCN": "1.伏2.服"
+    "explanationCN": "1.伏、服"
   },
   {
     "character": "𗛌",
@@ -33146,7 +33399,7 @@ const CHARACTER_DATA = [
     "GX": "dzwə²",
     "GHC": "dzjwɨ²",
     "explanationEN": "winding.corridor",
-    "explanationCN": "1.迴廊2.宇"
+    "explanationCN": "1.迴廊、宇"
   },
   {
     "character": "𗟌",
@@ -33167,14 +33420,14 @@ const CHARACTER_DATA = [
     "GX": "lluh¹",
     "GHC": "ljụ¹",
     "explanationEN": "night/evening",
-    "explanationCN": "1.夜晚2.闲"
+    "explanationCN": "1.夜晚、闲"
   },
   {
     "character": "𗜫",
     "GX": "si¹",
     "GHC": "sji¹",
     "explanationEN": "west",
-    "explanationCN": "1.西】2.【锡】3.【细】（珠 332）【膝】（珠 191）【析】（珠 314）【夕】（珠 346）【息】（珠 214）"
+    "explanationCN": "1.西】、【锡】、【细】（珠 332）【膝】（珠 191）【析】（珠 314）【夕】（珠 346）【息】（珠 214）"
   },
   {
     "character": "𗞅",
@@ -33188,7 +33441,7 @@ const CHARACTER_DATA = [
     "GX": "me̱¹",
     "GHC": "mej¹",
     "explanationEN": "hole/cavity/tube",
-    "explanationCN": "1.孔筒2.量"
+    "explanationCN": "1.孔筒、量"
   },
   {
     "character": "𗚶",
@@ -33230,7 +33483,7 @@ const CHARACTER_DATA = [
     "GX": "nae̱h²",
     "GHC": "dẹj²",
     "explanationEN": "seedling",
-    "explanationCN": "1.苗芽2.甲"
+    "explanationCN": "1.苗芽、甲"
   },
   {
     "character": "𗚪",
@@ -33258,14 +33511,14 @@ const CHARACTER_DATA = [
     "GX": "tsu̱ṃ¹",
     "GHC": "tsũ¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【宗】2.【骏】【总】"
+    "explanationCN": "1.【宗】、【骏】【总】"
   },
   {
     "character": "𗝫",
     "GX": "qhai̱w²",
     "GHC": "khiew²",
     "explanationEN": "a.kind.of.tree",
-    "explanationCN": "1.【槭】树名2.枝3.记"
+    "explanationCN": "1.【槭】树名、枝、记"
   },
   {
     "character": "𗛏",
@@ -33328,7 +33581,7 @@ const CHARACTER_DATA = [
     "GX": "llae̱h¹",
     "GHC": "liẹj¹",
     "explanationEN": "willow",
-    "explanationCN": "1.杨柳2.摆动"
+    "explanationCN": "1.杨柳、摆动"
   },
   {
     "character": "𗛻",
@@ -33356,7 +33609,7 @@ const CHARACTER_DATA = [
     "GX": "loṃ²",
     "GHC": "ljow²",
     "explanationEN": "border/boundary",
-    "explanationCN": "1.边界边际2.旁"
+    "explanationCN": "1.边界边际、旁"
   },
   {
     "character": "𗜩",
@@ -33370,7 +33623,7 @@ const CHARACTER_DATA = [
     "GX": "nla̱¹",
     "GHC": "la¹",
     "explanationEN": "pollute",
-    "explanationCN": "1.污染2.耽著秽构"
+    "explanationCN": "1.污染、耽著秽构"
   },
   {
     "character": "𗞢",
@@ -33391,7 +33644,7 @@ const CHARACTER_DATA = [
     "GX": "tsi̱w¹",
     "GHC": "tsew¹",
     "explanationEN": "alcoholic.drink/wine",
-    "explanationCN": "1.酒】2.【椒】【枣】3.鷦"
+    "explanationCN": "1.酒】、【椒】【枣】、鷦"
   },
   {
     "character": "𗜷",
@@ -33426,7 +33679,7 @@ const CHARACTER_DATA = [
     "GX": "fiṃ¹",
     "GHC": "xjwi¹",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.【分】动词】2.【训】3.辆所4.【风】（珠 165）【峰】（珠 244）【缝】（珠 244）【粉】（珠 255）【奉】（珠 341）【汾】（音 194）"
+    "explanationCN": "1.【分】动词】、【训】、辆所、【风】（珠 165）【峰】（珠 244）【缝】（珠 244）【粉】（珠 255）【奉】（珠 341）【汾】（音 194）"
   },
   {
     "character": "𗜾",
@@ -33516,15 +33769,15 @@ const CHARACTER_DATA = [
     "character": "𗞞",
     "GX": "da²",
     "GHC": "dja²",
-    "explanationEN": "PFV/IMP",
-    "explanationCN": "PFV; IMP"
+    "explanationEN": "ᴘꜰᴠ/ɪᴍᴘ",
+    "explanationCN": "ᴘꜰᴠ/ɪᴍᴘ"
   },
   {
     "character": "𗚩",
     "GX": "re̱r²",
     "GHC": "lhejr²",
     "explanationEN": "road/way",
-    "explanationCN": "1.道2.典"
+    "explanationCN": "1.道、典"
   },
   {
     "character": "𗛰",
@@ -33559,7 +33812,7 @@ const CHARACTER_DATA = [
     "GX": "li̱w¹",
     "GHC": "lew¹",
     "explanationEN": "building",
-    "explanationCN": "1.楼】2.耬3.【娄】【陋】【路】【牢】"
+    "explanationCN": "1.楼】、耬、【娄】【陋】【路】【牢】"
   },
   {
     "character": "𗜜",
@@ -33573,7 +33826,7 @@ const CHARACTER_DATA = [
     "GX": "dzi̱²",
     "GHC": "dze²",
     "explanationEN": "thistles.and.thorns/brambles",
-    "explanationCN": "1.棘蒺】2.枣"
+    "explanationCN": "1.棘蒺】、枣"
   },
   {
     "character": "𗛔",
@@ -33657,7 +33910,7 @@ const CHARACTER_DATA = [
     "GX": "rŋwə̱r¹",
     "GHC": "ŋwər¹",
     "explanationEN": "four",
-    "explanationCN": "1.四2.琵琶"
+    "explanationCN": "1.四、琵琶"
   },
   {
     "character": "𗞶",
@@ -33776,7 +34029,7 @@ const CHARACTER_DATA = [
     "GX": "sə¹",
     "GHC": "sjɨ¹",
     "explanationEN": "firewood",
-    "explanationCN": "1.薪柴木2.蔬"
+    "explanationCN": "1.薪柴木、蔬"
   },
   {
     "character": "𗜨",
@@ -33888,7 +34141,7 @@ const CHARACTER_DATA = [
     "GX": "dẓaa̱²",
     "GHC": "dźia²",
     "explanationEN": "disorderly/coarse",
-    "explanationCN": "1.杂乱粗2.竖3.胡"
+    "explanationCN": "1.杂乱粗、竖、胡"
   },
   {
     "character": "𗝂",
@@ -34084,7 +34337,7 @@ const CHARACTER_DATA = [
     "GX": "rŋu̱r¹",
     "GHC": "ŋur¹",
     "explanationEN": "head/junction",
-    "explanationCN": "1.头2.蕴3.阴4.笙"
+    "explanationCN": "1.头、蕴、阴、笙"
   },
   {
     "character": "𗛱",
@@ -34098,7 +34351,7 @@ const CHARACTER_DATA = [
     "GX": "śu¹",
     "GHC": "śju¹",
     "explanationEN": "cool/cold",
-    "explanationCN": "1.凉2.【叔】【蜀】（音 200）"
+    "explanationCN": "1.凉、【叔】【蜀】（音 200）"
   },
   {
     "character": "𗚲",
@@ -34210,7 +34463,7 @@ const CHARACTER_DATA = [
     "GX": "swo¹",
     "GHC": "sjwo¹",
     "explanationEN": "inkstone/inkslab",
-    "explanationCN": "1.砚2.研动词"
+    "explanationCN": "1.砚、研动词"
   },
   {
     "character": "𘞖",
@@ -34259,14 +34512,14 @@ const CHARACTER_DATA = [
     "GX": "kwaṃ¹",
     "GHC": "kjwã¹",
     "explanationEN": "chapter/volume",
-    "explanationCN": "1.卷】2.【捐】【决】【绢】（音 197）"
+    "explanationCN": "1.卷】、【捐】【决】【绢】（音 197）"
   },
   {
     "character": "𘜴",
     "GX": "mma²",
     "GHC": "mja̱²",
     "explanationEN": "big/large",
-    "explanationCN": "1.大2.素事"
+    "explanationCN": "1.大、素事"
   },
   {
     "character": "𗘴",
@@ -34392,7 +34645,7 @@ const CHARACTER_DATA = [
     "GX": "tshə̱¹",
     "GHC": "tshə¹",
     "explanationEN": "temple",
-    "explanationCN": "1.寺】2.【次】3.【刺】【慈】（音 198）"
+    "explanationCN": "1.寺】、【次】、【刺】【慈】（音 198）"
   },
   {
     "character": "𘜱",
@@ -34420,7 +34673,7 @@ const CHARACTER_DATA = [
     "GX": "fu¹",
     "GHC": "xju¹",
     "explanationEN": "blow/puff",
-    "explanationCN": "1.吹2.除"
+    "explanationCN": "1.吹、除"
   },
   {
     "character": "𗶵",
@@ -34448,7 +34701,7 @@ const CHARACTER_DATA = [
     "GX": "ha̱?",
     "GHC": "xa",
     "explanationEN": "puff/blow",
-    "explanationCN": "1.吹除2.【哈】【訶】【贺】【汉】【韩】"
+    "explanationCN": "1.吹除、【哈】【訶】【贺】【汉】【韩】"
   },
   {
     "character": "𗷕",
@@ -34518,14 +34771,14 @@ const CHARACTER_DATA = [
     "GX": "tshwi̱w¹",
     "GHC": "tshwew¹",
     "explanationEN": "give.alms/give.as.a.present",
-    "explanationCN": "1.施赠2.趣3.向4.去"
+    "explanationCN": "1.施赠、趣、向、去"
   },
   {
     "character": "𗷑",
     "GX": "mphi²",
     "GHC": "phji̱²",
     "explanationEN": "sensitive/dexterous",
-    "explanationCN": "1.灵巧灵敏2.批"
+    "explanationCN": "1.灵巧灵敏、批"
   },
   {
     "character": "𗷔",
@@ -34546,7 +34799,7 @@ const CHARACTER_DATA = [
     "GX": "mphi¹",
     "GHC": "phji̱¹",
     "explanationEN": "make/enable/cause",
-    "explanationCN": "1.使令2.用3.检校"
+    "explanationCN": "1.使令、用、检校"
   },
   {
     "character": "𗷇",
@@ -34560,7 +34813,7 @@ const CHARACTER_DATA = [
     "GX": "dźeh²",
     "GHC": "dźjịj²",
     "explanationEN": "fight/struggle",
-    "explanationCN": "1.争夺争斗2.敌搏3.报"
+    "explanationCN": "1.争夺争斗、敌搏、报"
   },
   {
     "character": "𗶼",
@@ -34602,7 +34855,7 @@ const CHARACTER_DATA = [
     "GX": "ndza̱¹",
     "GHC": "dza̱¹",
     "explanationEN": "far",
-    "explanationCN": "1.远2.过失3.衰"
+    "explanationCN": "1.远、过失、衰"
   },
   {
     "character": "𗶸",
@@ -34637,7 +34890,7 @@ const CHARACTER_DATA = [
     "GX": "śə²",
     "GHC": "śjɨ²",
     "explanationEN": "curtain/screen",
-    "explanationCN": "1.幔2.【释】【式】【势】"
+    "explanationCN": "1.幔、【释】【式】【势】"
   },
   {
     "character": "𘜬",
@@ -34665,14 +34918,14 @@ const CHARACTER_DATA = [
     "GX": "lu̱²",
     "GHC": "lu²",
     "explanationEN": "burn/ignite/light",
-    "explanationCN": "1.燃烧焚2.烤"
+    "explanationCN": "1.燃烧焚、烤"
   },
   {
     "character": "𗀚",
     "GX": "ṣao̱¹",
     "GHC": "śio¹",
     "explanationEN": "guide/lead",
-    "explanationCN": "1.引导2.诱将鼗（鞉）"
+    "explanationCN": "1.引导、诱将鼗（鞉）"
   },
   {
     "character": "𗠇",
@@ -34805,7 +35058,7 @@ const CHARACTER_DATA = [
     "GX": "ma̱²",
     "GHC": "ma²",
     "explanationEN": "greasy/smooth",
-    "explanationCN": "1.腻2.抹"
+    "explanationCN": "1.腻、抹"
   },
   {
     "character": "𗄦",
@@ -34819,7 +35072,7 @@ const CHARACTER_DATA = [
     "GX": "ŋwu̱²",
     "GHC": "ŋwu²",
     "explanationEN": "a.kind.of.official.position",
-    "explanationCN": "1.勾管2.【兀】（）"
+    "explanationCN": "1.勾管、【兀】（）"
   },
   {
     "character": "𗄡",
@@ -35022,7 +35275,7 @@ const CHARACTER_DATA = [
     "GX": "rzur²",
     "GHC": "zjur²",
     "explanationEN": "torch",
-    "explanationCN": "1.火炬2.烛"
+    "explanationCN": "1.火炬、烛"
   },
   {
     "character": "𗟗",
@@ -35113,7 +35366,7 @@ const CHARACTER_DATA = [
     "GX": "the²",
     "GHC": "thjij²",
     "explanationEN": "scheme/stratagem",
-    "explanationCN": "1.图谋2.机关"
+    "explanationCN": "1.图谋、机关"
   },
   {
     "character": "𗠟",
@@ -35148,7 +35401,7 @@ const CHARACTER_DATA = [
     "GX": "mo̱²",
     "GHC": "mo²",
     "explanationEN": "HYP:hypothetic/a.transliteration/shame",
-    "explanationCN": "HYP；羞愧；【慕】【牟】【毛】【謨】3.【摩】【蒙】【莽】（音 193）"
+    "explanationCN": "HYP；羞愧；【慕】【牟】【毛】【謨】、【摩】【蒙】【莽】（音 193）"
   },
   {
     "character": "𗡏",
@@ -35260,7 +35513,7 @@ const CHARACTER_DATA = [
     "GX": "śwə¹",
     "GHC": "śjwɨ¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【舜】2.【说】"
+    "explanationCN": "1.【舜】、【说】"
   },
   {
     "character": "𗠷",
@@ -35288,7 +35541,7 @@ const CHARACTER_DATA = [
     "GX": "na²",
     "GHC": "nja²",
     "explanationEN": "drive/expel",
-    "explanationCN": "1.驱赶驱驰2.走3.寇4.催"
+    "explanationCN": "1.驱赶驱驰、走、寇、催"
   },
   {
     "character": "𗠅",
@@ -35329,8 +35582,8 @@ const CHARACTER_DATA = [
     "character": "𘉞",
     "GX": "na²",
     "GHC": "nja²",
-    "explanationEN": "2SG",
-    "explanationCN": "2SG"
+    "explanationEN": "𝟤ꜱɢ",
+    "explanationCN": "𝟤ꜱɢ"
   },
   {
     "character": "𘉋",
@@ -35386,7 +35639,7 @@ const CHARACTER_DATA = [
     "GX": "śwaṃ²",
     "GHC": "śjwã²",
     "explanationEN": "side",
-    "explanationCN": "1.侧2.【鶉】（珠 172）【逊】（珠 074）【唇】（珠 183）3.【舜】【宣】【说】【顺】（音 201）"
+    "explanationCN": "1.侧、【鶉】（珠 172）【逊】（珠 074）【唇】（珠 183）、【舜】【宣】【说】【顺】（音 201）"
   },
   {
     "character": "𗡇",
@@ -35414,7 +35667,7 @@ const CHARACTER_DATA = [
     "GX": "qa̱¹",
     "GHC": "ka¹",
     "explanationEN": "elder.brother",
-    "explanationCN": "1.哥】2.【歌】3.【葛】"
+    "explanationCN": "1.哥】、【歌】、【葛】"
   },
   {
     "character": "𗡕",
@@ -35442,14 +35695,14 @@ const CHARACTER_DATA = [
     "GX": "lhuh²",
     "GHC": "ljụ²",
     "explanationEN": "swallow/eat/drink",
-    "explanationCN": "1.食吃吞饮2.浆汁"
+    "explanationCN": "1.食吃吞饮、浆汁"
   },
   {
     "character": "𗡂",
     "GX": "thwo̱²",
     "GHC": "thwo²",
     "explanationEN": "rear/howl",
-    "explanationCN": "1.吼2.何谁"
+    "explanationCN": "1.吼、何谁"
   },
   {
     "character": "𗡁",
@@ -35463,7 +35716,7 @@ const CHARACTER_DATA = [
     "GX": "ka¹",
     "GHC": "kja¹",
     "explanationEN": "how.about",
-    "explanationCN": "1.何如2.【吉】【建】【蹇】【伽】【揭】【坚】【迦】【汲】"
+    "explanationCN": "1.何如、【吉】【建】【蹇】【伽】【揭】【坚】【迦】【汲】"
   },
   {
     "character": "𗠋",
@@ -35498,7 +35751,7 @@ const CHARACTER_DATA = [
     "GX": "mme²",
     "GHC": "mji̱j²",
     "explanationEN": "below/down/tip/end",
-    "explanationCN": "1.下末尾终名词2.二字重迭為“渐渐”之义"
+    "explanationCN": "1.下末尾终名词、二字重迭為“渐渐”之义"
   },
   {
     "character": "𘉔",
@@ -35554,7 +35807,7 @@ const CHARACTER_DATA = [
     "GX": "rthwə̱r¹",
     "GHC": "thwər¹",
     "explanationEN": "burn",
-    "explanationCN": "1.烧2.柴薪3.【盾】"
+    "explanationCN": "1.烧、柴薪、【盾】"
   },
   {
     "character": "𘟎",
@@ -35582,7 +35835,7 @@ const CHARACTER_DATA = [
     "GX": "keh¹",
     "GHC": "kjịj¹",
     "explanationEN": "offer.a.sacrifice",
-    "explanationCN": "1.祭2.薰"
+    "explanationCN": "1.祭、薰"
   },
   {
     "character": "𗠶",
@@ -35659,7 +35912,7 @@ const CHARACTER_DATA = [
     "GX": "hwa̱²",
     "GHC": "xwa²",
     "explanationEN": "trench",
-    "explanationCN": "1.壕井2.【哈】"
+    "explanationCN": "1.壕井、【哈】"
   },
   {
     "character": "𗠕",
@@ -35743,7 +35996,7 @@ const CHARACTER_DATA = [
     "GX": "yaṃ¹",
     "GHC": "ꞏjã¹",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.【淹】【延】【焉】【严】【燕】【閆】2.【筵】（珠 335）【烟】（珠 086）【焰】（珠 075）【演】（珠 365）【燕】（珠 126）3.【厌】【淹】【阎】【盐】（音 203）"
+    "explanationCN": "1.【淹】【延】【焉】【严】【燕】【閆】、【筵】（珠 335）【烟】（珠 086）【焰】（珠 075）【演】（珠 365）【燕】（珠 126）、【厌】【淹】【阎】【盐】（音 203）"
   },
   {
     "character": "𘔁",
@@ -35764,14 +36017,14 @@ const CHARACTER_DATA = [
     "GX": "lha̱¹",
     "GHC": "lha¹",
     "explanationEN": "extinguish/put.out",
-    "explanationCN": "1.熄灭2.删3.蔑"
+    "explanationCN": "1.熄灭、删、蔑"
   },
   {
     "character": "𗟞",
     "GX": "lli̱h¹",
     "GHC": "lẹ¹",
     "explanationEN": "boil/cook",
-    "explanationCN": "1.煮2.煎"
+    "explanationCN": "1.煮、煎"
   },
   {
     "character": "𘟍",
@@ -35799,7 +36052,7 @@ const CHARACTER_DATA = [
     "GX": "kəh²",
     "GHC": "kjɨ̣²",
     "explanationEN": "eat",
-    "explanationCN": "1.食2.鐖"
+    "explanationCN": "1.食、鐖"
   },
   {
     "character": "𗠡",
@@ -35897,7 +36150,7 @@ const CHARACTER_DATA = [
     "GX": "ŋkhə²",
     "GHC": "khjɨ̱²",
     "explanationEN": "chimney/window/hole",
-    "explanationCN": "1.窗窗孔2.间……之间介词"
+    "explanationCN": "1.窗窗孔、间……之间介词"
   },
   {
     "character": "𗑷",
@@ -35946,7 +36199,7 @@ const CHARACTER_DATA = [
     "GX": "rywar¹",
     "GHC": "ꞏjwar¹",
     "explanationEN": "light/glittering",
-    "explanationCN": "1.亮闪耀2.【越】"
+    "explanationCN": "1.亮闪耀、【越】"
   },
   {
     "character": "𗑜",
@@ -35960,7 +36213,7 @@ const CHARACTER_DATA = [
     "GX": "γəh¹",
     "GHC": "ɣjɨ̣¹",
     "explanationEN": "rumor",
-    "explanationCN": "1.流言2.【頡】"
+    "explanationCN": "1.流言、【頡】"
   },
   {
     "character": "𗓃",
@@ -36002,7 +36255,7 @@ const CHARACTER_DATA = [
     "GX": "dzi̱¹",
     "GHC": "dze¹",
     "explanationEN": "contend/quarrel",
-    "explanationCN": "1.争2.蜈蚣"
+    "explanationCN": "1.争、蜈蚣"
   },
   {
     "character": "𗔣",
@@ -36016,7 +36269,7 @@ const CHARACTER_DATA = [
     "GX": "ba̱h²",
     "GHC": "bạ²",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【跋】2.头髮名词"
+    "explanationCN": "1.【跋】、头髮名词"
   },
   {
     "character": "𗔫",
@@ -36044,7 +36297,7 @@ const CHARACTER_DATA = [
     "GX": "rŋi̱wr²",
     "GHC": "ŋewr²",
     "explanationEN": "get/gain",
-    "explanationCN": "1.得2.停止"
+    "explanationCN": "1.得、停止"
   },
   {
     "character": "𘁔",
@@ -36058,7 +36311,7 @@ const CHARACTER_DATA = [
     "GX": "tswa̱ṃ¹",
     "GHC": "tswã¹",
     "explanationEN": "drill/bore",
-    "explanationCN": "1.钻】2.【纂】地名"
+    "explanationCN": "1.钻】、【纂】地名"
   },
   {
     "character": "𗓗",
@@ -36093,7 +36346,7 @@ const CHARACTER_DATA = [
     "GX": "lo̱¹",
     "GHC": "lo¹",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.【郎】【罗】2.【萝】（珠 146）【饠】（珠 344）【糯】（珠 155）【骡】（珠 164）【骆】（珠 163）【珞】（珠 211）【乐】（珠 323）【螺】（珠 212）【狼】（珠 164）【廊】（珠 221）"
+    "explanationCN": "1.【郎】【罗】、【萝】（珠 146）【饠】（珠 344）【糯】（珠 155）【骡】（珠 164）【骆】（珠 163）【珞】（珠 211）【乐】（珠 323）【螺】（珠 212）【狼】（珠 164）【廊】（珠 221）"
   },
   {
     "character": "𗔖",
@@ -36121,7 +36374,7 @@ const CHARACTER_DATA = [
     "GX": "tśhiw²",
     "GHC": "tśhjiw²",
     "explanationEN": "lure/seduce",
-    "explanationCN": "1.引诱2.召"
+    "explanationCN": "1.引诱、召"
   },
   {
     "character": "𘖝",
@@ -36156,7 +36409,7 @@ const CHARACTER_DATA = [
     "GX": "qae̱h²",
     "GHC": "kiẹj²",
     "explanationEN": "boundary",
-    "explanationCN": "1.界】2.潮3.朝4.京师"
+    "explanationCN": "1.界】、潮、朝、京师"
   },
   {
     "character": "𗐶",
@@ -36205,7 +36458,7 @@ const CHARACTER_DATA = [
     "GX": "lhuh²",
     "GHC": "lhjụ²",
     "explanationEN": "bamboo",
-    "explanationCN": "1.竹2.芭蕉"
+    "explanationCN": "1.竹、芭蕉"
   },
   {
     "character": "𗒣",
@@ -36296,7 +36549,7 @@ const CHARACTER_DATA = [
     "GX": "rtsi̱wr¹",
     "GHC": "tsewr¹",
     "explanationEN": "joint",
-    "explanationCN": "1.节】2.辈3.重4.数"
+    "explanationCN": "1.节】、辈、重、数"
   },
   {
     "character": "𗑱",
@@ -36331,7 +36584,7 @@ const CHARACTER_DATA = [
     "GX": "yo̱ṃ²",
     "GHC": "ꞏjow²",
     "explanationEN": "appearance/shape",
-    "explanationCN": "1.样】2.【邕】【融】【雍】【容】【应】【雄】【阳】"
+    "explanationCN": "1.样】、【邕】【融】【雍】【容】【应】【雄】【阳】"
   },
   {
     "character": "𘖾",
@@ -36380,7 +36633,7 @@ const CHARACTER_DATA = [
     "GX": "se̱¹",
     "GHC": "sej¹",
     "explanationEN": "clean/quiet",
-    "explanationCN": "1.清净2.静书"
+    "explanationCN": "1.清净、静书"
   },
   {
     "character": "𗒪",
@@ -36506,7 +36759,7 @@ const CHARACTER_DATA = [
     "GX": "tshe̱¹",
     "GHC": "tshej¹",
     "explanationEN": "property/wealth",
-    "explanationCN": "1.财】2.【菜】（珠 144）【裁】（珠 244）【在】（珠 316）【蔡】【才】（音 198）"
+    "explanationCN": "1.财】、【菜】（珠 144）【裁】（珠 244）【在】（珠 316）【蔡】【才】（音 198）"
   },
   {
     "character": "𗬷",
@@ -36548,7 +36801,7 @@ const CHARACTER_DATA = [
     "GX": "qhao̱ṃ²",
     "GHC": "khjow²",
     "explanationEN": "respectability",
-    "explanationCN": "1.恪2.【可】（珠 314）【空】（珠 041）【箜】（珠 324）【坤】（珠 102）【眶】（珠 185）3.【康】【羌】【軻】【广】【颗】【旷】【孔】【共】（音 196）"
+    "explanationCN": "1.恪、【可】（珠 314）【空】（珠 041）【箜】（珠 324）【坤】（珠 102）【眶】（珠 185）、【康】【羌】【軻】【广】【颗】【旷】【孔】【共】（音 196）"
   },
   {
     "character": "𗓙",
@@ -36562,7 +36815,7 @@ const CHARACTER_DATA = [
     "GX": "nlhi̱w²",
     "GHC": "lhe̱w²",
     "explanationEN": "only/single",
-    "explanationCN": "1.独2.印章"
+    "explanationCN": "1.独、印章"
   },
   {
     "character": "𗒹",
@@ -36660,14 +36913,14 @@ const CHARACTER_DATA = [
     "GX": "rkur²",
     "GHC": "kjur²",
     "explanationEN": "skillful/nimble",
-    "explanationCN": "1.灵巧2.志"
+    "explanationCN": "1.灵巧、志"
   },
   {
     "character": "𗓪",
     "GX": "swiṃ¹",
     "GHC": "sjwĩ¹",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.【旬】】2.【荀】【询】【孙】【巡】"
+    "explanationCN": "1.【旬】】、【荀】【询】【孙】【巡】"
   },
   {
     "character": "𗬺",
@@ -36702,7 +36955,7 @@ const CHARACTER_DATA = [
     "GX": "rywər²",
     "GHC": "ꞏjwɨr²",
     "explanationEN": "writing",
-    "explanationCN": "1.文2.铭3.法4.书"
+    "explanationCN": "1.文、铭、法、书"
   },
   {
     "character": "𗑑",
@@ -36772,14 +37025,14 @@ const CHARACTER_DATA = [
     "GX": "khi¹",
     "GHC": "khji¹",
     "explanationEN": "lose",
-    "explanationCN": "1.丢失落弃2.【奇】【錡】【起】【骑】【祗】【耆】【企】【崎】【却】【杞】【忌】【靳】【岐】"
+    "explanationCN": "1.丢失落弃、【奇】【錡】【起】【骑】【祗】【耆】【企】【崎】【却】【杞】【忌】【靳】【岐】"
   },
   {
     "character": "𗒼",
     "GX": "qhwae̱h¹",
     "GHC": "khwẹj¹",
     "explanationEN": "expand/enlarge",
-    "explanationCN": "1.扩拓2.骄慢"
+    "explanationCN": "1.扩拓、骄慢"
   },
   {
     "character": "𗓩",
@@ -36793,7 +37046,7 @@ const CHARACTER_DATA = [
     "GX": "dźi?",
     "GHC": "dźji",
     "explanationEN": "look/see",
-    "explanationCN": "1.览瞻2.缨縵"
+    "explanationCN": "1.览瞻、缨縵"
   },
   {
     "character": "𗒛",
@@ -36891,7 +37144,7 @@ const CHARACTER_DATA = [
     "GX": "lwe̱¹",
     "GHC": "lwej¹",
     "explanationEN": "wealth",
-    "explanationCN": "1.富2.【雷】"
+    "explanationCN": "1.富、【雷】"
   },
   {
     "character": "𗒾",
@@ -36912,7 +37165,7 @@ const CHARACTER_DATA = [
     "GX": "tṣae̱h²",
     "GHC": "tśiẹj²",
     "explanationEN": "continue/mend",
-    "explanationCN": "1.续补2.遍3.与?同义：换免罢4.繫帮守"
+    "explanationCN": "1.续补、遍、与?同义：换免罢、繫帮守"
   },
   {
     "character": "𗒔",
@@ -36933,7 +37186,7 @@ const CHARACTER_DATA = [
     "GX": "śaw²",
     "GHC": "śja̱²",
     "explanationEN": "stinking/smelly",
-    "explanationCN": "1.臭味2.【少】【邵】【绍】"
+    "explanationCN": "1.臭味、【少】【邵】【绍】"
   },
   {
     "character": "𗑔",
@@ -36982,7 +37235,7 @@ const CHARACTER_DATA = [
     "GX": "tṣhaa̱¹",
     "GHC": "tśhia¹",
     "explanationEN": "gorgeous",
-    "explanationCN": "1.绚丽2.【察】"
+    "explanationCN": "1.绚丽、【察】"
   },
   {
     "character": "𗓴",
@@ -37009,8 +37262,8 @@ const CHARACTER_DATA = [
     "character": "𘗐",
     "GX": "de²",
     "GHC": "djij²",
-    "explanationEN": "INTER/OPT",
-    "explanationCN": "INTER; OPT"
+    "explanationEN": "ɪɴᴛʀɢ/ᴏᴘᴛ",
+    "explanationCN": "ɪɴᴛʀɢ/ᴏᴘᴛ"
   },
   {
     "character": "𗐰",
@@ -37038,7 +37291,7 @@ const CHARACTER_DATA = [
     "GX": "lu̱¹",
     "GHC": "lu¹",
     "explanationEN": "storehouse/warehouse",
-    "explanationCN": "1.仓库2.【路】【论】"
+    "explanationCN": "1.仓库、【路】【论】"
   },
   {
     "character": "𘖮",
@@ -37059,7 +37312,7 @@ const CHARACTER_DATA = [
     "GX": "γa̱ṃ¹",
     "GHC": "ɣã¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【安】2.【案】（珠 285）【鞍】（珠 062）【鵪】（珠 172）"
+    "explanationCN": "1.【安】、【案】（珠 285）【鞍】（珠 062）【鵪】（珠 172）"
   },
   {
     "character": "𗒩",
@@ -37080,14 +37333,14 @@ const CHARACTER_DATA = [
     "GX": "baa̱²",
     "GHC": "bia²",
     "explanationEN": "gruel/porridge/congee",
-    "explanationCN": "1.粥2.炊"
+    "explanationCN": "1.粥、炊"
   },
   {
     "character": "𗔾",
     "GX": "qhaə̱¹",
     "GHC": "khjə¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【乞】2.刚形容词"
+    "explanationCN": "1.【乞】、刚形容词"
   },
   {
     "character": "𗑚",
@@ -37129,7 +37382,7 @@ const CHARACTER_DATA = [
     "GX": "dźwaw¹",
     "GHC": "dźjwa̱¹",
     "explanationEN": "hit/clap",
-    "explanationCN": "1.拍2.聚3.抚"
+    "explanationCN": "1.拍、聚、抚"
   },
   {
     "character": "𘛵",
@@ -37149,8 +37402,8 @@ const CHARACTER_DATA = [
     "character": "𘝨",
     "GX": "zoh²",
     "GHC": "zjọ²",
-    "explanationEN": "TIME.ʙ",
-    "explanationCN": "时.ʙ"
+    "explanationEN": "ᴛɪᴍᴇ.ʙ",
+    "explanationCN": "ᴛɪᴍᴇ.ʙ"
   },
   {
     "character": "𗒄",
@@ -37185,14 +37438,14 @@ const CHARACTER_DATA = [
     "GX": "qae̱¹",
     "GHC": "kiej¹",
     "explanationEN": "incomplete/fragmentary",
-    "explanationCN": "1.缺残差2.【界】（珠 356）【芥】（珠 145）【更】（珠 264）【粳】（珠 155）【庚】（珠 096）【耕】（珠 271）【谐】【介】（音 196）"
+    "explanationCN": "1.缺残差、【界】（珠 356）【芥】（珠 145）【更】（珠 264）【粳】（珠 155）【庚】（珠 096）【耕】（珠 271）【谐】【介】（音 196）"
   },
   {
     "character": "𗒅",
     "GX": "rśər¹",
     "GHC": "śjɨr¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【什】2.【实】（珠 304）【十】（珠 363）【失】（珠 291）【室】（珠 343）【涉】（音 201）"
+    "explanationCN": "1.【什】、【实】（珠 304）【十】（珠 363）【失】（珠 291）【室】（珠 343）【涉】（音 201）"
   },
   {
     "character": "𗑩",
@@ -37220,7 +37473,7 @@ const CHARACTER_DATA = [
     "GX": "rŋə̱r¹",
     "GHC": "ŋər¹",
     "explanationEN": "hill/mountain",
-    "explanationCN": "1.山2.峰岳丘"
+    "explanationCN": "1.山、峰岳丘"
   },
   {
     "character": "𗯦",
@@ -37310,8 +37563,8 @@ const CHARACTER_DATA = [
     "character": "𗐱",
     "GX": "ni²",
     "GHC": "nji²",
-    "explanationEN": "12PL",
-    "explanationCN": "12PL"
+    "explanationEN": "𝟣𝟤ᴘʟ",
+    "explanationCN": "𝟣𝟤ᴘʟ"
   },
   {
     "character": "𗒖",
@@ -37374,7 +37627,7 @@ const CHARACTER_DATA = [
     "GX": "və¹",
     "GHC": "wjɨ¹",
     "explanationEN": "mother-in-law",
-    "explanationCN": "1.婆婆岳母2.祖母"
+    "explanationCN": "1.婆婆岳母、祖母"
   },
   {
     "character": "𗔘",
@@ -37388,14 +37641,14 @@ const CHARACTER_DATA = [
     "GX": "lweh¹",
     "GHC": "ljwịj¹",
     "explanationEN": "neck",
-    "explanationCN": "1.颈项2.咽3.枷"
+    "explanationCN": "1.颈项、咽、枷"
   },
   {
     "character": "𗔨",
     "GX": "tṣaə̱²",
     "GHC": "tśiə²",
     "explanationEN": "twine",
-    "explanationCN": "1.缠绕2.釧3.【芝】【邹】【淄】【徵】【挚】【脂】（音 207）"
+    "explanationCN": "1.缠绕、釧、【芝】【邹】【淄】【徵】【挚】【脂】（音 207）"
   },
   {
     "character": "𘖨",
@@ -37472,7 +37725,7 @@ const CHARACTER_DATA = [
     "GX": "tih¹",
     "GHC": "tjị¹",
     "explanationEN": "make.(wine,.vinegar)",
-    "explanationCN": "1.酿2.探"
+    "explanationCN": "1.酿、探"
   },
   {
     "character": "𘖫",
@@ -37535,7 +37788,7 @@ const CHARACTER_DATA = [
     "GX": "γwe̱¹",
     "GHC": "ɣwej¹",
     "explanationEN": "struggle/fight",
-    "explanationCN": "1.鬭争战2.击"
+    "explanationCN": "1.鬭争战、击"
   },
   {
     "character": "𘗆",
@@ -37570,14 +37823,14 @@ const CHARACTER_DATA = [
     "GX": "swi̱ṃ¹",
     "GHC": "swẽ¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【宋】【孙】【荀】【逊】2.【送】（珠 341 ）【巡】（珠 282）【选】（珠 102）【鬆】（珠 144）"
+    "explanationCN": "1.【宋】【孙】【荀】【逊】、【送】（珠 341 ）【巡】（珠 282）【选】（珠 102）【鬆】（珠 144）"
   },
   {
     "character": "𗓦",
     "GX": "ndwu̱²",
     "GHC": "dwu̱²",
     "explanationEN": "secret/clandestine",
-    "explanationCN": "1.秘密2.韜"
+    "explanationCN": "1.秘密、韜"
   },
   {
     "character": "𗒥",
@@ -37640,7 +37893,7 @@ const CHARACTER_DATA = [
     "GX": "dźih²",
     "GHC": "dźji",
     "explanationEN": "unfold/uphold",
-    "explanationCN": "1.伸展张仰2.抬"
+    "explanationCN": "1.伸展张仰、抬"
   },
   {
     "character": "𗒰",
@@ -37772,15 +38025,15 @@ const CHARACTER_DATA = [
     "character": "𗑠",
     "GX": "rir²",
     "GHC": "rjir²",
-    "explanationEN": "and",
-    "explanationCN": "与相跟同"
+    "explanationEN": "ᴀᴄᴄꜱ",
+    "explanationCN": "ᴀᴄᴄꜱ"
   },
   {
     "character": "𗒃",
     "GX": "law²",
     "GHC": "lja̱²",
     "explanationEN": "frontier/border",
-    "explanationCN": "1.边界2.【鷯】【辽】（音 204）"
+    "explanationCN": "1.边界、【鷯】【辽】（音 204）"
   },
   {
     "character": "𗔙",
@@ -37857,7 +38110,7 @@ const CHARACTER_DATA = [
     "GX": "vwi̱²",
     "GHC": "we²",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【魏】【韦】2.【卫】【渭】（音 194）"
+    "explanationCN": "1.【魏】【韦】、【卫】【渭】（音 194）"
   },
   {
     "character": "𗔵",
@@ -37955,7 +38208,7 @@ const CHARACTER_DATA = [
     "GX": "rγwe̱r²",
     "GHC": "ꞏwejr²",
     "explanationEN": "guard/defend",
-    "explanationCN": "1.守护2.衫"
+    "explanationCN": "1.守护、衫"
   },
   {
     "character": "𗓒",
@@ -37997,7 +38250,7 @@ const CHARACTER_DATA = [
     "GX": "rvwe̱r²",
     "GHC": "wejr²",
     "explanationEN": "flourish",
-    "explanationCN": "1.广2.【嵬】地名"
+    "explanationCN": "1.广、【嵬】地名"
   },
   {
     "character": "𘎑",
@@ -38046,7 +38299,7 @@ const CHARACTER_DATA = [
     "GX": "vih¹",
     "GHC": "wjị¹",
     "explanationEN": "relatives",
-    "explanationCN": "1.亲2.朋党3.交"
+    "explanationCN": "1.亲、朋党、交"
   },
   {
     "character": "𗓾",
@@ -38116,7 +38369,7 @@ const CHARACTER_DATA = [
     "GX": "geh¹",
     "GHC": "gjịj¹",
     "explanationEN": "cut/clip/shave",
-    "explanationCN": "1.剪割2.剃"
+    "explanationCN": "1.剪割、剃"
   },
   {
     "character": "𘖳",
@@ -38200,14 +38453,14 @@ const CHARACTER_DATA = [
     "GX": "qhao̱ṃ²",
     "GHC": "khiow²",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【羌】【騫】2.强形容词"
+    "explanationCN": "1.【羌】【騫】、强形容词"
   },
   {
     "character": "𗓞",
     "GX": "tśu¹",
     "GHC": "tśju¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【朱】【竺】【烛】2.做办动词"
+    "explanationCN": "1.【朱】【竺】【烛】、做办动词"
   },
   {
     "character": "𘖻",
@@ -38221,7 +38474,7 @@ const CHARACTER_DATA = [
     "GX": "rywar¹",
     "GHC": "ꞏjwar¹",
     "explanationEN": "go/fast/quick",
-    "explanationCN": "1.往2.急形容词"
+    "explanationCN": "1.往、急形容词"
   },
   {
     "character": "𘖜",
@@ -38291,7 +38544,7 @@ const CHARACTER_DATA = [
     "GX": "le¹",
     "GHC": "ljij¹",
     "explanationEN": "vary/change",
-    "explanationCN": "1.变换易改2.终脱3.罢"
+    "explanationCN": "1.变换易改、终脱、罢"
   },
   {
     "character": "𗓮",
@@ -38319,7 +38572,7 @@ const CHARACTER_DATA = [
     "GX": "mi̱h²",
     "GHC": "bẹ²",
     "explanationEN": "seek/look.for",
-    "explanationCN": "1.寻觅2.全"
+    "explanationCN": "1.寻觅、全"
   },
   {
     "character": "𗔊",
@@ -38424,7 +38677,7 @@ const CHARACTER_DATA = [
     "GX": "dzwə²",
     "GHC": "dzjwɨ²",
     "explanationEN": "resolve",
-    "explanationCN": "1.决断2.御史"
+    "explanationCN": "1.决断、御史"
   },
   {
     "character": "𗒉",
@@ -38438,7 +38691,7 @@ const CHARACTER_DATA = [
     "GX": "kwiṃ¹",
     "GHC": "kjwĩ¹",
     "explanationEN": "a.man.of.noble.character/a.man.of.virtue/gentleman",
-    "explanationCN": "1.君】2.【军】【郡】【究】"
+    "explanationCN": "1.君】、【军】【郡】【究】"
   },
   {
     "character": "𘖬",
@@ -38508,7 +38761,7 @@ const CHARACTER_DATA = [
     "GX": "tśiṃ¹",
     "GHC": "tśjĩ¹",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.【真】【证】【正】2.【枕】（珠 243）【蒸】（珠 333）【震】（珠 102）【针】（珠 254）3.【徵】【镇】【珍】"
+    "explanationCN": "1.【真】【证】【正】、【枕】（珠 243）【蒸】（珠 333）【震】（珠 102）【针】（珠 254）、【徵】【镇】【珍】"
   },
   {
     "character": "𗒗",
@@ -38522,7 +38775,7 @@ const CHARACTER_DATA = [
     "GX": "γae̱¹",
     "GHC": "ɣiej¹",
     "explanationEN": "true/real/pure",
-    "explanationCN": "1.真实纯真2.正良諦"
+    "explanationCN": "1.真实纯真、正良諦"
   },
   {
     "character": "𗒙",
@@ -38585,7 +38838,7 @@ const CHARACTER_DATA = [
     "GX": "pho̱ṃ²",
     "GHC": "phow²",
     "explanationEN": "ask",
-    "explanationCN": "1.问2.【朋】译音"
+    "explanationCN": "1.问、【朋】译音"
   },
   {
     "character": "𘃤",
@@ -38606,14 +38859,14 @@ const CHARACTER_DATA = [
     "GX": "γa̱¹",
     "GHC": "ꞏa",
     "explanationEN": "induce/lure",
-    "explanationCN": "1.诱2.差"
+    "explanationCN": "1.诱、差"
   },
   {
     "character": "𘁮",
     "GX": "zəh¹",
     "GHC": "zjɨ̣¹",
     "explanationEN": "child",
-    "explanationCN": "1.子2.【氏】译音"
+    "explanationCN": "1.子、【氏】译音"
   },
   {
     "character": "𘃝",
@@ -38732,7 +38985,7 @@ const CHARACTER_DATA = [
     "GX": "yoṃ¹",
     "GHC": "ꞏjow¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【杨】2.【王】【容】【融】3.【羊】（珠 073）【阳】（珠 075）【扬】（珠 273）【鸯】（珠 171）"
+    "explanationCN": "1.【杨】、【王】【容】【融】、【羊】（珠 073）【阳】（珠 075）【扬】（珠 273）【鸯】（珠 171）"
   },
   {
     "character": "𘌩",
@@ -38760,7 +39013,7 @@ const CHARACTER_DATA = [
     "GX": "ga²",
     "GHC": "gja²",
     "explanationEN": "I/me",
-    "explanationCN": "1.我吾余2.汝等对方"
+    "explanationCN": "1.我吾余、汝等对方"
   },
   {
     "character": "𘍊",
@@ -38872,7 +39125,7 @@ const CHARACTER_DATA = [
     "GX": "kwəh¹",
     "GHC": "kjwɨ̣¹",
     "explanationEN": "combine/associate",
-    "explanationCN": "1.结合交合2.谋计商议"
+    "explanationCN": "1.结合交合、谋计商议"
   },
   {
     "character": "𗮹",
@@ -38893,7 +39146,7 @@ const CHARACTER_DATA = [
     "GX": "khaṃ²",
     "GHC": "khjã²",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.【乾】【健】【犍】2.癤痂"
+    "explanationCN": "1.【乾】【健】【犍】、癤痂"
   },
   {
     "character": "𗯅",
@@ -39082,7 +39335,7 @@ const CHARACTER_DATA = [
     "GX": "la̱²",
     "GHC": "la²",
     "explanationEN": "happiness/amusement",
-    "explanationCN": "1.乐娱乐】2.户"
+    "explanationCN": "1.乐娱乐】、户"
   },
   {
     "character": "𘛴",
@@ -39166,7 +39419,7 @@ const CHARACTER_DATA = [
     "GX": "ndu̱¹",
     "GHC": "du̱¹",
     "explanationEN": "save/store.up",
-    "explanationCN": "1.积积存贮藏2.癸"
+    "explanationCN": "1.积积存贮藏、癸"
   },
   {
     "character": "𗮐",
@@ -39229,14 +39482,14 @@ const CHARACTER_DATA = [
     "GX": "ki¹",
     "GHC": "kji¹",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.【记】【纪】【嵇】】2.【己】（珠 355）【撃】（珠 326）【蟣】（珠 174）【计】（珠 342）【急】（珠 234）【箕】（珠 265）3.【姬】【冀】【棘】【寄】【机】【基】（音 197）"
+    "explanationCN": "1.【记】【纪】【嵇】】、【己】（珠 355）【撃】（珠 326）【蟣】（珠 174）【计】（珠 342）【急】（珠 234）【箕】（珠 265）、【姬】【冀】【棘】【寄】【机】【基】（音 197）"
   },
   {
     "character": "𘏆",
     "GX": "soh¹",
     "GHC": "sjọ¹",
     "explanationEN": "agriculture/farming",
-    "explanationCN": "1.农2.付"
+    "explanationCN": "1.农、付"
   },
   {
     "character": "𘏂",
@@ -39306,7 +39559,7 @@ const CHARACTER_DATA = [
     "GX": "yə²",
     "GHC": "ꞏjɨ²",
     "explanationEN": "past/last",
-    "explanationCN": "1.昨去2.【邑】"
+    "explanationCN": "1.昨去、【邑】"
   },
   {
     "character": "𘎭",
@@ -39334,14 +39587,14 @@ const CHARACTER_DATA = [
     "GX": "ŋqhu̱²",
     "GHC": "khu̱²",
     "explanationEN": "turn.over",
-    "explanationCN": "1.翻2.搜3.返"
+    "explanationCN": "1.翻、搜、返"
   },
   {
     "character": "𘖗",
     "GX": "dźə¹",
     "GHC": "dźjɨ̣",
     "explanationEN": "pull.up/rescue",
-    "explanationCN": "1.拔救2.拉牵拽3.伏4.消除5.招6.抽"
+    "explanationCN": "1.拔救、拉牵拽、伏、消除、招、抽"
   },
   {
     "character": "𗯡",
@@ -39467,7 +39720,7 @@ const CHARACTER_DATA = [
     "GX": "rza̱r²",
     "GHC": "zar²",
     "explanationEN": "fountainhead/source",
-    "explanationCN": "1.源2.枕"
+    "explanationCN": "1.源、枕"
   },
   {
     "character": "𘐂",
@@ -39684,7 +39937,7 @@ const CHARACTER_DATA = [
     "GX": "hi¹",
     "GHC": "xji¹",
     "explanationEN": "happy/pleased",
-    "explanationCN": "1.喜】2.【奚】【希】【稀】【呬】【醘】【頡】3.【晞】【熙】【羲】（音 202）"
+    "explanationCN": "1.喜】、【奚】【希】【稀】【呬】【醘】【頡】、【晞】【熙】【羲】（音 202）"
   },
   {
     "character": "𘛶",
@@ -39726,7 +39979,7 @@ const CHARACTER_DATA = [
     "GX": "li̱ṃ?",
     "GHC": "lẽ",
     "explanationEN": "husbands.of.sisters",
-    "explanationCN": "1.连襟（缝缀）2.音【呤】"
+    "explanationCN": "1.连襟（缝缀）【呤】"
   },
   {
     "character": "𘐹",
@@ -39740,7 +39993,7 @@ const CHARACTER_DATA = [
     "GX": "ṣwaa̱²",
     "GHC": "śiwa²",
     "explanationEN": "shrink/contract",
-    "explanationCN": "1.缩（动2.【朔】"
+    "explanationCN": "1.缩（动、【朔】"
   },
   {
     "character": "𘑊",
@@ -39761,14 +40014,14 @@ const CHARACTER_DATA = [
     "GX": "phə̱¹",
     "GHC": "phə¹",
     "explanationEN": "Tibetan",
-    "explanationCN": "1.羌藏吐藩2.【渤】（音 193）"
+    "explanationCN": "1.羌藏吐藩、【渤】（音 193）"
   },
   {
     "character": "𘍭",
     "GX": "swi²",
     "GHC": "sjwi²",
     "explanationEN": "cleverness/skillful.artisan",
-    "explanationCN": "1.巧工匠2.【岁】"
+    "explanationCN": "1.巧工匠、【岁】"
   },
   {
     "character": "𘋴",
@@ -39859,14 +40112,14 @@ const CHARACTER_DATA = [
     "GX": "ŋqhae̱¹",
     "GHC": "khie̱j¹",
     "explanationEN": "fruit",
-    "explanationCN": "1.果实结果2.辛"
+    "explanationCN": "1.果实结果、辛"
   },
   {
     "character": "𘍫",
     "GX": "qhwai̱¹",
     "GHC": "khiwe¹",
     "explanationEN": "a.surname/vigorous",
-    "explanationCN": "1.【契】2.刚健形容词"
+    "explanationCN": "1.【契】、刚健形容词"
   },
   {
     "character": "𘖙",
@@ -39978,7 +40231,7 @@ const CHARACTER_DATA = [
     "GX": "rmer¹",
     "GHC": "mjijr¹",
     "explanationEN": "soldier/person",
-    "explanationCN": "1.兵卒士人2.庸"
+    "explanationCN": "1.兵卒士人、庸"
   },
   {
     "character": "𘌮",
@@ -39999,7 +40252,7 @@ const CHARACTER_DATA = [
     "GX": "leṃ¹",
     "GHC": "ljɨj¹",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.音【灵】【林】【菱】【廉】2.【令】（珠 366）【凌】（珠 296）【䔖】（珠 145）【綾】（珠 256）【连】（珠 291）【莲】（珠 136）【廉】（珠 232）【镰】（珠 266）3.【陵】【零】【领】【伶】（音 204）"
+    "explanationCN": "1.音【灵】【林】【菱】【廉】、【令】（珠 366）【凌】（珠 296）【䔖】（珠 145）【綾】（珠 256）【连】（珠 291）【莲】（珠 136）【廉】（珠 232）【镰】（珠 266）、【陵】【零】【领】【伶】（音 204）"
   },
   {
     "character": "𗮤",
@@ -40124,8 +40377,8 @@ const CHARACTER_DATA = [
     "character": "𘃞",
     "GX": "lə¹",
     "GHC": "ljɨ¹",
-    "explanationEN": "EXLAM",
-    "explanationCN": "EXLAM"
+    "explanationEN": "ᴇxʟᴀᴍ",
+    "explanationCN": "ᴇxʟᴀᴍ"
   },
   {
     "character": "𘍵",
@@ -40139,14 +40392,14 @@ const CHARACTER_DATA = [
     "GX": "vwi̱¹",
     "GHC": "we¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【韦】【嵬】2.【威】【伟】（音 194）"
+    "explanationCN": "1.【韦】【嵬】、【威】【伟】（音 194）"
   },
   {
     "character": "𘛮",
     "GX": "khe²",
     "GHC": "khjij²",
     "explanationEN": "happy/cheerful",
-    "explanationCN": "1.乐娱快乐2.【庆】【警】【吉】"
+    "explanationCN": "1.乐娱快乐、【庆】【警】【吉】"
   },
   {
     "character": "𘁵",
@@ -40223,7 +40476,7 @@ const CHARACTER_DATA = [
     "GX": "ta̱¹",
     "GHC": "ta¹",
     "explanationEN": "strike/beat",
-    "explanationCN": "1.打】2.【靼】【打】【妲】"
+    "explanationCN": "1.打】、【靼】【打】【妲】"
   },
   {
     "character": "𘎤",
@@ -40328,7 +40581,7 @@ const CHARACTER_DATA = [
     "GX": "ya²",
     "GHC": "ꞏja²",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.【耶】【也】【野】【夜】【叶】【閆】【琰】2.【邪】【邑】【衍】【逸】【阴】（音 210）"
+    "explanationCN": "1.【耶】【也】【野】【夜】【叶】【閆】【琰】、【邪】【邑】【衍】【逸】【阴】（音 210）"
   },
   {
     "character": "𘁻",
@@ -40363,7 +40616,7 @@ const CHARACTER_DATA = [
     "GX": "teṃ¹",
     "GHC": "tjɨj¹",
     "explanationEN": "the.sun",
-    "explanationCN": "1.日2.提"
+    "explanationCN": "1.日、提"
   },
   {
     "character": "𘛸",
@@ -40384,14 +40637,14 @@ const CHARACTER_DATA = [
     "GX": "yaw²",
     "GHC": "ꞏja̱²",
     "explanationEN": "gold",
-    "explanationCN": "1.金2.【瑶】【陶】"
+    "explanationCN": "1.金、【瑶】【陶】"
   },
   {
     "character": "𘏽",
     "GX": "swi¹",
     "GHC": "sjwi¹",
     "explanationEN": "auspicious/lucky",
-    "explanationCN": "1.瑞吉祥2.【隋】【遂】【随】"
+    "explanationCN": "1.瑞吉祥、【隋】【遂】【随】"
   },
   {
     "character": "𘝱",
@@ -40482,7 +40735,7 @@ const CHARACTER_DATA = [
     "GX": "dau̱¹",
     "GHC": "du¹",
     "explanationEN": "prohibit/ban/resist",
-    "explanationCN": "1.拒绝禁止推卸2.沉溺坑陷"
+    "explanationCN": "1.拒绝禁止推卸、沉溺坑陷"
   },
   {
     "character": "𘎖",
@@ -40622,7 +40875,7 @@ const CHARACTER_DATA = [
     "GX": "teh¹",
     "GHC": "tjịj¹",
     "explanationEN": "only/unique",
-    "explanationCN": "1.独一2.专印"
+    "explanationCN": "1.独一、专印"
   },
   {
     "character": "𗮦",
@@ -40671,7 +40924,7 @@ const CHARACTER_DATA = [
     "GX": "thi̱w²",
     "GHC": "thew²",
     "explanationEN": "play/tease",
-    "explanationCN": "1.嬉闹2.【头】"
+    "explanationCN": "1.嬉闹、【头】"
   },
   {
     "character": "𘃢",
@@ -40699,7 +40952,7 @@ const CHARACTER_DATA = [
     "GX": "dzih²",
     "GHC": "dzjị²",
     "explanationEN": "abet/instigate",
-    "explanationCN": "1.唆2.癤疤"
+    "explanationCN": "1.唆、癤疤"
   },
   {
     "character": "𘞫",
@@ -40720,7 +40973,7 @@ const CHARACTER_DATA = [
     "GX": "pah¹",
     "GHC": "pjạ¹",
     "explanationEN": "palm/handful.of",
-    "explanationCN": "1.掌巴合量词2.掩"
+    "explanationCN": "1.掌巴合量词、掩"
   },
   {
     "character": "𘎸",
@@ -40769,7 +41022,7 @@ const CHARACTER_DATA = [
     "GX": "ŋwo̱²",
     "GHC": "ŋjwo²",
     "explanationEN": "damage/injure/harm",
-    "explanationCN": "1.损伤损坏损害2.破裂"
+    "explanationCN": "1.损伤损坏损害、破裂"
   },
   {
     "character": "𘑀",
@@ -40783,7 +41036,7 @@ const CHARACTER_DATA = [
     "GX": "ntśə¹",
     "GHC": "tśjɨ¹",
     "explanationEN": "order/sequence",
-    "explanationCN": "1.次序2.续绪3.至"
+    "explanationCN": "1.次序、续绪、至"
   },
   {
     "character": "𘎩",
@@ -40839,14 +41092,14 @@ const CHARACTER_DATA = [
     "GX": "nświ²",
     "GHC": "śjwi̱²",
     "explanationEN": "puckery/astringent",
-    "explanationCN": "1.涩】2.柿子"
+    "explanationCN": "1.涩】、柿子"
   },
   {
     "character": "𘂯",
     "GX": "mbo̱²",
     "GHC": "bo̱²",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.【慕】【茂】【目】【帽】【补】【满】2.【谋】（珠 316）【牡】（珠 133）【墨】（珠 272）【木】（珠 136）【目】（珠 183）【牧】（珠 285）【毛】（珠 231 ）3.【穆】【莽】【摩】（音 193）"
+    "explanationCN": "1.【慕】【茂】【目】【帽】【补】【满】、【谋】（珠 316）【牡】（珠 133）【墨】（珠 272）【木】（珠 136）【目】（珠 183）【牧】（珠 285）【毛】（珠 231 ）、【穆】【莽】【摩】（音 193）"
   },
   {
     "character": "𘏕",
@@ -40867,7 +41120,7 @@ const CHARACTER_DATA = [
     "GX": "si̱w²",
     "GHC": "sew²",
     "explanationEN": "piebald/stripe",
-    "explanationCN": "1.花斑斑纹2.【簫】【修】【秀】【锈】【苏】"
+    "explanationCN": "1.花斑斑纹、【簫】【修】【秀】【锈】【苏】"
   },
   {
     "character": "𘏰",
@@ -40922,8 +41175,8 @@ const CHARACTER_DATA = [
     "character": "𗯴",
     "GX": "khu¹",
     "GHC": "khju¹",
-    "explanationEN": "SUBE:subessive.",
-    "explanationCN": "SUBE: subessive"
+    "explanationEN": "ꜱᴜʙᴇ",
+    "explanationCN": "ꜱᴜʙᴇ"
   },
   {
     "character": "𘛨",
@@ -40937,7 +41190,7 @@ const CHARACTER_DATA = [
     "GX": "qao̱²",
     "GHC": "kio²",
     "explanationEN": "call/make.somebody.do",
-    "explanationCN": "1.教叫】2.来到"
+    "explanationCN": "1.教叫】、来到"
   },
   {
     "character": "𘖉",
@@ -41014,7 +41267,7 @@ const CHARACTER_DATA = [
     "GX": "rlwə̱r²",
     "GHC": "lwər²",
     "explanationEN": "ceremony/rite/get.a.haircut",
-    "explanationCN": "1.礼2.【论】"
+    "explanationCN": "1.礼、【论】"
   },
   {
     "character": "𗭮",
@@ -41042,7 +41295,7 @@ const CHARACTER_DATA = [
     "GX": "γwə̱²",
     "GHC": "ɣwə²",
     "explanationEN": "ahead",
-    "explanationCN": "1.前2.木梳"
+    "explanationCN": "1.前、木梳"
   },
   {
     "character": "𘃛",
@@ -41105,14 +41358,14 @@ const CHARACTER_DATA = [
     "GX": "źeh²",
     "GHC": "źjịj²",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.【佘】【社】【涉】【日】2.独"
+    "explanationCN": "1.【佘】【社】【涉】【日】、独"
   },
   {
     "character": "𘌾",
     "GX": "rbaa̱r¹",
     "GHC": "biar¹",
     "explanationEN": "make.a.profit/gallop",
-    "explanationCN": "1.盈利2.奔急驰"
+    "explanationCN": "1.盈利、奔急驰"
   },
   {
     "character": "𘕽",
@@ -41147,7 +41400,7 @@ const CHARACTER_DATA = [
     "GX": "???",
     "GHC": "",
     "explanationEN": "meet",
-    "explanationCN": "1.遇2.拥挤拥堵"
+    "explanationCN": "1.遇、拥挤拥堵"
   },
   {
     "character": "𗮣",
@@ -41217,14 +41470,14 @@ const CHARACTER_DATA = [
     "GX": "swi²",
     "GHC": "sjwi²",
     "explanationEN": "mother-in-law/aunt",
-    "explanationCN": "1.岳母舅母尊2.工匠"
+    "explanationCN": "1.岳母舅母尊、工匠"
   },
   {
     "character": "𘏸",
     "GX": "ṣaə̱¹",
     "GHC": "śiə¹",
     "explanationEN": "send/let.somebody.do",
-    "explanationCN": "1.使】2.【史】【诗】【始】【瑟】【师】【尸】【式】3.【示】（珠 366）【事】（珠 304）【匙】（珠 232）【恃】（珠 296）【柿】（珠 143）【狮】（珠 161）4.【侍】【诗】【謚】【士】【施】【世】（音 199）"
+    "explanationCN": "1.使】、【史】【诗】【始】【瑟】【师】【尸】【式】、【示】（珠 366）【事】（珠 304）【匙】（珠 232）【恃】（珠 296）【柿】（珠 143）【狮】（珠 161）、【侍】【诗】【謚】【士】【施】【世】（音 199）"
   },
   {
     "character": "𘐓",
@@ -41258,8 +41511,8 @@ const CHARACTER_DATA = [
     "character": "𘋩",
     "GX": "do̱²",
     "GHC": "do²",
-    "explanationEN": "TERM:terminative",
-    "explanationCN": "TERM: terminative"
+    "explanationEN": "ᴛᴇʀᴍ",
+    "explanationCN": "ᴛᴇʀᴍ"
   },
   {
     "character": "𘏁",
@@ -41273,14 +41526,14 @@ const CHARACTER_DATA = [
     "GX": "tih¹",
     "GHC": "tjị¹",
     "explanationEN": "place/put/set.up",
-    "explanationCN": "1.置放设安2.始扣专3.戴"
+    "explanationCN": "1.置放设安、始扣专、戴"
   },
   {
     "character": "𘐟",
     "GX": "nah²",
     "GHC": "njạ²",
     "explanationEN": "handkerchief",
-    "explanationCN": "1.帕（手帕护手）2.补3.帔"
+    "explanationCN": "1.帕（手帕护手）、补、帔"
   },
   {
     "character": "𘝲",
@@ -41301,7 +41554,7 @@ const CHARACTER_DATA = [
     "GX": "be²",
     "GHC": "bjij²",
     "explanationEN": "dawn",
-    "explanationCN": "1.拂晓黎明2.旦"
+    "explanationCN": "1.拂晓黎明、旦"
   },
   {
     "character": "𘎙",
@@ -41343,7 +41596,7 @@ const CHARACTER_DATA = [
     "GX": "ŋkə¹",
     "GHC": "kjɨ̱¹",
     "explanationEN": "supervise",
-    "explanationCN": "1.监督2.穰"
+    "explanationCN": "1.监督、穰"
   },
   {
     "character": "𘏿",
@@ -41399,7 +41652,7 @@ const CHARACTER_DATA = [
     "GX": "ywaṃ¹",
     "GHC": "ꞏjwã¹",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.【渊】【完】【元】2.【苑】【宛】（音 203）"
+    "explanationCN": "1.【渊】【完】【元】、【苑】【宛】（音 203）"
   },
   {
     "character": "𘁴",
@@ -41441,14 +41694,14 @@ const CHARACTER_DATA = [
     "GX": "rar¹",
     "GHC": "rjar¹",
     "explanationEN": "an.animal-drawn.seed.plough",
-    "explanationCN": "1.耬2.娄"
+    "explanationCN": "1.耬、娄"
   },
   {
     "character": "𘏫",
     "GX": "yaa̱²",
     "GHC": "ꞏjia²",
     "explanationEN": "fall",
-    "explanationCN": "1.降2.【亚】"
+    "explanationCN": "1.降、【亚】"
   },
   {
     "character": "𘐽",
@@ -41476,7 +41729,7 @@ const CHARACTER_DATA = [
     "GX": "tse̱¹",
     "GHC": "tsej¹",
     "explanationEN": "plant/grow",
-    "explanationCN": "1.栽】2.【灾】【宰】"
+    "explanationCN": "1.栽】、【灾】【宰】"
   },
   {
     "character": "𘋜",
@@ -41546,7 +41799,7 @@ const CHARACTER_DATA = [
     "GX": "khiṃ¹",
     "GHC": "khjwĩ¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【戚】【秋】【仇】2.末尾名词"
+    "explanationCN": "1.【戚】【秋】【仇】、末尾名词"
   },
   {
     "character": "𘏻",
@@ -41567,7 +41820,7 @@ const CHARACTER_DATA = [
     "GX": "hau̱¹",
     "GHC": "xu¹",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.【胡】【虎】【蝴】【壶】【霍】2.【瑚】（珠 126）【胡】（珠 331）【葫】（珠 142）【虎】（珠 165）【琥】（珠 126）【乎】（珠 314）【斛】（珠 154）【狐】（珠 162）【】（珠 146）3.【湖】【鹤】【鵠】【户】（音 203）"
+    "explanationCN": "1.【胡】【虎】【蝴】【壶】【霍】、【瑚】（珠 126）【胡】（珠 331）【葫】（珠 142）【虎】（珠 165）【琥】（珠 126）【乎】（珠 314）【斛】（珠 154）【狐】（珠 162）【】（珠 146）、【湖】【鹤】【鵠】【户】（音 203）"
   },
   {
     "character": "𗶯",
@@ -41609,14 +41862,14 @@ const CHARACTER_DATA = [
     "GX": "γeṃ¹",
     "GHC": "ɣjɨj¹",
     "explanationEN": "pillow",
-    "explanationCN": "1.枕2.源"
+    "explanationCN": "1.枕、源"
   },
   {
     "character": "𘍦",
     "GX": "ye¹",
     "GHC": "ꞏjij¹",
     "explanationEN": "look/appearance",
-    "explanationCN": "1.相像形2.兆3.瑞象"
+    "explanationCN": "1.相像形、兆、瑞象"
   },
   {
     "character": "𘍺",
@@ -41686,7 +41939,7 @@ const CHARACTER_DATA = [
     "GX": "rγae̱r²",
     "GHC": "ꞏiejr²",
     "explanationEN": "curved/crooked",
-    "explanationCN": "1.缩屈曲褰2.昂"
+    "explanationCN": "1.缩屈曲褰、昂"
   },
   {
     "character": "𗮚",
@@ -41721,7 +41974,7 @@ const CHARACTER_DATA = [
     "GX": "γu̱²",
     "GHC": "ɣu²",
     "explanationEN": "combine/integrate",
-    "explanationCN": "1.合】2.谋"
+    "explanationCN": "1.合】、谋"
   },
   {
     "character": "𗮽",
@@ -41749,7 +42002,7 @@ const CHARACTER_DATA = [
     "GX": "kah²",
     "GHC": "kjạ²",
     "explanationEN": "scar/ugly",
-    "explanationCN": "1.痂疤2.丑陋形容词"
+    "explanationCN": "1.痂疤、丑陋形容词"
   },
   {
     "character": "𗯎",
@@ -41791,7 +42044,7 @@ const CHARACTER_DATA = [
     "GX": "rar¹",
     "GHC": "rjar¹",
     "explanationEN": "permit/allow",
-    "explanationCN": "1.允许2.气3.得"
+    "explanationCN": "1.允许、气、得"
   },
   {
     "character": "𗭾",
@@ -41847,7 +42100,7 @@ const CHARACTER_DATA = [
     "GX": "ge¹",
     "GHC": "gjij¹",
     "explanationEN": "special/particular/peculiar",
-    "explanationCN": "1.特殊奇超2.倍最甚多"
+    "explanationCN": "1.特殊奇超、倍最甚多"
   },
   {
     "character": "𗮁",
@@ -41945,7 +42198,7 @@ const CHARACTER_DATA = [
     "GX": "rkur²",
     "GHC": "kjur²",
     "explanationEN": "will/ideal/aspiration",
-    "explanationCN": "1.誌记2.忠烈烈士3.贞"
+    "explanationCN": "1.誌记、忠烈烈士、贞"
   },
   {
     "character": "𗮘",
@@ -42141,14 +42394,14 @@ const CHARACTER_DATA = [
     "GX": "te²",
     "GHC": "tjij²",
     "explanationEN": "navel",
-    "explanationCN": "1.脐2.齐"
+    "explanationCN": "1.脐、齐"
   },
   {
     "character": "𘃣",
     "GX": "vi²",
     "GHC": "wji²",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【韦】【尉】【未】【威】【维】【倭】【尾】【卫】【微】2.【魏】【围】（音 194）"
+    "explanationCN": "1.【韦】【尉】【未】【威】【维】【倭】【尾】【卫】【微】、【魏】【围】（音 194）"
   },
   {
     "character": "𘌹",
@@ -42162,7 +42415,7 @@ const CHARACTER_DATA = [
     "GX": "ŋkə¹",
     "GHC": "kjɨ̱¹",
     "explanationEN": "spotted/striped",
-    "explanationCN": "1.驳2.玛"
+    "explanationCN": "1.驳、玛"
   },
   {
     "character": "𘌿",
@@ -42197,7 +42450,7 @@ const CHARACTER_DATA = [
     "GX": "śə¹",
     "GHC": "śjɨ¹",
     "explanationEN": "wipe.off/whisk",
-    "explanationCN": "1.拭】2.装饰3.里"
+    "explanationCN": "1.拭】、装饰、里"
   },
   {
     "character": "𘏙",
@@ -42274,7 +42527,7 @@ const CHARACTER_DATA = [
     "GX": "ŋqa̱r¹",
     "GHC": "ka̱r¹",
     "explanationEN": "steelyard",
-    "explanationCN": "1.秤2.三司3.权"
+    "explanationCN": "1.秤、三司、权"
   },
   {
     "character": "𘝯",
@@ -42295,7 +42548,7 @@ const CHARACTER_DATA = [
     "GX": "hwo̱²",
     "GHC": "xwo²",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.【活】】2.【河】（珠 074）【荷】（珠 145）【和】（珠 084）【祸】（珠 095）【火】（珠 234）【黄】（珠 171）【皇】（珠 381）【凰】（珠 165）【贺】【何】（音 203）"
+    "explanationCN": "1.【活】】、【河】（珠 074）【荷】（珠 145）【和】（珠 084）【祸】（珠 095）【火】（珠 234）【黄】（珠 171）【皇】（珠 381）【凰】（珠 165）【贺】【何】（音 203）"
   },
   {
     "character": "𘋓",
@@ -42358,7 +42611,7 @@ const CHARACTER_DATA = [
     "GX": "dźə¹",
     "GHC": "dźjɨ",
     "explanationEN": "skill/art",
-    "explanationCN": "1.艺2.业3.行"
+    "explanationCN": "1.艺、业、行"
   },
   {
     "character": "𘃁",
@@ -42400,7 +42653,7 @@ const CHARACTER_DATA = [
     "GX": "tshə¹",
     "GHC": "tshjɨ¹",
     "explanationEN": "love/like/clothing",
-    "explanationCN": "1.喜爱2.衣服"
+    "explanationCN": "1.喜爱、衣服"
   },
   {
     "character": "𘎣",
@@ -42630,8 +42883,8 @@ const CHARACTER_DATA = [
     "character": "𘖑",
     "GX": "mə¹",
     "GHC": "mjɨ¹",
-    "explanationEN": "NEG.MOD",
-    "explanationCN": "NEG.MOD"
+    "explanationEN": "ɴᴇɢ.ᴍᴏᴅ",
+    "explanationCN": "ɴᴇɢ.ᴍᴏᴅ"
   },
   {
     "character": "𘎾",
@@ -42644,15 +42897,15 @@ const CHARACTER_DATA = [
     "character": "𘏚",
     "GX": "tih²",
     "GHC": "tjị²",
-    "explanationEN": "NMLZ:LOC",
-    "explanationCN": "NMLZ：LOC"
+    "explanationEN": "ɴᴍʟᴢ:ʟᴏᴄ",
+    "explanationCN": "ɴᴍʟᴢ:ʟᴏᴄ"
   },
   {
     "character": "𘏼",
     "GX": "tśhiw²",
     "GHC": "tśhjiw²",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.【丑】【紂】【畴】2.【超】【兆】（音 200）"
+    "explanationCN": "1.【丑】【紂】【畴】、【超】【兆】（音 200）"
   },
   {
     "character": "𘐧",
@@ -42680,7 +42933,7 @@ const CHARACTER_DATA = [
     "GX": "yeṃ²",
     "GHC": "ꞏjɨj²",
     "explanationEN": "bag/sack",
-    "explanationCN": "1.袋囊2.函鞘茧"
+    "explanationCN": "1.袋囊、函鞘茧"
   },
   {
     "character": "𘋷",
@@ -42827,7 +43080,7 @@ const CHARACTER_DATA = [
     "GX": "thə¹",
     "GHC": "thjɨ¹",
     "explanationEN": "abandon/distinguish/expel",
-    "explanationCN": "1.释放弃判明驱逐2.断剜3.脱"
+    "explanationCN": "1.释放弃判明驱逐、断剜、脱"
   },
   {
     "character": "𘏝",
@@ -42855,14 +43108,14 @@ const CHARACTER_DATA = [
     "GX": "lweh¹",
     "GHC": "ljwịj¹",
     "explanationEN": "hate",
-    "explanationCN": "1.怨恨2.恶"
+    "explanationCN": "1.怨恨、恶"
   },
   {
     "character": "𘏌",
     "GX": "qa̱h¹",
     "GHC": "kạ¹",
     "explanationEN": "hold/grip/grasp",
-    "explanationCN": "1.握攥2.勺"
+    "explanationCN": "1.握攥、勺"
   },
   {
     "character": "𘂴",
@@ -42939,7 +43192,7 @@ const CHARACTER_DATA = [
     "GX": "rvwi̱r¹",
     "GHC": "wer¹",
     "explanationEN": "ridge",
-    "explanationCN": "1.脊2.棱"
+    "explanationCN": "1.脊、棱"
   },
   {
     "character": "𘕣",
@@ -42960,14 +43213,14 @@ const CHARACTER_DATA = [
     "GX": "lheṃ¹",
     "GHC": "lhjɨj¹",
     "explanationEN": "magic",
-    "explanationCN": "1.魔法巫术妖术2.代受"
+    "explanationCN": "1.魔法巫术妖术、代受"
   },
   {
     "character": "𘁷",
     "GX": "rdza̱r¹",
     "GHC": "dzar¹",
     "explanationEN": "survey/measure",
-    "explanationCN": "1.测量名词2.卑极"
+    "explanationCN": "1.测量名词、卑极"
   },
   {
     "character": "𗮔",
@@ -43079,14 +43332,14 @@ const CHARACTER_DATA = [
     "GX": "phə̱²",
     "GHC": "phə²",
     "explanationEN": "Mongolian.gazelle",
-    "explanationCN": "1.黄羊2.机关"
+    "explanationCN": "1.黄羊、机关"
   },
   {
     "character": "𘋻",
     "GX": "źu²",
     "GHC": "źju²",
     "explanationEN": "difference",
-    "explanationCN": "1.差异2.分3.【如】【儒】【孺】【汝】4.乎"
+    "explanationCN": "1.差异、分、【如】【儒】【孺】【汝】、乎"
   },
   {
     "character": "𘛏",
@@ -43184,7 +43437,7 @@ const CHARACTER_DATA = [
     "GX": "ŋwo̱²",
     "GHC": "ŋwo²",
     "explanationEN": "eloquence",
-    "explanationCN": "1.辩才2.【我】"
+    "explanationCN": "1.辩才、【我】"
   },
   {
     "character": "𘁉",
@@ -43219,7 +43472,7 @@ const CHARACTER_DATA = [
     "GX": "lləh¹",
     "GHC": "ljɨ̣¹",
     "explanationEN": "transport.ʙ",
-    "explanationCN": "1.运输2.来賚"
+    "explanationCN": "1.运输、来賚"
   },
   {
     "character": "𘏶",
@@ -43282,7 +43535,7 @@ const CHARACTER_DATA = [
     "GX": "rur²",
     "GHC": "rjur²",
     "explanationEN": "ferment",
-    "explanationCN": "1.酝酿2.【嚕】"
+    "explanationCN": "1.酝酿、【嚕】"
   },
   {
     "character": "𘐤",
@@ -43317,7 +43570,7 @@ const CHARACTER_DATA = [
     "GX": "haṃ¹",
     "GHC": "xjã¹",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.【献】2.【险】（珠 124）【贤】（珠 176）【掀】（珠 241）【见】（珠 303）【弦】（珠 323）【轩】（珠 211）"
+    "explanationCN": "1.【献】、【险】（珠 124）【贤】（珠 176）【掀】（珠 241）【见】（珠 303）【弦】（珠 323）【轩】（珠 211）"
   },
   {
     "character": "𘏲",
@@ -43345,14 +43598,14 @@ const CHARACTER_DATA = [
     "GX": "nli²",
     "GHC": "lji̱²",
     "explanationEN": "break/break",
-    "explanationCN": "1.破损毁丧2.累"
+    "explanationCN": "1.破损毁丧、累"
   },
   {
     "character": "𗯢",
     "GX": "gwə¹",
     "GHC": "gjwɨ¹",
     "explanationEN": "cut/break/snap",
-    "explanationCN": "1.割折2.堕3.流"
+    "explanationCN": "1.割折、堕、流"
   },
   {
     "character": "𘂰",
@@ -43394,7 +43647,7 @@ const CHARACTER_DATA = [
     "GX": "ŋə̱¹",
     "GHC": "ŋə¹",
     "explanationEN": "fatness",
-    "explanationCN": "1.肥胖2.嬉闹"
+    "explanationCN": "1.肥胖、嬉闹"
   },
   {
     "character": "𘛹",
@@ -43415,7 +43668,7 @@ const CHARACTER_DATA = [
     "GX": "ryar¹",
     "GHC": "ꞏjar¹",
     "explanationEN": "stand.up",
-    "explanationCN": "1.立2.翘3.座落"
+    "explanationCN": "1.立、翘、座落"
   },
   {
     "character": "𘃔",
@@ -43443,7 +43696,7 @@ const CHARACTER_DATA = [
     "GX": "?a²",
     "GHC": "-ja²",
     "explanationEN": "drive.away/expel",
-    "explanationCN": "1.驱遣2.荐"
+    "explanationCN": "1.驱遣、荐"
   },
   {
     "character": "𘐊",
@@ -43471,7 +43724,7 @@ const CHARACTER_DATA = [
     "GX": "la²",
     "GHC": "lja²",
     "explanationEN": "send/mail/post",
-    "explanationCN": "1.寄2.取"
+    "explanationCN": "1.寄、取"
   },
   {
     "character": "𘐥",
@@ -43492,7 +43745,7 @@ const CHARACTER_DATA = [
     "GX": "nṣaa̱²",
     "GHC": "śia̱²",
     "explanationEN": "at.will/causally",
-    "explanationCN": "1.随意2.矢的靶3.发"
+    "explanationCN": "1.随意、矢的靶、发"
   },
   {
     "character": "𘎝",
@@ -43604,14 +43857,14 @@ const CHARACTER_DATA = [
     "GX": "dźwa¹",
     "GHC": "dźjwa¹",
     "explanationEN": "peak/top/peak",
-    "explanationCN": "1.头尖梢端峰2.鏃"
+    "explanationCN": "1.头尖梢端峰、鏃"
   },
   {
     "character": "𘁳",
     "GX": "ndi̱w²",
     "GHC": "de̱w²",
     "explanationEN": "frivolous",
-    "explanationCN": "1.轻浮佻易诺敬2.【奴】"
+    "explanationCN": "1.轻浮佻易诺敬、【奴】"
   },
   {
     "character": "𘍢",
@@ -43667,7 +43920,7 @@ const CHARACTER_DATA = [
     "GX": "vah²",
     "GHC": "wjạ²",
     "explanationEN": "send/release/remit",
-    "explanationCN": "1.遣放释赦2.让3.披4.休5.灌"
+    "explanationCN": "1.遣放释赦、让、披、休、灌"
   },
   {
     "character": "𘃕",
@@ -43681,7 +43934,7 @@ const CHARACTER_DATA = [
     "GX": "γwəh¹",
     "GHC": "ɣjwɨ̣¹",
     "explanationEN": "ripple/move",
-    "explanationCN": "1.流荡2.鬱"
+    "explanationCN": "1.流荡、鬱"
   },
   {
     "character": "𘟧",
@@ -43737,14 +43990,14 @@ const CHARACTER_DATA = [
     "GX": "le̱²",
     "GHC": "lej²",
     "explanationEN": "burst/split",
-    "explanationCN": "1.破裂】2.瑕"
+    "explanationCN": "1.破裂】、瑕"
   },
   {
     "character": "𘎺",
     "GX": "ndi̱²",
     "GHC": "de̱²",
     "explanationEN": "plough/till",
-    "explanationCN": "1.耕2.裂"
+    "explanationCN": "1.耕、裂"
   },
   {
     "character": "𘛋",
@@ -43765,7 +44018,7 @@ const CHARACTER_DATA = [
     "GX": "pae̱²",
     "GHC": "piej²",
     "explanationEN": "combine/unite",
-    "explanationCN": "1.结合2.解剖3.证"
+    "explanationCN": "1.结合、解剖、证"
   },
   {
     "character": "𘌂",
@@ -43807,7 +44060,7 @@ const CHARACTER_DATA = [
     "GX": "rir²",
     "GHC": "rjir²",
     "explanationEN": "juice/soup",
-    "explanationCN": "1.汁汤2.膏"
+    "explanationCN": "1.汁汤、膏"
   },
   {
     "character": "𗕅",
@@ -43828,14 +44081,14 @@ const CHARACTER_DATA = [
     "GX": "phu̱²",
     "GHC": "phu²",
     "explanationEN": "tree",
-    "explanationCN": "1.树木2.棵株"
+    "explanationCN": "1.树木、棵株"
   },
   {
     "character": "𘂆",
     "GX": "tsə¹",
     "GHC": "tsjɨ¹",
-    "explanationEN": "also/too/small/2DU",
-    "explanationCN": "也;小;2DU"
+    "explanationEN": "also/too/small/𝟤ᴅᴜ",
+    "explanationCN": "也;小;𝟤ᴅᴜ"
   },
   {
     "character": "𗕉",
@@ -43877,7 +44130,7 @@ const CHARACTER_DATA = [
     "GX": "yu¹",
     "GHC": "ꞏju̱¹",
     "explanationEN": "level/even/smooth",
-    "explanationCN": "1.平坦2.【余】【餘】【逾】【庾】【瑜】【由】"
+    "explanationCN": "1.平坦、【余】【餘】【逾】【庾】【瑜】【由】"
   },
   {
     "character": "𘌕",
@@ -43905,7 +44158,7 @@ const CHARACTER_DATA = [
     "GX": "ri̱wr²",
     "GHC": "rewr²",
     "explanationEN": "bank/shore/limit",
-    "explanationCN": "1.岸阶限2.贿赂3.模样"
+    "explanationCN": "1.岸阶限、贿赂、模样"
   },
   {
     "character": "𘌡",
@@ -44024,7 +44277,7 @@ const CHARACTER_DATA = [
     "GX": "lhe̱²",
     "GHC": "lhej²",
     "explanationEN": "translate/vary",
-    "explanationCN": "1.译变换2.易3.革4.迂5.假6.反7.庚"
+    "explanationCN": "1.译变换、易、革、迂、假、反、庚"
   },
   {
     "character": "𘕱",
@@ -44045,7 +44298,7 @@ const CHARACTER_DATA = [
     "GX": "lwə̱²",
     "GHC": "lwə²",
     "explanationEN": "trade",
-    "explanationCN": "1.买卖2.市贾"
+    "explanationCN": "1.买卖、市贾"
   },
   {
     "character": "𗈮",
@@ -44121,8 +44374,8 @@ const CHARACTER_DATA = [
     "character": "𘕿",
     "GX": "γa̱²",
     "GHC": "ɣa²",
-    "explanationEN": "LOC",
-    "explanationCN": "LOC"
+    "explanationEN": "ʟᴏᴄ",
+    "explanationCN": "ʟᴏᴄ"
   },
   {
     "character": "𘂊",
@@ -44164,7 +44417,7 @@ const CHARACTER_DATA = [
     "GX": "tao̱h¹",
     "GHC": "tiọ¹",
     "explanationEN": "roller",
-    "explanationCN": "1.碾动词2.压"
+    "explanationCN": "1.碾动词、压"
   },
   {
     "character": "𘌟",
@@ -44178,7 +44431,7 @@ const CHARACTER_DATA = [
     "GX": "ze¹",
     "GHC": "zjij¹",
     "explanationEN": "extensive/wide/vast",
-    "explanationCN": "1.广博阔2.惇3.楦"
+    "explanationCN": "1.广博阔、惇、楦"
   },
   {
     "character": "𘕕",
@@ -44213,28 +44466,28 @@ const CHARACTER_DATA = [
     "GX": "nzi̱w²",
     "GHC": "ze̱w²",
     "explanationEN": "supervise",
-    "explanationCN": "1.监督2.镇压3.忍"
+    "explanationCN": "1.监督、镇压、忍"
   },
   {
     "character": "𘆖",
     "GX": "ntshə¹",
     "GHC": "tshjɨ̱¹",
     "explanationEN": "rank/line",
-    "explanationCN": "1.行列2.诵3.閤门4.号5.簫"
+    "explanationCN": "1.行列、诵、閤门、号、簫"
   },
   {
     "character": "𘒫",
     "GX": "nzi̱w²",
     "GHC": "ze̱w²",
     "explanationEN": "send/dispatch",
-    "explanationCN": "1.遣送2.御任3.聘"
+    "explanationCN": "1.遣送、御任、聘"
   },
   {
     "character": "𘙫",
     "GX": "śoh²",
     "GHC": "śjọ²",
     "explanationEN": "obstruct/block/cover",
-    "explanationCN": "1.遮蔽依避2.倾慕"
+    "explanationCN": "1.遮蔽依避、倾慕"
   },
   {
     "character": "𘕳",
@@ -44255,28 +44508,28 @@ const CHARACTER_DATA = [
     "GX": "źih²",
     "GHC": "źjị²",
     "explanationEN": "sell.and.buy",
-    "explanationCN": "1.市】2.商3.沽4.卖5.货6.榷场7.嫁8.店"
+    "explanationCN": "1.市】、商、沽、卖、货、榷场、嫁、店"
   },
   {
     "character": "𘕲",
     "GX": "qu̱h²",
     "GHC": "kụ²",
     "explanationEN": "tie.up/bind/bundle.up",
-    "explanationCN": "1.捆绑繫扎2.线"
+    "explanationCN": "1.捆绑繫扎、线"
   },
   {
     "character": "𘂓",
     "GX": "daṃ¹",
     "GHC": "djã¹",
     "explanationEN": "shallow/superficial",
-    "explanationCN": "1.浅2.【难】"
+    "explanationCN": "1.浅、【难】"
   },
   {
     "character": "𘂏",
     "GX": "bae̱h²",
     "GHC": "biẹj¹",
     "explanationEN": "a.unit.of.measurement",
-    "explanationCN": "1.枚厘条枝株2.竿弦"
+    "explanationCN": "1.枚厘条枝株、竿弦"
   },
   {
     "character": "𘖀",
@@ -44289,8 +44542,8 @@ const CHARACTER_DATA = [
     "character": "𗳒",
     "GX": "ŋwu̱²",
     "GHC": "ŋwu²",
-    "explanationEN": "INS",
-    "explanationCN": "INS"
+    "explanationEN": "ɪɴꜱ",
+    "explanationCN": "ɪɴꜱ"
   },
   {
     "character": "𘂎",
@@ -44325,7 +44578,7 @@ const CHARACTER_DATA = [
     "GX": "llo̱ṃ¹",
     "GHC": "low¹",
     "explanationEN": "exchange",
-    "explanationCN": "1.换交换2.【郎】"
+    "explanationCN": "1.换交换、【郎】"
   },
   {
     "character": "𘝛",
@@ -44388,7 +44641,7 @@ const CHARACTER_DATA = [
     "GX": "dzeṃ²",
     "GHC": "dzjɨj²",
     "explanationEN": "corner",
-    "explanationCN": "1.隅2.角3.方4.矩"
+    "explanationCN": "1.隅、角、方、矩"
   },
   {
     "character": "𗯘",
@@ -44402,21 +44655,21 @@ const CHARACTER_DATA = [
     "GX": "tśhoṃ¹",
     "GHC": "tśhjow¹",
     "explanationEN": "combine/unite",
-    "explanationCN": "1.结合缀2.【昌】【虫】【重】【长】"
+    "explanationCN": "1.结合缀、【昌】【虫】【重】【长】"
   },
   {
     "character": "𘕵",
     "GX": "ṣai̱w¹",
     "GHC": "śiew¹",
     "explanationEN": "branch/twig",
-    "explanationCN": "1.枝条2.鞭"
+    "explanationCN": "1.枝条、鞭"
   },
   {
     "character": "𘕶",
     "GX": "mphu¹",
     "GHC": "phiu̱¹",
     "explanationEN": "cover/shelter",
-    "explanationCN": "1.掩蔽遮蔽覆盖2.被"
+    "explanationCN": "1.掩蔽遮蔽覆盖、被"
   },
   {
     "character": "𘂐",
@@ -44500,14 +44753,14 @@ const CHARACTER_DATA = [
     "GX": "qaa̱¹",
     "GHC": "kia¹",
     "explanationEN": "price",
-    "explanationCN": "1.价2.【加】（珠 275）【家】（珠 216）【嫁】（珠 344）【贾】（珠 305）【间】（珠 273）【监】（珠 286）3.【交】【嘉】【简】【胶】【校】【驾】（音 195）"
+    "explanationCN": "1.价、【加】（珠 275）【家】（珠 216）【嫁】（珠 344）【贾】（珠 305）【间】（珠 273）【监】（珠 286）、【交】【嘉】【简】【胶】【校】【驾】（音 195）"
   },
   {
     "character": "𗈲",
     "GX": "qhwa̱¹",
     "GHC": "khwa¹",
     "explanationEN": "far/distant/remote",
-    "explanationCN": "1.远2.久3.旷4.迂5.重6.遐7.角"
+    "explanationCN": "1.远、久、旷、迂、重、遐、角"
   },
   {
     "character": "𗯛",
@@ -44549,7 +44802,7 @@ const CHARACTER_DATA = [
     "GX": "rkhur¹",
     "GHC": "khjur¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【曲】【屈】2.麯"
+    "explanationCN": "1.【曲】【屈】、麯"
   },
   {
     "character": "𗈶",
@@ -44563,7 +44816,7 @@ const CHARACTER_DATA = [
     "GX": "tshi̱²",
     "GHC": "tshe²",
     "explanationEN": "lowly/humble/low-down",
-    "explanationCN": "1.贱2.庶"
+    "explanationCN": "1.贱、庶"
   },
   {
     "character": "𘕙",
@@ -44654,14 +44907,14 @@ const CHARACTER_DATA = [
     "GX": "mə̱²",
     "GHC": "mə²",
     "explanationEN": "kind/sort/type",
-    "explanationCN": "1.种2.作為，可以重迭，意為“种种”3.诸4.众5.杂"
+    "explanationCN": "1.种、作為，可以重迭，意為“种种”、诸、众、杂"
   },
   {
     "character": "𗲾",
     "GX": "swi̱ṃ¹",
     "GHC": "swẽ¹",
     "explanationEN": "macaque",
-    "explanationCN": "1.猻】2.猴3.猿"
+    "explanationCN": "1.猻】、猴、猿"
   },
   {
     "character": "𘆙",
@@ -44836,7 +45089,7 @@ const CHARACTER_DATA = [
     "GX": "γo̱²",
     "GHC": "ꞏo²",
     "explanationEN": "a.transliteration",
-    "explanationCN": "1.【呕】2.【嗃】"
+    "explanationCN": "1.【呕】、【嗃】"
   },
   {
     "character": "𘂗",
@@ -44920,14 +45173,14 @@ const CHARACTER_DATA = [
     "GX": "pai̱¹",
     "GHC": "pie¹",
     "explanationEN": "wide/broad",
-    "explanationCN": "1.阔2.蓽毕3.韭4.【伯】【柏】"
+    "explanationCN": "1.阔、蓽毕、韭、【伯】【柏】"
   },
   {
     "character": "𘋡",
     "GX": "phi¹",
     "GHC": "phji¹",
     "explanationEN": "chopsticks",
-    "explanationCN": "1.箸2.办做得"
+    "explanationCN": "1.箸、办做得"
   },
   {
     "character": "𘋣",
@@ -44948,7 +45201,7 @@ const CHARACTER_DATA = [
     "GX": "veh²",
     "GHC": "wjịj²",
     "explanationEN": "send/dispatch",
-    "explanationCN": "1.遣2.放"
+    "explanationCN": "1.遣、放"
   },
   {
     "character": "𘆛",
@@ -44969,7 +45222,7 @@ const CHARACTER_DATA = [
     "GX": "nzi̱w²",
     "GHC": "ze̱w²",
     "explanationEN": "cape/cloak",
-    "explanationCN": "1.氅2.敞"
+    "explanationCN": "1.氅、敞"
   },
   {
     "character": "𘒲",
@@ -44996,15 +45249,15 @@ const CHARACTER_DATA = [
     "character": "𗈪",
     "GX": "a?",
     "GHC": "ꞏja",
-    "explanationEN": "one/PFV:UP/INTER:interrogative",
-    "explanationCN": "一; PFV: UP; INTER"
+    "explanationEN": "one;ᴘꜰᴠ:ᴜᴘ/ɪɴᴛʀɢ",
+    "explanationCN": "一；ᴘꜰᴠ:ᴜᴘ/ɪɴᴛʀɢ"
   },
   {
     "character": "𗈰",
     "GX": "rnar²",
     "GHC": "njar²",
     "explanationEN": "lose/drop",
-    "explanationCN": "1.堕落2.夺"
+    "explanationCN": "1.堕落、夺"
   },
   {
     "character": "𘝢",
@@ -45025,7 +45278,7 @@ const CHARACTER_DATA = [
     "GX": "nsi¹",
     "GHC": "sji̱¹",
     "explanationEN": "inspect/spy",
-    "explanationCN": "1.检查2.间谍奸细"
+    "explanationCN": "1.检查、间谍奸细"
   },
   {
     "character": "𘂖",
@@ -45053,7 +45306,7 @@ const CHARACTER_DATA = [
     "GX": "di̱w¹",
     "GHC": "dew¹",
     "explanationEN": "carve/engrave/dig",
-    "explanationCN": "1.雕刻凿掘2.碎"
+    "explanationCN": "1.雕刻凿掘、碎"
   },
   {
     "character": "𘌇",
@@ -45087,8 +45340,8 @@ const CHARACTER_DATA = [
     "character": "𘂤",
     "GX": "qha̱¹",
     "GHC": "kha¹",
-    "explanationEN": "INTESS",
-    "explanationCN": "INTESS"
+    "explanationEN": "ɪɴᴛᴇꜱꜱ",
+    "explanationCN": "ɪɴᴛᴇꜱꜱ"
   },
   {
     "character": "𗳓",
@@ -45522,7 +45775,7 @@ const CHARACTER_DATA = [
     "GX": "ġao̱¹",
     "GHC": "gio¹",
     "explanationEN": "a.surname",
-    "explanationCN": "1.【鄂】2.乐"
+    "explanationCN": "1.【鄂】、乐"
   },
   {
     "character": "𘍜",
@@ -45678,16 +45931,16 @@ const CHARACTER_DATA = [
     "explanationEN": "稷",
     "explanationCN": "稷"
   }
-]
+];
 
 // 初始化词典对象
 const wordDictionary = WORD_DATA.reduce((acc, entry) => {
-  acc[entry.word] = entry;
-  return acc;
+    acc[entry.word] = entry;
+    return acc;
 }, {});
 
 // 初始化字典对象
 const dictionary = CHARACTER_DATA.reduce((acc, entry) => {
-  acc[entry.character] = entry;
-  return acc;
+    acc[entry.character] = entry;
+    return acc;
 }, {});
