@@ -1,27 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.3" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>https://tinbreaker.github.io/Tangut-Auto-Glossing-Tool/</loc>
-        <lastmod>2024-03-20</lastmod>
+        <loc>https://tinbreaker.github.io/Tangut-Script-Annotation-Tool/</loc>
+        <lastmod>2025-01-28</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-        <!-- 添加多语言支持的替代链接 -->
-        <xhtml:link 
-            rel="alternate"
-            hreflang="zh-CN"
-            href="https://tinbreaker.github.io/Tangut-Auto-Glossing-Tool/?lang=zh"/>
-        <xhtml:link 
-            rel="alternate"
-            hreflang="en-US"
-            href="https://tinbreaker.github.io/Tangut-Auto-Glossing-Tool/?lang=en"/>
-        <xhtml:link 
-            rel="alternate"
-            hreflang="ja-JP"
-            href="https://tinbreaker.github.io/Tangut-Auto-Glossing-Tool/?lang=ja"/>
-        <xhtml:link 
-            rel="alternate"
-            hreflang="ru-RU"
-            href="https://tinbreaker.github.io/Tangut-Auto-Glossing-Tool/?lang=ru"/>
     </url>
 </urlset>

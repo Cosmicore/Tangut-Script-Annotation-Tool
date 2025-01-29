@@ -91,8 +91,8 @@ const COMBINE_RULES = {
                     type: 'combineWithPrevious',
                     connector: '=',
                     condition: (prev, next) => isValidChar(prev),
-                    explanationEN: 'INTRG.RTH',
-                    explanationCN: 'INTRG.RTH',
+                    explanationEN: 'ɪɴᴛʀɢ.ʀᴛʜ',
+                    explanationCN: 'ɪɴᴛʀɢ.ʀᴛʜ',
                 },
             ]
         },
@@ -109,7 +109,7 @@ const COMBINE_RULES = {
         ],
         
         PREV_HYPHEN_CHARS: [
-            '𘉞', '𗐱', '𗗟', '𗫶', '𘂆'
+            '𘉞', '𗐱', '𗗟', '𗫶', '𘂆', '𘃡','𗣬'
         ],
         
         NEXT_HYPHEN_CHARS: [
@@ -207,7 +207,13 @@ const FORMAT_SEPARATORS = {
     obsidian: {
         items: ' '
     },
+    plaintext: {
+        items: ' ',
+        vertical: '\n',
+        padding: ' '
+    }
 };
+
 
 
 function processCombination(items) {
@@ -262,21 +268,48 @@ function processCombination(items) {
                 if (i + 1 < items.length) {
                     let combinedStr = currentItem;
                     let nextIndex = i + 1;
-                    let canContinue = true;
-            
-                    while (canContinue && nextIndex < items.length) {
+                    
+                    // 首先检查后续字符是否构成词组
+                    const remainingItems = items.slice(nextIndex);
+                    const possibleWords = findWordsStartingWith(remainingItems[0]);
+                    const matchedWord = findExactMatch(remainingItems, 0, possibleWords);
+                    
+                    if (matchedWord) {
+                        // 如果找到词组，只添加当前字符和连接符
+                        result.push(combinedStr + connector);
+                        i++;
+                        continue;  // 让主循环继续处理词组
+                    }
+                    
+                    // 如果没找到词组，处理连续的向后连接
+                    while (nextIndex < items.length) {
                         const nextItem = items[nextIndex];
-                        combinedStr += `${connector}${nextItem}`;
                         
-                        if (rules[nextItem]?.combineWithNext && nextIndex + 1 < items.length) {
+                        // 检查下一个位置开始是否构成词组
+                        const nextPossibleWords = findWordsStartingWith(nextItem);
+                        const nextMatchedWord = findExactMatch(items, nextIndex, nextPossibleWords);
+                        
+                        if (nextMatchedWord) {
+                            // 如果发现词组，添加连接符并退出循环
+                            combinedStr += connector;
+                            result.push(combinedStr);
+                            i = nextIndex;
+                            break;
+                        }
+                        
+                        // 添加连接符和下一个字符
+                        combinedStr += connector + nextItem;
+                        
+                        // 如果下一个字符也有向后组合规则且不是最后一个字符，继续处理
+                        if (rules[nextItem]?.combineWithNext && nextIndex < items.length - 1) {
                             nextIndex++;
                         } else {
-                            canContinue = false;
+                            // 如果是最后一个字符或下一个字符没有向后组合规则
+                            result.push(combinedStr);
+                            i = nextIndex + 1;  // 更新索引到下一个位置
+                            break;
                         }
                     }
-            
-                    result.push(combinedStr);
-                    i = nextIndex + 1;
                     handled = true;
                     continue;
                 }
@@ -369,7 +402,7 @@ function processTypstBrackets(text) {
 
     const bracketMatch = text.match(/^\[(.*)\]$/);
     if (bracketMatch) {
-        return `[[], [${bracketMatch[1]}], []]`;
+        return `[${bracketMatch[1]}]`;
     }
 
     return `[${text}]`;
@@ -406,8 +439,10 @@ function generate() {
 function generateFormattedOutput(chars, lang, readingSystem, outputFormat) {
     if (outputFormat === 'typst') {
         return generateTypstOutput(chars, lang, readingSystem);
-    } else {
+    } else if (outputFormat === 'obsidian') {
         return generateObsidianOutput(chars, lang, readingSystem);
+    } else {
+        return generatePlainTextOutput(chars, lang, readingSystem);
     }
 }
 
@@ -669,6 +704,117 @@ function generateObsidianOutput(chars, lang, readingSystem) {
            `\\glb ${morphemesText}\n` +
            '\\ft \n' +
            '```';
+}
+
+function generatePlainTextOutput(chars, lang, readingSystem) {
+    const processedChars = processCombination([...chars]);
+    
+    // 获取字符、读音和词义
+    const charGroups = [];
+    const readingGroups = [];
+    const morphemeGroups = [];
+    
+    let currentCharGroup = '';
+    let currentReadingGroup = '';
+    let currentMorphemeGroup = '';
+    
+    processedChars.forEach((char, index, array) => {
+        // 处理字符
+        if (index > 0 && !char.startsWith('-') && !char.startsWith('=') && 
+            !currentCharGroup.endsWith('-') && !currentCharGroup.endsWith('=')) {
+            charGroups.push(currentCharGroup);
+            readingGroups.push(currentReadingGroup);
+            morphemeGroups.push(currentMorphemeGroup);
+            currentCharGroup = '';
+            currentReadingGroup = '';
+            currentMorphemeGroup = '';
+        }
+        currentCharGroup += char;
+        
+        // 处理读音
+        let reading = '';
+        if (wordDictionary[char]) {
+            reading = readingSystem === 'GX' ? wordDictionary[char].GX : wordDictionary[char].GHC;
+            reading = reading.replace(/[\[\]]/g, '');
+        } else if (char.includes('-') || char.includes('=')) {
+            reading = getConnectedReading(char, readingSystem);
+        } else if (dictionary[char]) {
+            reading = readingSystem === 'GX' ? dictionary[char].GX : dictionary[char].GHC;
+        }
+        currentReadingGroup += reading;
+        
+        // 处理词义
+        let morpheme = '';
+        if (wordDictionary[char]) {
+            morpheme = wordDictionary[char][`explanation${lang}`] || '';
+        } else {
+            const prevChar = index > 0 ? array[index - 1] : null;
+            const nextChar = index < array.length - 1 ? array[index + 1] : null;
+            morpheme = getExplanation(char, lang, prevChar, nextChar);
+        }
+        currentMorphemeGroup += morpheme;
+    });
+    
+    // 添加最后一组
+    if (currentCharGroup) {
+        charGroups.push(currentCharGroup);
+        readingGroups.push(currentReadingGroup);
+        morphemeGroups.push(currentMorphemeGroup);
+    }
+    
+    // 计算每列的最大宽度
+    const columnWidths = charGroups.map((char, index) => {
+        const lengths = [
+            getStringWidth(char),
+            getStringWidth(readingGroups[index]),
+            getStringWidth(morphemeGroups[index])
+        ];
+        return Math.max(...lengths);
+    });
+    
+    // 生成对齐的输出
+    const lines = [
+        charGroups.map((char, i) => padString(char, columnWidths[i])).join('  '),
+        readingGroups.map((reading, i) => padString(reading, columnWidths[i])).join('  '),
+        morphemeGroups.map((morpheme, i) => padString(morpheme, columnWidths[i])).join('  ')
+    ];
+    
+    return lines.join('\n');
+    }
+
+// 辅助函数：计算字符串显示宽度（考虑CJK字符）
+function getStringWidth(str) {
+    return [...str].reduce((width, char) => {
+        // CJK字符通常是全角宽度（占用2个半角字符的空间）
+        if (/[\u4e00-\u9fff\u3400-\u4dbf\u{20000}-\u{2a6df}\u{2a700}-\u{2b73f}\u{2b740}-\u{2b81f}\u{2b820}-\u{2ceaf}\u{2ceb0}-\u{2ebef}]/u.test(char)) {
+            return width + 2;
+        }
+        return width + 1;
+    }, 0);
+}
+
+// 辅助函数：使用空格填充字符串至指定宽度
+function padString(str, width) {
+    const currentWidth = getStringWidth(str);
+    return str + ' '.repeat(Math.max(0, width - currentWidth));
+}
+
+// 辅助函数：获取连接字符的读音
+function getConnectedReading(char, readingSystem) {
+    const parts = char.split(/[-=]/);
+    const connectors = char.match(/[-=]/g);
+    
+    return parts.map((part, idx) => {
+        let reading = '';
+        if (wordDictionary[part]) {
+            reading = readingSystem === 'GX' ? wordDictionary[part].GX : wordDictionary[part].GHC;
+            reading = reading.replace(/[\[\]]/g, '');
+        } else if (dictionary[part]) {
+            reading = readingSystem === 'GX' ? dictionary[part].GX : dictionary[part].GHC;
+        }
+        return idx < parts.length - 1 ? 
+            `${reading || ''}${connectors[idx]}` : (reading || '');
+    }).join('');
 }
 
 function clearAll() {
