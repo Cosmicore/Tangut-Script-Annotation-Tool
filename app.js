@@ -96,6 +96,23 @@ const COMBINE_RULES = {
                 },
             ]
         },
+        '𘃞': {
+            variants: [
+                {
+                    type: 'standalone',
+                    condition: (prev, next) => !isValidChar(prev),
+                    explanationEN: '-',
+                    explanationCN: '-',
+                },
+                {
+                    type: 'combineWithPrevious',
+                    connector: '=',
+                    condition: (prev, next) => isValidChar(prev),
+                    explanationEN: 'ᴇxʟᴀᴍ',
+                    explanationCN: 'ᴇxʟᴀᴍ',
+                },
+            ]
+        },
         '𗭪': {
             combineWithPrevious: true,
             connector: '-='
@@ -105,7 +122,7 @@ const COMBINE_RULES = {
         PREV_EQUAL_CHARS: [
             '𗫂', '𗅁', '𘆄', '𗇋', '𗗙', '𗦇', '𘏚', '𗑠', '𘋩', '𗳒',
             '𗸒', '𗖵', '𘔼', '𗏣', '𘕿', '𗀔', '𗯴', '𘂤', '𗙼', '𘅍',
-            '𘝨', '𘃞', '𗍊'
+            '𘝨', '𗍊'
         ],
         
         PREV_HYPHEN_CHARS: [
@@ -838,3 +855,237 @@ function copyOutput() {
         copyBtn.textContent = '复制';
     }, 1000);
 }
+function handleGenerate() {
+    const input = document.getElementById('output');
+    if (!input.value.trim() && input.placeholder) {
+        input.value = input.placeholder;
+    }
+    generate();
+}
+const strokeData = [
+    { code: 'A', alt: '一' },
+    { code: 'B', alt: '丨' },
+    { code: 'C', alt: '丿' },
+    { code: 'D', alt: '丶' },
+    { code: 'E', alt: '𠃍' },
+    { code: 'F', alt: '㇈' },
+    { code: 'G', alt: '㇇' },
+    { code: 'H', alt: '𘠄' },
+    { code: 'I', alt: '𘠅' },
+    { code: 'J', alt: '𠄎' },
+    { code: 'K', alt: '㇍' },
+    { code: 'L', alt: '𠄌' },
+    { code: 'M', alt: '乚' },
+    { code: 'N', alt: '㇊' },
+    { code: 'O', alt: '𘠈' },
+    { code: 'P', alt: '𡿨' },
+    { code: 'Q', alt: '㇏' },
+    { code: '.', alt: '.' },
+    { code: '*', alt: '*' }
+];
+
+function createStrokeButtons() {
+const container = document.getElementById('stroke-buttons');
+// 清空容器,防止重复添加
+container.innerHTML = '';
+
+strokeData.forEach(stroke => {
+    const button = document.createElement('button');
+    button.className = 'stroke-button';
+    button.onclick = () => insertStroke(stroke.code);
+    button.textContent = stroke.alt;
+    
+    const tooltip = document.createElement('span');
+    tooltip.className = 'tooltip';
+    tooltip.textContent = stroke.code;
+    button.appendChild(tooltip);
+    container.appendChild(button);
+});
+}
+
+// 监听笔画输入框的变化
+document.getElementById('stroke-entry-field').addEventListener('input', (e) => {
+    updateSearchResults(e.target.value);
+});
+
+// 切换复选框状态的函数
+function toggleCheckbox(id) {
+    const checkbox = document.getElementById(id);
+    checkbox.checked = !checkbox.checked;
+    updateSearchResults(document.getElementById('stroke-entry-field').value);
+}
+
+// 清除笔画输入
+function clearStrokeEntryField() {
+    document.getElementById('stroke-entry-field').value = '';
+    document.getElementById('result-list').innerHTML = '';
+}
+
+// 添加清除所有功能
+function clearAll() {
+    document.getElementById('output').value = '';
+    document.getElementById('output-text').value = '';
+    document.getElementById('stroke-entry-field').value = '';
+    document.getElementById('result-list').innerHTML = '';
+    // 重置复选框
+    document.getElementById('stroke-begins-with').checked = false;
+    document.getElementById('stroke-ends-with').checked = false;
+}
+
+// 添加 updateSearchResults 函数定义
+function updateSearchResults(value) {
+    const resultList = document.getElementById('result-list');
+    resultList.innerHTML = ''; // 清空现有结果
+    
+    if (!value) return; // 如果没有输入值，直接返回
+    
+    // 更新笔画输入（这会触发 txglook.js 中的 updateStrokeEntry 函数）
+    updateStrokeEntry();
+    
+    // 获取结果列表（resultList 应该是由 txglook.js 中的 updateResultsList 函数设置的全局变量）
+    if (window.resultList && window.resultList.length > 0) {
+        window.resultList.forEach(char => {
+            const li = document.createElement('li');
+            li.className = 'results-item';
+            li.textContent = char;
+                            
+            // 添加点击事件
+            li.setAttribute('onclick', `insertAtCursor('output', '${char}')`);
+            
+            resultList.appendChild(li);
+        });
+    }
+}
+
+// 修改页面加载初始化代码
+document.addEventListener('DOMContentLoaded', () => {
+    createStrokeButtons();
+    
+    // 初始化笔画输入字段的事件监听器
+    const strokeEntryField = document.getElementById('stroke-entry-field');
+    if (strokeEntryField) {
+        strokeEntryField.addEventListener('input', (e) => {
+            updateSearchResults(e.target.value);
+        });
+    }
+});
+
+// 多语言文本数据
+const i18nData = {
+    zh: {
+        "title": "西夏文<br>自动标注工具 α",
+        "input-label": "输入字符：",
+        "generate": "生成",
+        "clear": "清除",
+        "language-choice": "语言选择：",
+        "chinese": "中文",
+        "english": "English",
+        "reading-system": "读音系统：",
+        "gongxun": "龚勋",
+        "gonghuangcheng": "龚煌城",
+        "output-format": "输出格式：",
+        "format-output": "格式输出：",
+        "copy-clipboard": "复制到剪贴板",
+        "plain-text": "纯文本",
+    },
+    en: {
+        "title": "Tangut Script<br>Annotation Tool α",
+        "input-label": "Input Characters:",
+        "generate": "Generate",
+        "clear": "Clear",
+        "language-choice": "Language:",
+        "chinese": "Chinese",
+        "english": "English",
+        "reading-system": "Reading System:",
+        "gongxun": "GX",
+        "gonghuangcheng": "GHC",
+        "output-format": "Output Format:",
+        "format-output": "Formatted Output:",
+        "copy-clipboard": "Copy to Clipboard",
+        "plain-text": "Plain Text",
+    },
+    ja: {
+        "title": "西夏文字<br>注釈ツール α",
+        "input-label": "入力：",
+        "generate": "生成",
+        "clear": "クリア",
+        "language-choice": "言語選択：",
+        "chinese": "中国語",
+        "english": "英語",
+        "reading-system": "読み方：",
+        "gongxun": "龔勋",
+        "gonghuangcheng": "龔煌城",
+        "output-format": "出力形式：",
+        "format-output": "出力：",
+        "copy-clipboard": "コピー",
+        "plain-text": "テキスト形式"
+    },
+    ru: {
+        "title": "Тангутский скрипт<br>Инструмент аннотации α",
+        "input-label": "Ввод символов:",
+        "generate": "Создать",
+        "clear": "Очистить",
+        "language-choice": "Выбор языка:",
+        "chinese": "Китайский",
+        "english": "Английский",
+        "reading-system": "Система чтения:",
+        "gongxun": "GX",
+        "gonghuangcheng": "GHC",
+        "output-format": "Формат вывода:",
+        "format-output": "Форматированный вывод:",
+        "copy-clipboard": "Копировать в буфер",
+        "plain-text": "Простой текст",
+    }
+};
+
+// 更新页面文本的函数
+function updatePageText(lang) {
+    const elements = document.querySelectorAll('[data-i18n]');
+    elements.forEach(element => {
+        const key = element.getAttribute('data-i18n');
+        if (i18nData[lang][key]) {
+            if (element.tagName === 'BUTTON' || element.tagName === 'LABEL' || element.tagName === 'SPAN') {
+                element.textContent = i18nData[lang][key];
+            } else {
+                element.innerHTML = i18nData[lang][key];
+            }
+        }
+    });
+    // 更新文档语言
+    document.documentElement.lang = lang;
+}
+
+// 语言切换函数
+function changeLanguage() {
+const lang = document.getElementById('languageSelect').value;
+const langMap = {
+    'zh': 'zh-CN',
+    'en': 'en-US',
+    'ja': 'ja-JP',
+    'ru': 'ru-RU'
+};
+document.documentElement.lang = langMap[lang];
+updatePageText(lang);
+}
+
+// 页面加载时初始化语言
+document.addEventListener('DOMContentLoaded', () => {
+// 只调用一次 createStrokeButtons
+createStrokeButtons();
+
+// 初始化笔画输入字段的事件监听器
+const strokeEntryField = document.getElementById('stroke-entry-field');
+if (strokeEntryField) {
+    strokeEntryField.addEventListener('input', (e) => {
+        updateSearchResults(e.target.value);
+    });
+}
+
+// 初始化语言
+const userLang = navigator.language.split('-')[0];
+const supportedLangs = ['zh', 'en', 'ja', 'ru'];
+const defaultLang = supportedLangs.includes(userLang) ? userLang : 'zh';
+
+document.getElementById('languageSelect').value = defaultLang;
+updatePageText(defaultLang);
+});
