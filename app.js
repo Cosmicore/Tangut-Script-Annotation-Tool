@@ -74,8 +74,8 @@ const COMBINE_RULES = {
                     type: 'combineWithPrevious',
                     connector: '-',
                     condition: (prev, next) => isValidChar(prev),
-                    explanationEN: '1SG',
-                    explanationCN: '1SG',
+                    explanationEN: '𝟣ꜱɢ',
+                    explanationCN: '𝟣ꜱɢ',
                 },
             ]
         },
