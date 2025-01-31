@@ -79,6 +79,10 @@
 
 © 𗼇𘝞𗫸𗯿𘍞
 
+## 许可证
+
+[MIT License](LICENSE)
+
 ## 注意事项
 
 - 工具目前处于 α 测试阶段
@@ -165,6 +169,10 @@ Available stroke codes:
 ## Copyright
 
 © 𗼇𘝞𗫸𗯿𘍞
+
+## License
+
+[MIT License](LICENSE)
 
 ## Notes
 
