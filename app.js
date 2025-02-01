@@ -1021,19 +1021,19 @@ const i18nData = {
         "plain-text": "テキスト形式"
     },
     ru: {
-        "title": "Тангутский скрипт<br>Инструмент аннотации α",
-        "input-label": "Ввод символов:",
-        "generate": "Создать",
+        "title": "Тангутское письмо<br>Инструмент для глоссирования α",
+        "input-label": "Ввод знаков тангутского письма:",
+        "generate": "Создать глоссы",
         "clear": "Очистить",
         "language-choice": "Выбор языка:",
         "chinese": "Китайский",
         "english": "Английский",
-        "reading-system": "Система чтения:",
-        "gongxun": "GX",
-        "gonghuangcheng": "GHC",
+        "reading-system": "Система реконструкции:",
+        "gongxun": "Гун Сюня",
+        "gonghuangcheng": "Гун Хуанчэна",
         "output-format": "Формат вывода:",
         "format-output": "Форматированный вывод:",
-        "copy-clipboard": "Копировать в буфер",
+        "copy-clipboard": "Копировать в буфер обмена",
         "plain-text": "Простой текст",
     }
 };
