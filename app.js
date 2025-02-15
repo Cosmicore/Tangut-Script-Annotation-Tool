@@ -101,8 +101,8 @@ const COMBINE_RULES = {
                 {
                     type: 'standalone',
                     condition: (prev, next) => !isValidChar(prev),
-                    explanationEN: '-',
-                    explanationCN: '-',
+                    explanationEN: '=',
+                    explanationCN: '=',
                 },
                 {
                     type: 'combineWithPrevious',
@@ -122,11 +122,11 @@ const COMBINE_RULES = {
         PREV_EQUAL_CHARS: [
             '𗫂', '𗅁', '𘆄', '𗇋', '𗗙', '𗦇', '𘏚', '𗑠', '𘋩', '𗳒',
             '𗸒', '𗖵', '𘔼', '𗏣', '𘕿', '𗀔', '𗯴', '𘂤', '𗙼', '𘅍',
-            '𘝨', '𗍊', '𗗂'
+            '𘝨', '𗍊', '𗗂', '𘃡'
         ],
         
         PREV_HYPHEN_CHARS: [
-            '𘉞', '𗐱', '𗗟', '𗫶', '𘂆', '𘃡','𗣬'
+            '𘉞', '𗐱', '𗗟', '𗫶', '𘂆','𗣬'
         ],
         
         NEXT_HYPHEN_CHARS: [
